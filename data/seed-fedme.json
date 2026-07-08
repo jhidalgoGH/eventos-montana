@@ -1,5 +1,10 @@
 {
   "comment": "Calendario oficial FEDME de Carreras por Montaña 2026. Fuente: https://fedme.es/la-fedme-presenta-el-calendario-oficial-de-carreras-por-montana-2026/ — actualizar a mano cuando la federación publique el calendario del año siguiente.",
+  "defaults": {
+    "url": "https://fedme.es/la-fedme-presenta-el-calendario-oficial-de-carreras-por-montana-2026/",
+    "source": "fedme",
+    "sourceName": "FEDME (calendario oficial)"
+  },
   "events": [
     { "name": "Cursa 4 Termes (Copa FEDME Línea)", "type": "carrera", "startDate": "2026-03-14", "endDate": "2026-03-15", "locationName": "Tarragona", "country": "España" },
     { "name": "Trail Riotuerto (Copa FEDME Línea)", "type": "carrera", "startDate": "2026-03-22", "endDate": null, "locationName": "Cantabria", "country": "España" },

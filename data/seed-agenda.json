@@ -1,0 +1,30 @@
+{
+  "comment": "Agenda de eventos verificados a mano (festivales, competiciones oficiales...). Añadir aquí eventos con fecha confirmada que ninguna fuente automática cubre. Las fechas del Super Campeonato de España de Escalada son provisionales según FEDME (verificado 2026-07-08).",
+  "defaults": { "source": "agenda", "sourceName": "Agenda verificada", "country": "España" },
+  "events": [
+    {
+      "name": "Super Campeonato de España de Escalada (Dificultad, Bloque y Velocidad)",
+      "type": "escalada",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-04",
+      "locationName": "Cáceres",
+      "url": "https://fedme.es/escalada/"
+    },
+    {
+      "name": "42º Festival BBVA de Cinema de Muntanya de Torelló",
+      "type": "festival",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-22",
+      "locationName": "Torelló, Barcelona",
+      "url": "https://torellomountainfilm.cat/"
+    },
+    {
+      "name": "BBK Mendi Film Bilbao Bizkaia (19ª edición)",
+      "type": "festival",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-13",
+      "locationName": "Bilbao, Bizkaia",
+      "url": "https://mendifilmfestival.com/es/"
+    }
+  ]
+}

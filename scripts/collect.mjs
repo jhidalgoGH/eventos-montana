@@ -16,13 +16,14 @@
 // El archivo de eventos es acumulativo: cada día se añaden los descubrimientos
 // nuevos, se actualizan los repetidos y se retiran los eventos ya pasados.
 
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { eventKey, today } from "./lib/util.mjs";
 import { collectRockthesport } from "./lib/rockthesport.mjs";
 import { collectGoogleAlerts } from "./lib/google-alerts.mjs";
 import { collectDesnivel } from "./lib/desnivel.mjs";
+import { collectFam } from "./lib/fam.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = join(ROOT, "data");
@@ -55,18 +56,30 @@ try {
   console.error(`  Rockthesport FALLÓ: ${err.message}`);
 }
 
+// Semillas: archivos data/seed-*.json con eventos verificados a mano
+// (calendarios oficiales, festivales...). Cada archivo puede llevar un bloque
+// "defaults" con campos comunes que se aplican a todos sus eventos.
 try {
-  const fedme = loadJson(join(DATA, "seed-fedme.json"), { events: [] });
-  const fedmeEvents = fedme.events.map((ev) => ({
-    ...ev,
-    url: "https://fedme.es/la-fedme-presenta-el-calendario-oficial-de-carreras-por-montana-2026/",
-    source: "fedme",
-    sourceName: "FEDME (calendario oficial)",
-  }));
-  console.log(`  FEDME: ${fedmeEvents.length} eventos`);
-  collected.push(...fedmeEvents);
+  const seedFiles = readdirSync(DATA).filter((f) => f.startsWith("seed-") && f.endsWith(".json"));
+  let total = 0;
+  for (const file of seedFiles) {
+    const seed = loadJson(join(DATA, file), { events: [] });
+    for (const ev of seed.events) {
+      collected.push({ ...(seed.defaults || {}), ...ev });
+      total++;
+    }
+  }
+  console.log(`  Semillas (${seedFiles.length} archivos): ${total} eventos`);
 } catch (err) {
-  console.error(`  FEDME FALLÓ: ${err.message}`);
+  console.error(`  Semillas FALLARON: ${err.message}`);
+}
+
+try {
+  const fam = await collectFam();
+  console.log(`  FAM (andadas Aragón): ${fam.length} eventos`);
+  collected.push(...fam);
+} catch (err) {
+  console.error(`  FAM FALLÓ: ${err.message}`);
 }
 
 try {
