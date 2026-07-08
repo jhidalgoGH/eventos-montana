@@ -80,12 +80,30 @@ export default function Home() {
       </header>
 
       <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-8">
+        <p className="mb-4 text-sm text-zinc-500 dark:text-zinc-500">
+          Pulsa un mes para ver sus eventos. El mes queda fijado arriba
+          mientras lo recorres, para plegarlo y elegir otro.
+        </p>
         {grupos.map((grupo) => (
-          <section key={grupo.clave} className="mb-10">
-            <h2 className="mb-4 text-sm font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-400">
-              {grupo.titulo}
-            </h2>
-            <ul className="divide-y divide-zinc-200 overflow-hidden rounded-xl border border-zinc-200 bg-white dark:divide-zinc-800 dark:border-zinc-800 dark:bg-zinc-950">
+          <details
+            key={grupo.clave}
+            className="group mb-3 rounded-xl border border-zinc-200 bg-white dark:border-zinc-800 dark:bg-zinc-950"
+          >
+            <summary className="sticky top-0 z-10 flex cursor-pointer select-none items-center gap-3 rounded-xl bg-white px-4 py-3 list-none group-open:rounded-b-none group-open:border-b group-open:border-zinc-200 dark:bg-zinc-950 dark:group-open:border-zinc-800 [&::-webkit-details-marker]:hidden">
+              <span
+                aria-hidden="true"
+                className="text-zinc-400 transition-transform group-open:rotate-90 dark:text-zinc-600"
+              >
+                ▸
+              </span>
+              <span className="flex-1 font-semibold capitalize text-black dark:text-zinc-50">
+                {grupo.titulo}
+              </span>
+              <span className="rounded-full bg-zinc-100 px-2.5 py-0.5 text-xs font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300">
+                {grupo.eventos.length} {grupo.eventos.length === 1 ? "evento" : "eventos"}
+              </span>
+            </summary>
+            <ul className="divide-y divide-zinc-200 dark:divide-zinc-800">
               {grupo.eventos.map((ev, i) => {
                 const tipo = TIPOS[ev.type] || TIPOS.otro;
                 return (
@@ -116,7 +134,7 @@ export default function Home() {
                 );
               })}
             </ul>
-          </section>
+          </details>
         ))}
 
         {radar.mentions.length > 0 && (
