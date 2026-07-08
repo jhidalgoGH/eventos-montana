@@ -43,14 +43,18 @@ function fechaTexto(ev) {
 }
 
 // Agrupa los eventos por mes de inicio, respetando el orden por fecha.
+// Los años futuros (con pocos eventos aún) se agrupan en una sola fila
+// por año para no alargar la lista de meses.
 function porMeses(events) {
+  const añoActual = new Date().getFullYear();
   const grupos = [];
   let actual = null;
   for (const ev of events) {
     const { year, month } = parseDate(ev.startDate);
-    const clave = `${year}-${month}`;
+    const lejano = year > añoActual;
+    const clave = lejano ? `${year}` : `${year}-${month}`;
     if (!actual || actual.clave !== clave) {
-      actual = { clave, titulo: `${MESES[month]} ${year}`, eventos: [] };
+      actual = { clave, titulo: lejano ? `${year}` : `${MESES[month]} ${year}`, eventos: [] };
       grupos.push(actual);
     }
     actual.eventos.push(ev);
@@ -65,32 +69,32 @@ export default function Home() {
 
   return (
     <div className="flex flex-1 flex-col bg-zinc-50 font-sans dark:bg-black">
-      <header className="border-b border-zinc-200 bg-white px-6 py-10 dark:border-zinc-800 dark:bg-zinc-950">
+      <header className="border-b border-zinc-200 bg-white px-6 py-4 dark:border-zinc-800 dark:bg-zinc-950">
         <div className="mx-auto max-w-4xl">
-          <h1 className="text-3xl font-semibold tracking-tight text-black dark:text-zinc-50">
+          <h1 className="text-2xl font-semibold tracking-tight text-black dark:text-zinc-50">
             ⛰️ Eventos de Montaña
           </h1>
-          <p className="mt-2 text-zinc-600 dark:text-zinc-400">
+          <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
             Carreras, travesías, festivales y competiciones de escalada, reunidos
-            automáticamente de fuentes públicas.
+            automáticamente de fuentes públicas. Más un radar de noticias de montaña.
           </p>
-          <p className="mt-3 text-sm text-zinc-500 dark:text-zinc-500">
+          <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-500">
             {data.events.length} eventos próximos · Actualizado el {fechaActualizado}
           </p>
         </div>
       </header>
 
-      <main className="mx-auto w-full max-w-4xl flex-1 px-6 py-8">
-        <p className="mb-4 text-sm text-zinc-500 dark:text-zinc-500">
+      <main className="mx-auto w-full max-w-4xl flex-1 px-6 py-4">
+        <p className="mb-3 text-sm text-zinc-500 dark:text-zinc-500">
           Pulsa un mes para ver sus eventos. El mes queda fijado arriba
           mientras lo recorres, para plegarlo y elegir otro.
         </p>
         {grupos.map((grupo) => (
           <details
             key={grupo.clave}
-            className="group mb-3 rounded-xl border border-zinc-200 bg-white dark:border-zinc-800 dark:bg-zinc-950"
+            className="group mb-1.5 rounded-xl border border-zinc-200 bg-white dark:border-zinc-800 dark:bg-zinc-950"
           >
-            <summary className="sticky top-0 z-10 flex cursor-pointer select-none items-center gap-3 rounded-xl bg-white px-4 py-3 list-none group-open:rounded-b-none group-open:border-b group-open:border-zinc-200 dark:bg-zinc-950 dark:group-open:border-zinc-800 [&::-webkit-details-marker]:hidden">
+            <summary className="sticky top-0 z-10 flex cursor-pointer select-none items-center gap-3 rounded-xl bg-white px-4 py-2 list-none group-open:rounded-b-none group-open:border-b group-open:border-zinc-200 dark:bg-zinc-950 dark:group-open:border-zinc-800 [&::-webkit-details-marker]:hidden">
               <span
                 aria-hidden="true"
                 className="text-zinc-400 transition-transform group-open:rotate-90 dark:text-zinc-600"
