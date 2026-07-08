@@ -1,0 +1,21 @@
+{
+  "comment": "Calendario oficial FEDME de Carreras por Montaña 2026. Fuente: https://fedme.es/la-fedme-presenta-el-calendario-oficial-de-carreras-por-montana-2026/ — actualizar a mano cuando la federación publique el calendario del año siguiente.",
+  "events": [
+    { "name": "Cursa 4 Termes (Copa FEDME Línea)", "type": "carrera", "startDate": "2026-03-14", "endDate": "2026-03-15", "locationName": "Tarragona", "country": "España" },
+    { "name": "Trail Riotuerto (Copa FEDME Línea)", "type": "carrera", "startDate": "2026-03-22", "endDate": null, "locationName": "Cantabria", "country": "España" },
+    { "name": "KV Losar de la Vera (Vertical)", "type": "carrera", "startDate": "2026-03-28", "endDate": null, "locationName": "Cáceres", "country": "España" },
+    { "name": "Desafío Calar del Río Mundo (Ultra)", "type": "carrera", "startDate": "2026-04-11", "endDate": null, "locationName": "Albacete", "country": "España" },
+    { "name": "2KV Pico de la Nieve / KV Tagoja (Vertical)", "type": "carrera", "startDate": "2026-04-18", "endDate": null, "locationName": "La Palma, Santa Cruz de Tenerife", "country": "España" },
+    { "name": "KV Puerto del Alacrán (Vertical)", "type": "carrera", "startDate": "2026-04-25", "endDate": null, "locationName": "Ávila", "country": "España" },
+    { "name": "SkyRace Trencacims Paüls (Línea)", "type": "carrera", "startDate": "2026-05-02", "endDate": null, "locationName": "Tarragona", "country": "España" },
+    { "name": "OTSO Travessa d'Encamp (Ultra)", "type": "carrera", "startDate": "2026-05-23", "endDate": null, "locationName": "Encamp", "country": "Andorra" },
+    { "name": "Campeonato Escolar FEDME", "type": "carrera", "startDate": "2026-05-30", "endDate": "2026-05-31", "locationName": "Jaén", "country": "España" },
+    { "name": "Ultra Desafío Galayos (Ultra)", "type": "carrera", "startDate": "2026-06-13", "endDate": null, "locationName": "Ávila", "country": "España" },
+    { "name": "Igualeja Skyrace (Línea)", "type": "carrera", "startDate": "2026-06-20", "endDate": null, "locationName": "Málaga", "country": "España" },
+    { "name": "Abeduriu Trail Race (Línea)", "type": "carrera", "startDate": "2026-06-27", "endDate": null, "locationName": "Asturias", "country": "España" },
+    { "name": "Campeonato Mundial ISF — Gomera Paradise Trail", "type": "carrera", "startDate": "2026-09-18", "endDate": "2026-09-20", "locationName": "La Gomera, Santa Cruz de Tenerife", "country": "España" },
+    { "name": "CxM Macael Mármol (Línea)", "type": "carrera", "startDate": "2026-09-27", "endDate": null, "locationName": "Almería", "country": "España" },
+    { "name": "Barbudo SkyRace (Línea)", "type": "carrera", "startDate": "2026-10-18", "endDate": null, "locationName": "Murcia", "country": "España" },
+    { "name": "XII KV Las Hurdes (Vertical)", "type": "carrera", "startDate": "2026-10-25", "endDate": null, "locationName": "Cáceres", "country": "España" }
+  ]
+}
