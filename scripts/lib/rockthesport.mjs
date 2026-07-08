@@ -86,6 +86,7 @@ export async function collectRockthesport() {
           endDate: item.dates?.endDateIso || null,
           locationName: provinces[item.provinceId] || null,
           country: "España",
+          image: item.urlImage || null,
           url: `https://web.rockthesport.com/es/event/${item.slug}`,
           source: "rockthesport",
           sourceName: "Rockthesport",

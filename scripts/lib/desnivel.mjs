@@ -6,7 +6,7 @@
 // hay, lo guarda como mención (noticia con enlace).
 
 import { XMLParser } from "fast-xml-parser";
-import { fetchText, stripHtml } from "./util.mjs";
+import { fetchText, stripHtml, extractOgImage, pareceDeMontana } from "./util.mjs";
 import { extractEventsFromHtml } from "./schema-events.mjs";
 
 const FEED = "https://www.desnivel.com/feed/";
@@ -36,19 +36,21 @@ export async function collectDesnivel(seenUrls, { maxPagesPerRun = 10 } = {}) {
     visited++;
 
     let found = [];
+    let portada = null;
     try {
       const html = await fetchText(url);
-      found = extractEventsFromHtml(html, url);
+      found = extractEventsFromHtml(html, url).filter((ev) => pareceDeMontana(ev.name));
+      portada = extractOgImage(html);
     } catch {
       // artículo inaccesible: solo mención
     }
 
     if (found.length > 0) {
       for (const ev of found) {
-        events.push({ ...ev, type: "festival", source: "desnivel", sourceName: "Desnivel" });
+        events.push({ ...ev, image: ev.image || portada, type: "festival", source: "desnivel", sourceName: "Desnivel" });
       }
     } else {
-      mentions.push({ title, url, typeHint: "festival" });
+      mentions.push({ title, url, typeHint: "festival", image: portada });
     }
   }
 

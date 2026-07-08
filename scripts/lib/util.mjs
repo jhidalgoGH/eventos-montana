@@ -47,6 +47,26 @@ export function today() {
   return new Date().toISOString().slice(0, 10);
 }
 
+// ¿Parece este nombre un evento de montaña? Se usa para descartar eventos
+// ajenos (partidos, conciertos...) que aparecen en páginas de noticias con
+// datos estructurados propios.
+const RE_MONTANA =
+  /(monta[ñn]|trail|mendi|muntanya|marcha|traves[ií]|travessa|escalada|climbing|boulder|senderis|andada|alpinis|skyrac|sky race|vertical|bertikala|\bkv\b|\bultra\b|cumbre|pirineo|picos|hiking|trek|km vertical|cxm|festival)/i;
+
+export function pareceDeMontana(text) {
+  return RE_MONTANA.test(String(text));
+}
+
+// Extrae la imagen de portada de una página (etiqueta og:image, la que usan
+// las redes sociales para las vistas previas). Devuelve null si no hay.
+export function extractOgImage(html) {
+  const m =
+    /<meta[^>]+property=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i.exec(html) ||
+    /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::url)?["']/i.exec(html);
+  const url = m?.[1];
+  return url && /^https?:\/\//.test(url) ? url : null;
+}
+
 // Quita etiquetas HTML de un texto ("<b>Gran</b> Trail" -> "Gran Trail").
 export function stripHtml(text) {
   return String(text)

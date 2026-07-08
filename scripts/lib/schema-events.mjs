@@ -47,6 +47,15 @@ function locationToText(location) {
   return parts.length ? parts.join(", ") : null;
 }
 
+// Normaliza el campo image de schema.org (texto, lista u objeto ImageObject).
+function imageToUrl(image) {
+  if (!image) return null;
+  const img = Array.isArray(image) ? image[0] : image;
+  if (typeof img === "string") return img.startsWith("http") ? img : null;
+  if (typeof img === "object" && typeof img.url === "string") return img.url;
+  return null;
+}
+
 // Extrae eventos de un HTML. Devuelve una lista (posiblemente vacía).
 export function extractEventsFromHtml(html, pageUrl) {
   const events = [];
@@ -64,6 +73,7 @@ export function extractEventsFromHtml(html, pageUrl) {
         startDate: String(obj.startDate),
         endDate: obj.endDate ? String(obj.endDate) : null,
         locationName: locationToText(obj.location),
+        image: imageToUrl(obj.image),
         url: typeof obj.url === "string" && obj.url.startsWith("http") ? obj.url : pageUrl,
       });
     }

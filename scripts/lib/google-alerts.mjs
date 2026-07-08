@@ -7,7 +7,7 @@
 // que extraemos la URL real.
 
 import { XMLParser } from "fast-xml-parser";
-import { fetchText, stripHtml } from "./util.mjs";
+import { fetchText, stripHtml, extractOgImage, pareceDeMontana } from "./util.mjs";
 import { extractEventsFromHtml } from "./schema-events.mjs";
 
 // Las 5 alertas creadas por el usuario, con el tipo de evento que sugiere
@@ -66,21 +66,33 @@ export async function collectGoogleAlerts(seenUrls, { maxPagesPerRun = 40 } = {}
       if (visited >= maxPagesPerRun) continue; // registrada como vista, se procesará otro día si reaparece
       visited++;
 
-      // Visitamos la página buscando datos estructurados de evento.
+      // Visitamos la página buscando datos estructurados de evento
+      // y su imagen de portada.
       let found = [];
+      let portada = null;
       try {
         const html = await fetchText(entry.url);
-        found = extractEventsFromHtml(html, entry.url);
+        // Solo aceptamos eventos cuyo nombre suene a montaña: las páginas de
+        // noticias llevan a veces datos estructurados de eventos ajenos
+        // (partidos, conciertos...) que no queremos en el calendario.
+        found = extractEventsFromHtml(html, entry.url).filter((ev) => pareceDeMontana(ev.name));
+        portada = extractOgImage(html);
       } catch {
         // Página caída o bloqueada: la guardamos solo como mención.
       }
 
       if (found.length > 0) {
         for (const ev of found) {
-          events.push({ ...ev, type: feed.typeHint, source: "google-alerts", sourceName: "Google Alerts" });
+          events.push({
+            ...ev,
+            image: ev.image || portada,
+            type: feed.typeHint,
+            source: "google-alerts",
+            sourceName: "Google Alerts",
+          });
         }
       } else {
-        mentions.push({ title: entry.title, url: entry.url, typeHint: feed.typeHint });
+        mentions.push({ title: entry.title, url: entry.url, typeHint: feed.typeHint, image: portada });
       }
     }
   }

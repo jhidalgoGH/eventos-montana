@@ -1,13 +1,14 @@
 import data from "@/data/events.json";
 import radar from "@/data/mentions.json";
+import Miniatura from "./miniatura";
 
 // Etiqueta y color de cada tipo de evento.
 const TIPOS = {
-  carrera: { label: "Carrera", classes: "bg-emerald-100 text-emerald-800 dark:bg-emerald-900/60 dark:text-emerald-200" },
-  travesia: { label: "Travesía", classes: "bg-sky-100 text-sky-800 dark:bg-sky-900/60 dark:text-sky-200" },
-  festival: { label: "Festival", classes: "bg-amber-100 text-amber-800 dark:bg-amber-900/60 dark:text-amber-200" },
-  escalada: { label: "Escalada", classes: "bg-violet-100 text-violet-800 dark:bg-violet-900/60 dark:text-violet-200" },
-  otro: { label: "Otro", classes: "bg-zinc-100 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300" },
+  carrera: { label: "Carrera", emoji: "🏃", classes: "bg-emerald-100 text-emerald-800 dark:bg-emerald-900/60 dark:text-emerald-200" },
+  travesia: { label: "Travesía", emoji: "🥾", classes: "bg-sky-100 text-sky-800 dark:bg-sky-900/60 dark:text-sky-200" },
+  festival: { label: "Festival", emoji: "🎬", classes: "bg-amber-100 text-amber-800 dark:bg-amber-900/60 dark:text-amber-200" },
+  escalada: { label: "Escalada", emoji: "🧗", classes: "bg-violet-100 text-violet-800 dark:bg-violet-900/60 dark:text-violet-200" },
+  otro: { label: "Otro", emoji: "⛰️", classes: "bg-zinc-100 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300" },
 };
 
 const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
@@ -65,7 +66,7 @@ export default function Home() {
   return (
     <div className="flex flex-1 flex-col bg-zinc-50 font-sans dark:bg-black">
       <header className="border-b border-zinc-200 bg-white px-6 py-10 dark:border-zinc-800 dark:bg-zinc-950">
-        <div className="mx-auto max-w-3xl">
+        <div className="mx-auto max-w-4xl">
           <h1 className="text-3xl font-semibold tracking-tight text-black dark:text-zinc-50">
             ⛰️ Eventos de Montaña
           </h1>
@@ -79,7 +80,7 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-8">
+      <main className="mx-auto w-full max-w-4xl flex-1 px-6 py-8">
         <p className="mb-4 text-sm text-zinc-500 dark:text-zinc-500">
           Pulsa un mes para ver sus eventos. El mes queda fijado arriba
           mientras lo recorres, para plegarlo y elegir otro.
@@ -107,10 +108,11 @@ export default function Home() {
               {grupo.eventos.map((ev, i) => {
                 const tipo = TIPOS[ev.type] || TIPOS.otro;
                 return (
-                  <li key={i} className="flex items-baseline gap-4 px-4 py-3">
-                    <span className="w-24 shrink-0 text-sm font-medium tabular-nums text-zinc-500 dark:text-zinc-400">
+                  <li key={i} className="flex items-center gap-4 px-4 py-3">
+                    <span className="w-20 shrink-0 text-sm font-medium tabular-nums text-zinc-500 dark:text-zinc-400">
                       {fechaTexto(ev)}
                     </span>
+                    <Miniatura image={ev.image} emoji={tipo.emoji} classes={tipo.classes} />
                     <div className="min-w-0 flex-1">
                       <a
                         href={ev.url}
@@ -149,18 +151,26 @@ export default function Home() {
             </p>
             <ul className="divide-y divide-zinc-200 overflow-hidden rounded-xl border border-zinc-200 bg-white dark:divide-zinc-800 dark:border-zinc-800 dark:bg-zinc-950">
               {radar.mentions.slice(0, 25).map((m, i) => (
-                <li key={i} className="px-4 py-3">
-                  <a
-                    href={m.url}
-                    target="_blank"
-                    rel="noopener nofollow"
-                    className="text-sm font-medium text-black underline-offset-2 hover:underline dark:text-zinc-50"
-                  >
-                    {m.title || m.url}
-                  </a>
-                  <span className="ml-2 text-xs text-zinc-400 dark:text-zinc-600">
-                    {dominio(m.url)}
-                  </span>
+                <li key={i} className="flex items-center gap-3 px-4 py-3">
+                  <Miniatura
+                    image={m.image}
+                    emoji={(TIPOS[m.typeHint] || TIPOS.otro).emoji}
+                    classes={(TIPOS[m.typeHint] || TIPOS.otro).classes}
+                    size="h-12 w-12"
+                  />
+                  <div className="min-w-0 flex-1">
+                    <a
+                      href={m.url}
+                      target="_blank"
+                      rel="noopener nofollow"
+                      className="text-sm font-medium text-black underline-offset-2 hover:underline dark:text-zinc-50"
+                    >
+                      {m.title || m.url}
+                    </a>
+                    <span className="ml-2 text-xs text-zinc-400 dark:text-zinc-600">
+                      {dominio(m.url)}
+                    </span>
+                  </div>
                 </li>
               ))}
             </ul>
@@ -169,7 +179,7 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-zinc-200 bg-white px-6 py-6 dark:border-zinc-800 dark:bg-zinc-950">
-        <p className="mx-auto max-w-3xl text-sm text-zinc-500 dark:text-zinc-500">
+        <p className="mx-auto max-w-4xl text-sm text-zinc-500 dark:text-zinc-500">
           Los datos se recogen una vez al día de fuentes públicas (Rockthesport,
           FEDME, Desnivel y alertas de Google). Cada evento enlaza a su web
           original, donde está la información oficial e inscripciones. Proyecto

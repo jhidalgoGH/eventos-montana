@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T12:16:11.766Z",
+  "updatedAt": "2026-07-08T13:11:29.145Z",
   "events": [
     {
       "name": "Trail Vielha Molieres 3010",
@@ -10,7 +10,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-vielha-molieres-3010",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14322/library/root/843090a1-16e6-4ee6-bd1d-3b96c7265bf9.png"
     },
     {
       "name": "XX Copa de Castilla y León de Carreras en Línea Absoluta: 4ª Prueba - Serrota Xtreme 2026",
@@ -21,7 +22,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xx-copa-de-castilla-y-leon-de-carreras-en-linea-absoluta-4-prueba-serrotapja-xtreme-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/168624bc-ef49-48e2-b340-1aa7e54f1c27.jpg"
     },
     {
       "name": "IV. ZALDU TRAIL 2026",
@@ -32,7 +34,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-zaldu-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/b7ee8f8d-c962-43ad-b811-62fc3fd83887.jpg"
     },
     {
       "name": "Amanece Trail Aýna",
@@ -43,7 +46,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/amanece-trail-ayna",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14242/library/root/cfa0ccdb-8aa9-4715-a2a9-48e81786ea36.jpeg"
     },
     {
       "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Nocturna Trigueros del Valle",
@@ -54,7 +58,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/senderismo-nocturno-actividad-por-trigueros",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e525485b-271b-422b-a16b-865cfb7eaf6f.png"
     },
     {
       "name": "Trail Esterregalls - La Cerdanya",
@@ -65,7 +70,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-esterregalls-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13774/library/root/fe28ccfb-1db7-4186-907d-feeb382ba9f5.png"
     },
     {
       "name": "BOCA DEL INFIERNO 2026",
@@ -76,7 +82,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/boca-del-infierno-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/6f1de97b-bb76-4bb5-a4a8-5b5bad18a126.png"
     },
     {
       "name": "Andada nocturna \"Ruta del Diablo\"",
@@ -98,7 +105,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/garduna-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/edf5a112-e5ad-4d8d-b5b2-2ebe9c7fc109.jpeg"
     },
     {
       "name": "Asto Trail Mendi Lasterketa 2026",
@@ -109,7 +117,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/asto-trail-mendi-lasterketa-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/354b1336-469e-44d1-9873-551f42fb857c.jpg"
     },
     {
       "name": "B2H TRAIL 2026",
@@ -120,7 +129,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/b2h-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10630/library/root/25aedf1b-4633-4e19-b6c6-62eb856d120c.png"
     },
     {
       "name": "IV Copa de España Iberdrola de Marcha Nórdica Montmeló",
@@ -131,7 +141,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-iberdrola-de-marcha-nordica-montmelo",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/5c346c83-f375-4994-8bf8-e44b85f28b04.png"
     },
     {
       "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Nocturna SL-VA 57 Urueña",
@@ -142,7 +153,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/senderismo-nocturno-actividad-por-el-sl-va-57-uruenanocturna",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e525485b-271b-422b-a16b-865cfb7eaf6f.png"
     },
     {
       "name": "XX. AZTIRIKO MENDI LASTERKETA",
@@ -153,7 +165,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xx-aztiriko-mendi-lasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/5db16391-9341-4880-95cf-f410a7aa4e4d.jpg"
     },
     {
       "name": "OPEN CET 2026",
@@ -164,7 +177,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/open-cet-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15776/library/root/6d5651dd-2c1b-4ef0-bdd7-6cb3561182ea.jpg"
     },
     {
       "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Diurna SL-VA 57 Urueña",
@@ -175,7 +189,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/senderismo-diurno-actividad-por-slva57-uruenadiurna",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e525485b-271b-422b-a16b-865cfb7eaf6f.png"
     },
     {
       "name": "Vientos Mineros Trail 2026",
@@ -186,7 +201,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/vientos-mineros-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13973/library/root/cb2d8be2-cf63-40b8-ac87-129f6cc196cd.png"
     },
     {
       "name": "13AU ERA NOCTURNA DE VIELHA",
@@ -197,7 +213,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/13au-era-nocturna-de-vielha",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9659/library/root/10180005-5242-4beb-9af0-b480df0f6f87.jpeg"
     },
     {
       "name": "V Trail Corazón de la Alcarria - Berninches",
@@ -208,7 +225,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-trail-corazon-alcarria-berninches",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/5722e23f-1e5e-45a3-b87d-34e117ea0a66.jpeg"
     },
     {
       "name": "XII PILÓN TRAIL ACOFALCES",
@@ -219,7 +237,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xii-pilon-trail-acofalces",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2207/library/root/58e5c9e9-026a-43d9-966e-00eba779e89b.jpg"
     },
     {
       "name": "MONTLUDE SKYRACE 2026",
@@ -230,7 +249,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/montlude-skyrace-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/e850ae80-be59-476b-b4e1-b38f8c8ac1bb.png"
     },
     {
       "name": "XXVIII CARRERA VERTICAL SUBIDA A OROEL",
@@ -241,7 +261,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xxviii-carrera-vertical-subida-a-oroel",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/5440e562-61b9-4e1b-9af4-82dc514afc9e.jpeg"
     },
     {
       "name": "Sierra Nevada Skyrunning",
@@ -252,7 +273,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/sierra-nevada-skyrunning",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/177f51fc-086f-4b9d-a65d-6766870e4be7.jpeg"
     },
     {
       "name": "XXI MARXA A PEU SERRA D'IRTA",
@@ -263,7 +285,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xxi-marxa-a-peu-serra-dirta",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/e5755a1f-1415-4fb7-b2e6-05c9b156cf59.jpeg"
     },
     {
       "name": "Preinscripción Pyrenees Stage Run 2026",
@@ -274,7 +297,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/pre-pyrenees-stage-run-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/c726b5a0-e0f7-4362-8b84-461124b417b7.jpg"
     },
     {
       "name": "Pyrenees Stage Run 2026",
@@ -285,7 +309,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/pyrenees-stage-run-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/c726b5a0-e0f7-4362-8b84-461124b417b7.jpg"
     },
     {
       "name": "Trail de Ubiña 2026",
@@ -296,7 +321,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-de-ubina-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/14cebcad-cbbf-4a90-8f17-fb1a9617207e/library/root/f8ffc4d3-2355-436d-93a1-7bbf0c00d6a1.png"
     },
     {
       "name": "Sorabilla Trail",
@@ -307,7 +333,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/sorabilla-trai-26",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/fada19e8-73dd-4b0e-8d8c-c80af1c26ea5.jpeg"
     },
     {
       "name": "CHURRIGUERESCA 7ª EDICIÓN",
@@ -318,7 +345,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/churrigueresca-7-edicion",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/677fef8c-553e-45a7-9967-2c9c4f9fa5fb.jpeg"
     },
     {
       "name": "Encuentro Nacional de Corredoras por Montaña FEDME",
@@ -329,7 +357,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/encuentro-nacional-de-corredoras-por-montana-fedme",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/27f0e9e7-5253-4a94-aa3e-93a9e56160f8.jpeg"
     },
     {
       "name": "TRAIL VALLE DE TENA 2026",
@@ -340,7 +369,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-valle-de-tena-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/140bbe5c-c9b2-4a1c-8cea-53aea7e0411a/library/root/7bf25003-2182-4f8b-9287-994c598c95df.png"
     },
     {
       "name": "V. Izki Trail",
@@ -351,7 +381,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-izki-trail",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/5385a660-6f4e-4e62-ae43-1160b4a0de8e.jpg"
     },
     {
       "name": "3ª Carrera de Montaña Arroletza Mendi Taldea",
@@ -362,7 +393,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/3-carrera-de-montana-arroletza-mendi-taldea",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11415/library/root/148381b8-deb8-493e-8cae-c30dcc6276cc.jpeg"
     },
     {
       "name": "Transenyera 2026",
@@ -373,7 +405,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/transenyera-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": null
     },
     {
       "name": "CANFRANC-CANFRANC 2026",
@@ -384,7 +417,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/canfranc-canfranc-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/4508f5f9-7981-47da-90b9-07b84bee1552.png"
     },
     {
       "name": "Txantreako I.Elkartasunmendilasterketa",
@@ -395,7 +429,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/txantreako-ielkartasunmendilasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15827/library/root/5b27517b-12b9-4392-b569-67d69e422db8.jpeg"
     },
     {
       "name": "UBIDEKO BIRA 2026",
@@ -406,7 +441,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/ubideko-bira-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/e65597de-34cc-4fc7-a799-a1c865843459.jpg"
     },
     {
       "name": "IKAZKIN TRAIL 2026",
@@ -417,7 +453,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/ikazkin-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/af485103-c85c-4cce-99fb-6890f14ebe34.jpeg"
     },
     {
       "name": "Andada popular \"SalvaTusPasos\"",
@@ -439,7 +476,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xxvi-pujada-al-montcabrer",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/db506234-3b3d-4645-8599-a3c0cf847122.jpg"
     },
     {
       "name": "AXARI TRAIL 2026",
@@ -450,7 +488,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/axari-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/9755508e-df3e-4dce-9fdf-668e137cfbf5.jpg"
     },
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -483,7 +522,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/santiago-pontones-trail-weekend-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/539138d6-330f-430c-8431-a2a69fe26ed6.jpg"
     },
     {
       "name": "MAÑARITIK ATXETARA 2026",
@@ -494,7 +534,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/manaritik-atxetara-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/e5f5e5b0-9059-4838-8018-811550094376.png"
     },
     {
       "name": "ULTRA TRAIL CAZADORES DEL GALICIA 2026",
@@ -505,7 +546,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/ultra-trail-cazadores-del-galicia-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/26d85281-6db7-40fa-bfe6-d328d500b23e.jpg"
     },
     {
       "name": "Hiru Txikiak 2026",
@@ -516,7 +558,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/hiru-txikiak-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10309/library/root/1b5e1381-3fae-4851-bd17-8c0d14819e4b.jpg"
     },
     {
       "name": "3ª INFINITE RACE VAL D'ARAN",
@@ -527,7 +570,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/3infiniteracevaldaran",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/12346/library/root/ffb66cc8-701b-4f5b-817d-e999bc74827e.jpeg"
     },
     {
       "name": "V PUJADA A LA SERRETA - CARMELITES VEDRUNA",
@@ -538,7 +582,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-pujada-a-la-serreta-carmelites-vedruna",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/6c549589-3e1c-4a6e-a86d-685f72328970.jpeg"
     },
     {
       "name": "Goierri Raid 2026",
@@ -549,7 +594,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/goierri-raid-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15604/library/root/8d85a6b8-8683-44c4-835a-85aabf70701e.jpg"
     },
     {
       "name": "Muskildia Trail 2026",
@@ -560,7 +606,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/muskildia-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10975/library/root/3002c561-0390-445c-a492-a9db8b791468.jpg"
     },
     {
       "name": "Faldes del Puig Campana, Trail & Sender Nocturn, 2026",
@@ -571,7 +618,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/faldes-del-puig-campana-trail-sender-nocturn-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b338cca9-eb83-4eff-acc1-e9d4a6c13312.jpeg"
     },
     {
       "name": "Ruta del Destierro",
@@ -593,7 +641,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/la-sertoriana-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/affb7d05-0771-4147-b1ed-de25f89c24cb.png"
     },
     {
       "name": "Izeta mendi-lasterketa solidarioa 2026",
@@ -604,7 +653,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/izeta-mendi-lasterketa-solidarioa-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/178ae894-0370-4d03-8146-ab764051fa29.jpeg"
     },
     {
       "name": "XVII Uharte Arakil - Beriain Km Bertikala",
@@ -615,7 +665,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xvii-uharte-arakil-beriain-km-bertikala",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2659/library/root/1b0067f2-1236-434c-a68d-20b0a29bc6a9.jpg"
     },
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -637,7 +688,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-som-trail-som-vall-de-seta-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/1cc5a749-570b-4459-b18b-ef0e2c588359.jpeg"
     },
     {
       "name": "VIII Circuito de Senderismo - Marcha Senderista \"A Calamochos\"",
@@ -648,7 +700,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-marcha-senderista-a-calamochos",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/80c57e31-0331-4dcb-a3eb-8ae85bb1efa2.png"
     },
     {
       "name": "Campeonato de Castilla y León de Carreras Verticales por Clubes y 3ª Prueba Copa de Carreras Verticales - Peñalara Vertical & Trail ",
@@ -659,7 +712,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-carreras-verticales-por-clubes-y-3-prueba-copa-de-carreras-vertical",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/d95008f2-fbad-4f09-8ac6-af1408df9b60.jpeg"
     },
     {
       "name": "Gorbeia Suzien 2026 Skyrace",
@@ -670,7 +724,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/gorbeia-suzien-2026-skyrace",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1448/library/root/9426da46-532f-4a11-95d5-95c750dcee0d.jpg"
     },
     {
       "name": "TRAIL VILLA DE SALLENT",
@@ -681,7 +736,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-villa-de-sallent",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/8eec68c3-0beb-473c-afd2-5586301a87df.jpg"
     },
     {
       "name": "BASATRAIL MENDI LASTERKETA",
@@ -692,7 +748,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/basatrail-mendi-lasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/85d9c192-690d-4251-9692-0ae6f0572880.jpg"
     },
     {
       "name": "VI AZKOTRAIL 2026",
@@ -703,7 +760,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/vi-azkotrail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2927/library/root/0640c2c0-88ac-49b2-88bb-5cb3aaca9272.png"
     },
     {
       "name": "Gorbeia Suzien 21k 2026",
@@ -714,7 +772,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/gorbeia-suzien-21k-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1448/library/root/9426da46-532f-4a11-95d5-95c750dcee0d.jpg"
     },
     {
       "name": "CxM Macael Mármol (Línea)",
@@ -758,7 +817,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/-valls-del-freser-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2506/library/root/4e5e8b5f-e8a1-46cb-a422-ec86552749e6.png"
     },
     {
       "name": "VII BENICATRAIL, Beniatjar 2026",
@@ -769,7 +829,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/vii-benicatrail-beniatjar-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/979281f9-2007-46f5-b482-5c9a6fb8baca.png"
     },
     {
       "name": "III Copa de España en Linea y Campeonato de España para Ciegos en Linea de Carreras por Montaña Macael Mármol",
@@ -780,7 +841,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-en-linea-y-campeonato-de-espana-para-ciegos-en-linea-de-carreras-por-montana-maca",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/8abba782-60bc-4ab6-b185-054f02d40a04.jpeg"
     },
     {
       "name": "II trail al Pantà de Tibi, Memoria de Abel Pérez",
@@ -791,7 +853,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/ii-trail-al-panta-de-tibi-memoria-de-abel-perez",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/1e84bcf6-b30d-4a07-b35c-83330265bb88.jpeg"
     },
     {
       "name": "II PULMÓN DE ACERO TRAIL 2026",
@@ -802,7 +865,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/ii-pulmon-de-acero-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/117/library/root/707a69da-ec7f-484d-88e0-823678553f66.jpg"
     },
     {
       "name": "LASARTE-ORIAKO MENDI LASTERKETA 2026 ( MEMORIAL JUANLU )",
@@ -813,7 +877,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/lasarte-oriako-mendi-lasterketa-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/f5edf101-7092-4c22-9725-f7661aed4f2a.jpg"
     },
     {
       "source": "agenda",
@@ -846,7 +911,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-solidari-ciutat-dalcoi-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/07a17b62-f7f7-4403-867b-75ea8b3d9863.jpeg"
     },
     {
       "name": "Santxikorrota'26 - herri lasterketa",
@@ -857,7 +923,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/santxikorrota26-herri-lasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10948/library/root/ff0b1406-7c87-4162-a881-fa2a10dd174d.jpeg"
     },
     {
       "name": "Flysch Trail Zumaia 2026",
@@ -868,7 +935,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/flysch-trail-zumaia-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/1367/library/root/3e90b9b7-27dd-4f2d-8085-3dfb7daf3e4d.png"
     },
     {
       "name": "XVII. Anboto Kilometro Bertikala",
@@ -879,7 +947,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xvii-anboto-kilometro-bertikala",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/88cb79a5-5881-4fe8-a472-18b6faa1605d.png"
     },
     {
       "name": "A NOCTURNA DO XEOPARQUE",
@@ -890,7 +959,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/a-nocturna-do-xeoparque",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/e35252de-3254-41e3-af75-bfcf0241d044.png"
     },
     {
       "name": "Sprint Trail Senyera, 2026",
@@ -901,7 +971,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/sprint-trail-senyera-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/00b42a99-f738-4cbd-b99c-aad93d9e7eb0.jpg"
     },
     {
       "name": "Marcha Rio Verde Trail ",
@@ -912,7 +983,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/marcha-rio-verde-trail",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15588/library/root/79af3e13-292d-47ec-bf46-b1f0b6116a17.jpg"
     },
     {
       "name": "XIX. Sorginen Lasterketa",
@@ -923,7 +995,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xix-sorginen-lasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/018a8eb8-b346-4358-822a-faaacf4647eb.jpeg"
     },
     {
       "name": "IV Trail Aranjuez “El Peluca”",
@@ -934,7 +1007,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-trail-aranjuez-el-peluca",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/eecd98b2-f5d3-499b-afb7-f4985b2ebc1d.png"
     },
     {
       "name": "CNN 2026",
@@ -945,7 +1019,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/cnn-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
     },
     {
       "name": "GTP RELEVOS 2026",
@@ -956,7 +1031,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/gtp-relevos-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
     },
     {
       "name": "GTP 2026",
@@ -967,7 +1043,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/gtp-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
     },
     {
       "name": "Bizkaia Kopa Trail / BKT 2026 / Arrieta",
@@ -978,7 +1055,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/bizkaia-kopa-trail-bkt-2026-arrieta",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
     },
     {
       "name": "III. BERTXIN XTREM",
@@ -989,7 +1067,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iii-bertxin-xtrem",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ddf03b12-8d0e-42f0-ae4e-b628fc8486ce.jpg"
     },
     {
       "name": "TP60 2026",
@@ -1000,7 +1079,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/tp60-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
     },
     {
       "name": "Brama Stage Run 2026",
@@ -1011,7 +1091,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/brama-stage-run-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/2cec5010-1174-45c5-bc88-2d0192d4e74b.jpg"
     },
     {
       "name": "Marcha senderista \"Valle de Anso\"",
@@ -1033,7 +1114,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/unique-trail-lanzarote",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14466/library/root/75293835-e132-4d3d-a861-3e3d5b308484.jpg"
     },
     {
       "name": "El Putu Trail del Bisaura",
@@ -1044,7 +1126,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/el-putu-trail-del-bisaura",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15755/library/root/4d8390dd-f583-472c-a789-dfbd01917a0d.jpg"
     },
     {
       "name": "Sierra Cazorla Trails 2026",
@@ -1055,7 +1138,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/sierra-cazorla-trails-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/80df521c-4bdb-465e-a332-37e030e7d36c.jpeg"
     },
     {
       "name": "Itxinan Barrena 2026",
@@ -1066,7 +1150,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/itxinan-barrena-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/123e31bd-43a9-4159-8099-54ec59c7c303.jpeg"
     },
     {
       "name": "BACKYARD COSTA BRAVA 2026",
@@ -1077,7 +1162,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/backyard-costa-brava-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11933/library/root/ba48df3e-cddc-4537-abc4-aaede1e90cb0.png"
     },
     {
       "name": "Aramotz Mendi Lasterketa 2026",
@@ -1088,7 +1174,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/aramotz-mendi-lasterketa-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/a794fe55-6a75-4301-be2f-47b40653e902.jpg"
     },
     {
       "name": "JUAN MIGUELIZ Leyre Trail 2026",
@@ -1099,7 +1186,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/juan-migueliz-leyre-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/3d5d9529-f7ce-4a06-9eab-2d69ce353340.jpeg"
     },
     {
       "name": "Eltxo trail 2026",
@@ -1110,7 +1198,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/eltxo-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11926/library/root/b38458dd-79e7-4ec6-a641-ef26e5d09409.png"
     },
     {
       "name": "III Trail Nocturno Cabeço D'Or, Busot",
@@ -1121,7 +1210,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/735d2a53-7d07-4003-800c-0cbd029fb3c5.jpeg"
     },
     {
       "name": "Barbudo SkyRace (Línea)",
@@ -1176,7 +1266,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-en-linea-cxm-barbudo-trail",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": null
     },
     {
       "name": "XV CARRERA POR MONTAÑA \"LA ADRADA TRAIL\"",
@@ -1187,7 +1278,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-la-adrada-trail",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/bc800bda-2a81-4766-8964-810c763cfcc6.jpg"
     },
     {
       "name": "Campeonato de Castilla y León de Carreras por Montaña en Línea por Clubes – CXM Miranda de Ebro",
@@ -1198,7 +1290,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-carreras-por-montana-en-linea-por-clubes-cxm-miranda-de-ebro",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/0dad3711-0d20-40c0-bf1d-3ca85c62158a.png"
     },
     {
       "name": "KOROSTI TRAIL 2026",
@@ -1209,7 +1302,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/korosti-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/0c9f6449-70af-49e6-af91-a6352e3f3cdc.jpeg"
     },
     {
       "name": "Ruta de los Balnearios de Jaraba",
@@ -1242,7 +1336,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/kaxtrail-mendi-lasterketa",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ab27f595-028c-4eaa-9d00-3459cb7e3835.jpg"
     },
     {
       "name": "CXM ALHAMA TRAIL 2026",
@@ -1253,7 +1348,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/cxm-alhama-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/95a3b8ac-e633-49b6-b8e5-1f66336be30b.png"
     },
     {
       "name": "CURSA MUNTANYA BENLLOC 26",
@@ -1264,7 +1360,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/cursa-muntanya-benlloc-26",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/b45b0e59-89cc-4491-8cee-39ab23c271da.jpg"
     },
     {
       "name": "Aldapegora 2026",
@@ -1275,7 +1372,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/aldapegora-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/6f967ea6-3a8c-4e04-b479-1d4ce4a37683.jpeg"
     },
     {
       "name": "V. Txara Trail 2026",
@@ -1286,7 +1384,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-txara-lasterketak-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/57f0a48b-7684-4f7c-a7ba-e58d5d7ed3cc.jpeg"
     },
     {
       "name": "XII KV Las Hurdes (Vertical)",
@@ -1319,7 +1418,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xiii-roures-montblanc-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/9617/library/root/ba0c3907-8d0e-419a-ad68-70268435881b.jpg"
     },
     {
       "name": "CTO. DE ESPAÑA DE CLUBES KV Y IV COPA DE ESPAÑA KV CxM LAS HURDES",
@@ -1330,7 +1430,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-kv-cxm-xii-kilometro-vertical-de-las-hurdes-tio-picho",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/054b4322-210d-49c9-9eea-6da66d66965c.jpg"
     },
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1341,7 +1442,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/eurafrica-trail-gran-senda-de-malaga-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/1914d8c9-aaaf-4470-b07b-6e58c31591e7.png"
     },
     {
       "name": "EURAFRICA TRAIL CADIZ 2026",
@@ -1352,7 +1454,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/eurafrica-trail-cadiz-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/1914d8c9-aaaf-4470-b07b-6e58c31591e7.png"
     },
     {
       "name": "III TRAIL RUNNING BOCA DEL LOBO 2026",
@@ -1363,7 +1466,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iii-trail-running-boca-del-lobo-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/7666ad4c-0d8c-499b-9161-a2a6128bb551.jpg"
     },
     {
       "name": "XXXV CROSS 3 REFUGIOS",
@@ -1374,7 +1478,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xxxv-cross-3-refugios",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/9de2b83b-6e6e-4f61-b436-e765a3f4fc17.png"
     },
     {
       "name": "III Loiu 500 Trail ",
@@ -1385,7 +1490,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iii-loiu-500-trail-",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1261/library/root/0d1f696f-1df7-4fd5-83d8-2060c9d35823.jpg"
     },
     {
       "name": "Ruta de los Tres Ríos",
@@ -1418,7 +1524,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/increible-trail-org",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14476/library/root/8e0eae84-e65b-4473-9119-dd4488339595.jpg"
     },
     {
       "name": "2026 BEE BACKYARD TRAIL LOS BERROCALES",
@@ -1429,7 +1536,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/2026-bee-backyard-trail-los-berrocales",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15570/library/root/d887e0b7-1abc-4b1a-a01a-cd9b9c9d2883.png"
     },
     {
       "name": "XIV Doñana Trail Marathon Sevilla - El Rocío 2026",
@@ -1440,7 +1548,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xiv-donana-trail-marathon-sevilla-el-rocio-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2971/library/root/49a4aa54-68ae-4e2f-837a-3e49f2234cea.jpg"
     },
     {
       "name": "MONTANEJOS TRAIL 2026",
@@ -1451,7 +1560,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/montanejos-trail-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/1c882f7d-a76f-49f0-b894-f4313a7f4107.png"
     },
     {
       "name": "LA POTA ROJA 2026",
@@ -1462,7 +1572,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/pota-roja-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9659/library/root/a75b8c48-4e88-43c3-8b06-17a54a2b3ee0.png"
     },
     {
       "name": "Cursa de la Ratafia 2026",
@@ -1473,7 +1584,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/cursa-de-la-ratafia-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/3bc56a18-d488-46c3-a148-87f3d628ff98.jpeg"
     },
     {
       "name": "IV TRAIL SIERO",
@@ -1484,7 +1596,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/iv-trail-siero",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15634/library/root/a7d1b105-58cf-450d-8654-19ab35be1097.png"
     },
     {
       "name": "Marcha senderista del Mezquin",
@@ -1517,7 +1630,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/maraton-sierra-de-mijas",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14287/library/root/30d1b5af-d0b2-4fd3-82b1-30d5ecf47f74.jpg"
     },
     {
       "name": "PALEOTRAIL LOARRE 2026",
@@ -1528,7 +1642,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/paleotrail-loarre-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/22a4b493-ce87-4b7b-aa5f-624608fe7a58.jpg"
     },
     {
       "name": "BurriacXtrem 2026",
@@ -1539,7 +1654,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/burriacxtrem-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": null
     },
     {
       "name": "I PUJADA ALS PLANS",
@@ -1550,7 +1666,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/i-pujada-als-plans",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/72b6776e-ad8a-4d1c-87a0-1dbeadf94d6c.jpg"
     },
     {
       "name": "Bizkaia Kopa Trail / BKT 2026 / Larrabetzu",
@@ -1561,7 +1678,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/bizkaia-kopa-trail-bkt-2026-larrabetzu",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
     },
     {
       "name": "3 Días Trail Ibiza 2026",
@@ -1572,7 +1690,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/copy-3-dias-trail-ibiza-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11067/library/root/463395e4-1b6a-41c0-b060-2a48b0954242.png"
     },
     {
       "name": "Caras Nortes Skyrace 2026",
@@ -1583,7 +1702,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/caras-nortes-skyrace-2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/4f0a17c4-c6ab-4cef-b6ea-923b6003b71b.jpeg"
     },
     {
       "source": "agenda",
@@ -1605,7 +1725,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/lacizurgares26",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2000/library/root/03c85994-a1f7-4877-90f6-997af739800c.jpg"
     },
     {
       "name": "Caminata \"Ruta de la ermitas\"",
@@ -1627,7 +1748,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xv-trail-muntanya-de-vallada",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/cb9554e3-1618-49fb-a84b-b35596590d36.jpeg"
     },
     {
       "name": "Bizkaia Kopa Trail / BKT 2026 / Zamudio",
@@ -1638,7 +1760,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/bizkaia-kopa-trail-bkt-2026-zamudio",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
     },
     {
       "name": "Gran Canaria O-Meeting (GCOM 2026)",
@@ -1649,7 +1772,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/gcom2026",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
     },
     {
       "name": "UNICAJA ULTRA SIERRA NEVADA 2027",
@@ -1660,7 +1784,8 @@
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/unicaja-ultra-sierra-nevada-2027",
       "source": "rockthesport",
-      "sourceName": "Rockthesport"
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/8186c837-2d3d-4da9-90b3-e8b301a26b30.jpg"
     }
   ]
 }
