@@ -1,4 +1,5 @@
 import data from "@/data/events.json";
+import radar from "@/data/mentions.json";
 
 // Etiqueta y color de cada tipo de evento.
 const TIPOS = {
@@ -11,6 +12,15 @@ const TIPOS = {
 
 const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
 const MESES_CORTO = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+
+// "www.heraldo.es" a partir de la URL de una mención (para dar contexto de la fuente).
+function dominio(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
 
 // "2026-07-11T06:30:00" -> { year: 2026, month: 6, day: 11 }
 function parseDate(iso) {
@@ -108,6 +118,36 @@ export default function Home() {
             </ul>
           </section>
         ))}
+
+        {radar.mentions.length > 0 && (
+          <section className="mb-10">
+            <h2 className="mb-1 text-sm font-semibold uppercase tracking-widest text-zinc-500 dark:text-zinc-400">
+              📡 Radar
+            </h2>
+            <p className="mb-4 text-sm text-zinc-500 dark:text-zinc-500">
+              Titulares sobre eventos de montaña captados por las alertas.
+              Información sin verificar: aquí aparecen también cancelaciones,
+              crónicas y novedades.
+            </p>
+            <ul className="divide-y divide-zinc-200 overflow-hidden rounded-xl border border-zinc-200 bg-white dark:divide-zinc-800 dark:border-zinc-800 dark:bg-zinc-950">
+              {radar.mentions.slice(0, 25).map((m, i) => (
+                <li key={i} className="px-4 py-3">
+                  <a
+                    href={m.url}
+                    target="_blank"
+                    rel="noopener nofollow"
+                    className="text-sm font-medium text-black underline-offset-2 hover:underline dark:text-zinc-50"
+                  >
+                    {m.title || m.url}
+                  </a>
+                  <span className="ml-2 text-xs text-zinc-400 dark:text-zinc-600">
+                    {dominio(m.url)}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </main>
 
       <footer className="border-t border-zinc-200 bg-white px-6 py-6 dark:border-zinc-800 dark:bg-zinc-950">

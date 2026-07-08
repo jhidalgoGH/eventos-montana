@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T09:59:58.234Z",
+  "updatedAt": "2026-07-08T11:32:44.774Z",
   "events": [
     {
       "name": "Trail Vielha Molieres 3010",
@@ -9,6 +9,17 @@
       "locationName": "Lleida",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-vielha-molieres-3010",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XX Copa de Castilla y León de Carreras en Línea Absoluta: 4ª Prueba - Serrota Xtreme 2026",
+      "type": "carrera",
+      "startDate": "2026-07-11T08:30:00",
+      "endDate": "2026-07-11T15:00:00",
+      "locationName": "Ávila",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/xx-copa-de-castilla-y-leon-de-carreras-en-linea-absoluta-4-prueba-serrotapja-xtreme-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -31,6 +42,17 @@
       "locationName": "Albacete",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/amanece-trail-ayna",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Nocturna Trigueros del Valle",
+      "type": "travesia",
+      "startDate": "2026-07-11T21:30:00",
+      "endDate": "2026-07-11T23:59:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/senderismo-nocturno-actividad-por-trigueros",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -68,6 +90,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Asto Trail Mendi Lasterketa 2026",
+      "type": "carrera",
+      "startDate": "2026-07-18T08:00:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/asto-trail-mendi-lasterketa-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "B2H TRAIL 2026",
       "type": "carrera",
       "startDate": "2026-07-18T09:00:00",
@@ -79,6 +112,28 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "IV Copa de España Iberdrola de Marcha Nórdica Montmeló",
+      "type": "travesia",
+      "startDate": "2026-07-18T19:00:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-iberdrola-de-marcha-nordica-montmelo",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Nocturna SL-VA 57 Urueña",
+      "type": "travesia",
+      "startDate": "2026-07-18T21:30:00",
+      "endDate": "2026-07-18T23:59:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/senderismo-nocturno-actividad-por-el-sl-va-57-uruenanocturna",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XX. AZTIRIKO MENDI LASTERKETA",
       "type": "carrera",
       "startDate": "2026-07-19T10:30:00",
@@ -86,6 +141,28 @@
       "locationName": "Gipuzkoa",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xx-aztiriko-mendi-lasterketa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "OPEN CET 2026",
+      "type": "escalada",
+      "startDate": "2026-07-24T09:00:00",
+      "endDate": "2026-07-24T20:00:00",
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/open-cet-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Diurna SL-VA 57 Urueña",
+      "type": "travesia",
+      "startDate": "2026-07-25T09:00:00",
+      "endDate": "2026-07-25T11:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/senderismo-diurno-actividad-por-slva57-uruenadiurna",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -233,6 +310,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Encuentro Nacional de Corredoras por Montaña FEDME",
+      "type": "otro",
+      "startDate": "2026-09-04T18:00:00",
+      "endDate": null,
+      "locationName": "Cantabria",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/encuentro-nacional-de-corredoras-por-montana-fedme",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "TRAIL VALLE DE TENA 2026",
       "type": "carrera",
       "startDate": "2026-09-05T05:00:00",
@@ -295,6 +383,17 @@
       "locationName": "Navarra",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/txantreako-ielkartasunmendilasterketa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "UBIDEKO BIRA 2026",
+      "type": "travesia",
+      "startDate": "2026-09-12T09:00:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/ubideko-bira-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -376,6 +475,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Hiru Txikiak 2026",
+      "type": "travesia",
+      "startDate": "2026-09-19T08:00:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/hiru-txikiak-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "3ª INFINITE RACE VAL D'ARAN",
       "type": "carrera",
       "startDate": "2026-09-19T09:00:00",
@@ -398,6 +508,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Goierri Raid 2026",
+      "type": "otro",
+      "startDate": "2026-09-19T09:00:00",
+      "endDate": "2026-09-19T17:00:00",
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/goierri-raid-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Muskildia Trail 2026",
       "type": "carrera",
       "startDate": "2026-09-19T09:30:00",
@@ -405,6 +526,17 @@
       "locationName": "Navarra",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/muskildia-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Faldes del Puig Campana, Trail & Sender Nocturn, 2026",
+      "type": "carrera",
+      "startDate": "2026-09-19T19:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/faldes-del-puig-campana-trail-sender-nocturn-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -431,6 +563,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XVII Uharte Arakil - Beriain Km Bertikala",
+      "type": "carrera",
+      "startDate": "2026-09-20T10:00:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/xvii-uharte-arakil-beriain-km-bertikala",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "V SOM TRAIL SOM VALL DE SETA 2026",
       "type": "carrera",
       "startDate": "2026-09-26T07:00:00",
@@ -438,6 +581,28 @@
       "locationName": "Alicante/Alacant",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-som-trail-som-vall-de-seta-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "VIII Circuito de Senderismo - Marcha Senderista \"A Calamochos\"",
+      "type": "travesia",
+      "startDate": "2026-09-26T08:00:00",
+      "endDate": "2026-09-26T15:00:00",
+      "locationName": "Ávila",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-marcha-senderista-a-calamochos",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campeonato de Castilla y León de Carreras Verticales por Clubes y 3ª Prueba Copa de Carreras Verticales - Peñalara Vertical & Trail ",
+      "type": "carrera",
+      "startDate": "2026-09-26T08:00:00",
+      "endDate": "2026-09-26T15:00:00",
+      "locationName": "Segovia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-carreras-verticales-por-clubes-y-3-prueba-copa-de-carreras-vertical",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -460,6 +625,17 @@
       "locationName": "Huesca",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/trail-villa-de-sallent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "BASATRAIL MENDI LASTERKETA",
+      "type": "carrera",
+      "startDate": "2026-09-26T09:30:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/basatrail-mendi-lasterketa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -515,6 +691,17 @@
       "locationName": "Valencia/València",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/vii-benicatrail-beniatjar-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "III Copa de España en Linea y Campeonato de España para Ciegos en Linea de Carreras por Montaña Macael Mármol",
+      "type": "carrera",
+      "startDate": "2026-09-27T08:30:00",
+      "endDate": "2026-09-27T15:00:00",
+      "locationName": "Almería",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-en-linea-y-campeonato-de-espana-para-ciegos-en-linea-de-carreras-por-montana-maca",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -585,6 +772,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XVII. Anboto Kilometro Bertikala",
+      "type": "carrera",
+      "startDate": "2026-10-03T10:00:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/xvii-anboto-kilometro-bertikala",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "A NOCTURNA DO XEOPARQUE",
       "type": "carrera",
       "startDate": "2026-10-03T17:00:00",
@@ -608,7 +806,7 @@
     },
     {
       "name": "Marcha Rio Verde Trail ",
-      "type": "carrera",
+      "type": "travesia",
       "startDate": "2026-10-04T08:30:00",
       "endDate": "2026-10-04T13:00:00",
       "locationName": "Rioja (La)",
@@ -827,6 +1025,17 @@
       "sourceName": "FEDME (calendario oficial)"
     },
     {
+      "name": "IV Copa de España en Línea CxM Barbudo Skyrace",
+      "type": "carrera",
+      "startDate": "2026-10-18T08:30:00",
+      "endDate": "2026-10-18T15:30:00",
+      "locationName": "Murcia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-en-linea-cxm-barbudo-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XV CARRERA POR MONTAÑA \"LA ADRADA TRAIL\"",
       "type": "carrera",
       "startDate": "2026-10-18T09:00:00",
@@ -834,6 +1043,17 @@
       "locationName": "Ávila",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-la-adrada-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campeonato de Castilla y León de Carreras por Montaña en Línea por Clubes – CXM Miranda de Ebro",
+      "type": "carrera",
+      "startDate": "2026-10-18T09:00:00",
+      "endDate": "2026-10-18T15:00:00",
+      "locationName": "Burgos",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-carreras-por-montana-en-linea-por-clubes-cxm-miranda-de-ebro",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -882,6 +1102,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Aldapegora 2026",
+      "type": "travesia",
+      "startDate": "2026-10-24T09:15:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/aldapegora-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "V. Txara Trail 2026",
       "type": "carrera",
       "startDate": "2026-10-24T09:30:00",
@@ -911,6 +1142,17 @@
       "locationName": "Tarragona",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xiii-roures-montblanc-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "CTO. DE ESPAÑA DE CLUBES KV Y IV COPA DE ESPAÑA KV CxM LAS HURDES",
+      "type": "carrera",
+      "startDate": "2026-10-25T09:00:00",
+      "endDate": "2026-10-25T14:00:00",
+      "locationName": "Cáceres",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-kv-cxm-xii-kilometro-vertical-de-las-hurdes-tio-picho",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1153,6 +1395,17 @@
       "locationName": "Bizkaia",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/bizkaia-kopa-trail-bkt-2026-zamudio",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Gran Canaria O-Meeting (GCOM 2026)",
+      "type": "otro",
+      "startDate": "2026-12-27T10:00:00",
+      "endDate": "2026-12-31T17:00:00",
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/gcom2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
