@@ -19,12 +19,13 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { eventKey, today } from "./lib/util.mjs";
+import { eventKey, today, slug } from "./lib/util.mjs";
 import { collectRockthesport } from "./lib/rockthesport.mjs";
 import { collectGoogleAlerts } from "./lib/google-alerts.mjs";
 import { collectDesnivel } from "./lib/desnivel.mjs";
 import { collectFam } from "./lib/fam.mjs";
 import { collectRunnea } from "./lib/runnea.mjs";
+import { collectItra } from "./lib/itra.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = join(ROOT, "data");
@@ -103,6 +104,14 @@ try {
 }
 
 try {
+  const itra = await collectItra();
+  console.log(`  ITRA: ${itra.length} eventos`);
+  collected.push(...itra);
+} catch (err) {
+  console.error(`  ITRA FALLÓ: ${err.message}`);
+}
+
+try {
   const desnivel = await collectDesnivel(seenUrls);
   console.log(`  Desnivel: ${desnivel.events.length} eventos, ${desnivel.mentions.length} menciones`);
   collected.push(...desnivel.events);
@@ -113,15 +122,94 @@ try {
 }
 
 // --- 3. Fusionar con lo anterior, deduplicar y quitar pasados ---------------
-const merged = new Map();
+//
+// Deduplicado en dos niveles:
+//  a) exacto: mismo nombre normalizado + misma fecha (eventKey)
+//  b) difuso: misma fecha y nombres que comparten la mayoría de sus palabras
+//     significativas — el mismo evento suele llamarse distinto en cada fuente
+//     ("Gran Trail Aneto Posets 2026" vs "Gran Trail Trangoworld Aneto-Posets").
+//     En ese caso se conserva el registro ya existente y solo se rellenan sus
+//     huecos (imagen, fecha fin, lugar...) con los datos del nuevo.
+
+const PALABRAS_VACIAS = new Set([
+  "the", "les", "los", "las", "del", "de", "la", "el", "by", "and",
+  "gran", "trail", "ultra", "race", "carrera", "cursa", "marcha",
+  "edition", "edicion", "2025", "2026", "2027",
+]);
+
+function palabrasClave(name) {
+  return new Set(slug(name).split("-").filter((t) => t.length > 2 && !PALABRAS_VACIAS.has(t)));
+}
+
+function mismoEvento(a, b) {
+  if (a.size === 0 || b.size === 0) return false;
+  let comunes = 0;
+  for (const t of a) if (b.has(t)) comunes++;
+  const union = a.size + b.size - comunes;
+  // iguales en su mayoría, o uno contenido en el otro (mínimo 2 palabras comunes)
+  return comunes / union >= 0.5 || (comunes >= 2 && comunes === Math.min(a.size, b.size));
+}
+
+// Cuando dos fuentes traen el mismo evento, gana la de más prioridad
+// (las plataformas de inscripción tienen el enlace más útil para el visitante);
+// la otra solo rellena los huecos que falten.
+const PRIORIDAD = {
+  rockthesport: 3, runnea: 3,
+  fam: 2, fedme: 2, agenda: 2,
+  itra: 1, "google-alerts": 1, desnivel: 1,
+};
+
+function fusionarPreferente(a, b) {
+  const [base, extra] = (PRIORIDAD[b.source] || 0) > (PRIORIDAD[a.source] || 0) ? [b, a] : [a, b];
+  const out = { ...base };
+  for (const campo of ["endDate", "locationName", "country", "image"]) {
+    if (!out[campo] && extra[campo]) out[campo] = extra[campo];
+  }
+  return out;
+}
+
+const merged = new Map(); // clave exacta -> evento
+const porDia = new Map(); // "2026-07-17" -> [{ clave, palabras }]
+
+function indexar(clave, ev) {
+  const dia = String(ev.startDate).slice(0, 10);
+  if (!porDia.has(dia)) porDia.set(dia, []);
+  porDia.get(dia).push({ clave, palabras: palabrasClave(ev.name) });
+}
+
+function incorporar(ev) {
+  if (!ev.name || !ev.startDate) return;
+  const clave = eventKey(ev);
+
+  // a) coincidencia exacta: misma fuente = refresco; fuentes distintas = prioridad
+  if (merged.has(clave)) {
+    const viejo = merged.get(clave);
+    merged.set(clave, viejo.source === ev.source ? { ...viejo, ...ev } : fusionarPreferente(viejo, ev));
+    return;
+  }
+
+  // b) coincidencia difusa con otro evento del mismo día
+  const palabras = palabrasClave(ev.name);
+  for (const candidato of porDia.get(String(ev.startDate).slice(0, 10)) || []) {
+    if (mismoEvento(palabras, candidato.palabras)) {
+      merged.set(candidato.clave, fusionarPreferente(merged.get(candidato.clave), ev));
+      return;
+    }
+  }
+
+  // c) evento nuevo
+  merged.set(clave, ev);
+  indexar(clave, ev);
+}
 
 // Primero lo ya conocido (para que los eventos descubiertos días atrás no se pierdan)
-for (const ev of previous.events) merged.set(eventKey(ev), ev);
-// Después lo recogido hoy (si coincide la clave, el dato nuevo actualiza al viejo)
-for (const ev of collected) {
+for (const ev of previous.events) {
   if (!ev.name || !ev.startDate) continue;
-  merged.set(eventKey(ev), { ...merged.get(eventKey(ev)), ...ev });
+  merged.set(eventKey(ev), ev);
+  indexar(eventKey(ev), ev);
 }
+// Después lo recogido hoy
+for (const ev of collected) incorporar(ev);
 
 const cutoff = today();
 const events = [...merged.values()]
