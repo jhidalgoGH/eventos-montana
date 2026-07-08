@@ -62,8 +62,8 @@ export async function collectGoogleAlerts(seenUrls, { maxPagesPerRun = 40 } = {}
     }
     for (const entry of entries) {
       if (!entry.url || seenUrls[entry.url] || newlySeen[entry.url]) continue;
+      if (visited >= maxPagesPerRun) continue; // sin marcar: se visitará otro día si sigue en el feed
       newlySeen[entry.url] = new Date().toISOString().slice(0, 10);
-      if (visited >= maxPagesPerRun) continue; // registrada como vista, se procesará otro día si reaparece
       visited++;
 
       // Visitamos la página buscando datos estructurados de evento

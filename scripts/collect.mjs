@@ -24,6 +24,7 @@ import { collectRockthesport } from "./lib/rockthesport.mjs";
 import { collectGoogleAlerts } from "./lib/google-alerts.mjs";
 import { collectDesnivel } from "./lib/desnivel.mjs";
 import { collectFam } from "./lib/fam.mjs";
+import { collectRunnea } from "./lib/runnea.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = join(ROOT, "data");
@@ -80,6 +81,15 @@ try {
   collected.push(...fam);
 } catch (err) {
   console.error(`  FAM FALLÓ: ${err.message}`);
+}
+
+try {
+  const runnea = await collectRunnea(seenUrls);
+  console.log(`  Runnea: ${runnea.events.length} eventos`);
+  collected.push(...runnea.events);
+  Object.assign(seenUrls, runnea.seen);
+} catch (err) {
+  console.error(`  Runnea FALLÓ: ${err.message}`);
 }
 
 try {

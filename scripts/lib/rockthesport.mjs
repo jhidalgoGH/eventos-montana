@@ -4,7 +4,7 @@
 // para pedir los próximos eventos de trail en España, ordenados por fecha.
 // Una sola pasada al día, identificándonos en el user-agent.
 
-import { fetchJson, UA } from "./util.mjs";
+import { fetchJson, UA, classify } from "./util.mjs";
 
 const API = "https://publicservice.rockthesport.com/api";
 const SPAIN_COUNTRY_ID = 65;
@@ -21,15 +21,6 @@ const CATEGORIES = [
   { slug: "orienteering", defaultType: "otro" },
 ];
 
-// Decide el tipo de evento a partir del nombre; si no hay pistas, usa el de la categoría.
-function classify(title, defaultType) {
-  const t = title.toLowerCase();
-  if (/(encuentro|jornada|congreso)/.test(t)) return "otro";
-  if (/(marcha|traves[ií]|travessa|andada|caminata|senderis|hiking|trek)/.test(t)) return "travesia";
-  if (/(escalada|climbing|boulder|bloque|rocódromo|rocodromo)/.test(t)) return "escalada";
-  if (/(trail|carrera|cursa|lasterketa|race|cxm|marat[oó]n|marathon|skyrace|sky race|vertical|bertikala|\bkv\b|\bultra\b|cross|milla)/.test(t)) return "carrera";
-  return defaultType;
-}
 
 // Clave pública que la web de Rockthesport incluye en su propio código y
 // envía el navegador de cualquier visitante (no es una credencial privada).

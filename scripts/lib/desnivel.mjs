@@ -31,8 +31,8 @@ export async function collectDesnivel(seenUrls, { maxPagesPerRun = 10 } = {}) {
     const esCultura = url.includes("/cultura/") || RE_INTERES.test(title);
     if (!url || !esCultura || seenUrls[url] || newlySeen[url]) continue;
 
+    if (visited >= maxPagesPerRun) continue; // sin marcar: se visitará otro día
     newlySeen[url] = new Date().toISOString().slice(0, 10);
-    if (visited >= maxPagesPerRun) continue;
     visited++;
 
     let found = [];

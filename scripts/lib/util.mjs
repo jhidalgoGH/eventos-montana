@@ -57,6 +57,17 @@ export function pareceDeMontana(text) {
   return RE_MONTANA.test(String(text));
 }
 
+// Decide el tipo de evento a partir del nombre; si no hay pistas, usa el
+// tipo por defecto que indique la fuente.
+export function classify(title, defaultType) {
+  const t = String(title).toLowerCase();
+  if (/(encuentro|jornada|congreso)/.test(t)) return "otro";
+  if (/(marcha|traves[ií]|travessa|andada|caminata|senderis|hiking|trek)/.test(t)) return "travesia";
+  if (/(escalada|climbing|boulder|bloque|rocódromo|rocodromo)/.test(t)) return "escalada";
+  if (/(trail|carrera|cursa|lasterketa|race|cxm|marat[oó]n|marathon|skyrace|sky race|vertical|bertikala|\bkv\b|\bultra\b|cross|milla)/.test(t)) return "carrera";
+  return defaultType;
+}
+
 // Extrae la imagen de portada de una página (etiqueta og:image, la que usan
 // las redes sociales para las vistas previas). Devuelve null si no hay.
 export function extractOgImage(html) {
