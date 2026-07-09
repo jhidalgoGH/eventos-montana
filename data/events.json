@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T13:49:36.152Z",
+  "updatedAt": "2026-07-09T07:37:09.110Z",
   "events": [
     {
       "name": "HELL160 - Shadows and Dust",
@@ -11,6 +11,17 @@
       "url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.Hell160..160.km/2026/110687",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Social Run Misti Ultra Summit 2026",
+      "startDate": "2026-07-09T19:30:00-05:00",
+      "endDate": "2026-07-09T19:30:00-05:00",
+      "locationName": "Plaza de Yanahuara, Arequipa, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/primer-social-run-misti-ultra-summit-2026.webp",
+      "url": "https://www.running4peru.com/eventos/misti-ultra-summit-social-run/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "TRAILSERIES TRAIL NIGHT DUESAIGÜES",
@@ -107,6 +118,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "Carrera Ai Apaec Trail 2026",
+      "startDate": "2026-07-12T07:00:00-05:00",
+      "endDate": "2026-07-12T07:00:00-05:00",
+      "locationName": "Portal Santa Rosa, Moche, Trujillo, La Libertad, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/carrera-ai-apaec-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-ai-apaec-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Trail Esterregalls - La Cerdanya",
       "type": "carrera",
       "startDate": "2026-07-12T08:00:00",
@@ -163,6 +185,17 @@
       "url": "https://www.fam.es/comites/andadas-populares/calendario",
       "source": "fam",
       "sourceName": "FAM (andadas populares)"
+    },
+    {
+      "name": "La Florida Epic Trail 2026",
+      "startDate": "2026-07-18T06:30:00-05:00",
+      "endDate": "2026-07-18T06:30:00-05:00",
+      "locationName": "Loza Deportiva La Florida, Villa María del Triunfo, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/la-florida-epic-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/la-florida-epic-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "GARDUÑA TRAIL 2026",
@@ -279,6 +312,39 @@
       "url": "https://itra.run/Races/RaceDetails/Volta.a.peu.de.la.Serra.d.En.Galceran.21k/2026/115338",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Mountain Trail 2026",
+      "startDate": "2026-07-19T05:00:00-05:00",
+      "endDate": "2026-07-19T05:00:00-05:00",
+      "locationName": "Recreo Huscar Huandy, Huaraz, Ancash, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/11/carrera-mountain-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/sierra-andina-mountain-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Carrera Aniversario Quilmaná Trail Runners 2026",
+      "startDate": "2026-07-19T08:00:00-05:00",
+      "endDate": "2026-07-19T08:00:00-05:00",
+      "locationName": "Restaurante Doña Otilia, Quilmaná, Cañete, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/carrera-aniversario-quilmana-trail-runners-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-aniversario-quilmana-trail-runners/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Green Trail 10K 2026",
+      "startDate": "2026-07-19T09:30:00-05:00",
+      "endDate": "2026-07-19T09:30:00-05:00",
+      "locationName": "Fundo Chakas, Cañete, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/carrera-green-trail-10k-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-green-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XX. AZTIRIKO MENDI LASTERKETA",
@@ -723,6 +789,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/4508f5f9-7981-47da-90b9-07b84bee1552.png"
+    },
+    {
+      "name": "Misti Ultra Summit 2026",
+      "startDate": "2026-09-12T00:00:00-05:00",
+      "endDate": "2026-09-12T23:59:59-05:00",
+      "locationName": "Arequipa, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/misti-ultra-summit.webp",
+      "url": "https://www.running4peru.com/eventos/misti-ultra-summit/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Txantreako I.Elkartasunmendilasterketa",
@@ -1341,6 +1418,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/f5edf101-7092-4c22-9725-f7661aed4f2a.jpg"
     },
     {
+      "name": "I KV DE BIELSA",
+      "type": "carrera",
+      "startDate": "2026-09-27T10:00:00",
+      "endDate": null,
+      "locationName": "Huesca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/490532ad-a91f-4b6d-b561-cb9a1b27faa0.png",
+      "url": "https://web.rockthesport.com/es/event/i-kv-de-bielsa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "source": "agenda",
       "sourceName": "Agenda verificada",
       "country": "España",
@@ -1478,6 +1567,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/e35252de-3254-41e3-af75-bfcf0241d044.png"
+    },
+    {
+      "name": "Trail San Miguel de Abona-2026",
+      "type": "carrera",
+      "startDate": "2026-10-03T18:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/5efec027-774b-47ec-ab47-6cbcc09327f7.jpeg",
+      "url": "https://web.rockthesport.com/es/event/trail-san-miguel-de-abona-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "3 Cims de Vilafamés",
