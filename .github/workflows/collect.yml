@@ -9,7 +9,11 @@ name: Recoger eventos
 
 on:
   schedule:
-    - cron: "0 5 * * *" # todos los días a las 05:00 UTC (07:00 en España en verano)
+    # Dos pasadas al día, en minuto impar: GitHub desaconseja los horarios
+    # "en punto" (son los más congestionados y pueden retrasarse o perderse).
+    # La segunda pasada es la red de seguridad por si la primera se pierde.
+    - cron: "23 5 * * *" # ~07:23 en España (verano)
+    - cron: "23 17 * * *" # ~19:23 en España (verano)
   workflow_dispatch: # botón para lanzarla a mano
 
 permissions:
