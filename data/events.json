@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T07:37:09.110Z",
+  "updatedAt": "2026-07-09T19:03:45.033Z",
   "events": [
     {
       "name": "HELL160 - Shadows and Dust",
@@ -1519,6 +1519,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/07a17b62-f7f7-4403-867b-75ea8b3d9863.jpeg"
+    },
+    {
+      "name": "Areatzako Mendi Martxa XIII",
+      "type": "travesia",
+      "startDate": "2026-10-03T08:00:00",
+      "endDate": "2026-10-03T16:00:00",
+      "locationName": "Bizkaia",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11519/library/root/16890c1a-7f1b-4a6f-80ca-fb49d4cd182c.jpg",
+      "url": "https://web.rockthesport.com/es/event/areatzako-mendi-martxa-xiii",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Santxikorrota'26 - herri lasterketa",
