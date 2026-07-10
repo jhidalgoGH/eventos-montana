@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-07-09T19:03:45.033Z",
+  "updatedAt": "2026-07-10T06:58:38.703Z",
   "events": [
     {
-      "name": "HELL160 - Shadows and Dust",
-      "type": "carrera",
-      "startDate": "2026-07-09",
+      "name": "Talleres R. Escalada - Flandria",
+      "startDate": "2026-07-10T20:00:00+02:00",
       "endDate": null,
-      "locationName": "A do Pinto",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.Hell160..160.km/2026/110687",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Social Run Misti Ultra Summit 2026",
-      "startDate": "2026-07-09T19:30:00-05:00",
-      "endDate": "2026-07-09T19:30:00-05:00",
-      "locationName": "Plaza de Yanahuara, Arequipa, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/primer-social-run-misti-ultra-summit-2026.webp",
-      "url": "https://www.running4peru.com/eventos/misti-ultra-summit-social-run/",
-      "type": "travesia",
+      "locationName": "Talleres de Remedios de Escalada, nones",
+      "image": "https://cdn.resfu.com/media/img/rf-logo.png?v=3",
+      "url": "https://www.resultados-futbol.com/partido/talleres-remedios/flandria",
+      "type": "escalada",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
