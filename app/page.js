@@ -65,7 +65,17 @@ function porMeses(events) {
 export default function Home() {
   const grupos = porMeses(data.events);
   const actualizado = new Date(data.updatedAt);
-  const fechaActualizado = `${actualizado.getDate()} de ${MESES[actualizado.getMonth()]} de ${actualizado.getFullYear()}`;
+  const fechaActualizado = new Intl.DateTimeFormat("es-ES", {
+    timeZone: "Europe/Madrid",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  }).format(actualizado);
+  const horaActualizado = new Intl.DateTimeFormat("es-ES", {
+    timeZone: "Europe/Madrid",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(actualizado);
 
   return (
     <div className="flex flex-1 flex-col bg-zinc-50 font-sans dark:bg-black">
@@ -79,7 +89,7 @@ export default function Home() {
             automáticamente de fuentes públicas. Más un radar de noticias de montaña.
           </p>
           <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-500">
-            {data.events.length} eventos próximos · Actualizado el {fechaActualizado}
+            {data.events.length} eventos próximos · Actualizado el {fechaActualizado} a las {horaActualizado}
           </p>
         </div>
       </header>
