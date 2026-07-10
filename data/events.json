@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T06:58:38.703Z",
+  "updatedAt": "2026-07-10T08:10:03.485Z",
   "events": [
     {
       "name": "Talleres R. Escalada - Flandria",
@@ -2760,6 +2760,18 @@
       "url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Costa Brava Stage Run 2027",
+      "type": "carrera",
+      "startDate": "2027-04-16T10:30:00",
+      "endDate": "2027-04-18T16:00:00",
+      "locationName": "Girona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/51840e34-780f-4afa-9b2f-bea912898a5f.jpeg",
+      "url": "https://web.rockthesport.com/es/event/costa-brava-stage-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Farol Adventure Trail - Flores Azores",
