@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T07:21:15.898Z",
+  "updatedAt": "2026-07-11T18:04:17.237Z",
   "events": [
     {
       "name": "TRAILSERIES TRAIL NIGHT DUESAIGÜES",
@@ -163,6 +163,17 @@
       "url": "https://www.fam.es/comites/andadas-populares/calendario",
       "source": "fam",
       "sourceName": "FAM (andadas populares)"
+    },
+    {
+      "name": "Gran Trail Trangoworld Aneto-Posets",
+      "type": "carrera",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-19",
+      "locationName": "Benasque",
+      "country": "España",
+      "url": "https://itra.run/Races/RaceDetails/Gran.Trail.Trangoworld.Aneto.Posets.Gran.Trail/2026/121448",
+      "source": "itra",
+      "sourceName": "ITRA"
     },
     {
       "name": "La Florida Epic Trail 2026",
