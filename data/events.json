@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-10T18:52:59.967Z",
+  "updatedAt": "2026-07-11T05:34:23.684Z",
   "events": [
-    {
-      "name": "Talleres R. Escalada - Flandria",
-      "startDate": "2026-07-10T20:00:00+02:00",
-      "endDate": null,
-      "locationName": "Talleres de Remedios de Escalada, nones",
-      "image": "https://cdn.resfu.com/media/img/rf-logo.png?v=3",
-      "url": "https://www.resultados-futbol.com/partido/talleres-remedios/flandria",
-      "type": "escalada",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "TRAILSERIES TRAIL NIGHT DUESAIGÜES",
       "type": "carrera",
