@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T08:29:15.120Z",
+  "updatedAt": "2026-07-13T17:52:10.380Z",
   "events": [
     {
       "name": "Portugal 281 Ultramarathon",
@@ -236,7 +236,7 @@
       "endDate": "2026-07-25T08:30:00",
       "locationName": "Villa de Teror, Las Palmas",
       "image": "https://static.runnea.com/images/202506/aguas-teror-trail-2025-logo-bene-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/aguas-de-teror-trail-2026/",
+      "url": "https://www.runnea.com/carreras-populares/teror-trail/",
       "type": "carrera",
       "source": "runnea",
       "sourceName": "Runnea",
@@ -1284,7 +1284,7 @@
       "endDate": null,
       "locationName": "Huesca",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/490532ad-a91f-4b6d-b561-cb9a1b27faa0.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/f98af4d6-f9d8-462a-8d0c-1e5ba1f4c11d.png",
       "url": "https://web.rockthesport.com/es/event/i-kv-de-bielsa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1473,6 +1473,18 @@
       "url": "https://itra.run/Races/RaceDetails/Pisao.Extreme.Pisao.Extreme.L/2026/103613",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2026-10-04T08:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b568d519-074f-49fa-9b16-ac131ce618bc.png",
+      "url": "https://web.rockthesport.com/es/event/9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Sprint Trail Senyera, 2026",
