@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-07-12T18:13:54.819Z",
+  "updatedAt": "2026-07-13T05:54:34.760Z",
   "events": [
-    {
-      "name": "SKAL TRAIL ANDORRA",
-      "type": "carrera",
-      "startDate": "2026-07-12",
-      "endDate": null,
-      "locationName": "Escaldes",
-      "country": "Andorra",
-      "url": "https://itra.run/Races/RaceDetails/SKAL.TRAIL.ANDORRA.Experience/2026/117669",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Carrera Ai Apaec Trail 2026",
-      "startDate": "2026-07-12T07:00:00-05:00",
-      "endDate": "2026-07-12T07:00:00-05:00",
-      "locationName": "Portal Santa Rosa, Moche, Trujillo, La Libertad, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/carrera-ai-apaec-trail-2026.webp",
-      "url": "https://www.running4peru.com/eventos/carrera-ai-apaec-trail/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Trail Esterregalls - La Cerdanya",
-      "type": "carrera",
-      "startDate": "2026-07-12T08:00:00",
-      "endDate": "2026-07-12T13:00:00",
-      "locationName": "Girona",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13774/library/root/fe28ccfb-1db7-4186-907d-feeb382ba9f5.png",
-      "url": "https://web.rockthesport.com/es/event/trail-esterregalls-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "BOCA DEL INFIERNO 2026",
-      "type": "carrera",
-      "startDate": "2026-07-12T09:00:00",
-      "endDate": null,
-      "locationName": "Huesca",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/boca-del-infierno-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/6f1de97b-bb76-4bb5-a4a8-5b5bad18a126.png"
-    },
     {
       "name": "Portugal 281 Ultramarathon",
       "type": "carrera",
