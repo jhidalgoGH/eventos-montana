@@ -12,9 +12,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Eventos de Montaña",
+  metadataBase: new URL("https://eventos-montana.vercel.app"),
+  title: "Eventos de Montaña — Calendario de carreras, travesías, festivales y escalada",
   description:
-    "Agregador de eventos de montaña: carreras, travesías, festivales y competiciones de escalada de todo el mundo.",
+    "Calendario actualizado dos veces al día con cientos de eventos de montaña en España, Andorra y Portugal: carreras por montaña y trail running, travesías y marchas senderistas, festivales de cine de montaña y competiciones de escalada. Con radar de noticias del mundo de la montaña.",
+  openGraph: {
+    title: "Eventos de Montaña",
+    description:
+      "Carreras, travesías, festivales y competiciones de escalada, reunidos automáticamente en un calendario que se actualiza dos veces al día.",
+    url: "https://eventos-montana.vercel.app",
+    siteName: "Eventos de Montaña",
+    locale: "es_ES",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {

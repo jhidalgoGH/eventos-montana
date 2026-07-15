@@ -62,6 +62,34 @@ function porMeses(events) {
   return grupos;
 }
 
+// Ficha schema.org de los próximos eventos, para que los buscadores puedan
+// mostrarlos con formato destacado (el mismo estándar que nosotros leemos
+// de otras webs al recolectar).
+function fichasParaBuscadores(events) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: events.slice(0, 30).map((ev, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "Event",
+        name: ev.name,
+        startDate: ev.startDate,
+        ...(ev.endDate ? { endDate: ev.endDate } : {}),
+        eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+        location: {
+          "@type": "Place",
+          name: ev.locationName || ev.country || "Por confirmar",
+          address: { "@type": "PostalAddress", addressCountry: ev.country || "España" },
+        },
+        ...(ev.image ? { image: [ev.image] } : {}),
+        url: ev.url,
+      },
+    })),
+  };
+}
+
 export default function Home() {
   const grupos = porMeses(data.events);
   const actualizado = new Date(data.updatedAt);
@@ -79,6 +107,10 @@ export default function Home() {
 
   return (
     <div className="flex flex-1 flex-col bg-zinc-50 font-sans dark:bg-black">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(fichasParaBuscadores(data.events)) }}
+      />
       <header className="border-b border-zinc-200 bg-white px-6 py-4 dark:border-zinc-800 dark:bg-zinc-950">
         <div className="mx-auto max-w-4xl">
           <h1 className="text-2xl font-semibold tracking-tight text-black dark:text-zinc-50">
