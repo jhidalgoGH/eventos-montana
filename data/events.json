@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:25:45.386Z",
+  "updatedAt": "2026-07-15T18:19:19.536Z",
   "events": [
     {
       "name": "Portugal 281 Ultramarathon",
@@ -2650,6 +2650,42 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
     },
     {
+      "name": "VIII ALMÈDIA TRAIL ‐ CALLOSA D’EN SARRIÀ, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-01-17T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-01-31T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XIV MITJA MARATÓ OCAIVE – PEDREGUER, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-02-07T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "TAUT-TERRAS DO ANCIAO ULTRA TRAIL",
       "type": "carrera",
       "startDate": "2027-02-14",
@@ -2659,6 +2695,18 @@
       "url": "https://itra.run/Races/RaceDetails/TAUT.TERRAS.DO.ANCIAO.ULTRA.TRAIL.500K....The.Ancient.Quest/2027/119016",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "XVII Gegant de Pedra, Ondara, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-02-14T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Marbella Epic Trail",
