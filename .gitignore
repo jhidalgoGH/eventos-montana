@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# notas personales del usuario en la raíz de la carpeta (nunca subirlas)
+/*.txt
+
 # vercel
 .vercel
 
