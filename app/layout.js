@@ -13,6 +13,9 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   metadataBase: new URL("https://eventos-montana.vercel.app"),
+  verification: {
+    google: "JxkIuvOHnxVDSmgGUZYY8BJvXYg_2LNWxOr-Tsc5rUU",
+  },
   title: "Eventos de Montaña — Calendario de carreras, travesías, festivales y escalada",
   description:
     "Calendario actualizado dos veces al día con cientos de eventos de montaña en España, Andorra y Portugal: carreras por montaña y trail running, travesías y marchas senderistas, festivales de cine de montaña y competiciones de escalada. Con radar de noticias del mundo de la montaña.",
