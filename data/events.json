@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T07:33:38.710Z",
+  "updatedAt": "2026-07-16T17:39:05.799Z",
   "events": [
     {
       "name": "Portugal 281 Ultramarathon",
@@ -229,6 +229,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/15776/library/root/6d5651dd-2c1b-4ef0-bdd7-6cb3561182ea.jpg"
+    },
+    {
+      "name": "12 meses 12 rutas 3.0 - 11ª Ruta: Nocturna a la Atalaya veraniega",
+      "type": "travesia",
+      "startDate": "2026-07-24T21:00:00",
+      "endDate": null,
+      "locationName": "Toledo",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/cffbc822-7d96-481d-9385-3759a5f7a2b1.jpg",
+      "url": "https://web.rockthesport.com/es/event/12-meses-12-rutas-30-11-ruta-nocturna-a-la-atalaya-veraniega",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Aguas de Teror Trail 2026",
@@ -512,6 +524,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/677fef8c-553e-45a7-9967-2c9c4f9fa5fb.jpeg"
+    },
+    {
+      "name": "VIII Circuito de Senderismo de Castilla y León - XXIII Marcha de Veteranos \"Virgen del Castañar\"",
+      "type": "travesia",
+      "startDate": "2026-08-30T09:30:00",
+      "endDate": "2026-08-30T14:30:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/ddea7731-5311-4a93-b644-803ebf84eb59.jpg",
+      "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-de-castilla-y-leon-xxiii-marcha-de-veteranos-virgen-del-castanar",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Encuentro Nacional de Corredoras por Montaña FEDME",
@@ -893,6 +917,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10309/library/root/1b5e1381-3fae-4851-bd17-8c0d14819e4b.jpg"
     },
     {
+      "name": "VIII Circuito de Senderismo de Castilla y León - Ruta Lagunas del Trampal",
+      "type": "travesia",
+      "startDate": "2026-09-19T08:30:00",
+      "endDate": "2026-09-19T13:00:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/ae001533-f661-4a80-aec8-b551f9e110d2.jpg",
+      "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-de-castilla-y-leon-ruta-lagunas-del-trampal",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "3ª INFINITE RACE VAL D'ARAN",
       "type": "carrera",
       "startDate": "2026-09-19T09:00:00",
@@ -927,6 +963,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/15604/library/root/8d85a6b8-8683-44c4-835a-85aabf70701e.jpg"
+    },
+    {
+      "name": "Campeonato de Castilla y León de Escalada de Dificultad Absoluto y Final de Copa: Campo Base 2026",
+      "type": "escalada",
+      "startDate": "2026-09-19T09:00:00",
+      "endDate": "2026-09-19T19:00:00",
+      "locationName": "Burgos",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/da789e50-945f-475b-8520-d99f0ded0e21.jpg",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-escalada-de-dificultad-absoluto-y-final-de-copa-campo-base-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Muskildia Trail 2026",
@@ -1148,6 +1196,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2927/library/root/0640c2c0-88ac-49b2-88bb-5cb3aaca9272.png"
+    },
+    {
+      "name": "Campeonato de España de Barrancos y OPEN de Barrancos Asturias FEDME",
+      "type": "travesia",
+      "startDate": "2026-09-26T10:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/277ebd8b-3c00-4cdc-ae10-8dfa1d3f7059.jpg",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-barrancos-y-open-de-barrancos-asturias-fedme",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Gorbeia Suzien 21k 2026",
@@ -1493,7 +1553,7 @@
       "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b568d519-074f-49fa-9b16-ac131ce618bc.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/90c6ab18-1c45-485a-89ae-48a03426754d.png",
       "url": "https://web.rockthesport.com/es/event/9e-circuit-trail-marina-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2417,6 +2477,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "XXXII Jornadas de Senderos y Senderismo FEDME",
+      "startDate": "2026-11-13T00:00:00+00:00",
+      "endDate": "2026-11-15T23:59:59+00:00",
+      "locationName": "Gran Canaria",
+      "image": "https://fecamon.es/web2022/wp-content/uploads/jornadas_senderos_fedme_h.webp",
+      "url": "https://fecamon.es/eventos/xxxii-jornadas-de-senderos-y-senderismo-fedme/",
+      "type": "escalada",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Maratón Sierra de Mijas 2026",
       "type": "carrera",
       "startDate": "2026-11-14T08:30:00",
@@ -2720,6 +2791,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "V ATZAVARES TRAIL, ORBA-VALL LAGUAR, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-02-27T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "100 MILLAS SIERRAS DEL BANDOLERO by Trangoworld",
       "type": "carrera",
       "startDate": "2027-03-05",
@@ -2740,6 +2823,18 @@
       "url": "https://itra.run/Races/RaceDetails/IV.ATOM.ISASA.TRAIL.XTREM.Maratón.44.5.km/2027/121154",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "VIII PEGO TRAIL, Pego, CTM 26/27",
+      "type": "carrera",
+      "startDate": "2027-03-21T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/viii-pego-trail-pego-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "UNICAJA ULTRA SIERRA NEVADA 2027",
@@ -2763,6 +2858,18 @@
       "url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Camí Bandolers, Senija, CTM 26/27",
+      "type": "carrera",
+      "startDate": "2027-04-11T09:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/cami-bandolers-senija-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Costa Brava Stage Run 2027",
