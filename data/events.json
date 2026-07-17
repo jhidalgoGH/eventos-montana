@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T07:30:32.380Z",
+  "updatedAt": "2026-07-17T18:16:24.998Z",
   "events": [
     {
       "name": "Gran Trail Aneto Posets 2026",
@@ -1193,7 +1193,7 @@
       "endDate": null,
       "locationName": "Asturias",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/277ebd8b-3c00-4cdc-ae10-8dfa1d3f7059.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/b9d03d61-f51f-4079-8d65-eb9bfc22177a.jpeg",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-barrancos-y-open-de-barrancos-asturias-fedme",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2884,6 +2884,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "XVII Botamarges, Forna, CTM 26/27",
+      "type": "carrera",
+      "startDate": "2027-04-24T06:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/xvii-botamarges-forna-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Transvulcania adidas La Palma Island",
       "type": "carrera",
       "startDate": "2027-05-06",
@@ -2893,6 +2905,18 @@
       "url": "https://itra.run/Races/RaceDetails/Transvulcania.adidas.La.Palma.Island.Ultramarathon/2027/120378",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Trail de Primavera, Confrides, CTM 26/27",
+      "type": "carrera",
+      "startDate": "2027-05-08T07:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "44a VOLTA AL TERME DE FONDEGUILLA",
