@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-16T18:36:25.005Z",
+  "updatedAt": "2026-07-17T05:32:21.089Z",
   "events": [
-    {
-      "name": "Portugal 281 Ultramarathon",
-      "type": "carrera",
-      "startDate": "2026-07-16",
-      "endDate": null,
-      "locationName": "Belmonte",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Portugal.281.Ultramarathon.PT.281./2026/114709",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
     {
       "name": "Gran Trail Aneto Posets 2026",
       "startDate": "2026-07-17T01:00:00",
