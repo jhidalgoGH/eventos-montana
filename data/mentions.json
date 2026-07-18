@@ -1,6 +1,20 @@
 {
   "mentions": [
     {
+      "title": "Cadí-Moixeró: la ruta que esconde uno de los mejores recorridos de trail running de España",
+      "url": "https://www.mundodeportivo.com/running/carreras/20260718/1004205956/cadi-moixero-ruta-esconde-mejores-recorridos-trail-running-espana.html?facet=amp",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/06/15/6a3006a17713e.r_d.1521-1063-0.jpeg",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Albert Torelló, 38 años, corredor de montaña: “La larga distancia te enseña a posponer la ...",
+      "url": "https://www.mundodeportivo.com/running/carreras/20260718/1004203520/albert-torello-38-anos-corredor-montana-larga-distancia-te-ensena-posponer-recompensa.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/06/6a4bc014c63b1.r_d.366-734-16901.jpeg",
+      "date": "2026-07-18"
+    },
+    {
       "title": "Villa de Firgas: Acción Medioambiental de riego y mantenimiento de las repoblaciones en la ...",
       "url": "https://www.radiofarodelnoroeste.es/municipios/firgas/item/39311-villa-de-firgas-accion-medioambiental-de-riego-y-mantenimiento-de-las-repoblaciones-en-la-montana-de-firgas-el-domingo-26-de-julio",
       "typeHint": "carrera",
@@ -684,20 +698,6 @@
       "url": "https://www.levante-emv.com/deportes/2026/07/17/graviteo-abre-puertas-publico-mejor-132534701.html",
       "typeHint": "escalada",
       "image": "https://estaticos-cdn.prensaiberica.es/clip/3e2c4670-aa5e-4187-b9e9-aafd46e6dcdf_16-9-discover-aspect-ratio_default_0_x714y357.jpg",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "GRAVITEO abre sus puertas al público con el mejor deporte urbano y una potente oferta ...",
-      "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/17/graviteo-abre-puertas-publico-mejor-132534713.html",
-      "typeHint": "escalada",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/3e2c4670-aa5e-4187-b9e9-aafd46e6dcdf_16-9-discover-aspect-ratio_default_0_x714y357.jpg",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Descubre la escalada el 18 de julio en el Global Climbing Day con sesiones gratuitas",
-      "url": "https://www.revistaoxigeno.es/actualidad/descubre-escalada-18-julio-en-global-climbing-day-con-sesiones-gratuitas_329885_102.html",
-      "typeHint": "escalada",
-      "image": "https://www.revistaoxigeno.es/uploads/s1/15/19/68/86/dsf6521-low_3_565x325.jpeg",
       "date": "2026-07-17"
     }
   ]
