@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-07-17T18:30:46.679Z",
+  "updatedAt": "2026-07-18T06:20:39.119Z",
   "events": [
-    {
-      "name": "Gran Trail Aneto Posets 2026",
-      "startDate": "2026-07-17T01:00:00",
-      "endDate": "2026-07-17T01:00:00",
-      "locationName": "Valle de Benasque, Huesca",
-      "image": "https://static.runnea.com/images/202203/gran-trail-aneto-posets-2022-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/gran-trail-aneto-posets/",
-      "type": "carrera",
-      "source": "runnea",
-      "sourceName": "Runnea",
-      "country": "España"
-    },
     {
       "name": "Andada nocturna \"Ruta del Diablo\"",
       "type": "travesia",
