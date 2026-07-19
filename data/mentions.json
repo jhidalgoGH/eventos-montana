@@ -1,6 +1,41 @@
 {
   "mentions": [
     {
+      "title": "La Gran Trail Aneto-Posets vuelve a ser un éxito - Aragón Play",
+      "url": "https://www.aragonplay.es/aragondeporte/otros-deportes/benasque-vuelca-gran-trail-aneto-posets-multitudinaria.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.aragonplay.es/files/og_thumbnail/uploads/2026/07/19/6a5cc30aade58.jpeg",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Zapatillas de Deporte Joma Barefoot para Niños | Deditos",
+      "url": "https://deditosbarefoot.com/joma/zapatillas-de-deporte-joma-barefoot-ninos/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La escalada pone el broche a un intenso GRAVITEO - El Periódico de Aragón",
+      "url": "https://www.elperiodicodearagon.com/deportes/2026/07/19/escalada-pone-broche-intenso-graviteo-132606634.html",
+      "typeHint": "escalada",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/fd8ff9df-f971-4e86-9198-3aec2f546120_16-9-discover-aspect-ratio_default_0_x640y284.jpg",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Bernat Clarella, presidente de la FEDME, en GRAVITEO: \"Ha sido un gran evento ... - Faro de Vigo",
+      "url": "https://www.farodevigo.es/deportes/2026/07/19/bernat-clarella-presidente-fedme-graviteo-132602410.amp.html",
+      "typeHint": "escalada",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/942ab874-643d-44d6-9231-99248b44ae55_16-9-discover-aspect-ratio_default_0_x1000y375.jpg",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Escalada de tensiones con Irán: aviones de combate estadounidenses podrían aterrizar en Israel",
+      "url": "https://agenciaajn.com/noticia/escalada-de-tensiones-con-iran-aviones-de-combate-estadounidenses-podrian-aterrizar-en-israel-309090",
+      "typeHint": "escalada",
+      "image": "https://agenciaajn.com/new/wp-content/uploads/2026/07/ap793497284316.webp",
+      "date": "2026-07-19"
+    },
+    {
       "title": "pantalones trail running kiprun 900 ultra: prueba 200k mayayo, de marsella a noruega.",
       "url": "https://carrerasdemontana.com/2026/07/19/pantalones-trail-running-kiprun-mayayo/",
       "typeHint": "travesia",
@@ -663,41 +698,6 @@
       "url": "https://www.jornada.com.mx/noticia/2026/07/17/economia/-peso-mexicano-retrocede-en-la-semana-por-escalada-militar-en-medio-oriente",
       "typeHint": "escalada",
       "image": null,
-      "date": "2026-07-18"
-    },
-    {
-      "title": "¿Cuál es la mejor super naked japonesa? Comparamos la Z1100 SE, GSX-S1000 y Hornet SP",
-      "url": "https://www.motosan.es/motos/cual-es-mejor-super-naked-japonesa-z1100-gsxs1000-hornet-sp/",
-      "typeHint": "escalada",
-      "image": "https://www.motosan.es/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-19.33.30.jpeg",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Graviteo se adueña del Circuit: “Es una oportunidad brutal patinar aquí” - El Periódico",
-      "url": "https://www.elperiodico.com/es/deportes/20260718/graviteo-aduena-circuit-oportunidad-brutal-patinar-escalada-132553403",
-      "typeHint": "escalada",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/cec0754e-ea26-4a9f-a051-06b51cb15dda_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Los cruces por el estrecho de Ormuz cayeron al mínimo en tres semanas por la escalada militar",
-      "url": "https://diariolaventana.com.ar/los-cruces-del-estrecho-de-ormuz-cayeron-a-su-minimo-en-tres-semanas-por-la-escalada-militar-entre-iran-y-estados-unidos/",
-      "typeHint": "escalada",
-      "image": "https://diariolaventana.com.ar/wp-content/uploads/2026/07/image-100.png",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Peso mexicano se deprecia frente al dólar por escalada en la guerra de Oriente Medio",
-      "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-17-julio-2026-cuanto-cotiza-20260717-823762.html",
-      "typeHint": "escalada",
-      "image": "https://imagenes.eleconomista.com.mx/files/image_1200_600/uploads/2026/06/01/6a1da3af5ee16.webp",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Carla Martínez Vidal se corona campeona en la World Climbing Europe Series Speed ...",
-      "url": "https://fedme.es/carla-martinez-vidal-se-corona-campeona-en-la-world-climbing-europe-series-speed-barcelona-2026/",
-      "typeHint": "escalada",
-      "image": "https://fedme.es/wp-content/uploads/2026/07/ZUR6458-scaled.webp",
       "date": "2026-07-18"
     }
   ]
