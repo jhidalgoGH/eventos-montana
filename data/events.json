@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T08:19:49.365Z",
+  "updatedAt": "2026-07-20T17:37:13.115Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -2453,6 +2453,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/sprint-trail-la-mola-calp-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "CURSA TOMBATOSSALS TRAILS DE CASTELLÓ 26",
+      "type": "carrera",
+      "startDate": "2026-12-13T09:00:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/7083c506-8130-43cf-a9e4-0c701a34b1e9.jpeg",
+      "url": "https://web.rockthesport.com/es/event/cursa-tombatossals-trails-de-castello-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
