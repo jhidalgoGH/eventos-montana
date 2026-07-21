@@ -1,6 +1,69 @@
 {
   "mentions": [
     {
+      "title": "CARRERA POR MONTAÑA AL ARCO DE PIEDRAFITA DE JACA. - Montañeras Adebán",
+      "url": "https://www.montanerasadeban.com/2026/07/19/carrera-por-montana-al-arco-de-piedrafita-de-jaca/",
+      "typeHint": "carrera",
+      "image": "https://www.montanerasadeban.com/wp-content/uploads/2026/07/IMG_20260711_105942_1-scaled.jpg",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Nnormal estrena 'Not Just Running', un documental sobre Joyce Njeru - SPORT",
+      "url": "https://www.sport.es/es/noticias/outdoor/nnormal-estrena-not-just-running-132653079",
+      "typeHint": "travesia",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/5027231f-e215-4436-b979-5ee2252867d9_16-9-discover-aspect-ratio_default_0_x800y355.jpg",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Saucony Peregrine 16 Zapatillas de Trail Running Mujer - Vizired",
+      "url": "https://www.misterrunning.com/es/saucony-peregrine-16-zapatillas-de-trail-running-mujer-vizired-s101577-1013.html",
+      "typeHint": "travesia",
+      "image": "https://www.misterrunning.com/images/2026-media-07/saucony-peregrine-16-scarpe-da-trail-running-donna-vizired-s101577-1013-A_1.jpg",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Camiño dos Faros: la travesía de la Costa da Morte en Galicia que todo corredor de ...",
+      "url": "https://www.mundodeportivo.com/running/carreras/20260721/1004206019/camino-dos-faros-travesia-costa-gallega-corredor-deberia-vez.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/13/6a54fa87ebed2.r_d.512-337-11719.jpeg",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Sacaron 13 sacos de desechos sólidos de Mar de Pescaíto - hoy diario del magdalena",
+      "url": "https://hoydiariodelmagdalena.com.co/archivos/1303044/sacaron-13-sacos-de-desechos-solidos-de-mar-de-pescaito",
+      "typeHint": "travesia",
+      "image": "https://hoydiariodelmagdalena.com.co/social-image/news/1303044/opengraph-image.jpg?v=1784589704183",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Nueve empresas ofertaron para el mantenimiento de espacios verdes - Infoeme",
+      "url": "https://www.infoeme.com/nota/2026-7-20-14-39-0-licitaron-obras-para-el-mantenimiento-de-espacios-verdes",
+      "typeHint": "travesia",
+      "image": "https://pxbcdn.infoeme.com/infoeme/072026/1784569193423.jpg?cw=600&ch=365",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "FABIÁN VENERO: «NADA ME HARÍA MÁS FELIZ QUE ESCUCHAR EL HIMNO CON EL ...",
+      "url": "https://fedme.es/fabian-venero-nada-me-haria-mas-feliz-que-escuchar-el-himno-con-el-equipo-en-la-gomera/",
+      "typeHint": "escalada",
+      "image": "https://fedme.es/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-20-at-18.29.19-scaled.webp",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "EU emite ALERTA mundial de viaje a Medio Oriente ante riesgo de 'escalada imprevista'",
+      "url": "https://www.informador.mx/internacional/eu-emite-alerta-mundial-de-viaje-a-medio-oriente-ante-riesgo-de-escalada-imprevista-20260720-0196.html",
+      "typeHint": "escalada",
+      "image": "https://www.informador.mx/__export/1784606364413/sites/elinformador/img/2026/07/20/eu_emite_alerta_mundial_de_viaje_a_medio_oriente_ante_riesgo_de_-escalada_imprevista-.jpg_1563535753.jpg",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Escalada, kayak y alta montaña: así se mantiene activo el CEMAC Toluca a sus 96 años",
+      "url": "https://oem.com.mx/elsoldetoluca/deportes/escalada-kayak-y-alta-montana-asi-se-mantiene-activo-el-cemac-toluca-a-sus-96-anos-31213449",
+      "typeHint": "escalada",
+      "image": "https://oem.com.mx/elsoldetoluca/img/31213456/1784586062/BASE_LANDSCAPE/1200/image.jpg",
+      "date": "2026-07-21"
+    },
+    {
       "title": "Trail running : r/guatemala - Reddit",
       "url": "https://www.reddit.com/r/guatemala/comments/1v27pkc/trail_running/",
       "typeHint": "travesia",
@@ -635,69 +698,6 @@
       "url": "https://oem.com.mx/elsoldetlaxcala/deportes/se-unen-corredores-en-apoyo-a-raul-carrillo-quien-requiere-una-cirugia-31202221",
       "typeHint": "travesia",
       "image": "https://oem.com.mx/elsoldetlaxcala/img/31202091/1784485433/BASE_LANDSCAPE/1200/image.jpg",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Realizan con éxito carrera benéfica para niños con cáncer en Umán - Noticias de Yucatán",
-      "url": "https://yucatan.quadratin.com.mx/deportes/realizan-con-exito-carrera-benefica-para-ninos-con-cancer-en-uman/",
-      "typeHint": "travesia",
-      "image": "https://yucatan.quadratin.com.mx/www/wp-content/uploads/2026/07/carrera-Uman.jpg",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "La primera fase de los Juegos Rurales reunió a cientos de familias campesinas en un fin de ...",
-      "url": "http://www.gobiernobogota.gov.co/noticias/sumapaz-celebro-deporte-rural-con-mas",
-      "typeHint": "travesia",
-      "image": "http://www.gobiernobogota.gov.co/sites/default/files/noticias-sdg/Alcalde%20local%20con%20ganadores%20de%20los%20Interveredales.jpeg",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Tenis de trail running para hombre Nike Juniper Trail 3",
-      "url": "https://www.nike.com/us/es/t/tenis-de-trail-running-para-hombre-nike-juniper-trail-3-wfHTW1",
-      "typeHint": "travesia",
-      "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1a43ba09-d497-47a8-89e8-81d234a2e113/NIKE+JUNIPER+TRAIL+3.png",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Desafío Cacheuta 2026: Todo sobre la mítica carrera de trail running en Mendoza",
-      "url": "https://mendozacorre.com/desafio-cacheuta-2026-trail-running-mendoza/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-20"
-    },
-    {
-      "title": "¡Felicitaciones @leonelarodriguezzu ! Ganadora de los 20k @traildelosciervos 2026! 1:46 ...",
-      "url": "https://www.instagram.com/reel/Da_BXlnvoku/",
-      "typeHint": "travesia",
-      "image": "https://scontent-hkg4-1.cdninstagram.com/v/t51.71878-15/752325789_870165829149664_7478541433366610713_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=AVGkIqV-zNYQ7kNvwHO9Y40&amp;_nc_oc=AdrDEv4qShPkMhqzZaEFUHmbO1Xk-0rAa4ak5tQo2T3_f-3y1MfmxT30A-oE9bmO1yA&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg4-1.cdninstagram.com&amp;_nc_gid=MavJYeJ2d5vY8YuqS-m3qw&amp;_nc_ss=7f689&amp;oh=00_AQD_ZzED3XzAr_Q7Kdvn2gkkfdVR2XAHpwjV_GDa-hvQ8w&amp;oe=6A6382FF",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "‍♀️⛰️ NO TE RINDAS RUNNING TEAM DIJO PRESENTE EN LA RÚSTICA TRAIL RUNNING ...",
-      "url": "https://www.instagram.com/p/Da_A1SZgvdX/",
-      "typeHint": "travesia",
-      "image": "https://scontent-hkg1-2.cdninstagram.com/v/t39.30808-6/750566677_1484128896852526_3648341836774628508_n.jpg?stp=c135.0.406.406a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kajBCMuwEecQ7kNvwFpE-91&amp;_nc_oc=Adp8c4h1PDhHm_W-c9l5V0xPv_k538nzGlNurHZZqGokgCxX_REPONXmpu-Xzd1j7bE&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg1-2.cdninstagram.com&amp;_nc_gid=yvieOCeiwHpPFFl92lr8Cg&amp;_nc_ss=7f689&amp;oh=00_AQDz08vbOMx1QIwEvHAkRB_LAFLOSjn05o7lyJ6JWb2eIQ&amp;oe=6A63712B",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Deportistas calameños brillaron en la Ruta Changa 2026 - Diario Digital enlalinea.cl",
-      "url": "https://www.enlalinea.cl/deportistas-calamenos-brillaron-en-la-ruta-changa-2026/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-20"
-    },
-    {
-      "title": "pantalon trail running hombre archivos - carreras de montaña, por mayayo",
-      "url": "https://carrerasdemontana.com/category/pantalon-trail-running-hombre/",
-      "typeHint": "travesia",
-      "image": "https://i0.wp.com/carrerasdemontana.com/wp-content/uploads/2017/01/carrerasdemontana-com-logo-1500x500-twitter_1.png?fit=1500%2C500&ssl=1",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Tenis de trail running para niños grandes Nike Pegasus Trail 5",
-      "url": "https://www.nike.com/mx/t/tenis-de-trail-running-para-ninos-grandes-nike-pegasus-trail-5-ZZmnEYzk",
-      "typeHint": "travesia",
-      "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/51beeb75-6307-4acd-962c-326b0a2180b3/NIKE+PEGASUS+TRAIL+5+%28GS%29.png",
       "date": "2026-07-20"
     }
   ]
