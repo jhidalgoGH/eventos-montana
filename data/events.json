@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:44:01.286Z",
+  "updatedAt": "2026-07-21T18:00:55.805Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -1946,6 +1946,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/054b4322-210d-49c9-9eea-6da66d66965c.jpg"
+    },
+    {
+      "name": "XI Trail de Bocairent.",
+      "type": "carrera",
+      "startDate": "2026-10-25T09:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/abf1b343-f6f8-4bc4-a840-b8b33deee066.png",
+      "url": "https://web.rockthesport.com/es/event/xi-trail-de-bocairent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
