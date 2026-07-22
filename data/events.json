@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T07:44:09.842Z",
+  "updatedAt": "2026-07-22T18:05:18.613Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -2142,7 +2142,7 @@
       "url": "https://web.rockthesport.com/es/event/2026-bee-backyard-trail-los-berrocales",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15570/library/root/d887e0b7-1abc-4b1a-a01a-cd9b9c9d2883.png"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15570/library/root/9f5f9577-4013-4c3d-8d45-dae5336d381b.png"
     },
     {
       "name": "XIV Doñana Trail Marathon Sevilla - El Rocío 2026",
@@ -2630,6 +2630,18 @@
       "url": "https://itra.run/Races/RaceDetails/IV.ATOM.ISASA.TRAIL.XTREM.Maratón.44.5.km/2027/121154",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "10º Onil Trails, 2027",
+      "type": "carrera",
+      "startDate": "2027-03-14T08:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/1862f09c-402f-4917-a5c5-24e8d057b763.jpeg",
+      "url": "https://web.rockthesport.com/es/event/10-onil-trails-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "VIII PEGO TRAIL, Pego, CTM 26/27",
