@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:53:00.716Z",
+  "updatedAt": "2026-07-23T18:41:11.626Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -2167,6 +2167,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/1c882f7d-a76f-49f0-b894-f4313a7f4107.png"
+    },
+    {
+      "name": "II ARGENTE TRAIL RACE 2026",
+      "type": "carrera",
+      "startDate": "2026-11-07T10:30:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/fc7895a6-aab9-44ba-96c5-0ad3bb8ed8d3.jpeg",
+      "url": "https://web.rockthesport.com/es/event/ii-argente-trail-race-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Trail do Marco",
