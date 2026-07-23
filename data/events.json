@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T07:45:58.233Z",
+  "updatedAt": "2026-07-23T17:53:00.716Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -1049,7 +1049,7 @@
       "sourceName": "ITRA"
     },
     {
-      "name": "Valls del Freser 2026",
+      "name": " Valls del Freser 2026",
       "type": "carrera",
       "startDate": "2026-09-27T08:00:00",
       "endDate": null,
@@ -1058,7 +1058,7 @@
       "url": "https://web.rockthesport.com/es/event/-valls-del-freser-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2506/library/root/4e5e8b5f-e8a1-46cb-a422-ec86552749e6.png"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2506/library/root/75e7a28d-5535-49d7-bc9b-7849f235512f.png"
     },
     {
       "name": "VII BENICATRAIL, Beniatjar 2026",
