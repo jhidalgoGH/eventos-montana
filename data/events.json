@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T18:38:09.862Z",
+  "updatedAt": "2026-07-23T06:21:05.647Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -2630,6 +2630,18 @@
       "url": "https://itra.run/Races/RaceDetails/IV.ATOM.ISASA.TRAIL.XTREM.Maratón.44.5.km/2027/121154",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Trail Fuentealta Vilaflor 2027",
+      "type": "carrera",
+      "startDate": "2027-03-12T17:00:00",
+      "endDate": "2027-03-13T14:00:00",
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/5e69c267-f350-4ac6-ac7c-44c5bbafce40.jpg",
+      "url": "https://web.rockthesport.com/es/event/trail-fuentealta-vilaflor-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "10º Onil Trails, 2027",
