@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T07:43:16.016Z",
+  "updatedAt": "2026-07-24T17:37:02.178Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -2815,6 +2815,18 @@
       "url": "https://itra.run/Races/RaceDetails/Picos.de.Europa.Travesera.Integral.Travesera.Integral.Picos.de.Europa/2027/120731",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "RIAÑO TRAIL RUN 2027",
+      "type": "carrera",
+      "startDate": "2027-06-25T08:15:00",
+      "endDate": "2027-06-27T15:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/90244d22-d998-4135-b40f-9417b860c970.jpg",
+      "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     }
   ]
 }
