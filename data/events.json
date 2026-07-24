@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:37:02.178Z",
+  "updatedAt": "2026-07-24T18:52:24.005Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -72,6 +72,17 @@
       "source": "runnea",
       "sourceName": "Runnea",
       "country": "Andorra"
+    },
+    {
+      "name": "Los Ñadis Trail Running",
+      "startDate": "2026-08-01T07:00:00Z",
+      "endDate": null,
+      "locationName": "Fundo Los ñadis, Panguipulli, R. De Los Ríos, CL",
+      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMDIvMDMvN2p1bThoNm16Nl9sb3NfbmFkaXNfdHJhaWxfcnVubmluZ18yMDI2LmpwZyJdXQ?sha=3e36757a8135bf37",
+      "url": "https://tusdesafios.com/events/los-nadis-trail-running-2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Vientos Mineros Trail 2026",
