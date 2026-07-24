@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:41:11.626Z",
+  "updatedAt": "2026-07-24T05:33:18.876Z",
   "events": [
     {
       "name": "OPEN CET 2026",
@@ -537,6 +537,17 @@
       "url": "https://itra.run/Races/RaceDetails/Trail.Encostas.de.Xira.Trail.Longo/2026/120306",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "TRAIL RUNNING CUMANDA 3RA EDICIÓN / LA RESISTENCIA BIKE",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "locationName": "",
+      "image": "https://fasttimeecuador.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-11.22.31-AM.jpeg",
+      "url": "https://fasttimeecuador.com/eventos/trail-running-cumanda-3ra-edicion-la-resistencia-bike/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XXVI PUJADA AL MONTCABRER",
