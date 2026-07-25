@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-07-24T18:52:24.005Z",
+  "updatedAt": "2026-07-25T06:03:58.205Z",
   "events": [
-    {
-      "name": "OPEN CET 2026",
-      "type": "escalada",
-      "startDate": "2026-07-24T09:00:00",
-      "endDate": "2026-07-24T20:00:00",
-      "locationName": "Santa Cruz de Tenerife",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/open-cet-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15776/library/root/6d5651dd-2c1b-4ef0-bdd7-6cb3561182ea.jpg"
-    },
-    {
-      "name": "12 meses 12 rutas 3.0 - 11ª Ruta: Nocturna a la Atalaya veraniega",
-      "type": "travesia",
-      "startDate": "2026-07-24T21:00:00",
-      "endDate": null,
-      "locationName": "Toledo",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/cffbc822-7d96-481d-9385-3759a5f7a2b1.jpg",
-      "url": "https://web.rockthesport.com/es/event/12-meses-12-rutas-30-11-ruta-nocturna-a-la-atalaya-veraniega",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Aguas de Teror Trail 2026",
       "startDate": "2026-07-25T08:30:00",
