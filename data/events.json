@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T07:30:09.808Z",
+  "updatedAt": "2026-07-25T17:27:21.000Z",
   "events": [
     {
       "name": "Aguas de Teror Trail 2026",
@@ -48,6 +48,17 @@
       "source": "runnea",
       "sourceName": "Runnea",
       "country": "Andorra"
+    },
+    {
+      "name": "Il Carpegna mi basta Trail Running",
+      "startDate": "2026-07-26T06:00:00.000Z",
+      "endDate": "2026-07-26T11:00:00.000Z",
+      "locationName": "Carpegna, PU, Carpegna, PU, ITA",
+      "image": "https://s3-eu-west-1.amazonaws.com/ecs-gruppi/00000000/00030000/00038200/00038273/images/top.jpg",
+      "url": "https://www.endu.net/events/il-carpegna-mi-basta-trail-running",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Los Ñadis Trail Running",
