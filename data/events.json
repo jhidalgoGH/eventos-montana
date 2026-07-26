@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T07:47:42.057Z",
+  "updatedAt": "2026-07-26T17:33:44.899Z",
   "events": [
     {
       "name": "XTERRA Comapedrosa Skyrace 2026",
@@ -2302,6 +2302,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": null
+    },
+    {
+      "name": "Txulato Trail Zambrana",
+      "type": "carrera",
+      "startDate": "2026-11-15T10:00:00",
+      "endDate": null,
+      "locationName": null,
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ceaa67a0-b000-493c-b0e5-c6f7aa6df3e3.png",
+      "url": "https://web.rockthesport.com/es/event/txulato-trail-zambrana",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
