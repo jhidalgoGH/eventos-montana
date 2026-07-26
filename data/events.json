@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-07-25T18:13:10.559Z",
+  "updatedAt": "2026-07-26T05:57:17.638Z",
   "events": [
-    {
-      "name": "Aguas de Teror Trail 2026",
-      "startDate": "2026-07-25T08:30:00",
-      "endDate": "2026-07-25T08:30:00",
-      "locationName": "Villa de Teror, Las Palmas",
-      "image": "https://static.runnea.com/images/202506/aguas-teror-trail-2025-logo-bene-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/teror-trail/",
-      "type": "carrera",
-      "source": "runnea",
-      "sourceName": "Runnea",
-      "country": "España"
-    },
-    {
-      "name": "Senderismo Turístico por la Provincia de Valladolid: Ruta Astronómica Diurna SL-VA 57 Urueña",
-      "type": "travesia",
-      "startDate": "2026-07-25T09:00:00",
-      "endDate": "2026-07-25T11:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/senderismo-diurno-actividad-por-slva57-uruenadiurna",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e525485b-271b-422b-a16b-865cfb7eaf6f.png"
-    },
-    {
-      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta Astronómica Diurna SL-VA 57 Urueña",
-      "type": "travesia",
-      "startDate": "2026-07-25T09:00:00",
-      "endDate": "2026-07-25T11:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e525485b-271b-422b-a16b-865cfb7eaf6f.png",
-      "url": "https://web.rockthesport.com/es/event/senderismo-diurno-actividad-por-slva57-uruenadiurna",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "XTERRA Comapedrosa Skyrace 2026",
       "startDate": "2026-07-26T01:00:00",
