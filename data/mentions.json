@@ -1,6 +1,20 @@
 {
   "mentions": [
     {
+      "title": "Recepción a Silvia Piera - dbSportpress",
+      "url": "https://dbsport.press/recepcion-a-silvia-piera-2/",
+      "typeHint": "travesia",
+      "image": "https://dbsport.press/wp-content/uploads/2026/07/Silvia-Piera-1.jpg",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Cerdillo de Sanabria supera los 300 inscritos para la IV Kedada Trail Cerdirock - Zamora News",
+      "url": "https://www.zamoranews.com/articulo/deportes/cerdillo-sanabria-supera-300-inscritos-iv-kedada-trail-cerdirock/20260727174939405546.amp.html",
+      "typeHint": "travesia",
+      "image": "https://www.zamoranews.com/media/zamoranews/images/2026/07/27/2026072717483778531.jpg",
+      "date": "2026-07-27"
+    },
+    {
       "title": "Melilla acoge en octubre la II Carrera por Montaña Nocturna - RTVE.es",
       "url": "https://www.rtve.es/play/videos/programa/deportes-federacion-montanismo-organizan-3-octubre-carrera-montana-nocturna/17170804/",
       "typeHint": "carrera",
@@ -684,20 +698,6 @@
       "url": "https://www.vietnam.vn/es/nam-sinh-hung-yen-gianh-ve-vao-chung-ket-duong-len-dinh-olympia-nam-thu-26",
       "typeHint": "escalada",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785051079793_nam-sinh-hung-yen-gianh-ve-vao-chung-ket-duong-len-dinh-olympia-nam-thu-26-688.png",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "El futuro del escalada deportiva en Corea brilló: 2 oros, 3 platas y 1 bronce en el ...",
-      "url": "https://www.starnewskorea.com/es/sports/2026/07/26/2026072615453950816",
-      "typeHint": "escalada",
-      "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=799,fit=cover,q=high,sharpen=2/21/2026/07/2026072615453950816_1.jpg",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "Sierre-Zinal: 2026 así es el “Maratón de Nueva York” del trail - La Bolsa del Corredor",
-      "url": "https://www.labolsadelcorredor.com/sierre-zinal-2026-favoritos-recorrido-donde-ver/",
-      "typeHint": "travesia",
-      "image": "https://www.labolsadelcorredor.com/wp-content/uploads/2026/07/@rising.story_@justingalant_SierreZinal_09-08-25-57-large.jpg",
       "date": "2026-07-26"
     }
   ]
