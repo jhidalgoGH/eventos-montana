@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T07:56:26.285Z",
+  "updatedAt": "2026-07-28T18:08:38.437Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -2500,6 +2500,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
+    },
+    {
+      "name": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
+      "type": "carrera",
+      "startDate": "2027-01-10T08:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "url": "https://web.rockthesport.com/es/event/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "VIII ALMÈDIA TRAIL ‐ CALLOSA D’EN SARRIÀ, 9e. Circuit Trail Marina 26/27",

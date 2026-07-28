@@ -1,6 +1,251 @@
 {
   "mentions": [
     {
+      "title": "Esta mañana se ha presentado “II Carrera Nocturna por Montaña 'Melilla Ciudad del ... - Facebook",
+      "url": "https://www.facebook.com/CadenaSerMelilla/posts/esta-ma%C3%B1ana-se-ha-presentado-ii-carrera-nocturna-por-monta%C3%B1a-melilla-ciudad-del-/1746767176896491/",
+      "typeHint": "carrera",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/756632405_1731904931188826_6544227132166117963_n.png?stp=dst-jpg_tt6&amp;cstp=mx1600x1200&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=F0w2W_MembwQ7kNvwGGfyQi&amp;_nc_oc=AdqbF9nD9a8oy-toVtHbsa644EA1hCH--9QacjFfYr44Iam1vpYtPkwRjRg5PJXMHq8&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=EVx44yKG71C9DL9gKfXtqg&amp;_nc_ss=7f289&amp;oh=00_AQAdnlg1bErzpPGql5m2U_ew6Qb-RoPYTQP8yweFeYyefw&amp;oe=6A6EB9C6",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "A POCOS DÍAS DE QUE SE CELEBRE LA DÉCIMO CUARTA CARRERA POR MONTAÑA ...",
+      "url": "https://www.facebook.com/castildecampossiempre/posts/a-pocos-d%C3%ADas-de-que-se-celebre-la-d%C3%A9cimo-cuarta-carrera-por-monta%C3%B1a-de-castil-de/1476117251211398/",
+      "typeHint": "carrera",
+      "image": "https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/10360206652087016963?url=https%3a%2f%2fi.ytimg.com%2fvi%2faoEFoTSBqJw%2fmaxresdefault.jpg&amp;fb_obo=1&amp;utld=ytimg.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=EJkNqb4LLEEbpE6IqUM0fA&amp;_nc_oc=Adrpfg3JfK3YAlwC__cZ9rLpjtzZsRtjf5YbRKxpVlesTUqE9brUwUozvPnNV-iX1m0&amp;ccb=13-1&amp;oh=06_Q3_BATDhFszFlzB8jOcmcJKSj7X1AA2dtu8jfwBvTdzCxap_&amp;oe=6A6AE2E0&amp;_nc_sid=867500",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "La adidas Andes Race 2026 está de vuelta: conoce todos los detalles de la carrera de trail ...",
+      "url": "https://elcomercio.pe/deporte-total/running/la-adidas-andes-race-2026-esta-de-vuelta-conoce-todos-los-detalles-de-la-carrera-de-trail-running-del-peru-noticia/",
+      "typeHint": "travesia",
+      "image": "https://elcomercio.pe/resizer/v2/HIXSNNY7PRHZZFACABMIQ4FYPY.png?auth=aa328da92bdc49ab6102dae5907db0ad6d4a823cd58bb1c6e168772a0a6832b1&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Carrera TT by Paco García: cómo serán los recorridos y los puestos de asistencia",
+      "url": "https://www.lagaceta.com.ar/nota/1147358/deportes/carrera-tt-by-paco-garcia-como-seran-recorridos-puestos-asistencia.html",
+      "typeHint": "travesia",
+      "image": "https://img.lagaceta.com.ar/fotos/notas/2026/07/28/montana-circuitos-carrera-tt-by-paco-garcia-combinan-senderos-cauces-desniveles-ponen-prueba-resistencia-tecnica-participantes-1147358-134653.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Carrera TT by Paco García: la competencia que también impulsa el turismo deportivo",
+      "url": "https://www.lagaceta.com.ar/nota/1147359/deportes/carrera-tt-by-paco-garcia-competencia-tambien-impulsa-turismo-deportivo.html",
+      "typeHint": "travesia",
+      "image": "https://img.lagaceta.com.ar/fotos/notas/2026/07/28/convocatoria-cientos-corredores-participaron-ultima-edicion-carrera-tt-by-paco-garcia-este-ano-volvera-reunir-atletas-distintas-provincias-sala-1147359-135127.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Juramentarán a la Selección Nacional de Trail Running - Gobierno de Guatemala",
+      "url": "https://guatemala.gob.gt/juramentaran-a-la-seleccion-nacional-de-trail-running/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "La I San Antón Night Trail agota sus plazas con 350 corredores y un marcado carácter solidario",
+      "url": "https://www.laopiniondemalaga.es/deportes/2026/07/28/san-anton-night-trail-agota-132893474.html",
+      "typeHint": "travesia",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/1456228c-e644-4839-8390-c10ad18742d8_16-9-discover-aspect-ratio_default_0_x1024y455.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Todo listo para la Carrera TT by Paco García: tres distancias y una gran apuesta por el trail tucumano",
+      "url": "https://www.lagaceta.com.ar/nota/1147351/deportes/todo-listo-para-carrera-tt-by-paco-garcia-tres-distancias-gran-apuesta-trail-tucumano.html",
+      "typeHint": "travesia",
+      "image": "https://img.lagaceta.com.ar/fotos/notas/2026/07/28/accin-participantes-atravesaran-senderos-desniveles-paisajes-caracteristicos-sala-escenario-cuarta-edicion-carrera-tt-by-paco-garcia-1147351-131544.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Perú hizo historia: 3 Piedras llevó las primeras 100 millas de ultratrail de los Andes al Pacífico",
+      "url": "https://soymaratonista.com/peru-hizo-historia-3-piedras-llevo-las-primeras-100-millas-de-ultratrail-de-los-andes-al-pacifico/",
+      "typeHint": "travesia",
+      "image": "https://soymaratonista.com/wp-content/uploads/2026/07/Peru-hizo-historia-3-Piedras-llevo-las-primeras-100-millas-de-1.png",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Cáceres amplía sus escuelas deportivas a 2.704 plazas y estrena calistenia, parkour y skate",
+      "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/07/28/caceres-amplia-escuelas-deportivas-plazas-calistenia-parkour-skate-132880630.html",
+      "typeHint": "travesia",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/82851493-6620-41fa-980f-3b5421113c22_16-9-discover-aspect-ratio_default_0_x662y338.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "SÁBADO 01/08 - Villa Carlos Paz",
+      "url": "https://villacarlospaz.tur.ar/event/sabado-01-08/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Claudia Corral coge el testigo de Idaira Prieto al conseguir medalla en los 3.000 metros obstáculos",
+      "url": "https://eladelantado.com/deportes/2026/07/28/claudia-corral-coge-el-testigo-de-idaira-prieto-al-conseguir-medalla-en-los-3-000-metros-obstaculos/",
+      "typeHint": "travesia",
+      "image": "https://eladelantado.com/wp-content/uploads/2026/07/Claudia-Corral-consigue-el-bronce-enel-Campeonato-de-Espana.webp",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Preparan la serial Trail Run Xichú 2026 - Quadratin Bajío",
+      "url": "https://bajio.quadratin.com.mx/preparan-la-serial-trail-run-xichu-2026/",
+      "typeHint": "travesia",
+      "image": "https://bajio.quadratin.com.mx/www/wp-content/uploads/2026/07/Xichu-1.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Picacho Trail Run en Aldama: 21K y festival en Los Delfines - Tiempo La Noticia Digital",
+      "url": "https://www.tiempo.com.mx/local/picacho-trail-run-aldama-chihuahua-2026-07-28/",
+      "typeHint": "travesia",
+      "image": "https://static.tiempo.com.mx/uploads/imagen/imagen/803124/principal_img_4379.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Enjoy #run #running #trail #mooquer #ooq @mooquer_cc | TikTok",
+      "url": "https://www.tiktok.com/@mooquer/video/7667581149673196822",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "THE MADEIRA OCEAN TRAIL 2022 GTWS FINAL - Stop and Go",
+      "url": "https://stopandgo.net/events/golden-trail-world-series-final-madeira/registrations?hl=es&page=3",
+      "typeHint": "travesia",
+      "image": "https://stopandgo.net/storage/images/social/golden-trail-world-series-final-madeira.png",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "La 'San Antón Night Trail' nace con 350 participantes y carácter solidario - Andalucía Información",
+      "url": "https://www.andaluciainformacion.es/articulo/malaga-deportes/san-anton-night-trail-nace-350-participantes-caracter-solidario/202607281527273443531.html",
+      "typeHint": "travesia",
+      "image": "https://www.andaluciainformacion.es/media/andaluciainformacion/images/2026/07/28/2026072815271627590.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Olga Pérez Bailac recibe su reconocimiento como mejor jueza novel nacional 2025 - FAMU",
+      "url": "https://www.famu.es/olga-perez-bailac-recibe-su-reconocimiento-como-mejor-jueza-novel-nacional-2025/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/07/260725_182257sm907689-scaled.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Yaguareté Trail organiza una carrera por la amistad en Ypacaraí - La Nación",
+      "url": "https://www.lanacion.com.py/pais/2026/07/28/yaguarete-trail-organiza-una-carrera-por-la-amistad-en-ypacarai/",
+      "typeHint": "travesia",
+      "image": "https://www.lanacion.com.py/resizer/v2/DJNPDC6PYZEBJISIEN67ALMUWE.jpeg?auth=676ecdef25eaf85ae18e6d98259084e51a9a3226422afc80c000a4ec7b8d7781&amp;width=1200&amp;height=630&amp;smart=true",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Escuelas Deportivas y Actividades Grupales de Cáceres amplían oferta hasta 2.700 plazas",
+      "url": "https://www.regiondigital.com/noticias/caceres-y-provincia/433456-escuelas-deportivas-y-actividades-grupales-de-caceres-amplian-oferta-hasta-2700-plazas.html",
+      "typeHint": "travesia",
+      "image": "https://www.regiondigital.com/m/p/770x410/media/files/205169_fotonoticia-20260728123328-1920.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "hasta un 56% de descuento en Samsung, Saguaro, UGREEN y mucho más - Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260728/1004210645/mejores-ofertas-amazon-56-descuento-samsung-saguaro-ugreen.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/27/6a67583fd22db.jpeg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "¿Necesitas un entrenador personal para mejorar tus tiempos de carrera? Esto dicen los expertos",
+      "url": "https://www.soycorredor.es/noticias/necesitas-entrenador-personal-mejorar-tus-tiempos-carrera-esto-dicen-expertos-pnl_330129_102.html",
+      "typeHint": "travesia",
+      "image": "https://www.soycorredor.es/uploads/s1/15/20/71/43/prensalink-71263_7_1200x690.jpeg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Edu Marín escala en libre 'Tempesta d'Estiu', 8b trad en Cavallers - Desnivel.com",
+      "url": "https://www.desnivel.com/escalada-roca/edu-marin-escala-en-libre-tempesta-destiu-8b-trad-en-cavallers/",
+      "typeHint": "escalada",
+      "image": "https://www.desnivel.com/images/2026/07/whatsapp-image-2026-07-27-at-15.43.11-2-750x440.jpeg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "El Golfo refuerza la diplomacia y la cooperación militar para contener una nueva escalada regional",
+      "url": "https://www.atalayar.com/articulo/politica/golfo-refuerza-diplomacia-cooperacion-militar-contener-nueva-escalada-regional/20260728135250228049.html",
+      "typeHint": "escalada",
+      "image": "https://www.atalayar.com/media/atalayar/images/2025/05/14/2025051412271346844.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Zelensky se reúne con Trump en Washington /Para reforzar el apoyo de Estados Unidos ...",
+      "url": "https://laprensa.com.uy/informaci%C3%B3n/mundo/zelensky-se-reune-con-trump-en-washington-para-reforzar-el-apoyo-de-estados-unidos-frente-a-rusia-en-plena-escalada-militar",
+      "typeHint": "escalada",
+      "image": "https://laprensa.com.uy/images/articulos/2026/07/28/Mundoreunion.png#joomlaImage://local-images/articulos/2026/07/28/Mundoreunion.png?width=795&height=527",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "China lanza su propio rival de HYROX mientras crece la competencia en el fitness híbrido",
+      "url": "https://gymfactory.net/2026/07/28/china-lanza-su-propio-rival-de-hyrox-mientras-crece-la-competencia-en-el-fitness-hibrido/",
+      "typeHint": "escalada",
+      "image": "https://gymfactory.net/wp-content/uploads/2026/07/China-1000x600.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "World Climbing cancela la votación sobre la suspensión de las federaciones de Israel ...",
+      "url": "https://www.desnivel.com/competiciones/world-climbing-cancela-la-votacion-sobre-la-suspension-de-las-federaciones-de-israel-rusia-y-bielorrusia/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "El sendero Peñas Blancas, finalista al premio Mejor Sendero Homologado de España 2026",
+      "url": "https://fexme.com/2026/07/28/el-sendero-penas-blancas-finalista-al-premio-mejor-sendero-homologado-de-espana-2026/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Mike Varela: casi 30 años desafiando la gravedad - El Sol de Toluca",
+      "url": "https://oem.com.mx/elsoldetoluca/deportes/mike-varela-casi-30-anos-desafiando-la-gravedad-31314327",
+      "typeHint": "escalada",
+      "image": "https://oem.com.mx/elsoldetoluca/img/31314340/1785183389/BASE_LANDSCAPE/1200/image.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "El GAMEx de la FEXME completa con éxito su sexta concentración anual en los Pirineos",
+      "url": "https://fexme.com/2026/07/28/el-gamex-de-la-fexme-completa-con-exito-su-sexta-concentracion-anual-en-los-pirineos/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Tres esquiadores andaluces en las convocatorias juveniles de la FEDME para Sierra ...",
+      "url": "https://fadmes.es/tres-esquiadores-andaluces-en-las-convocatorias-juveniles-de-la-fedme-para-sierra-nevada-y-tignes/",
+      "typeHint": "escalada",
+      "image": "https://fadmes.es/wp-content/uploads/2026/07/FRANCHU.jpeg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "\"Demostramos que el equipo tiene carácter\" - Diario Jornada",
+      "url": "https://www.diariojornada.com.ar/420715/deportes/demostramos_que_el_equipo_tiene_caracter",
+      "typeHint": "escalada",
+      "image": "https://jornada.us-sea-1.linodeobjects.com/imagenes/2026/7/26/420643_3_17453_raw.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "GRAVITEO transforma el puerto de A Coruña en el gran escenario del deporte urbano",
+      "url": "https://amp.elperiodico.com/es/deportes/20260728/graviteo-transforma-puerto-coruna-gran-bc-132871761",
+      "typeHint": "escalada",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/86226c5c-f190-4191-9c05-87534bd661bc_16-9-discover-aspect-ratio_default_0_x640y284.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "El jugador de Osuna Juan Zamora 'Coquito' se corona en el FIP Silver de Oporto",
+      "url": "https://cadenaser.com/andalucia/2026/07/27/el-jugador-de-osuna-juan-zamora-coquito-se-corona-en-el-fip-silver-de-oporto-ser-andalucia-centro/",
+      "typeHint": "escalada",
+      "image": "https://cadenaser.com/resizer/v2/435E4TTSTVAALBCTDSLZAYSKVA.jpg?auth=9994e5186037afff370045826068926a417316a1a508a8c0435ce876360b619f&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "México - Costa Rica, Campeonato Sub-20 de Concacaf: fecha, horario y dónde ver en vivo",
+      "url": "https://elpais.com/mexico/2026-07-28/mexico-costa-rica-campeonato-sub-20-de-concacaf-fecha-horario-y-donde-ver-en-vivo.html",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-07-28"
+    },
+    {
       "title": "La Muda: Nómadas en bicicleta por los Valles Pasiegos - Cantabria Económica",
       "url": "https://www.cantabriaeconomica.com/emprendedores-de-cantabria/la-muda-nomadas-en-bicicleta-por-los-valles-pasiegos/",
       "typeHint": "travesia",
@@ -453,251 +698,6 @@
       "url": "https://www.instagram.com/p/DbQ3d8yk6BP/",
       "typeHint": "travesia",
       "image": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/754620509_1532203262255797_5145512227690378862_n.jpg?stp=c213.0.639.639a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JO21HDr3SQwQ7kNvwHKEIpt&amp;_nc_oc=Adp-3W1a_B0EIrXPuXq_7a7eVtij7KBGI64Tadw3L562tjdrMB35mgEUgxqN20NDlSM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=pSlgGI2roGLSKPst2pj1aQ&amp;_nc_ss=7fa8c&amp;oh=00_AQCkMTZrJq4MlPW3BC1G-Ro4dqrgbZx1GUdldQsGa2oh-Q&amp;oe=6A6CE40C",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Salomon presentó XT-Whisper en una Listening Session realizada en Disponible",
-      "url": "https://infonegocios.biz/amp/nota-principal/salomon-presento-xt-whisper-en-una-listening-session-realizada-en-disponible",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Angola, el nuevo destino africano para los amantes de la escalada - Inout Viajes",
-      "url": "https://www.inoutviajes.com/noticia/32252/aventura/angola-el-nuevo-destino-africano-para-los-amantes-de-la-escalada.html",
-      "typeHint": "escalada",
-      "image": "https://www.inoutviajes.com/fotos/20/kalandula-waterfalls-credit-robert-haidinger-copyright-angola-tourism-board-kleber-group.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Histórica victoria de Deportivo Riestra: goleó 3-0 a Boca de local por la primera fecha del ...",
-      "url": "https://www.minutouno.com/deportes/historica-victoria-deportivo-riestra-goleo-3-0-boca-local-la-primera-fecha-del-torneo-clausura-n6303621",
-      "typeHint": "escalada",
-      "image": "https://media.minutouno.com/p/b89385ff39ef3b9c4b74418fa2494ab0/adjuntos/150/imagenes/043/544/0043544034/1200x675/smart/boca.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Juan Antonio Mateos Ramos y Laura Ordiales conquistan el castillo de Montánchez",
-      "url": "https://fexme.com/2026/07/27/juan-antonio-mateos-ramos-y-laura-ordiales-conquistan-el-castillo-de-montanchez/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Israel protagoniza una escalada bélica contra la población palestina en Cisjordania",
-      "url": "https://rebelion.org/israel-protagoniza-una-escalada-belica-contra-la-poblacion-palestina-en-cisjordania/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Talleres ganó y quedó como único puntero - Política del Sur",
-      "url": "https://politicadelsur.com/nota/96537/talleres-gano-y-quedo-como-unico-puntero/",
-      "typeHint": "escalada",
-      "image": "https://politicadelsur.com/uploads/noticias/2/2026/07/40fadc9bb093a724f0bc1d33d54851719d289845.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Luciano Schiaffini - perfil, estadísticas y carrera | Canchallena",
-      "url": "https://canchallena.lanacion.com.ar/jugador/luciano-schiaffini-8bctnosvriy7q1td826a3aolw/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "CLUB DEPORTIVO FREE RUN | FEMECV - Federació d'Esports de Muntanya i Escalada de la CV",
-      "url": "https://www.femecv.com/club/club-deportivo-free-run-366",
-      "typeHint": "escalada",
-      "image": "https://www.femecv.com/themes/custom/femecv/favicon.png",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "carrera | Noticias de carrera - La Opinión de Murcia",
-      "url": "https://www.laopiniondemurcia.es/temas/carrera-1428142/pagina-20/",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "I AGACHERA TRAIL 2026 - Club Deportivo Vallivana",
-      "url": "https://clubdeportivovallivana.com/2026/07/25/i-agachera-trail-2026/",
-      "typeHint": "carrera",
-      "image": "https://i0.wp.com/clubdeportivovallivana.com/wp-content/uploads/2026/07/55322707419_3ac26cc2ed_o.jpg?fit=800%2C1200&#038;ssl=1",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Preguntas Frecuentes — RandoFest 2026 · Festival de Montaña El Colorado",
-      "url": "https://www.randofest.com/faq",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Entradas RandoFest 2026 — desde $5.000 · Festival de Montaña El Colorado",
-      "url": "https://www.randofest.com/tickets",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Dos bronces para los nuestros en Málaga - FAMU",
-      "url": "https://www.famu.es/dos-bronces-para-los-nuestros-en-malaga/",
-      "typeHint": "travesia",
-      "image": "https://www.famu.es/wp-content/uploads/2026/07/Andre-Muller-y-Jose-Garcia-Ros-Malaga-2026-scaled.jpeg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Linda carrera la DinoCross Después de un mes volvimos a hacer un estímulo.. ya casi ... - Instagram",
-      "url": "https://www.instagram.com/p/DbR7hgTDeog/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/756612965_18447842179188973_8810262280800021888_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=r4_mT-yp5VMQ7kNvwFMmABS&amp;_nc_oc=AdqylOXS6dHCyc6FbMCO0JD_NwgjKxKcotVccpqe8_VQVdX4Pkb0cxQlMdfyqo3Us4Y&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=2-Rv_FCsIGBf1rTelpbA3g&amp;_nc_ss=7fa8c&amp;oh=00_AQC0MlcKapBmsxSeSfp9VA8xkijuGd9IoBUInU3hv_XaHg&amp;oe=6A6CBAB8",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Borja y Cota conquistan el Majalca Trail Run 2026 - El Heraldo de Chihuahua",
-      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/borja-y-cota-conquistan-el-majalca-trail-run-2026-31309350",
-      "typeHint": "travesia",
-      "image": "https://oem.com.mx/elheraldodechihuahua/img/31309363/1785105300/BASE_LANDSCAPE/1200/image.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Zapatillas Trail Running SCARPA Mujer – Ligeras, Reactivas, Duraderas - Decathlon",
-      "url": "https://www.decathlon.es/es/p/mp/zapatillas-trail-running-scarpa-mujer-ligeras-reactivas-duraderas/54f9012f-eb04-47c7-aa4c-782387a8c48b/c5c4",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Iker Chavarría y Nikola Matkova ganan la XTERRA Skyrace Comapedrosa 2026 - TURISKI",
-      "url": "https://www.turiski.es/mountain-festival-comapedrosa-2026-arinsal/",
-      "typeHint": "travesia",
-      "image": "https://www.turiski.es/wp-content/uploads/2026/07/Mountain-Festival-Comapedrosa_n.webp",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Trail Running: Team Yaguareté invita a una carrera solidaria con circuitos de 5K y 10K",
-      "url": "https://www.abc.com.py/deportes/polideportivo/2026/07/26/trail-running-team-yaguarete-invita-a-una-carrera-solidaria-con-circuitos-de-5k-y-10k/",
-      "typeHint": "travesia",
-      "image": "https://www.abc.com.py/resizer/v2/3RY53YW5UNBY5EX4SCWCN4IU2U.jpeg?auth=eb8ff690c0a0597229be83e42bd929ea83303821d47739abaf10ccf8e16f5aad&amp;width=770&amp;smart=true",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "@elpaso_delarriero es más que trail running; es una experiencia que se vive entre ... - Instagram",
-      "url": "https://www.instagram.com/reel/DbROuzNim9M/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/757507103_18060537629759919_647880510390733364_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=GGyGu-gCsgQQ7kNvwHNpLcO&amp;_nc_oc=AdrXeJQ3WuDI4WoWhU_AyLuBoulbjaeQAPyQY-qwvshK_pKFohQdm4B5Supl8sHBHaY&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=BcLROtie38e1zy0uNZaRnQ&amp;_nc_ss=7fa8c&amp;oh=00_AQBqRBmD5e_j__ZDXoLfiMe6-RIpk9Weep_Rl9zf1aHT7Q&amp;oe=6A6CBD5F",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Análisis y review de las Brooks Cascadia 20 (2026) - RunRepeat",
-      "url": "https://runrepeat.com/es/brooks-cascadia-20",
-      "typeHint": "travesia",
-      "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/41101/brooks-cascadia-20-25284872-720.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Post from El lince trail running - YouTube",
-      "url": "https://www.youtube.com/post/UgkxPtWzo5-4ZfqDYHPdAi8B9Puj7KhdhIvE",
-      "typeHint": "travesia",
-      "image": "https://yt3.ggpht.com/rBoaJmzdlRxWnmvEQebpABlOP_mhTZZgv7IpgUvNMkEUS14tjm3_GqOuYDRJpIWoJY4E31Ku-clH=s1080-c-fcrop64=1,00000000ffffffff-nd-v1?days_since_epoch=20661",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Cimalp reinterpreta el trail running con la colección Meet Your Peak",
-      "url": "https://portal.coneqtia.com/cimalp-reinterpreta-el-trail-running-con-la-coleccion-meet-your-peak/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Ultra Coahuila 2026 celebra una nueva edición en Arteaga – Periódico Zócalo",
-      "url": "https://www.zocalo.com.mx/ultra-coahuila-2026-celebra-una-nueva-edicion-en-arteaga/",
-      "typeHint": "travesia",
-      "image": "https://www.zocalo.com.mx/wp-content/uploads/2026/07/carrera.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Presentaron “4 Ríos, Un Desafío Original” - Diario Pampero",
-      "url": "https://diariopampero.com/presentaron-4-rios-un-desafio-original/",
-      "typeHint": "travesia",
-      "image": "https://diariopampero.com/wp-content/uploads/2026/07/rios_Portada.webp",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Quique Llopis y Jaël Bestué brillan con fuerza en el Nacional de Málaga - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260726/1004210470/quique-llopis-jael-bestue-brillan-fuerza-nacional-malaga.html?facet=amp",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/26/6a66816942266.jpeg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Quique Llopis y Jaël Bestué brillan con fuerza en el Nacional de Málaga - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260726/1004210470/quique-llopis-jael-bestue-brillan-fuerza-nacional-malaga.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/26/6a66816942266.jpeg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "El atleta ciudadrealeño Javier Megía, tercero en el circuito de series mundiales de trail ...",
-      "url": "https://www.lacomarcadepuertollano.com/articulo/ciudad-real-provincia/atleta-ciudadrealeno-javier-megia-tercero-circuito-series-mundiales-trail-running-bucovina-rumania/20260726230140644816.html",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "El atleta ciudadrealeño Javier Megía, tercero en el circuito de series mundiales de trail running...",
-      "url": "https://x.com/cpuertollano/status/2081485208465842656",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/profile_images/1487133327240880131/TZnMEiR1_200x200.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "SHORTS TRAIL RUNNING MUJER NEGRO HOLGADO – Decathlon El Salvador",
-      "url": "https://decathlon.com.sv/collections/top-sellers/products/shorts-trail-running-mujer-negro-holgado?variant=46788948361347",
-      "typeHint": "travesia",
-      "image": "http://decathlon.com.sv/cdn/shop/files/pic_2117f16b-7685-43ab-8b15-d6c552dcb2f9.jpg?v=1785059022&width=1024",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "NewRelease #256: ¿Qué novedades nos dejó esta semana? - Chócale",
-      "url": "https://chocale.cl/2026/07/new-release-256/",
-      "typeHint": "travesia",
-      "image": "https://i0.wp.com/chocale.cl/wp-content/uploads/2026/05/new-release-256.jpg?fit=1200%2C750&ssl=1",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Samsung presenta los Galaxy Watch Ultra2 y Watch9, mientras Apple, Xiaomi y Huawei ... - Debate",
-      "url": "https://www.debate.com.mx/tecnologia/samsung-presenta-los-galaxy-watch-ultra2-y-watch9-mientras-apple-xiaomi-y-huawei-bajan-de-precio-20260726-0139.html",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Llega la segunda edición del Karajá Trail Race en Cerro Corá - Diario Noticias De La Calle",
-      "url": "https://www.noticiasdelacalle.com.ar/noticias/2026/07/26/183997-llega-la-segunda-edicion-del-karaja-trail-race-en-cerro-cora",
-      "typeHint": "travesia",
-      "image": "https://noticiasdelacalle-s3.cdn.net.ar/s3i233/2026/07/noticiasdelacalle/images/02/69/82/2698266_e15b27a3b5ba8a3b6185eb2f06512fdc6fccaef85406843cad6b5ddc142886bf/xs.webp?_v=v3-60",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Escalada diplomática: Brasil convocó al embajador argentino en Brasilia y llamó a ...",
-      "url": "https://www.datadiario.com/politica/escalada-diplomatica-brasil-convoco-al-embajador-argentino-en-brasilia-y-llamo-a-consultas-a-su-diplomatico-en-buenos-aires-202672622450",
-      "typeHint": "escalada",
-      "image": "https://pxcdn.datadiario.com/diario/072026/1785116947241.jpg?&amp;cw=1200&amp;ch=630",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Talleres de Escalada le ganó de visitante a Laferrere y es el nuevo puntero de la Primera B",
-      "url": "https://launion.com.ar/deportes/talleres-escalada-le-gano-visitante-laferrere-y-es-el-nuevo-puntero-la-primera-b-n5444474",
-      "typeHint": "escalada",
-      "image": "https://media.launion.com.ar/p/057546694d3fdc28c432e9a4b5a314da/adjuntos/379/imagenes/100/142/0100142345/1200x675/smart/talleres-escalada.png",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Comentarios en directo - CSC Deportivo Laferrere : CA Talleres (Remedios de Escalada)",
-      "url": "https://www.transfermarkt.es/ticker/begegnung/live/4804686",
-      "typeHint": "escalada",
-      "image": null,
       "date": "2026-07-27"
     }
   ]
