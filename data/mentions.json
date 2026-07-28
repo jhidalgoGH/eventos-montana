@@ -1,6 +1,41 @@
 {
   "mentions": [
     {
+      "title": "La Muda: Nómadas en bicicleta por los Valles Pasiegos - Cantabria Económica",
+      "url": "https://www.cantabriaeconomica.com/emprendedores-de-cantabria/la-muda-nomadas-en-bicicleta-por-los-valles-pasiegos/",
+      "typeHint": "travesia",
+      "image": "https://www.cantabriaeconomica.com/wp-content/uploads/2026/06/1-EMPRENDEDORES-Ivan-Diego-Arroyo-La-Muda-Bike-RAMIRO-SILVESTRE00001.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Abre ALS Sport Zaragoza - Corriendo Voy",
+      "url": "https://corriendovoy.com/als-sport-zaragoza/",
+      "typeHint": "travesia",
+      "image": "https://corriendovoy.com/wp-content/uploads/2026/07/ALS-apertura-de-Zaragoza.png",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "La comarca de Sanabria se prepara para vivir el IV Trail Cerdirock - Zamora24horas",
+      "url": "https://www.zamora24horas.com/deportes/comarca-sanabria-prepara-vivir-iv-trail-cerdirock",
+      "typeHint": "travesia",
+      "image": "https://statics.zamora24horas.com/1a33ebd0-d70a-4a88-b4e9-ffd1d510ef50.jpg?format=jpeg&amp;width=1200&amp;quality=75",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Xichú reunirá a corredores de todo el país en la sexta fecha del Trail Run Adventure",
+      "url": "https://periodicocorreo.com.mx/municipios/2026/jul/27/xichu-reunira-a-corredores-de-todo-el-pais-en-la-sexta-fecha-del-trail-run-adventure-162858.html",
+      "typeHint": "travesia",
+      "image": "https://periodicocorreo.com.mx/core/correo/assets/images/2026/07/27/middle-atletas-HpY2W5EtX.jpg",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "3 Piedras: conoce a los ganadores de la histórica competencia de trail running en Huarmey",
+      "url": "https://depor.com/vida-sana/running/resultados-de-3-piedras-ganadores-de-la-historica-competencia-de-trail-running-en-huarmey-cordillera-blanca-y-negra-noticia/?outputType=amp",
+      "typeHint": "travesia",
+      "image": "https://depor.com/resizer/v2/7MOCX6GJF5FSDKD2WESVEVRMIQ.jpg?auth=3e2efb10b4850a2427f518f67c06c252a7396924b5d757fc9feed018d6f4cd07&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+      "date": "2026-07-28"
+    },
+    {
       "title": "Melilla Informativos - RNE Audio - RTVE.es",
       "url": "https://www.rtve.es/play/audios/melilla-informativos/informativo-melilla-14-10h-27-07-2026/17170828/",
       "typeHint": "carrera",
@@ -664,41 +699,6 @@
       "typeHint": "escalada",
       "image": null,
       "date": "2026-07-27"
-    },
-    {
-      "title": "Ver EN VIVO Laferrere vs. Talleres (RE): dónde seguir por TV y ONLINE en streaming",
-      "url": "https://www.tycsports.com/primera-division-b/laferrere-vs-talleres-re-en-vivo-donde-ver-por-tv-y-online-id751802.html",
-      "typeHint": "escalada",
-      "image": "https://media.tycsports.com/files/2024/11/07/784712/primera-b_1440x810.webp",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Escalada | Resumen de las finales de búlder sub 19 | Campeonato Mundial Juvenil | Arco",
-      "url": "https://www.olympics.com/es/video/escalada-resumen-de-las-finales-de-bulder-sub-19-campeonato-mundial-juvenil-arco",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Una jugadora de futsal fue suspendida por cinco años tras patear en la cabeza a una rival en Brasil",
-      "url": "https://www.ellitoral.com/deportes/futsal-femenino-eusebio-agresion-suspension-campeonato-municipal-as-resenhas-proyecto-rdj-sport-femenino-liga-deportiva-eusebio-codigo-brasileno-justicia-deportiva_0_r1qKnlKhg2.html",
-      "typeHint": "escalada",
-      "image": "https://www.ellitoral.com/images/2026/07/26/SfHgjLOcK_1300x655__1.jpg",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "NORDA 055 | ZAPATILLA DE TRAIL RUNNING | FIND YOUR EVEREST - YouTube",
-      "url": "https://www.youtube.com/watch?v=IOF7n7ZsouY",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-07-26"
-    },
-    {
-      "title": "Irán asegura haber destruido 11 aeronaves estadounidenses durante la reciente escalada",
-      "url": "https://www.prensa.com/mundo/iran-asegura-haber-destruido-11-aeronaves-estadounidenses-durante-la-reciente-escalada/",
-      "typeHint": "escalada",
-      "image": "https://www.prensa.com/resizer/v2/F5Z55UQT3JGCVKREWHSGENLDDU.jpg?auth=e06d7894950b84141621bf7b4b9bcc7cca606f3fc45ea81ca617d94fb20da0e3&amp;width=1200",
-      "date": "2026-07-26"
     }
   ]
 }
