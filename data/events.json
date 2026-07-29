@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:51:58.223Z",
+  "updatedAt": "2026-07-29T05:57:33.607Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -1148,6 +1148,17 @@
       "url": "https://itra.run/Races/RaceDetails/Desafío.Meracho.Trail.32k/2026/116565",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "II Carrera por montaña nocturna",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "locationName": "España",
+      "image": "https://assets.simpleviewinc.com/sv-melilla/image/fetch/c_fill,h_396,q_75,w_704/https://spaindmsmedia.newmindmedia.com/wsimgs/carrera_monta_a_nocturana_1279717612.png",
+      "url": "https://www.melillaturismo.com/event/ii-carrera-por-monta%c3%b1a-nocturna/31647102/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Zumaia Flysch Trail 2026",
