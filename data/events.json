@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:29:45.537Z",
+  "updatedAt": "2026-07-30T06:09:09.831Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -955,6 +955,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "OLAZAGUTÍA URBASA MENDI LASTERKETA 2026",
+      "type": "carrera",
+      "startDate": "2026-09-26T10:00:00",
+      "endDate": "2026-09-26T13:00:00",
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/dc6acf63-0929-4c21-a085-1646b6bc9813.jpg",
+      "url": "https://web.rockthesport.com/es/event/olazagutia-urbasa-mendi-lasterketa-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Gorbeia Suzien 21k 2026",
       "type": "carrera",
       "startDate": "2026-09-26T11:00:00",
@@ -1525,6 +1537,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/2cec5010-1174-45c5-bc88-2d0192d4e74b.jpg"
     },
     {
+      "name": "Concentración escalada Arnedillo 2026",
+      "type": "escalada",
+      "startDate": "2026-10-16T19:00:00",
+      "endDate": "2026-10-18T14:00:00",
+      "locationName": "Rioja (La)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15760/library/root/053903f1-2f08-4ef6-8733-83f7cc26f9a6.jpg",
+      "url": "https://web.rockthesport.com/es/event/concentracion-escalada-arnedillo-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Marcha senderista \"Valle de Anso\"",
       "type": "travesia",
       "startDate": "2026-10-17",
@@ -1536,7 +1560,7 @@
       "sourceName": "FAM (andadas populares)"
     },
     {
-      "name": "UNIQUE TRAIL LANZAROTE",
+      "name": "UNIQUE TRAIL LANZAROTE ",
       "type": "carrera",
       "startDate": "2026-10-17T06:00:00",
       "endDate": "2026-10-17T17:00:00",
@@ -1629,7 +1653,7 @@
       "url": "https://web.rockthesport.com/es/event/eltxo-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11926/library/root/b38458dd-79e7-4ec6-a641-ef26e5d09409.png"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11926/library/root/293a43f5-cb9b-47cd-a9f2-5d8a7dd6ee7f.png"
     },
     {
       "name": "III Trail Nocturno Cabeço D'Or, Busot",
