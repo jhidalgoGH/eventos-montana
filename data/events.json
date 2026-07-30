@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T07:44:11.024Z",
+  "updatedAt": "2026-07-30T17:59:40.821Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -128,6 +128,17 @@
       "url": "https://web.rockthesport.com/es/event/quercus-trail-18k-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Risalite Festival 2026",
+      "startDate": "2026-08-17T00:00:00+00:00",
+      "endDate": "2026-08-23T00:00:00+00:00",
+      "locationName": "Montevaccino, Trento, Trentino-Alto Adige/Südtirol, IT",
+      "image": "https://www.festivalinitalia.it/images/image_hero.webp",
+      "url": "https://www.festivalinitalia.it/es/festival/risalite-festival",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "CANILLO TRAIL",
@@ -2139,7 +2150,7 @@
       "url": "https://web.rockthesport.com/es/event/2026-bee-backyard-trail-los-berrocales",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15570/library/root/9f5f9577-4013-4c3d-8d45-dae5336d381b.png"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15570/library/root/900d2eeb-60cd-4c02-9d95-a3dfdd301af1.png"
     },
     {
       "name": "XIV Doñana Trail Marathon Sevilla - El Rocío 2026",
@@ -2164,6 +2175,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/1c882f7d-a76f-49f0-b894-f4313a7f4107.png"
+    },
+    {
+      "name": "IX TRAIL ARRONIZ ",
+      "type": "carrera",
+      "startDate": "2026-11-07T09:30:00",
+      "endDate": "2026-11-07T15:30:00",
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/847/library/root/5fd7f0a4-2439-490b-8759-097c93c11778.jpeg",
+      "url": "https://web.rockthesport.com/es/event/ix-trail-arroniz",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "II ARGENTE TRAIL RACE 2026",
