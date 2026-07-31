@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T17:50:55.157Z",
+  "updatedAt": "2026-07-31T18:48:54.133Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -174,18 +174,6 @@
       "sourceName": "ITRA"
     },
     {
-      "name": "Sierra Nevada Skyrunning",
-      "type": "carrera",
-      "startDate": "2026-08-22T07:30:00",
-      "endDate": "2026-08-23T16:00:00",
-      "locationName": "Granada",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/sierra-nevada-skyrunning",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/ab698d08-3250-44cd-824c-a21f9b999221.png"
-    },
-    {
       "name": "XXI MARXA A PEU SERRA D'IRTA",
       "type": "carrera",
       "startDate": "2026-08-22T08:00:00",
@@ -196,6 +184,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/e5755a1f-1415-4fb7-b2e6-05c9b156cf59.jpeg"
+    },
+    {
+      "name": "Sierra Nevada Skyrunning",
+      "type": "carrera",
+      "startDate": "2026-08-22T10:00:00",
+      "endDate": "2026-08-23T16:00:00",
+      "locationName": "Granada",
+      "country": "España",
+      "url": "https://web.rockthesport.com/es/event/sierra-nevada-skyrunning",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/ab698d08-3250-44cd-824c-a21f9b999221.png"
     },
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
