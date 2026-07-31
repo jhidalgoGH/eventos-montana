@@ -1,6 +1,27 @@
 {
   "mentions": [
     {
+      "title": "CONVOCATORIA PARA COMPETICIONES ESCALADA DEPORTIVA 44º JUEGOS ...",
+      "url": "https://www.fam.es/noticias/3744-convocatoria-para-competiciones-escalada-deportiva-44-juegos-deportivos-en-edad-escolar",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-07-31"
+    },
+    {
+      "title": "GRAVITEO trae el Psicobloc Master Series a A Coruña - Diario Gallego",
+      "url": "https://diariogallego.es/es/a-coruna/general/graviteo-trae-el-psicobloc-master-series-a-a-coruna",
+      "typeHint": "escalada",
+      "image": "https://diariogallego.es/media/2026/07/graviteo-trae-o-psicobloc-master-series-a-coruna.webp",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Escalar sobre el mar: el Psicobloc Master Series vuelve a A Coruña con GRAVITEO",
+      "url": "https://www.eldia.es/deportes/2026/07/31/escalar-mar-psicobloc-master-series-bc-132979871.html",
+      "typeHint": "escalada",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/fa233495-363c-476e-bc7b-0c61e4cf1aca_16-9-discover-aspect-ratio_default_1492467.jpg",
+      "date": "2026-07-31"
+    },
+    {
       "title": "Mecenazgo y turismo activo: la fórmula deportiva para revitalizar la España rural",
       "url": "https://www.eleconomista.es/actualidad/noticias/14003802/07/26/mecenazgo-y-turismo-activo-la-formula-deportiva-para-revitalizar-la-espana-rural.html",
       "typeHint": "travesia",
@@ -677,27 +698,6 @@
       "url": "https://www.dazn.com/en-GU/home/2bjp0y10jvwjfpu8zacnidatw/aauqmvssxsplp7yat0pohfiu9",
       "typeHint": "travesia",
       "image": null,
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Verdeliss se sincera antes del Mundial de 100 km: \"Ahora siento el peso de las expectativas ...",
-      "url": "https://www.mundodeportivo.com/running/20260729/1004211294/verdeliss-sincera-mundial-100-km-siento-peso-expectativas-seleccion-espanola-atletismo-anestesia-queda-running-recreativo.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/24/69241dfa76ba3.r_d.585-362-0.jpeg",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "El concurso \"Huellas en las Nubes\" 2026 amplía su escala, difundiendo el valor del antiguo ...",
-      "url": "https://www.vietnam.vn/es/giai-buoc-chan-tren-may-2026-mo-rong-quy-mo-lan-toa-gia-tri-con-duong-da-co-pavi",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/29/1785307196763_hinh-1-17853061192291915009285-19-0-694-1080-crop-17853061225091297028074.jpeg",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Germán Castel y Miriam Llop imponen su ley en los IX Valdelinares Trails - Diario de Teruel",
-      "url": "https://www.diariodeteruel.es/deportes/german-castel-y-miriam-llop-imponen-su-ley-en-los-ix-valdelinares-trails",
-      "typeHint": "carrera",
-      "image": "https://cdn.diariodeteruel.org/uploads/diariodeteruel/contenidos/93450_260729-29-02w.jpg",
       "date": "2026-07-29"
     }
   ]
