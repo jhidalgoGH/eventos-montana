@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T18:52:07.813Z",
+  "updatedAt": "2026-07-31T06:19:16.421Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -58,6 +58,17 @@
       "url": "https://itra.run/Races/RaceDetails/Cursa.Vistabella.Cursa.Vistabella/2026/109281",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Cajamarca Trail 2026",
+      "startDate": "2026-08-02T06:00:00-05:00",
+      "endDate": "2026-08-02T06:00:00-05:00",
+      "locationName": "Granja Porcón, Cajamarca, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/02/cajamarca-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/cajamarca-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XII PILÓN TRAIL ACOFALCES",
@@ -2592,6 +2603,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "V ULTRAMEDITERRÀNIA TERRES DE TRAIL 2027",
+      "type": "carrera",
+      "startDate": "2027-01-21T14:00:00",
+      "endDate": "2027-01-24T14:00:00",
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/25f83d08-4ad4-4f97-86b3-f1fe17d90460.jpg",
+      "url": "https://web.rockthesport.com/es/event/v-ultramediterrania-terres-de-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
