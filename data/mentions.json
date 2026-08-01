@@ -1,6 +1,76 @@
 {
   "mentions": [
     {
+      "title": "Cinco rutas para correr entre los paisajes más espectaculares del Perú",
+      "url": "https://elcomercio.pe/deporte-total/running/cinco-rutas-running-para-correr-entre-los-paisajes-mas-espectaculares-del-peru-noticia/",
+      "typeHint": "travesia",
+      "image": "https://elcomercio.pe/resizer/v2/EI73IN4K2ZHV3HJZZOAEW5OCNA.jpeg?auth=6ce837e13cc284977d413ad9fc83afd97711d42c9825e3a739af5e89a8600141&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Más de un centenar de corredores convierten la I Legua Solidaria “Lazos de ... - Almagro Noticias",
+      "url": "https://almagronoticias.com/mas-de-un-centenar-de-corredores-convierten-la-i-legua-solidaria-lazos-de-vida-de-almagro-en-un-gran-respaldo-a-la-lucha-contra-el-cancer-de-mama/",
+      "typeHint": "travesia",
+      "image": "https://i0.wp.com/almagronoticias.com/wp-content/uploads/2026/08/Mas-de-un-centenar-de-corredores-convierten-la-I-Legua-Solidaria-Lazos-de-Vida-de-Almagro-en-un-gran-respaldo-a-la-lucha-contra-el-cancer-de-mama-770.jpg?fit=770%2C513&#038;ssl=1",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Zapatillas de trail running Terrex Tracefinder Plus - Decathlon",
+      "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-trail-running-terrex-tracefinder-plus/c20a2687-3e2f-4d98-abb4-71458f219e3e/c1c4c76",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Estos son los cierres viales por el Quito Trail 2026 este 1 y 2 de agosto en el Centro Histórico",
+      "url": "https://www.primicias.ec/quito/cierres-viales-carrera-atletica-trail-centro-historico-129347/",
+      "typeHint": "travesia",
+      "image": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2025/08/02/688e88996d1ff.jpeg",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Urban Trail Guanajuato 2026, la carrera que desafía las calles de una ciudad patrimonio",
+      "url": "https://style.shockvisual.net/urban-trail-guanajuato-2026-la-carrera-que-desafia-las-calles-de-una-ciudad-patrimonio/",
+      "typeHint": "travesia",
+      "image": "https://style.shockvisual.net/wp-content/uploads/2026/02/sport-runner-girl-on-start-2026-01-11-10-35-28-utc-1K-JPEG.jpg",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Palma da la bienvenida a la 44 Copa del Rey Mapfre - Europa Press",
+      "url": "https://www.europapress.es/deportes/noticia-palma-da-bienvenida-44-copa-rey-mapfre-20260801165443.html",
+      "typeHint": "travesia",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260801165443_1200.jpg",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Descubre a Joyce: Reflexiones sobre Shakespeare, Platón y la Lectura en Agosto - canarias diario",
+      "url": "https://www.canariasdiario.com/noticia/150659/opinion/hamlet-joyce-y-troilo.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Un corredor de trail running desciende ¡6 horas! con su bastón empalado debajo de su ...",
+      "url": "https://www.diariodeltriatlon.es/articulo/runningendurance/increible-historia-corredor-montana-que-encontro-solucion-andar-6-horas-baston-empalado-debajo-axila/20260801102812101836.html",
+      "typeHint": "travesia",
+      "image": "https://www.diariodeltriatlon.es/media/diariodeltriatlon/images/2026/08/01/2026080110532375032.jpg",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "La Cresta del Gallo recuperará su protagonismo el Día de la Fiesta Nacional - FAMU",
+      "url": "https://www.famu.es/la-cresta-del-gallo-recuperara-su-protagonismo-el-dia-de-la-fiesta-nacional/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/08/Cartel-XI-Cresta-del-Gallo-Running-Day.jpg",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Invita Turismo a vivir aventura y tradición este fin de semana en Chihuahua - Netnoticias",
+      "url": "https://netnoticias.mx/estatal/invita-turismo-a-vivir-aventura-y-tradicion-este-fin-de-semana-en-chihuahua",
+      "typeHint": "travesia",
+      "image": "https://a.ntmx.me/media/2026/07/31/_hde9c9cf208a68dfd8d877af167db171a1c0c409ef.webp",
+      "date": "2026-08-01"
+    },
+    {
       "title": "El Recre logra los 5.000 abonados al grito de 'Rendirse no es costumbre' - Huelva Red",
       "url": "https://huelvared.com/2026/07/31/el-recre-logra-los-5-000-abonados-al-grito-de-rendirse-no-es-costumbre/",
       "typeHint": "carrera",
@@ -628,76 +698,6 @@
       "url": "https://www.inforegion.com.ar/2026/07/31/el-lider-talleres-recibe-al-ultimo-de-la-tabla/",
       "typeHint": "escalada",
       "image": "https://www.inforegion.com.ar/wp-content/uploads/2025/07/canchatalleresre.jpg",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Jóvenes y maestros del ajedrez de zona sur campeones con puntaje internacional",
-      "url": "https://www.eldiariosur.com/lanus/2026/7/31/jovenes-maestros-del-ajedrez-de-zona-sur-campeones-con-puntaje-internacional-es-un-logro-gigante-82079.html",
-      "typeHint": "escalada",
-      "image": "https://media.eldiariosur.com/p/58e54098a7ff0635f3891cc3178dee19/adjuntos/291/imagenes/000/633/0000633352/1200x675/smart/03cec0f4-ef04-42e2-9b01-94da8ce6a9c9.jpg",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Campeonato de Europa de natación artística 2026 (París, Francia) - Historia Deportiva",
-      "url": "https://www.historiadeportiva.com/2026/07/campeonato-de-europa-de-natacion.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-31"
-    },
-    {
-      "title": "El equipo extremeño de paraescalada se prepara de cara a las grandes citas internacionales",
-      "url": "https://fexme.com/2026/07/31/el-equipo-extremeno-de-paraescalada-se-prepara-de-cara-a-las-grandes-citas-internacionales/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Alba Gómez se estrena en el 9a con 'Gioconda': «Era un sueño que veía muy lejano ...",
-      "url": "https://woguclimbing.com/alba-gomez-estrena-9a-gioconda-era-sueno-veia-muy-lejano-cuando-empece-escalar/?amp",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Guerra y mediación compiten contrarreloj ante una escalada regional",
-      "url": "https://sana.sy/es/world/2324724/",
-      "typeHint": "escalada",
-      "image": "https://cdn.sananews.sy/2026/07/Guerra-y-mediacion-compiten-contrarreloj-ante-una-escalada-regional.jpg",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Segundo 9a para Marta Palou con “La persistencia de la Gioconda”, Rodellar",
-      "url": "https://www.desnivel.com/escalada-roca/segundo-9a-para-marta-palou-con-la-persistencia-de-la-gioconda-rodellar/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Torrejón abre las inscripciones para su gran competición de escalada urbana - La Voz de Galicia",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/07/31/torrejon-abre-inscripciones-gran-competicion-escalada-urbana/00031785487863267413620.htm",
-      "typeHint": "escalada",
-      "image": "https://cflvdg.avoz.es/sc/luEJNT9ffJUV-Gz3j-JjkRGuweE=/1280x/2026/07/31/00121785488450097117195/Foto/escalada.png",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "¿Se derrumba el trono de Infantino? Europa desafía a la FIFA en una batalla decisiva que ...",
-      "url": "https://www.goal.com/es-mx/listados/se-derrumba-el-trono-de-infantino-europa-desafia-a-la-fifa-en-una-batalla-decisiva-que-sacude-el-mundo-del-futbol/blt48019e278fa287c3",
-      "typeHint": "escalada",
-      "image": "https://assets.goal.com/images/v3/blt32b4dd369f1b34f4/Infantino%20-%20Football&#x27;s%20most%20hated%20man_.jpg",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "El Club Andino Esquel será sede del Campeonato Regional de Escalada Deportiva",
-      "url": "https://www.superdepor.com.ar/nota/2026-7-30-17-42-0-el-club-andino-esquel-sera-sede-del-campeonato-regional-de-escalada-deportiva",
-      "typeHint": "escalada",
-      "image": "https://pxbcdn.elchubut.com.ar/chubut/072026/1785444036501.jpg",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "CONVOCATORIA PARA COMPETICIONES ESCALADA DEPORTIVA 44º JUEGOS ...",
-      "url": "https://www.fam.es/noticias/3744-convocatoria-para-competiciones-escalada-deportiva-44-juegos-deportivos-en-edad-escolar",
-      "typeHint": "escalada",
-      "image": null,
       "date": "2026-07-31"
     }
   ]
