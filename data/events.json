@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:48:54.133Z",
+  "updatedAt": "2026-08-01T05:42:10.739Z",
   "events": [
     {
       "name": "Los Ñadis Trail Running",
@@ -1148,6 +1148,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/f98af4d6-f9d8-462a-8d0c-1e5ba1f4c11d.png",
       "url": "https://web.rockthesport.com/es/event/i-kv-de-bielsa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XV Marcha Popular subida al monte Dobra",
+      "type": "travesia",
+      "startDate": "2026-09-27T10:00:00",
+      "endDate": null,
+      "locationName": "Cantabria",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13969/library/root/683f160c-3c28-4cff-ae6c-d3c1a3fcf806.png",
+      "url": "https://web.rockthesport.com/es/event/xv-marcha-popular-subida-al-monte-dobra",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
