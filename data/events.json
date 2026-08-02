@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T07:42:01.972Z",
+  "updatedAt": "2026-08-02T16:28:22.826Z",
   "events": [
     {
       "name": "Cursa Vistabella",
@@ -762,6 +762,17 @@
       "url": "https://itra.run/Races/RaceDetails/TRAIL.ALBIOL..Trail.l.ALBIOL.22k/2026/120321",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Desafío de Naturaleza del Loira - Incursión multideportiva (ciclismo de montaña, piragüismo, carrera de montaña)",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "locationName": "Promenade du Guittay, Saint-Just Saint-Rambert, Rhône-Alpes, FR",
+      "image": "https://cdn.iris-etourism.io/media/gorges_de_la_loire/7740361/9333730f06d9210a.webp",
+      "url": "https://www.gorgesdelaloire.fr/es/agenda/Desaf%C3%ADo-de-Naturaleza-del-Loira%3A-Raid-multideportiva--ciclismo-de-monta%C3%B1a--pirag%C3%BCismo--carrera-en-la-naturaleza--trail-running./",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "LA SERTORIANA 2026",
