@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-08-01T18:16:13.029Z",
+  "updatedAt": "2026-08-02T05:58:16.563Z",
   "events": [
-    {
-      "name": "Los Ñadis Trail Running",
-      "startDate": "2026-08-01T07:00:00Z",
-      "endDate": null,
-      "locationName": "Fundo Los ñadis, Panguipulli, R. De Los Ríos, CL",
-      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMDIvMDMvN2p1bThoNm16Nl9sb3NfbmFkaXNfdHJhaWxfcnVubmluZ18yMDI2LmpwZyJdXQ?sha=3e36757a8135bf37",
-      "url": "https://tusdesafios.com/events/los-nadis-trail-running-2026",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Vientos Mineros Trail 2026",
-      "type": "carrera",
-      "startDate": "2026-08-01T09:00:00",
-      "endDate": null,
-      "locationName": "Teruel",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/vientos-mineros-trail-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13973/library/root/cb2d8be2-cf63-40b8-ac87-129f6cc196cd.png"
-    },
-    {
-      "name": "13AU ERA NOCTURNA DE VIELHA",
-      "type": "carrera",
-      "startDate": "2026-08-01T19:00:00",
-      "endDate": null,
-      "locationName": "Lleida",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/13au-era-nocturna-de-vielha",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/9659/library/root/10180005-5242-4beb-9af0-b480df0f6f87.jpeg"
-    },
-    {
-      "name": "V Trail Corazón de la Alcarria - Berninches",
-      "type": "carrera",
-      "startDate": "2026-08-01T20:00:00",
-      "endDate": null,
-      "locationName": "Guadalajara",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/v-trail-corazon-alcarria-berninches",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/5722e23f-1e5e-45a3-b87d-34e117ea0a66.jpeg"
-    },
     {
       "name": "Cursa Vistabella",
       "type": "carrera",
