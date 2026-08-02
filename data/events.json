@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T05:58:16.563Z",
+  "updatedAt": "2026-08-02T07:42:01.972Z",
   "events": [
     {
       "name": "Cursa Vistabella",
@@ -1313,6 +1313,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "C.T.T. TRAIL - 2026",
+      "type": "carrera",
+      "startDate": "2026-10-04T07:30:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
+      "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2026-10-04T08:00:00",
@@ -2347,6 +2359,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": null
+    },
+    {
+      "name": "HISTORIC TRAIL CALAFELL 2026",
+      "type": "carrera",
+      "startDate": "2026-11-15T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/d993cfff-b894-487f-8aca-f6441d43998a.jpeg",
+      "url": "https://web.rockthesport.com/es/event/historic-trail-calafell-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Txulato Trail Zambrana",

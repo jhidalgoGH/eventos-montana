@@ -1,6 +1,13 @@
 {
   "mentions": [
     {
+      "title": "una escalada no planeada en la que Santilli tiene el respaldo de Milei - Fenix",
+      "url": "https://www.fenix951.com.ar/noticia.php?id=348083",
+      "typeHint": "escalada",
+      "image": "https://www.fenix951.com.ar/imagenes/348083_1785614955.jpg",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Juan Ignacio Redolatti regresará a Necochea con otra clínica intensiva de trail",
       "url": "https://diarionecochea.com/2026/08/01/juan-ignacio-redolatti-regresara-a-necochea-con-otra-clinica-intensiva-de-trail/",
       "typeHint": "travesia",
@@ -691,13 +698,6 @@
       "url": "https://www.red43.com.ar/nota/2026-7-31-17-54-35-helena-rico-galeano-con-la-camiseta-del-club-andino-esquel-al-mundial-de-escalada-en-italia",
       "typeHint": "escalada",
       "image": "https://pxbcdn.red43.com.ar/red43/072026/1785531173214.jpg?&cw=600&ch=365",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "CA Huracán - Balance contra CA Barracas Central | Transfermarkt",
-      "url": "https://www.transfermarkt.es/ca-huracan/bilanzdetail/verein/2063/saison_id/0/wettbewerb_id//datum_von/0000-00-00/datum_bis/0000-00-00/gegner_id/25184/day/0/sort/anzahl_zuschauer",
-      "typeHint": "escalada",
-      "image": null,
       "date": "2026-08-01"
     }
   ]
