@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-08-02T18:15:45.302Z",
+  "updatedAt": "2026-08-03T05:48:22.628Z",
   "events": [
-    {
-      "name": "Cursa Vistabella",
-      "type": "carrera",
-      "startDate": "2026-08-02",
-      "endDate": null,
-      "locationName": "Vistabella del Maestrazgo",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/Cursa.Vistabella.Cursa.Vistabella/2026/109281",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Cajamarca Trail 2026",
-      "startDate": "2026-08-02T06:00:00-05:00",
-      "endDate": "2026-08-02T06:00:00-05:00",
-      "locationName": "Granja Porcón, Cajamarca, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/02/cajamarca-trail-2026.webp",
-      "url": "https://www.running4peru.com/eventos/cajamarca-trail/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "XII PILÓN TRAIL ACOFALCES",
-      "type": "carrera",
-      "startDate": "2026-08-02T09:00:00",
-      "endDate": "2026-08-02T12:30:00",
-      "locationName": "Navarra",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/xii-pilon-trail-acofalces",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2207/library/root/58e5c9e9-026a-43d9-966e-00eba779e89b.jpg"
-    },
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
       "type": "carrera",
@@ -2089,7 +2055,7 @@
       "endDate": "2026-11-01T13:30:00",
       "locationName": "Huesca",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13951/custom/root/66d7fc46-0410-44c7-8f2a-3bcbbb21b95f_custom2.jpg",
       "url": "https://web.rockthesport.com/es/event/ii-embun-monster-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
