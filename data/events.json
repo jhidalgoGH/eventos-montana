@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:05:50.839Z",
+  "updatedAt": "2026-08-04T07:57:12.353Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -2348,6 +2348,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": null
+    },
+    {
+      "name": "CMG 2026",
+      "type": "carrera",
+      "startDate": "2026-11-15T08:00:00",
+      "endDate": null,
+      "locationName": "Girona",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/cmg-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "HISTORIC TRAIL CALAFELL 2026",

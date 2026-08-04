@@ -1,6 +1,13 @@
 {
   "mentions": [
     {
+      "title": "Zapatilla trail ON RUNNING CLOUDSOMA BLACK/BLACK - Ekosport",
+      "url": "https://www.ekosport.es/on-running-cloudsoma-p-K118091",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-04"
+    },
+    {
       "title": "Un año más Castil de Campos se llenó de senderistas y corredores para celebrar la XIV ...",
       "url": "https://www.facebook.com/castildecampossiempre/videos/un-a%C3%B1o-m%C3%A1s-castil-de-campos-se-llen%C3%B3-de-senderistas-y-corredores-para-celebrar-l/1023493853862580/",
       "typeHint": "carrera",
@@ -691,13 +698,6 @@
       "url": "https://bogota.alerta.com.co/vivir-sabroso/planes-para-celebrar-los-488-anos-de-bogota-en-agosto-247652",
       "typeHint": "travesia",
       "image": "https://i.alerta.com.co/media/news-images/2026/08/01/231133/planes-para-hacer-en-agosto-en-bogota-1200x675.jpg?w=1280",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Las cinco mejores rutas de trail running en España para hacer este verano en solamente ...",
-      "url": "https://www.mundodeportivo.com/running/carreras/20260802/1004206734/mejores-rutas-trail-running-espana-verano-manana.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/13/6a54fe7a6fa45.r_d.446-255-11719.jpeg",
       "date": "2026-08-02"
     }
   ]
