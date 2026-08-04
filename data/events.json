@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T07:57:12.353Z",
+  "updatedAt": "2026-08-04T17:57:54.708Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -15,7 +15,7 @@
     {
       "name": "MONTLUDE SKYRACE 2026",
       "type": "carrera",
-      "startDate": "2026-08-08T07:30:00",
+      "startDate": "2026-08-08T07:00:00",
       "endDate": null,
       "locationName": "Lleida",
       "country": "España",
@@ -406,6 +406,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/af485103-c85c-4cce-99fb-6890f14ebe34.jpeg"
+    },
+    {
+      "name": "I TRAIL DE LA PICOTA DE PEZUELA DE LAS TORRES",
+      "type": "carrera",
+      "startDate": "2026-09-12T11:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/f2a340e4-7228-424e-8fa1-5a55b9d6aff0.jpeg",
+      "url": "https://web.rockthesport.com/es/event/i-trail-de-la-picota-de-pezuela-de-las-torres",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Andada popular \"SalvaTusPasos\"",
