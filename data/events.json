@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:57:54.708Z",
+  "updatedAt": "2026-08-04T19:00:05.331Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -2605,6 +2605,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
+    },
+    {
+      "name": "TRAIL TRINCHERAS XYZ 2026",
+      "type": "carrera",
+      "startDate": "2026-12-19T11:00:00",
+      "endDate": "2026-12-20T14:00:00",
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/8d81e921-f0f6-456c-8dfe-df2835b60ec6.jpg",
+      "url": "https://web.rockthesport.com/es/event/trail-trincheras-xyz-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "TRAILSERIES COLLDEJOU",
