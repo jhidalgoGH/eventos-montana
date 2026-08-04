@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:00:30.431Z",
+  "updatedAt": "2026-08-04T06:05:50.839Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -2246,6 +2246,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Sierra Nevada Trails",
+      "type": "carrera",
+      "startDate": "2026-11-08T09:00:00",
+      "endDate": null,
+      "locationName": "Granada",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/24b23831-de4f-4bd8-ba54-c326b7a61518.jpeg",
+      "url": "https://web.rockthesport.com/es/event/sierra-nevada-trails",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "IV TRAIL SIERO",
       "type": "carrera",
       "startDate": "2026-11-08T09:30:00",
@@ -2499,6 +2511,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2000/library/root/03c85994-a1f7-4877-90f6-997af739800c.jpg"
+    },
+    {
+      "name": "XI Carrera por Montaña Sierra De Chiva",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "locationName": "Chiva, Spain, Chiva, Spain",
+      "image": "https://urbanrace.io/wp-content/uploads/2026/07/event-4087.jpg",
+      "url": "https://urbanrace.io/events/trail-run/spain/chiva/xi-carrera-por-montana-sierra-de-chiva/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Caminata \"Ruta de la ermitas\"",
