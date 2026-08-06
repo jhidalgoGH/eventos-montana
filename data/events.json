@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T06:05:49.344Z",
+  "updatedAt": "2026-08-06T07:57:39.238Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -2059,6 +2059,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/9de2b83b-6e6e-4f61-b436-e765a3f4fc17.png"
+    },
+    {
+      "name": "XI Trail de Buñol",
+      "type": "carrera",
+      "startDate": "2026-11-01T09:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/f63687b6-8c06-4027-a706-6178cdb6e607.png",
+      "url": "https://web.rockthesport.com/es/event/xi-trail-de-bunol",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "III Loiu 500 Trail ",
