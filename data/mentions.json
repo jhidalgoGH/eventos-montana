@@ -1,6 +1,55 @@
 {
   "mentions": [
     {
+      "title": "Victoria con autoridad del Súpersenior para escalar en el torneo - Fortaleza Granate",
+      "url": "https://fortalezagranate.com.ar/victoria-con-autoridad-del-supersenior-para-escalar-en-el-torneo/",
+      "typeHint": "escalada",
+      "image": "https://fortalezagranate.com.ar/wp-content/uploads/2026/08/IMG_20260805_224339539_HDR2-scaled.webp",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El Festival de Verano llena el puente festivo de deporte, recreación y diversión para toda la familia",
+      "url": "https://www.idrd.gov.co/noticias/el-festival-de-verano-llena-el-puente-festivo-de-deporte-recreacion-y-diversion-para-toda",
+      "typeHint": "escalada",
+      "image": "https://www.idrd.gov.co/sites/default/files/noticias/imagen/2026-08/bicicine.jpeg",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Katherine Choong encadena 'Yeah Man' (350m 8b+) tras seis años de perseverancia",
+      "url": "https://woguclimbing.com/katherine-choong-encadena-yeah-man-seis-anos-perseverancia/?amp",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Kilómetro y Pico, el campeonato piquense «que vino para quedarse - Pampa Deportiva",
+      "url": "https://www.pampadeportiva.com/kilometro-y-pico-el-campeonato-piquense-que-vino-para-quedarse-el-domingo-se-corre-la-tercera-fecha/",
+      "typeHint": "escalada",
+      "image": "https://www.pampadeportiva.com/wp-content/uploads/2026/08/Mariela-Lera-scaled-1-1920x1280.webp",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Claramente en racha: Giovanni Placci deslumbra con “The Famous Gem” (9a) en La Saume.",
+      "url": "https://www.lacrux.com/es/klettern/hat-eindeutig-einen-lauf-giovanni-placci-flasht-the-famous-gem-9a-in-la-saume/",
+      "typeHint": "escalada",
+      "image": "https://www.lacrux.com/wp-content/uploads/2026/08/Beitragsbild_GioPlacciFlash.jpg",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Ping Pong: reflejos, estrategia y mucha diversión - Ayuntamiento de Zaragoza",
+      "url": "https://www.zaragoza.es/sede/servicio/cultura/evento/312330",
+      "typeHint": "escalada",
+      "image": "https://www.zaragoza.es/cont/paginas/actividades/imagen/5aa21a8e-93a1-4c8b-9816-b324f381718b.png",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Emilio Comici (1901-1940), el ‘Ángel de los Dolomitas’",
+      "url": "https://www.desnivel.com/cultura/emilio-comici-1901-1940-el-angel-de-los-dolomitas/",
+      "typeHint": "festival",
+      "image": "https://www.desnivel.com/images/2020/04/comici-01-611x440.jpg",
+      "date": "2026-08-07"
+    },
+    {
       "title": "¡Llega la V Carrera \"Olías Salvaje\"! ‍♂️ ¿Estás listo para el reto? Ven a disfrutar de una ...",
       "url": "https://www.facebook.com/turismoalmanzora/posts/%EF%B8%8F-llega-la-v-carrera-ol%C3%ADas-salvaje-%EF%B8%8Fest%C3%A1s-listo-para-el-reto-ven-a-disfrutar-de-/1670736198340736/",
       "typeHint": "carrera",
@@ -649,55 +698,6 @@
       "url": "https://selectabisso.com/es/Kith-x-Salomon-XT-Evo-Ronnie-Fieg-presenta-una-nueva-silueta-exclusiva-para-la-colecci%C3%B3n-Kin-oto%C3%B1o-2026./",
       "typeHint": "travesia",
       "image": "https://selectabisso.com/wp-content/uploads/2026/08/kith-salomon-xt-evo-release-date-1.webp",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "La Guardia Civil detiene al conductor fugado en un siniestro vial mortal en la EX-205 tras ...",
-      "url": "https://laaldaba.es/sucesos-3/la-guardia-civil-detiene-al-conductor-fugado-en-un-siniestro-vial-mortal-en-la-ex-205-tras-casi-cuadruplicar-la-tasa-de-alcohol/",
-      "typeHint": "carrera",
-      "image": "https://laaldaba.es/wp-content/uploads/2026/08/fotografia.jpg",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Daniel Puyuelo, la promesa aragonesa de los raids de aventura: \"Aún no asimilo que soy ...",
-      "url": "https://www.heraldo.es/noticias/deportes/2026/08/05/daniel-puyuelo-promesa-aragonesa-los-raids-aventura-aun-no-asimilo-que-soy-subcampeon-mundo-2042256.html",
-      "typeHint": "carrera",
-      "image": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/08/04/6a71a5ca7d1b12-01252062.jpeg",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "La FDMESCYL renueva su participación en el programa «UEMC somos Deporte",
-      "url": "https://www.fclm.com/2026/08/05/la-fdmescyl-renueva-su-participacion-en-el-programa-uemc-somos-deporte-para-el-curso-2026-2027/",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Subida a la Virgen del Espino - Los Molinos, 5 sep 2026",
-      "url": "https://gotrail.run/es/carrera/subida-a-la-virgen-del-espino",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Festival de la Montaña 2026: estas son las rutas para los amantes de la aventura y el senderismo",
-      "url": "https://www.semana.com/amp/turismo/articulo/festival-de-la-montana-2026-estas-son-las-rutas-para-los-amantes-de-la-aventura-y-el-senderismo/202617/",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Instituto vs. Gimnasia (Mza.) por el Torneo Clausura 2026: horario, formaciones y TV",
-      "url": "https://www.minutouno.com/deportes/instituto-vs-gimnasia-mza-el-torneo-clausura-2026-horario-formaciones-y-tv-n6307140",
-      "typeHint": "escalada",
-      "image": "https://media.minutouno.com/p/370b01c90ca41396457cebfdd15f53ad/adjuntos/150/imagenes/043/407/0043407248/1200x675/smart/instituto.jpeg",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "El centro de escalada más ambicioso de España tiene fecha de apertura en Zaragoza",
-      "url": "https://www.elperiodicodearagon.com/zaragoza/2026/08/05/centro-escalada-ambicioso-espana-apertura-zaragoza-dv-133106631.html",
-      "typeHint": "escalada",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/b1946bdf-758a-498f-b2bd-77f80578c825_16-9-discover-aspect-ratio_default_1494085.jpg",
       "date": "2026-08-05"
     }
   ]
