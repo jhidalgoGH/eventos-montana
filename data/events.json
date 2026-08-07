@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T17:42:28.625Z",
+  "updatedAt": "2026-08-07T05:24:41.551Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -1546,6 +1546,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
+    },
+    {
+      "name": "I Trail Arona - Memorial Óscar Hernández 2026",
+      "startDate": "2026-10-11T10:00:00+02:00",
+      "endDate": "2026-10-11",
+      "locationName": "Valle San Lorenzo, Arona, ES",
+      "image": "https://planimagesstorage.blob.core.windows.net/planimage1/stock_images/scenic-mountain-trail-overlooking-valley-landscape_282218-62542_20260805_214325.jpg",
+      "url": "https://www.planomato.com/es/arona/p/i-trail-arona-memorial-oscar-hernandez-2026",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Brama Stage Run 2026",
