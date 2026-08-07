@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:36:17.562Z",
+  "updatedAt": "2026-08-07T17:26:36.148Z",
   "events": [
     {
       "name": "TRAIL INTERNACIONAL DA RAIA",
@@ -1898,6 +1898,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/b45b0e59-89cc-4491-8cee-39ab23c271da.jpg"
     },
     {
+      "name": "Arratia Raid",
+      "type": "otro",
+      "startDate": "2026-10-24T09:00:00",
+      "endDate": null,
+      "locationName": "Bizkaia",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11519/library/root/7b01aaef-dc3e-4de6-afa2-7ad8e2948137.jpeg",
+      "url": "https://web.rockthesport.com/es/event/arratia-raid",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Aldapegora 2026",
       "type": "travesia",
       "startDate": "2026-10-24T09:15:00",
@@ -2546,6 +2558,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/tres-tossals-gata-gorgos-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "AVENC TRAIL CUNIT 2026",
+      "type": "carrera",
+      "startDate": "2026-11-29T10:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/0e1629dd-6375-4179-b842-3a98f531b9ab.png",
+      "url": "https://web.rockthesport.com/es/event/avenc-trail-cunit-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
