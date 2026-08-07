@@ -1,6 +1,48 @@
 {
   "mentions": [
     {
+      "title": "Trail Running Calendar near Dúrcal 2026-2027",
+      "url": "https://gotrail.run/trail-running-calendar/spain/andalucia/durcal",
+      "typeHint": "travesia",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/location_f13929d3_durcal_meta.webp",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Mejores zapatillas de trail running por menos de 120 euros - BCN Run Hub",
+      "url": "https://bcnrunhub.com/es/blog/zapatillas-trail-running-menos-120-euros/",
+      "typeHint": "travesia",
+      "image": "https://www.bcnrunhub.com/og.webp",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Eva Hammelmüller encadena 'Affinità Elettive' 9a+, en Dolomitas - WOGU",
+      "url": "https://woguclimbing.com/eva-hammelmuller-encadena-affinita-elettive-9a-dolomitas/?amp",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-08-07"
+    },
+    {
+      "title": "CIERRE DE LAS PASARELAS DE MONTFALCÓ - Federación Aragonesa de Montañismo",
+      "url": "https://www.fam.es/noticias/3754-cierre-de-las-pasarelas-de-montfalco",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-08-07"
+    },
+    {
+      "title": "A pesar de la escalada de la Conmebol, Argentina anuncia su apoyo a Infantino - Goal.com",
+      "url": "https://www.goal.com/es-mx/noticias/pese-a-la-escalada-de-la-conmebol-argentina-anuncia-su-apoyo-a-infantino/bltf35cdb4196e770b8",
+      "typeHint": "escalada",
+      "image": "https://assets.goal.com/images/v3/getty-2250363198/crop/MM5DINZVGI5DENRXGM5G433XMU5DAORXHA======/GettyImages-2250363198.jpg",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Taro Nakatsuka acelera en Catamarca con el objetivo de escalar en el Argentino de Motocross",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/08/06/904576-taro-nakatsuka-acelera-en-catamarca-con-el-objetivo-de-escalar-en-el-argentino-de-motocross",
+      "typeHint": "escalada",
+      "image": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/08/elterritorio/images/02/71/49/2714979_c26c3a8093d98ee0405b9ad025ac761b6f7a92aa67a1f52d4f16a9884623e206/lg.webp?_v=v3-610",
+      "date": "2026-08-07"
+    },
+    {
       "title": "El domingo, Subida a Oroel, la carrera por montaña más antigua de Aragón",
       "url": "https://www.eldiariodehuesca.com/deportes/domingo-subida-oroel-carrera-por-montana-mas-antigua-aragon_46169_102.html",
       "typeHint": "carrera",
@@ -656,48 +698,6 @@
       "url": "https://carrerasdemontana.com/2026/08/06/zapatillas-minimalistas-mayayo/",
       "typeHint": "travesia",
       "image": "https://carrerasdemontana.com/wp-content/uploads/2026/08/zapatillas-minimalistas-barefoot-running-mayayo--e1786030374946-1024x834.png",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Vuelven las Ofertas Límite a El Corte Inglés con rebajas en zapatillas Nike, Adidas y más al ...",
-      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/vuelven-ofertas-limite-a-corte-ingles-rebajas-zapatillas-nike-adidas-al-50-descuento",
-      "typeHint": "travesia",
-      "image": "https://i.blogs.es/15decf/eci-ofertas/840_560.jpeg",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Salomon Genesis 2, la zapatilla de trail running más versátil de Salomon regresa con una ...",
-      "url": "https://www.mundodeportivo.com/running/20260806/1004213704/salomon-genesis-2-zapatilla-trail-running-versatil-salomon-regresa-relacion-calidad-precio-imbatible.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a7485f086b76.r_d.2708-837-4167.png",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las personas que entrenan con intervalos largos tienen un VO2 máx significativamente ...",
-      "url": "https://www.mundodeportivo.com/running/20260806/1004213729/entrenadores-coinciden-personas-entrenan-intervalos-largos-vo2-max-significativamente-mayor-intervalos-cortos-dct.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a748f87a8f74.r_d.1505-881-4003.jpeg",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Amplían detención de cinco personas por contrabando de cigarrillos y eventual lavado de ...",
-      "url": "https://elpinguino.com/noticia/2026/08/05/amplian-detencion-de-cinco-personas-por-contrabando-de-cigarrillos-y-eventual-lavado-de-activos-en-magallanes",
-      "typeHint": "travesia",
-      "image": "https://elpinguino.com/uploads/images/large/9ec925c8bf9e8b09ad40d17b0cdf553c.jpg",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Todos los caminos conducen a Sierre-Zinal: favoritos, horario y dónde ver la carrera",
-      "url": "https://www.labolsadelcorredor.com/sierre-zinal-2026-favoritos-horario-donde-ver/",
-      "typeHint": "travesia",
-      "image": "https://www.labolsadelcorredor.com/wp-content/uploads/2026/07/@rising.story_@justingalant_SierreZinal_09-08-25-57-large.jpg",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Las Ovejas recibirá una nueva edición de la Winter Trail - Neuquen Informa",
-      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2026/08/06/261538-las-ovejas-recibira-una-nueva-edicion-de-la-winter-trail",
-      "typeHint": "travesia",
-      "image": null,
       "date": "2026-08-06"
     }
   ]
