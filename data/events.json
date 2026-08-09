@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-08-08T17:52:54.782Z",
+  "updatedAt": "2026-08-09T05:45:39.194Z",
   "events": [
-    {
-      "name": "TRAIL INTERNACIONAL DA RAIA",
-      "type": "carrera",
-      "startDate": "2026-08-08",
-      "endDate": null,
-      "locationName": "Aldeia do Bispo - Sabugal",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Trail.Ultra...Serra.das.Mesas/2026/114285",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "MONTLUDE SKYRACE 2026",
-      "type": "carrera",
-      "startDate": "2026-08-08T07:00:00",
-      "endDate": null,
-      "locationName": "Lleida",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/e850ae80-be59-476b-b4e1-b38f8c8ac1bb.png",
-      "url": "https://web.rockthesport.com/es/event/montlude-skyrace-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "XXVIII CARRERA VERTICAL SUBIDA A OROEL",
       "type": "carrera",
