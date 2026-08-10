@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-08-09T17:53:14.659Z",
+  "updatedAt": "2026-08-10T06:13:01.805Z",
   "events": [
-    {
-      "name": "XXVIII CARRERA VERTICAL SUBIDA A OROEL",
-      "type": "carrera",
-      "startDate": "2026-08-09T08:00:00",
-      "endDate": null,
-      "locationName": "Huesca",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/xxviii-carrera-vertical-subida-a-oroel",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/5440e562-61b9-4e1b-9af4-82dc514afc9e.jpeg"
-    },
     {
       "name": "Encuentro de Trail Running con Julita Runner",
       "startDate": "2026-08-11T18:30:00-03:00",
