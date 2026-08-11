@@ -1,6 +1,230 @@
 {
   "mentions": [
     {
+      "title": "Carreras de trail en España en septiembre: calendario por comunidad - DaleDeporte",
+      "url": "https://www.daledeporte.es/blog/carreras-trail-espana-septiembre",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "‍♂️ Lújar ha acogido una nueva prueba del Circuito de Carreras por Montaña de la Diputación ...",
+      "url": "https://www.facebook.com/DeporteEnGranada/videos/%EF%B8%8F-l%C3%BAjar-ha-acogido-una-nueva-prueba-del-circuito-de-carreras-por-monta%C3%B1a-de-la-d/1069078812270344/",
+      "typeHint": "carrera",
+      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t15.5256-10/769095664_1401185254687910_9206821249011528028_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CZXSuLhoFPUQ7kNvwF3Oamq&amp;_nc_oc=AdrhvHmrHc_TMMODcevx3U0UFbQXtTA2Qb6xDGgtE-x-ZUReQg2AqSitXv2HxDCaA0M&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.xx&amp;_nc_gid=VX9em6bfmQg5APz1OsQfhg&amp;_nc_ss=7f289&amp;oh=00_AQFZ6bdC-uEPjqWoOS2s5OH-9RX53ZkTS0qhI7gxH_yoig&amp;oe=6A80A40F",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Día de carrera: cómo gestionar tu primera vez en montaña - YouTube",
+      "url": "https://www.youtube.com/watch?v=c7c7PL5SAwE",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "VI Carrera por Montaña VALENTRAIL - Deporticket",
+      "url": "https://www.deporticket.com/it/web-evento/12814-vi-carrera-por-montana-valentrail",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Festival de Montaña 2026 - Visit Santiago Travel",
+      "url": "https://visitsantiago.travel/panorama/festival-de-montana-2026/",
+      "typeHint": "carrera",
+      "image": "https://visitsantiago.travel/wp-content/uploads/2026/08/Festival-de-montana-2026.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Página 1172 de 1172 - Rock Legacy Webzine",
+      "url": "https://rocklegacy.cl/page/1172/",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Valgrande-Pajares inaugura el verano con un festival lleno de naturaleza, deporte y cultura",
+      "url": "https://vinxtv.es/noticia/valgrande-pajares-inaugura-el-verano-con-un-festival-lleno-de-naturaleza-deporte-y-cultura",
+      "typeHint": "carrera",
+      "image": "https://vinxtv.es/uploads/wordpress/fc/fc4914e8e7072f818f2e820e45ac76bed1eebb63.png",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Mercado Libre: Tenis Salomon Ultra Flow 2 Trail Running SOLO 28.5 - Promodescuentos",
+      "url": "https://www.promodescuentos.com/ofertas/mercado-libre-tenis-salomon-ultra-flow-2-trail-running-solo-285-1182660",
+      "typeHint": "travesia",
+      "image": "https://static.promodescuentos.com/threads/raw/vIHdp/1182660_1/re/1024x1024/qt/60/1182660_1.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Review smartwatch HUAWEI WATCH GT RUNNER 2",
+      "url": "https://pisapapeles.net/review-smartwatch-huawei-watch-gt-runner-2/",
+      "typeHint": "travesia",
+      "image": "https://static2.pisapapeles.net/uploads/2026/06/HUAWEI-WATCH-GT-RUNNER-2-Pisapapeles-foto-03.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Rusia presenta nueva demanda ante el TAS contra las sanciones de World Athletics",
+      "url": "https://www.clarosports.com/otros-deportes/rusia-presenta-nueva-demanda-ante-el-tas-contra-las-sanciones-de-world-athletics/",
+      "typeHint": "travesia",
+      "image": "https://cdn.amxinfra.com/clarosports/images/2026/05/ioc-133429.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Ayrton Narváez se impuso en otra prueba de San Nicolás - Nueva Rioja",
+      "url": "https://nuevarioja.com.ar/deportes/ayrton-narvaez-se-impuso-en-otra-prueba-de-san-nicolas.htm",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Más de 600 atletas en el Trail de los Siete Colores :: Diario Pregon de Jujuy",
+      "url": "https://www.pregon.com.ar/nota/30608/2026/08/mas-de-600-atletas-en-el-trail-de-los-siete-colores",
+      "typeHint": "travesia",
+      "image": "https://www.pregon.com.ar/img/publicaciones/2026/08/10/alta/236820.webp",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trail Running: Silvio Magariño segundo en el Trail de Pinamar - InfoSaladillo",
+      "url": "https://infosaladillo.com.ar/trail-running-silvio-magarino-segundo-en-el-trail-de-pinamar/amp/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "¡150 atletas pusieron a prueba su resistencia en el Trail Running 15k por la fiesta patronal!",
+      "url": "https://www.youtube.com/watch?v=TbJZb3-bDH0",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Hoka Speedgoat 7 Zapatillas Trail Running Mujer - Blueberry",
+      "url": "https://www.misterrunning.com/es/hoka-speedgoat-7-zapatillas-trail-running-mujer-blueberry-1171929-bycs.html",
+      "typeHint": "travesia",
+      "image": "https://www.misterrunning.com/images/2026-media-06/1171929-BYCS_A.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El festival Banff vuelve a Buenos Aires en septiembre - revista Weekend",
+      "url": "https://weekend.perfil.com/noticias/informativo/el-festival-banff-vuelve-a-buenos-aires-en-septiembre.phtml",
+      "typeHint": "travesia",
+      "image": "https://fotos.perfil.com/2026/08/06/trim/1280/720/0806banff-2299036.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "¡SEGUÍ CORRIENDO! ➡️ ¿Cuántas veces hemos pensado en abandonar una carrera, en ...",
+      "url": "https://www.instagram.com/p/Db4JNY1Dkx4/",
+      "typeHint": "travesia",
+      "image": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/770330782_18618055465032426_7203846857600833933_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=iRpY0EkeSJUQ7kNvwFDbG-o&amp;_nc_oc=AdpJStHCUmIauvVTw4tab2eQ6TqQhLA36W9QU_rxaRYF1lbwLBC8hzWQyjGw6bhC3vg&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.cdninstagram.com&amp;_nc_gid=1HEcHtE1LGiroQtxkU1xJw&amp;_nc_ss=7f689&amp;oh=00_AQHLN4qJ4HRYSVpOEhCKRVPXgJive98mj_FkX7aBxdl9WQ&amp;oe=6A80A8B8",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "‍♂️ ¡Darwin Quishpe, ganador de los 12K Quito Trail by UTMB! El atleta compartió con Ecos ...",
+      "url": "https://www.facebook.com/RadioEcosEC/posts/%EF%B8%8F-darwin-quishpe-ganador-de-los-12k-quito-trail-by-utmb-el-atleta-comparti%C3%B3-con-/1570477788426281/",
+      "typeHint": "travesia",
+      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t15.5256-10/772414639_2052092398846449_318970821048820609_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=6vAIL4tRlosQ7kNvwEqAKeh&amp;_nc_oc=AdrlDfNYyYnQZmrnnkQhAbdKul1UKV1xsnJAzqxu3S6tWTHbAu3NYI2lRLB1gszdQtk&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.xx&amp;_nc_gid=CE4pfsJMLVH2NPik2wjh8w&amp;_nc_ss=7f289&amp;oh=00_AQGo8gLowjjJlk1zoNrEWDpj9r6DHY__Rwg-U-HBWEpiIQ&amp;oe=6A809C7A",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trail Running: How to Start with No Prior Experience #shorts - YouTube",
+      "url": "https://www.youtube.com/watch?v=HM-zpSvXHV4",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trail de los 7 Colores: los ganadores por categoría - Todo Jujuy",
+      "url": "https://www.todojujuy.com/trail-los-7-colores-los-ganadores-categoria-n294414",
+      "typeHint": "travesia",
+      "image": "https://media.todojujuy.com/p/00870c95884a85723be49f900d36291e/adjuntos/227/imagenes/003/478/0003478899/1200x675/smart/trail-los-7-colores-purmamarca.png",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Zapatillas De Trail Running Izas Shun Para Hombre | Suela Alta, Puntera Y Talonera Reforzadas",
+      "url": "https://casag.org.br/Zapatillas-De-Trail-Running-Izas-Shun-Para-Hombre-Suela-Alta/924025",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Aventura Franca Austral coronó a sus ganadores en El Doradillo - Radio 3 Cadena Patagonia",
+      "url": "https://radio3cadenapatagonia.com.ar/aventura-franca-austral-corono-a-sus-ganadores-en-el-doradillo/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El I Trail Somarroza 'Virgen de Valencia' llevará el trail running a Vioño de Piélagos, viernes ...",
+      "url": "https://www.cantabriadirecta.es/el-i-trail-somarroza-virgen-de-valencia-llevara-el-trail-running-a-viono-de-pielagos-el-4-de-septiembre-noticias-cantabria-santander-pielagos/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Cómo evitar que los soft flasks reboten al correr - SportsHub",
+      "url": "https://sportshub.es/blogs/trail-running/evitar-soft-flasks-reboten-correr",
+      "typeHint": "travesia",
+      "image": "http://sportshub.es/cdn/shop/articles/soft-flasks-no-rebotan-trail-running.png?v=1786374449",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Vive una experiencia única que combina el desafío del trail running con la belleza del ... - Facebook",
+      "url": "https://www.facebook.com/secturqro/videos/%EF%B8%8Fvive-una-experiencia-%C3%BAnica-que-combina-el-desaf%C3%ADo-del-trail-running-con-la-bell/1500882525141449/",
+      "typeHint": "travesia",
+      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t15.5256-10/767334003_1047115531143034_2475657665976713298_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=5r9-j-6i13sQ7kNvwFc9v6t&amp;_nc_oc=AdocvwbFGsm4X3uZHd4LjMhtSNeKjxTrlVqkDKcicvt6qDvwOCFSEcBtDKf5OlfpHqc&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr11-1.xx&amp;_nc_gid=eVyIOP0b2vUV4Scm379W2w&amp;_nc_ss=7f289&amp;oh=00_AQFOGqZ2hEi9aGbrLcNpGFYK4KeGA3YyD9psJVsVywW4GQ&amp;oe=6A808CE8",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Cómo correr con lluvia: consejos y equipamiento - Salomon",
+      "url": "https://www.salomon.com/es-es/sg/a/tips-for-running-in-the-rain",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Travesía de montaña de varios días: consejos y equipamiento - Trangoworld",
+      "url": "https://www.trangoworld.com/blog/travesia-montana-varios-dias-consejos-equipamiento/",
+      "typeHint": "festival",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Vuelven los Juegos de Montaña a Esquel: una fiesta para vivir naturaleza y deporte en un ...",
+      "url": "https://www.infoturchubut.ar/vuelven-los-juegos-de-montana-a-esquel-una-fiesta-para-vivir-naturaleza-y-deporte-en-un-mismo-lugar/",
+      "typeHint": "escalada",
+      "image": "https://www.infoturchubut.ar/wp-content/uploads/2026/08/Screenshot_20260810-143057-1.webp",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Escalada al Monte Toro-5 - Sportlife",
+      "url": "https://www.sportlife.es/ciclismoafondo/escalada-al-monte-toro-5_10090_113.html",
+      "typeHint": "escalada",
+      "image": "https://www.sportlife.es/ciclismoafondo/uploads/s1/22/67/25/0/5bd015ee0ce69483138b4b2a-escalada-al-monte-toro-5.jpeg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Campeonato del Mundo ILCA 4 2026 - dbSportpress",
+      "url": "https://dbsport.press/campeonato-del-mundo-ilca-4-2026/",
+      "typeHint": "escalada",
+      "image": "https://dbsport.press/wp-content/uploads/2026/08/Cto-Mundo-ILCA-4-2026-7.jpg",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "\"Y Tý - El encanto del vasto bosque\" - Vietnam.vn",
+      "url": "https://www.vietnam.vn/es/y-ty-suc-hut-dai-ngan",
+      "typeHint": "escalada",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/10/1786359055642_image1-5182-jpg.webp",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "El bloqueo de un vuelo iraní a Yemen desencadenó la nueva escalada hutí con Arabia Saudí",
+      "url": "https://www.beaumontenterprise.com/news/world/article/el-bloqueo-de-un-vuelo-iran-a-yemen-22381478.php",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-08-11"
+    },
+    {
       "title": "Adrián Gaspar volvió a hacer historia: campeón de los 35K en las sierras cordobesas",
       "url": "https://www.jujuyalmomento.com/trail-running/adrian-gaspar-volvio-hacer-historia-campeon-los-35k-las-sierras-cordobesas-n205673",
       "typeHint": "travesia",
@@ -475,230 +699,6 @@
       "typeHint": "travesia",
       "image": null,
       "date": "2026-08-10"
-    },
-    {
-      "title": "El Festival de la Montaña 2026 coronó a sus campeones en 5K, 15K, 30K, 42K y Kilómetro ...",
-      "url": "https://www.facebook.com/lapatria.manizales/posts/el-festival-de-la-monta%C3%B1a-2026-coron%C3%B3-a-sus-campeones-en-5k-15k-30k-42k-y-kil%C3%B3me/1523028159851365/",
-      "typeHint": "travesia",
-      "image": "https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/716591978083780915?url=https%3a%2f%2fwww.lapatria.com%2fsites%2fdefault%2ffiles%2fstyles%2fopengraph_1200x630%2fpublic%2fnoticia%2f2026-08%2fFestival-de-la-Montana-2026.jpg%3fitok%3dSu9vewOX&amp;fb_obo=1&amp;utld=lapatria.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=jnNs-R-s0JO1HSHk03jIZA&amp;_nc_oc=AdpdsIAyJMzZyKoorYjPYWWdiCSI-0-y_JdbKzIhJnuzyxD5jfh9euQDE5mzI_Wfy28&amp;ccb=13-1&amp;oh=06_Q3_CAZntevXBV4jyfibXtur4zikweAikac1YxmAzevdmahB5&amp;oe=6A7B4CE0&amp;_nc_sid=867500",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Probar 50 hobbies hasta encontrar mis favoritos. Y el primero fue el trail. Lo curioso es que ...",
-      "url": "https://www.instagram.com/reel/Db1J06cvPIE/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/769552777_18611831371062822_388013080535925859_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=N1OT01GLbGkQ7kNvwFRaGKY&amp;_nc_oc=Ado-a2sviMGkceEAu_c3TBGAL0zAMQyVf660kw2y1hS06ONEs1SthvI80HXp8fK_9mo&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=dMqNFfJ0vSkMPFBiedyqLA&amp;_nc_ss=7f689&amp;oh=00_AQH8QrCRfxqmMrWZZlFqHrRaNo5B_lXyta88j7riK27beA&amp;oe=6A7F26E8",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "COMPRAR RUMM FUJI SHORTS TRAIL HOMBRE - Aristarun",
-      "url": "https://aristarun.es/pantalones-trail-hombre/rumm-pantalones-fuji-shorts-trail-hombre",
-      "typeHint": "travesia",
-      "image": "https://aristarun.es/32709-thickbox_default/rumm-pantalones-fuji-shorts-trail-hombre.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "GR131: la gran travesía de Canarias que todo trail runner debería descubrir",
-      "url": "https://www.mundodeportivo.com/running/20260809/1004209772/gr131-gran-travesia-canarias-trail-runner-deberia-descubrir.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/24/6a63518d1900b.jpeg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Ruiz de Palazon, firma una interesante actuación en Gor, corta una oreja y ... - Cartagena Actualidad",
-      "url": "https://www.cartagenaactualidad.com/articulo/desde-la-barrera/ruiz-palazon-firma-interesante-actuacion-gor-corta-oreja-pierde-salir-hombros-descabello/20260809104208223375.html",
-      "typeHint": "travesia",
-      "image": "https://www.cartagenaactualidad.com/media/cartagenaactualidad/images/2026/08/09/2026080910415440239.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Aemet eleva a naranja el aviso por lluvias y tormentas este lunes en el Altiplano",
-      "url": "https://murciaactualidad.com/region/aemet-eleva-naranja-aviso-lluvias-tormentas-lunes-altiplano/20260809202002031926.html",
-      "typeHint": "travesia",
-      "image": "https://www.murciaactualidad.com/media/murciaactualidad/images/2026/08/09/2026080920194673292.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Riñonera Deportiva Impermeable Con Porta Botella – Para Correr, Con Banda Reflectante ...",
-      "url": "https://casag.org.br/Para-Correr-Con-Banda-Reflectante-Y-Orificio-Para-Auriculares/715252",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Defensoría pide al nuevo gobierno “fortalecer una respuesta estatal” frente a escalada violenta",
-      "url": "https://zonacero.com/generales/defensoria-pide-al-nuevo-gobierno-fortalecer-una-respuesta-estatal-frente-escalada",
-      "typeHint": "escalada",
-      "image": "http://zonacero.com/sites/default/files/styles/1280_x_530_noticia_interna/public/2026-08/Estaci%C3%B3n%20de%20Polic%C3%ADa%20de%20San%20Roque%2C%20Curuman%C3%AD%2C%20despu%C3%A9s%20del%20ataque_0.jpg?h=80c9996d&amp;itok=9pITzi64",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Gimnasia y Tiro quiere aprovechar la localía para escalar en la Zona B - Informate Salta",
-      "url": "https://informatesalta.com.ar/deportes/gimnasia-y-tiro-quiere-aprovechar-la-localia-para-escalar-en-la-zona-b_a6a78da680f34efa0c277d0bc?output=amp",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El Club Andino Esquel vuelve a ser el epicentro de la Escalada Deportiva con el ... - El Chubut",
-      "url": "https://www.elchubut.com.ar/nota/2026-8-9-16-32-0-el-club-andino-esquel-vuelve-a-ser-el-epicentro-de-la-escalada-deportiva-con-el-campeonato-regional-juvenil",
-      "typeHint": "escalada",
-      "image": "https://pxbcdn.elchubut.com.ar/chubut/082026/1786304084349.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Aina Vila Cantero y Julia Benach Zubero, entre las ocho mejores de Europa en la Copa ... - FEDME",
-      "url": "https://fedme.es/aina-vila-cantero-y-julia-benach-zubero-entre-las-ocho-mejores-de-europa-en-la-copa-de-europa-de-dificultad-de-zilina/",
-      "typeHint": "escalada",
-      "image": "https://fedme.es/wp-content/uploads/2026/08/4574CDD7-F831-41B6-B76B-B3693FA3CAED.webp",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Continúan los torneos del cumpleaños del último Profeta en la Gobernación de Hajjah",
-      "url": "https://www.saba.ye/es/news3760776.htm",
-      "typeHint": "escalada",
-      "image": "https://www.saba.ye/storage/larage/k_90tuV69huf6in1e1SpaEwqoWNVeSbr.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El Gran Torneo de Fútbol del Profeta para Jóvenes Talentos da comienzo en Sanaá",
-      "url": "https://saba.ye/es/news3760346.htm",
-      "typeHint": "escalada",
-      "image": "https://saba.ye/storage/larage/dwz4Y1f44SR85tk7OHKPIByzBdRvv2e6.jpg",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "FIFA salió en defensa de Gianni Infantino y denunció un intento de socavar al organismo",
-      "url": "https://www.directvsports.com/futbol/fifa-salio-en-defensa-de-gianni-infantino-y-denuncio-un-intento-de-socavar-al-organismo-20260808-0035.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Cuatro documentales chilenos llegan al streaming - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/cuatro-documentales-chilenos-llegan-al-streaming/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Yo-no-canto-por-cantar-Foto-1-1-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Día de la Niñez: 18 regalos para todos los gustos - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/dia-de-la-ninez-18-regalos-para-todos-los-gustos/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/pedidos-ya.png",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Providencia suma 33 cámaras para reforzar la seguridad - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/providencia-suma-33-camaras-para-reforzar-la-seguridad/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Providencia-oxxo-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Festival de Montaña celebra 90 años de Farellones con música en vivo",
-      "url": "https://portalmetropolitano.cl/festival-de-montana-celebra-90-anos-de-farellones-con-musica-en-vivo/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Festival-de-Montana-1-1-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "En Huechuraba Parque El Rosal avanza con 610 árboles nativos - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/en-huechuraba-parque-el-rosal-avanza-con-610-arboles-nativos/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/PLANTACION-HUECHURABA-7-1.jpeg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Doggis cumple 37 años con descuentos de hasta 40%",
-      "url": "https://portalmetropolitano.cl/doggis-cumple-37-anos-con-descuentos-de-hasta-40/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Aniversario-Doggis-37-anos.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Fundación Nuestros Hijos busca 1.000 voluntarios digitales - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/fundacion-nuestros-hijos-busca-1-000-voluntarios-digitales/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/IMG_3163-1-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Las Condes instalará barreras contra aluviones en San Carlos de Apoquindo",
-      "url": "https://portalmetropolitano.cl/las-condes-instalara-barreras-contra-aluviones-en-san-carlos-de-apoquindo/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Firma1-1-1.jpeg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "FINTDAZ adelanta su Gran Festival con cartelera gratuita - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/fintdaz-adelanta-su-gran-festival-con-cartelera-gratuita/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/FOTO-OBRA-NOCHE-DE-REYES-2-1-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Dos fallecidos deja accidente en Temuco con bus de Deportes Temuco - El Diario Santiago",
-      "url": "https://eldiariosantiago.cl/2026/08/08/dos-fallecidos-accidente-temuco-deportes-temuco/?noamp=mobile",
-      "typeHint": "carrera",
-      "image": "https://eldiariosantiago.cl/wp-content/uploads/2026/08/imagen_2026-08-08_150239516.webp",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Chile y Marruecos abren nuevas oportunidades para exportaciones agroalimentarias",
-      "url": "https://portalmetropolitano.cl/chile-y-marruecos-abren-nuevas-oportunidades-para-exportaciones-agroalimentarias/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Marruecos3.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "UDI propone 20 medidas para reactivar el empleo",
-      "url": "https://portalmetropolitano.cl/udi-propone-20-medidas-para-reactivar-el-empleo/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/UDI-CARTA-1-1.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "La Ruta de las Canteras regresa a Fortuna con tres modalidades y el Regional de Trail ...",
-      "url": "https://murciaactualidad.com/deportes/polideportivo/ruta-canteras-regresa-fortuna-tres-modalidades-regional-trail-running-relevos/20260809180846031924.html",
-      "typeHint": "travesia",
-      "image": "https://www.murciaactualidad.com/media/murciaactualidad/images/2026/08/09/2026080918083555257.jpg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "La Ruta de las Canteras volverá a citarse con la TTF - FAMU",
-      "url": "https://www.famu.es/la-ruta-de-las-canteras-volvera-a-citarse-con-la-ttf/",
-      "typeHint": "travesia",
-      "image": "https://www.famu.es/wp-content/uploads/2026/08/Cartel-Ruta-de-las-Canteras-Murcia-Trail-2026.jpeg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Chaleco Reflectante Para Correr Con 5 Bolsillos – Ajustable, Transpirable Y Con Impresión ...",
-      "url": "https://casag.org.br/5-Bolsillos-Ajustable-Transpirable-Y-Con-Impresi-n/666772",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Técnica de Bajada en Trail Running: Control, criterio y confianza para dominar el descenso ...",
-      "url": "https://www.amazon.es/T%C3%A9cnica-Bajada-Trail-Running-confianza-ebook/dp/B0H9FFY38T",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Correr a más de 2.000 metros es posible en el Teide: una ruta única entre volcanes y ...",
-      "url": "https://www.mundodeportivo.com/running/20260809/1004209775/correr-2-000-metros-posible-teide-ruta-unica-volcanes-paisajes-imposibles.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/03/6a1feba515633.jpeg",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "82 apps y juegos en oferta: descarga estas apps gratis en iPhone por tiempo limitado",
-      "url": "https://www.elgrupoinformatico.com/apps/apps-juegos-pago-iphone-gratis-semana-32-2026/",
-      "typeHint": "travesia",
-      "image": "https://www.elgrupoinformatico.com/static/noticias/2026/08/oferta-iphone-1200x675.jpg",
-      "date": "2026-08-09"
     }
   ]
 }
