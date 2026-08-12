@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-11T18:11:44.407Z",
+  "updatedAt": "2026-08-12T06:19:32.008Z",
   "events": [
-    {
-      "name": "Encuentro de Trail Running con Julita Runner",
-      "startDate": "2026-08-11T18:30:00-03:00",
-      "endDate": "2026-08-11T20:30:00-03:00",
-      "locationName": "Av. Gral. Paz 898, Buenos Aires, Cdad. Autónoma de Buenos Aires, AR",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189975070%2F2908171332501%2F1%2Foriginal.20260730-172958?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=234d40d53ea9b9af7f6c2af7dc6471dd",
-      "url": "https://www.eventbrite.com/e/encuentro-de-trail-running-con-julita-runner-tickets-1996125638519",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "Travessa Pas de la Casa",
       "type": "travesia",
@@ -2570,6 +2559,18 @@
       "url": "https://itra.run/Races/RaceDetails/EPIC.Trail.Run.Azores.EPICX100Miles/2026/117916",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "VI Imperial Tàrraco Trail - Tarragona 2026",
+      "type": "carrera",
+      "startDate": "2026-12-05T08:30:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/9617/library/root/2dcb39f0-e8fe-481e-89bd-15b99b2a9e5b.png",
+      "url": "https://web.rockthesport.com/es/event/vi-imperial-tarraco-trail-tarragona-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "La Cizur-Gares 2026",
