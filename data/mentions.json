@@ -1,6 +1,195 @@
 {
   "mentions": [
     {
+      "title": "V Carrera por Montaña RompeAlbarcas - Visitar Provincia Jaén",
+      "url": "https://visitarprovinciajaen.com/valdepenas-de-jaen/eventos/otros-eventos/v-carrera-por-montana-rompealbarcas",
+      "typeHint": "carrera",
+      "image": "https://tewjlvvlxwzaziwrydaj.supabase.co/storage/v1/object/public/imagenes/eventos/aef34841-a1fb-4d2c-a8b3-03b3a9d76ac7.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Pedro Miguel procura el bastión con obras y eventos de primer nivel - Pablo Jair Ortega - El Chiltepín",
+      "url": "https://elchiltepin.com/columna/columna-sin-nombre/14594/pedro-miguel-procura-el-bastion-con-obras-y-eventos-de-primer-nivel.html",
+      "typeHint": "travesia",
+      "image": "https://elchiltepin.com/images/autores/31.png",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "| Deporte ⛹️‍♂️| ¡Reserva la fecha! Cerro Chicauma Trail Running 2026 🏔️ ¡Desafía tus ...",
+      "url": "https://www.instagram.com/p/Db8pl15CTq8/",
+      "typeHint": "travesia",
+      "image": "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/772496359_1350860300548796_2956738134562840455_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=HQg91fZ2FFEQ7kNvwEZNqD2&amp;_nc_oc=AdpCaV30-aie6iiYXczsyyhKaOZYhq3d3WMl3xc8pFyzWFe9AiZM1KHaWl2xHebrv20&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;_nc_gid=AJuj9EoTH_BygBIMlLgc2w&amp;_nc_ss=7f689&amp;oh=00_AQF71JnATWpbayMyb19yTI9opfuzTQVax7BTFLhj3rv2rg&amp;oe=6A833130",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Luciana Maza ganó los 35 km del “Hoka Ultra Champaquí” | El Esquiu",
+      "url": "https://www.elesquiu.com/deportes/2026/8/13/luciana-maza-gano-los-35-km-del-hoka-ultra-champaqui-592539.html",
+      "typeHint": "travesia",
+      "image": "https://img.elesquiu.com/mroyPfRnckTS8Oaz9cD6w2eCXVJDsRcBoSSptgSA1SM/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMuZWxlc3F1aXUuY29tL2ltZy8xNzg2NTg4NjUwNzc1LTJ4eW51ei5qcGc",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "altra olympus 7 review archivos - CARRERAS DE MONTAÑA, POR MAYAYO",
+      "url": "https://carrerasdemontana.com/category/altra-olympus-7-review/",
+      "typeHint": "travesia",
+      "image": "https://i0.wp.com/carrerasdemontana.com/wp-content/uploads/2017/01/carrerasdemontana-com-logo-1500x500-twitter_1.png?fit=1500%2C500&ssl=1",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Desafío en las sierras: más de 600 atletas llegan al Duatlón de La Cruz - Canal Showsport",
+      "url": "https://canalshowsport.com.ar/desafio-en-las-sierras-mas-de-600-atletas-llegan-al-duatlon-de-la-cruz/",
+      "typeHint": "travesia",
+      "image": "https://canalshowsport.com.ar/wp-content/uploads/2026/08/lardaga-horizontal-1.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "GAUCHO RUNNER VF - YouTube",
+      "url": "https://www.youtube.com/watch?v=Xy4sRmkYOXY",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Estas son las nueve ciudades donde se aplazó el pago de rentas y retenciones tras el ...",
+      "url": "https://www.ondasdelporvenir.com/estas-son-las-nueve-ciudades-donde-se-aplazo-el-pago-de-rentas-y-retenciones-tras-el-terremoto-del-10-de-agosto/",
+      "typeHint": "travesia",
+      "image": "https://www.ondasdelporvenir.com/wp-content/uploads/2025/01/Logo-2-Ondas-del-Porvenir-Empresa-Radial-Samaca-Boyaca.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Programa especial de Radio Cima para celebrar el Día Mundial de la Juventud - BIERZOTV",
+      "url": "https://www.bierzotv.com/programa-especial-de-radio-cima-para-celebrar-el-dia-mundial-de-la-juventud/",
+      "typeHint": "travesia",
+      "image": "https://www.bierzotv.com/wp-content/uploads/2026/08/radio-cima-dia-mundial-juventud-1000x600.webp",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "“Desafío de las Barrancas”: FINALMENTE EL TRAIL RUNNING FUE TODO UN ÉXITO EN ...",
+      "url": "https://www.expresdiario.com.ar/desafio-de-las-barrancas-finalmente-el-trail-running-fue-todo-un-exito-en-el-colorado/",
+      "typeHint": "travesia",
+      "image": "https://www.expresdiario.com.ar/wp-content/uploads/2026/08/09005676-c582-4912-9624-695c450117bd.jpeg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Cuando Misantla se queda sin internet - Extracto de Chiltepín",
+      "url": "https://elchiltepin.com/columna/extracto-de-chiltepin/14591/cuando-misantla-se-queda-sin-internet.html",
+      "typeHint": "travesia",
+      "image": "https://elchiltepin.com/images/autores/48.png",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Sofía Gutiérrez, la niña de 9 años que conquista carreras de trail running en Chiapas",
+      "url": "https://www.aztecachiapas.com/deportes/nina-9-anos-destaca-en-trail-running-y-conquista-el-primer-lugar-en-chiapas/",
+      "typeHint": "travesia",
+      "image": "https://tvazteca.brightspotcdn.com/dims4/default/7504761/2147483647/strip/true/crop/640x336+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2F43%2F72%2Fb92df37666eb3f7bef7f026b2498%2Fthumb-6a7ce04a127cf5986f4a907b-6a7ce04a127cf5986f4a908f-25s.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Urso Básquet avanza hacia el final de las obras en su estadio - InfoSaladillo",
+      "url": "https://infosaladillo.com.ar/urso-basquet-avanza-hacia-el-final-de-las-obras-en-su-estadio/amp/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Conectividad satelital y agenda productiva, los ejes centrales de la sesión de este jueves",
+      "url": "https://noticiasdel6.com/conectividad-satelital-y-agenda-productiva-los-ejes-centrales-de-la-sesion-de-este-jueves/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-13"
+    },
+    {
+      "title": "El Club de Montaña Austral Andino organiza el V Seminario de Montaña en Osorno",
+      "url": "https://www.paislobo.cl/2026/08/el-club-de-montana-austral-andino.html",
+      "typeHint": "travesia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJtQhuhrPyyLj7ym7iGVrAzt3dnLb30k4iFEDWFYqp6SiFE9H9HOcKYNQpZQMzdGWPcFXPmi_O6pIxRUFl1SsLv8wB6RigVcfIK17KWaXvGze5MZIc4fYG24gNURDV4bw1KsaN5tZfYWY55k0UOP8scg91_Lhz81gPqB-UgpJytauh6rrb_4h43FNbqk/s1600/6%203.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Zapatillas de trail Nike a $45.990 con todo medio de pago en Falabella. Link directo ... - Threads",
+      "url": "https://www.threads.com/@descuentosrata/post/Db9ECSmFX1s/zapatillas-de-trail-nike-a-con-todo-medio-de-pago-en-falabella-link-directo/",
+      "typeHint": "travesia",
+      "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/770364046_17979809586113974_8472889016694123669_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ig_cache_key=Mzk2MjM0MDk5Njc0NzE5NzgwNA%3D%3D.3-ccb7-5&amp;ccb=7-5&amp;_nc_sid=58cdad&amp;efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&amp;_nc_ohc=GQZDpbMMjW0Q7kNvwHrp7lw&amp;_nc_oc=AdpupwDy417WPEo99hoy2hDGrhEgokupE-zHysGWErTrE3J1w0KrhXf0sUAJKNtVJCI&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;_nc_gid=YYkxdYbpBcj4Em2kJAC5Mw&amp;_nc_ss=7a22e&amp;oh=00_AQH9L26hwMmoeyBkdPqy2G9wbGVqtjeNODFfboZ6nJtPWg&amp;oe=6A8340E2",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trail running archivos - Boyacá 7 Días",
+      "url": "https://boyaca7dias.com.co/tag/trail-running/",
+      "typeHint": "travesia",
+      "image": "https://boyaca7dias.com.co/wp-content/uploads/2025/07/Portada-SEO-1200x675-1.png",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "GENESIS 2 W - Salomon Costa Rica",
+      "url": "https://salomon.co.cr/products/li9181-450-002",
+      "typeHint": "travesia",
+      "image": "http://salomon.co.cr/cdn/shop/files/L49309600_1.png?v=1786561594&width=2048",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Lone Peak 9+ GTX Hombre - Zapatillas Trail Running - Sea Spray/Island Fossil - Altra",
+      "url": "https://eu.altrarunning.com/es-es/products/lone-peak-9-gtx-para-hombre-al0a85ut74n?variant=58306819686725",
+      "typeHint": "travesia",
+      "image": "https://cdn.shopify.com/s/files/1/0784/8289/9173/files/AL0A85UT74N-HERO.png?v=1782142373",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "META RUNNERS CLUB RUNNING-TRAIL VALL D'UIXO - FEMECV",
+      "url": "https://www.femecv.com/club/meta-runners-club-running-trail-vall-duixo-383",
+      "typeHint": "travesia",
+      "image": "https://www.femecv.com/themes/custom/femecv/favicon.png",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Chaqueta Cortavientos Hombre Impermeable Y Calentita Para Invierno, Ideal Para Moto ...",
+      "url": "https://casag.org.br/Para-Invierno-Ideal-Para-Moto-Esqu-O-Senderismo-Con-M/1091280",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Lago Hermoso Ski debuta como sede de competencia FIS internacional",
+      "url": "https://realidadsm.com/2026/08/12/lago-hermoso-ski-debuta-como-sede-de-competencia-fis-internacional/",
+      "typeHint": "escalada",
+      "image": "https://i0.wp.com/realidadsm.com/wp-content/uploads/2026/08/lago_hermoso_ski_recibe_por.webp?fit=992%2C661&#038;ssl=1",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Lucia Capovilla, escaladora paralímpica: \"En la playa se acepta el topless, pero ... - El Mundo",
+      "url": "https://www.elmundo.es/yodona/vida-saludable/2026/08/13/6a634837e4d4d8933c8b4572.html",
+      "typeHint": "escalada",
+      "image": "https://e01-phantom-elmundo.uecdn.es/9784af939ed147edbf4c7104f03ee90d/resize/1200/f/webp/assets/multimedia/imagenes/2026/07/24/17848917339298.png",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Con Talleres de Escalada-Excursionistas, vuelven los visitantes a la Primera B",
+      "url": "https://launion.com.ar/deportes/con-talleres-escalada-excursionistas-vuelven-los-visitantes-la-primera-b-n5444959",
+      "typeHint": "escalada",
+      "image": "https://media.launion.com.ar/p/235602cf76c0d7c9f6ff7db8874ce6d6/adjuntos/379/imagenes/100/143/0100143254/1200x675/smart/estadio-pablo-comelli.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Juegos Suramericanos Santa Fe 2026: Falta un mes para el gran evento deportivo que ...",
+      "url": "https://rafaelanoticias.com/provinciales/juegos-suramericanos-santa-fe-2026-falta-un-mes-para-el-gran-evento-deportivo-que-transformara-la-provincia.htm",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Victor Lindelof: \"Queremos competir al más alto nivel\" - Unitel",
+      "url": "https://unitel.bo/noticias/agencias/victor-lindelof-queremos-competir-al-mas-alto-nivel-PB22764380",
+      "typeHint": "escalada",
+      "image": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "22º Campeonato de Escalada de Estudiantes Universitarios de China",
+      "url": "https://baike.baidu.com/es/item/22%C2%BA%20Campeonato%20de%20Escalada%20de%20Estudiantes%20Universitarios%20de%20China/4545128",
+      "typeHint": "escalada",
+      "image": "https://bkssl.bdimg.com/cms/static/baike.png",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Una sanrafaelina se animó al desafío de una tradicional carrera de piragüismo en España",
       "url": "https://www.facebook.com/DiarioSanRafael/posts/una-sanrafaelina-se-anim%C3%B3-al-desaf%C3%ADo-de-una-tradicional-carrera-de-pirag%C3%BCismo-en/1537162598456270/",
       "typeHint": "carrera",
@@ -509,195 +698,6 @@
       "url": "https://portalmetropolitano.cl/mas-de-5-mil-personas-celebran-en-providencia/",
       "typeHint": "carrera",
       "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/08/Aldea-de-los-suenos-Providencia-2026-6-1-1.jpeg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Entrenamientos abiertos: en Mundo Running continuamos la preparación para ... - Instagram",
-      "url": "https://www.instagram.com/reel/Db5mCnFR0X9/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/770679023_2291253301280790_6461408981529254173_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=QHA5BLGR0dkQ7kNvwGS4WGb&amp;_nc_oc=AdqiFftO1Hjr16ndtlq1Nrh8Srf2-PmJ4EZuiZpMhs1cELa4ZOlu5umfkdqArJS9RRA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=5TE_NI8FUV50tXbGvedy0Q&amp;_nc_ss=7f689&amp;oh=00_AQFCuxEgoC5RV2sAWHSqPxNgpnNtqcr1tPrDeuPuJg1gcA&amp;oe=6A813D33",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Colombia cerró los Centroamericanos y del Caribe en el segundo lugar con 266 medallas",
-      "url": "https://www.boyacaradio.com/noticia.php?id=63936",
-      "typeHint": "travesia",
-      "image": "https://www.boyacaradio.com/imagenes/fotos_noticias/81393178173871892200.png",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Ticket Misiones | Desafío Extremo Valles del Cuñá Pirú: la tercera edición propone correr en ...",
-      "url": "https://misionesonline.net/2026/08/11/ticket-misiones-desafio-extremo-valles-del-cuna-piru-la-tercera-edicion-propone-correr-en-plena-selva-misionera/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Si llevas tiempo diciendo “quiero hacer una carrera de trail”… guarda este reel y nos vemos ...",
-      "url": "https://www.instagram.com/reel/Db5w2GnK24E/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/766423675_18606825082060995_4071215162593550904_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=k5KlQtKloy0Q7kNvwHVH0_1&amp;_nc_oc=Adq07hXD5i3Y7ggkzmpXuldgcphCaVuffUw3qZiQCQ91-eNQacncA6Ze_nofR9Yroy4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=DmpZbxfVCUUFXuOtbxBUQg&amp;_nc_ss=7f689&amp;oh=00_AQFwkmlUcgg-K2qV5lpQHzRJPlC7uEi5Twk92Ayz_A6pOA&amp;oe=6A81498E",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "ESTUDIO RESPIRATORIO EN RUNNING & TRAIL ‍♀️ Este jueves 13 de agosto en ... - Instagram",
-      "url": "https://www.instagram.com/reel/Db5-Dg7SFfd/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/772391567_18330387832256582_5589644959391333098_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=AqWL-b36gM8Q7kNvwF068sC&amp;_nc_oc=AdrygzQ3eN3zTbaky9CwotvxMWnYFOvAvFlgy6If9f6QcKfhYybe3bZN6c7Hly2Kv9Y&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=uco46f3gykvGDEc67mDckQ&amp;_nc_ss=7f689&amp;oh=00_AQGvTMc-XlLROW8k7dc8wEwxayPU4LVm-fBKThFwjDLyzw&amp;oe=6A814496",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El Club Harman brilla en la VII Carrera Nocturna Valle Hermoso de Alcalá del Valle - Charry",
-      "url": "https://www.charrytv.com/2026/08/11/el-club-harman-brilla-en-la-vii-carrera-nocturna-valle-hermoso-de-alcala-del-valle/",
-      "typeHint": "travesia",
-      "image": "https://www.charrytv.com/wp-content/uploads/2026/08/5-e1786464066127.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Las 10 rutas de trail running más espectaculares de Canarias: correr entre volcanes ...",
-      "url": "https://www.mundodeportivo.com/running/20260811/1004210690/10-rutas-trail-running-espectaculares-canarias-correr-volcanes-bosques-oceano.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/02/09/6989d42c3f486.r_d.540-360-0.jpeg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Jakob Ingebrigtsen, fondista olímpico de 25 años: \"Para mí, el factor principal ... - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260811/1004215137/jakob-ingebrigtsen-25-anos-mi-factor-principal-mantenerme-motivado-creer-mi-entrenamiento-reduce-buena-planificacion-buen-programa-pueda-ponerme-prueba-poco-camino-obtener-resultados-retorno-positivo-haciendo-realmente-funciona.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b31bf706bc.r_d.1493-681-4000.jpeg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Análisis y review de las adidas Terrex Agravic SL (2026) | RunRepeat",
-      "url": "https://runrepeat.com/es/adidas-terrex-agravic-sl",
-      "typeHint": "travesia",
-      "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/41354/adidas-terrex-agravic-sl-25343082-720.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Inter JP Financial FS volverá a vestir su verde histórico en la equipación 2026/27 - JOMA",
-      "url": "https://www.joma-sport.com/blog/joma-inter-jp-financial-fs-equipacion-2026-27/",
-      "typeHint": "travesia",
-      "image": "https://www.joma-sport.com/blog/wp-content/uploads/2026/08/noticia-equipacion-inter-26-27.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El pueblo boscoso a 2 horas de la CDMX que tendrá una Feria de la Manzana y el Hongo",
-      "url": "https://foodandpleasure.com/feria-de-la-manzana-y-el-hongo/",
-      "typeHint": "travesia",
-      "image": "https://foodandpleasure.com/wp-content/uploads/2026/08/feria-de-la-manzana-y-el-hongo-en-acaxochitlan1.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "FACh Destaca en Gala CODEFEN 2026: Reconocimiento a sus Deportistas | Fuerza Aérea de Chile",
-      "url": "https://fach.mil.cl/fach-destaco-en-la-gala-deportiva-ministerial-codefen-2026",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Los 7 Colores tuvieron sus dueños: todos los podios - Jujuy Al Momento",
-      "url": "https://www.jujuyalmomento.com/purmamarca/los-7-colores-tuvieron-sus-duenos-todos-los-podios-n205733",
-      "typeHint": "travesia",
-      "image": "https://media.jujuyalmomento.com/p/370577b734084223012c05addeccde5c/adjuntos/260/imagenes/002/292/0002292285/1200x675/smart/image.png",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "¡Sigue HOKA UTMB® Mont-Blanc 2026 con TRAIL RUN!",
-      "url": "https://www.trailrun.es/sigue-hoka-utmb-mont-blanc-2026-con-trail-run_123_126.html",
-      "typeHint": "travesia",
-      "image": "https://www.trailrun.es/uploads/s1/15/22/97/95/utmb25-utmb-fo-00-1299_7_1200x690.jpeg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "3 VESTS for the UTMB | RUNNING GEAR | FIND YOUR EVEREST - YouTube",
-      "url": "https://www.youtube.com/shorts/NwGFYdyuIbc",
-      "typeHint": "travesia",
-      "image": "https://i.ytimg.com/vi/NwGFYdyuIbc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&amp;rs=AOn4CLDil2l1ZYD0ZkuaaD4laM2j0JuhwQ",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El C.C. Tos Pelat cruza España con grandes resultados este verano",
-      "url": "https://moncadaaldia.com/2026/08/11/cc-tos-pelat-verano/",
-      "typeHint": "travesia",
-      "image": "https://i0.wp.com/moncadaaldia.com/wp-content/uploads/2026/08/Screenshot_2026-08-11-02-07-15-196_com.google.android.apps_.docs_.editors.docs-edit.jpg?fit=1200%2C665&#038;ssl=1",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Mejores auriculares para trail running - BCN Run Hub",
-      "url": "https://bcnrunhub.com/es/blog/mejores-auriculares-trail-running/",
-      "typeHint": "travesia",
-      "image": "https://www.bcnrunhub.com/og.webp",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Casi 300 deportistas se dan cita en la V Carrera Solidaria contra el cáncer infantil en Órgiva",
-      "url": "https://www.elfaromotril.es/casi-300-deportistas-se-dan-cita-en-la-v-carrera-solidaria-contra-el-cancer-infantil-en-orgiva",
-      "typeHint": "travesia",
-      "image": "https://d2qguj6kgh5ce1.cloudfront.net/wp-content/uploads/2026/08/Salida-de-la-VI-Carrera-Nocturna.webp",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Furor olímpico: más de 12 millones de personas ya se han registrado para comprar ...",
-      "url": "https://www.mundodeportivo.com/running/carreras/20260811/1004215112/furor-olimpico-12-millones-personas-han-registrado-comprar-entradas-angeles-2028.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/12/6914b53fd0b58.r_d.285-171-0.jpeg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Zapatillas Slip-on De Verano Para Mujer Y Hombre | Deporte Y Running Sin Cordones - casag.org.br",
-      "url": "https://casag.org.br/Zapatillas-Slip-on-De-Verano-Para-Mujer-Y-Hombre-Deporte-Y/530360",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "BLACK DIAMOND MEGAWATT 3.000 LUMENES: Frontal de montaña, con potencia extrema.",
-      "url": "https://carrerasdemontana.com/2026/08/11/black-diamond-megawatt-3-000-lumenes-frontal-de-montana-con-potencia-extrema/",
-      "typeHint": "festival",
-      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/08/black-diamond-frontal-megawatt-8-e1786412379349.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Eduardo Herrera: el mejor sentimiento, honrar mi sangre mexicana - La Jornada",
-      "url": "https://www.jornada.com.mx/noticia/2026/08/11/deportes/eduardo-herrera-el-mejor-sentimiento-honrar-mi-sangre-mexicana",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "#OrgulloSanmartinense Helena, la primera neuquina en llegar a un mundial de escalada ...",
-      "url": "https://www.facebook.com/elsanmartinense/posts/orgullosanmartinense-helena-la-primera-neuquina-en-llegar-a-un-mundial-de-escala/1714382077355997/",
-      "typeHint": "escalada",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/772316147_883386001238541_133223515610307253_n.png?stp=dst-jpg_tt6&amp;cstp=mx824x992&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Mk2h07JWGRIQ7kNvwErQ9FV&amp;_nc_oc=AdqsAqSVDT-KLq6jFu-hrYtcnRslHwKkSzNQ9Tr4vgTakjoJzmd56HJbSi81xDWN0rw&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=UW7t9U4piz4aPjFABQgnyg&amp;_nc_ss=7f289&amp;oh=00_AQHzNcRr-JOE-5IzsQhALMq5sHqoIhqxekE4Pl4k8WBxWA&amp;oe=6A812397",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "#OrgulloSanmartinense Helena, la primera neuquina en llegar a un mundial de escalada ...",
-      "url": "https://www.instagram.com/p/Db5l2GzFRE5/",
-      "typeHint": "escalada",
-      "image": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/770919046_1714382010689337_6567973337302422928_n.webp?stp=c164.0.495.494a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=gaLNaxX7VP4Q7kNvwG_ZDxa&amp;_nc_oc=Adofz0AYIulEZstN7hNoqDFdvxVr9eYLW2Kr7b5KXHzWpSrt6XwSM2jmv475vEIrniE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=0jZRSDYxkCNd1bonYVZwUg&amp;_nc_ss=7f689&amp;oh=00_AQEBtBcWG3VUacvuY9F4Rz8SA-nbEHVVP5eyX5Tx9DOqnw&amp;oe=6A814233",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Eduardo Herrera: el mejor sentimiento, honrar mi sangre mexicana - La Jornada",
-      "url": "https://www.jornada.com.mx/2026/08/11/deportes/a10n1dep",
-      "typeHint": "escalada",
-      "image": "https://www.jornada.com.mx/2026/08/11/fotos/a10n1dep-1.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Muere el famoso escalador Jake Whisenant tras un accidente en Sierra Nevada - El Mundo",
-      "url": "https://amp.elmundo.es/deportes/mas-deporte/2026/08/11/6a7adcf521efa0e8788b459a.html",
-      "typeHint": "escalada",
-      "image": "https://e01-phantom-elmundo.uecdn.es/5c6113b302b1b241399a8dfb11c22c6f/crop/231x4/1844x1079/resize/1200/f/webp/assets/multimedia/imagenes/2026/08/11/17864373725982.jpg",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El certamen de escalada urbana de Torrejón será una fiesta sostenible - ABC",
-      "url": "https://www.abc.es/contentfactory/post/2026/08/10/el-certamen-de-escalada-urbana-de-torrejon-sera-una-fiesta-sostenible/",
-      "typeHint": "escalada",
-      "image": "https://www.abc.es/contentfactory/post/wp-content/uploads/2026/08/6a79b87d32cb3.escalada-arco.webp",
       "date": "2026-08-11"
     }
   ]
