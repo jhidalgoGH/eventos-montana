@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T06:47:26.945Z",
+  "updatedAt": "2026-08-14T18:11:52.076Z",
   "events": [
     {
       "name": "Travessa Pas de la Casa",
@@ -868,7 +868,7 @@
       "url": "https://web.rockthesport.com/es/event/vi-azkotrail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2927/library/root/e48dac8e-fa42-47f3-b0e6-466844a0cef9.jpg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2927/library/root/f5d89aee-dbbc-4688-8049-b78cd3bb2812.jpg"
     },
     {
       "name": "Campeonato de España de Barrancos y OPEN de Barrancos Asturias FEDME",
@@ -1617,6 +1617,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11933/library/root/ba48df3e-cddc-4537-abc4-aaede1e90cb0.png"
+    },
+    {
+      "name": "CURSA i CAMINADA del dia de la DONA RURAL - 2026",
+      "type": "carrera",
+      "startDate": "2026-10-17T09:30:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/5d56721b-8801-413d-b7c2-a83d10747387.png",
+      "url": "https://web.rockthesport.com/es/event/cursa-i-caminada-del-dia-de-la-dona-rural-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Aramotz Mendi Lasterketa 2026",
