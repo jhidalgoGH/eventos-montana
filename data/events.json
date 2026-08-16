@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-15T17:40:35.288Z",
+  "updatedAt": "2026-08-16T05:24:44.788Z",
   "events": [
-    {
-      "name": "Travessa Pas de la Casa",
-      "type": "travesia",
-      "startDate": "2026-08-15",
-      "endDate": "2026-08-16",
-      "locationName": "Pas de la Casa",
-      "country": "Andorra",
-      "url": "https://itra.run/Races/RaceDetails/Travessa.Pas.de.la.Casa.Envalira.22.km/2026/109114",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
     {
       "name": "QUERCUS TRAIL 18K 2026",
       "type": "carrera",
@@ -2048,6 +2037,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/7666ad4c-0d8c-499b-9161-a2a6128bb551.jpg"
+    },
+    {
+      "name": "Mictlán Trail - Run Fest Día 1",
+      "startDate": "2026-10-31T18:00:00-06:00",
+      "endDate": null,
+      "locationName": "Hacienda Venta de Guadalupe, Omitlán, Hidalgo, MX",
+      "image": "https://liebresmx.run/calendario/hidalgo/mictlan-trail-run-fest-dia-1-2026/portada.webp",
+      "url": "https://liebresmx.run/calendario/hidalgo/mictlan-trail-run-fest-dia-1-2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Ultra X 110 Madeira",
