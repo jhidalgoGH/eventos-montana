@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-08-16T17:40:02.655Z",
+  "updatedAt": "2026-08-17T05:26:38.096Z",
   "events": [
-    {
-      "name": "QUERCUS TRAIL 18K 2026",
-      "type": "carrera",
-      "startDate": "2026-08-16T08:30:00",
-      "endDate": null,
-      "locationName": "Soria",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/ef02353c-bed3-423f-b495-d57fd0db5ee5.jpeg",
-      "url": "https://web.rockthesport.com/es/event/quercus-trail-18k-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Tres Cruces Trail",
-      "startDate": "2026-08-16T09:00:00-03:00",
-      "endDate": "2026-08-16T13:00:00-03:00",
-      "locationName": "Fray Mamerto Esquiú, Fray Mamerto Esquiú, Catamarca, Argentina",
-      "image": "https://static.wixstatic.com/media/7db625_af649088d6e445fcb108208ccd2213e6~mv2.jpg/v1/fill/w_447,h_224,al_c,q_80/7db625_af649088d6e445fcb108208ccd2213e6~mv2.jpg",
-      "url": "https://www.visitcatamarca.com/event-details/tres-cruces-trail",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "Risalite Festival 2026",
       "startDate": "2026-08-17T00:00:00+00:00",
