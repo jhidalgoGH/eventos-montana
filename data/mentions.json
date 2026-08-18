@@ -1,6 +1,13 @@
 {
   "mentions": [
     {
+      "title": "Calculadoras - comocabrasteam.com",
+      "url": "https://comocabrasteam.com/calculadoras/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-08-18"
+    },
+    {
       "title": "La X Carrera de Montaña Villa de Hermigua ultima los preparativos para su décima edición ...",
       "url": "https://www.facebook.com/lagomeraislacolombina/posts/la-x-carrera-de-monta%C3%B1a-villa-de-hermigua-ultima-los-preparativos-para-su-d%C3%A9cima/1647782150281714/",
       "typeHint": "carrera",
@@ -691,13 +698,6 @@
       "url": "https://www.mercadolibre.com.ar/zapatillas-hoka-speedgoat-6-trail-running-vibram-hombre-full/up/MLAU3558896177",
       "typeHint": "travesia",
       "image": null,
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Ya casi por iniciar este gran evento el primer Trail Running en Santa María del Tule",
-      "url": "https://www.facebook.com/100084712886739/posts/ya-casi-por-iniciar-este-gran-evento-el-primer-trail-running-en-santa-mar%C3%ADa-del-/1040306165469803/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/777351262_1590177822088946_4144779584990684063_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=SFridFD_sHUQ7kNvwF7rrxt&amp;_nc_oc=AdrDZ-FM2-R2YH2vuGt-IdV8cn8EQjLOb9YI2D_3KLRL0lms7iNtzoWhp6c1jZ-4YFw&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=i3KR4CjXXKsyETlzGOtmhA&amp;_nc_ss=7f289&amp;oh=00_AQF324u_lXlGfqR0q92MBM_5MzKwcIlc4_v4knjjc8PORg&amp;oe=6A885370",
       "date": "2026-08-17"
     }
   ]

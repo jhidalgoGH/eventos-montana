@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:26:27.634Z",
+  "updatedAt": "2026-08-18T17:48:52.508Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -175,6 +175,17 @@
       "url": "https://itra.run/Races/RaceDetails/Trail.2.Heaven.50K/2026/115628",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Magdalena &amp; Canoa Trail Running",
+      "startDate": "2026-09-05T00:00:00-05:00",
+      "endDate": null,
+      "locationName": "Beltrán, Cundinamarca",
+      "image": "https://travesiadeportiva.com/wp-content/uploads/2026/08/magdalena-canoas-trail-running-beltran.webp",
+      "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "TRAIL VALLE DE TENA 2026",
@@ -472,6 +483,17 @@
       "url": "https://itra.run/Races/RaceDetails/Trail.dos.Morcegos.TdM.Ultra.Trail/2026/112770",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Magdalena &amp; Canoa Trail Running",
+      "startDate": "2026-09-19T00:00:00-05:00",
+      "endDate": null,
+      "locationName": "Tocancipá, Cundinamarca",
+      "image": "https://travesiadeportiva.com/wp-content/uploads/2026/07/abierto-tenis-sabana.webp",
+      "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Ultra Trail Gredos 2026",
@@ -2039,6 +2061,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "Magdalena &amp; Canoa Trail Running",
+      "startDate": "2026-11-01T00:00:00-05:00",
+      "endDate": null,
+      "locationName": "Bogotá",
+      "image": "https://travesiadeportiva.com/wp-content/uploads/2025/09/lets-run-halloween-2026.webp",
+      "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XXXV CROSS 3 REFUGIOS",
       "type": "carrera",
       "startDate": "2026-11-01T09:00:00",
@@ -2327,6 +2360,17 @@
       "url": "https://itra.run/Races/RaceDetails/Costa.Blanca.Trails.Gran.Trail.Costa.Blanca102K/2026/117732",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Magdalena &amp; Canoa Trail Running",
+      "startDate": "2026-11-13T00:00:00-05:00",
+      "endDate": null,
+      "locationName": "Córdoba, Quindío",
+      "image": "https://travesiadeportiva.com/wp-content/uploads/2025/04/travesia-xc-quindio.webp",
+      "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XXXII Jornadas de Senderos y Senderismo FEDME",
