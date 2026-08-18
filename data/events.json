@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:49:10.510Z",
+  "updatedAt": "2026-08-18T17:26:27.634Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -532,6 +532,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10309/library/root/1b5e1381-3fae-4851-bd17-8c0d14819e4b.jpg"
+    },
+    {
+      "name": "I Copa de España Paraescalada y Campeonato de Cataluña de Paraescalada 2026",
+      "type": "escalada",
+      "startDate": "2026-09-19T08:00:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/68079988-55ac-4458-8723-02506f909229.png",
+      "url": "https://web.rockthesport.com/es/event/1787052896",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "VIII Circuito de Senderismo de Castilla y León - Ruta Lagunas del Trampal",
