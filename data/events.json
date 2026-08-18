@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-17T17:50:27.594Z",
+  "updatedAt": "2026-08-18T05:26:55.625Z",
   "events": [
-    {
-      "name": "Risalite Festival 2026",
-      "startDate": "2026-08-17T00:00:00+00:00",
-      "endDate": "2026-08-23T00:00:00+00:00",
-      "locationName": "Montevaccino, Trento, Trentino-Alto Adige/Südtirol, IT",
-      "image": "https://www.festivalinitalia.it/images/image_hero.webp",
-      "url": "https://www.festivalinitalia.it/es/festival/risalite-festival",
-      "type": "carrera",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "CANILLO TRAIL",
       "type": "carrera",
