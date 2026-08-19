@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:48:52.508Z",
+  "updatedAt": "2026-08-19T05:50:35.468Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -11,6 +11,17 @@
       "url": "https://itra.run/Races/RaceDetails/CANILLO.TRAIL.LONG.TRAIL.25K/2026/118383",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Andamarca Trail 2026",
+      "startDate": "2026-08-22T06:00:00-05:00",
+      "endDate": "2026-08-22T06:00:00-05:00",
+      "locationName": "Plaza de Armas de Andamarca, Andamarca, Lucanas, Ayacucho, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/andamarca-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-andamarca-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XXI MARXA A PEU SERRA D'IRTA",
