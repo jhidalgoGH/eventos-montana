@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:50:35.468Z",
+  "updatedAt": "2026-08-19T17:33:58.730Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -1511,6 +1511,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
+    },
+    {
+      "name": "Cursa de Tivissa 2026",
+      "type": "carrera",
+      "startDate": "2026-10-11T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/1785/library/root/c4b06c68-1bf5-4160-95d6-64e9791ee0b1.png",
+      "url": "https://web.rockthesport.com/es/event/cursa-de-tivissa-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "I Trail Arona - Memorial Óscar Hernández 2026",
