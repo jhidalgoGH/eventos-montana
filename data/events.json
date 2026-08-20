@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:46:06.172Z",
+  "updatedAt": "2026-08-20T05:36:00.991Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -141,6 +141,17 @@
       "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-de-castilla-y-leon-xxiii-marcha-de-veteranos-virgen-del-castanar",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Carrera por Montaña trail las Dehesas de La fuenfria",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "locationName": "Cercedilla, Madrid, Cercedilla, Madrid, ES",
+      "image": "https://carreraspopulares.com/calendario/carteles_def/cartel_def_4.jpg",
+      "url": "https://pueblus.com/eventos/carrera-por-montana-trail-las-dehesas-de-la-fuenfria-cercedilla",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Encuentro Nacional de Corredoras por Montaña FEDME",
