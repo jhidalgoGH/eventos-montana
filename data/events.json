@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:47:10.074Z",
+  "updatedAt": "2026-08-22T17:41:42.171Z",
   "events": [
     {
       "name": "CANILLO TRAIL",
@@ -2113,6 +2113,17 @@
       "locationName": "Bogotá",
       "image": "https://travesiadeportiva.com/wp-content/uploads/2025/09/lets-run-halloween-2026.webp",
       "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Running Conejos: Caminando al Mictlán",
+      "startDate": "2026-11-01T07:00:00-06:00",
+      "endDate": null,
+      "locationName": "Atotonilco de Tula, Hidalgo, MX",
+      "image": "https://liebresmx.run/calendario/hidalgo/trail-running-conejos-caminando-al-mictlan-2026/portada.webp",
+      "url": "https://liebresmx.run/calendario/hidalgo/trail-running-conejos-caminando-al-mictlan-2026/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
