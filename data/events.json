@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-08-22T17:41:42.171Z",
+  "updatedAt": "2026-08-23T05:49:50.161Z",
   "events": [
-    {
-      "name": "CANILLO TRAIL",
-      "type": "carrera",
-      "startDate": "2026-08-22",
-      "endDate": "2026-08-23",
-      "locationName": "El Tarter",
-      "country": "Andorra",
-      "url": "https://itra.run/Races/RaceDetails/CANILLO.TRAIL.LONG.TRAIL.25K/2026/118383",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Andamarca Trail 2026",
-      "startDate": "2026-08-22T06:00:00-05:00",
-      "endDate": "2026-08-22T06:00:00-05:00",
-      "locationName": "Plaza de Armas de Andamarca, Andamarca, Lucanas, Ayacucho, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/andamarca-trail-2026.webp",
-      "url": "https://www.running4peru.com/eventos/carrera-andamarca-trail/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "XXI MARXA A PEU SERRA D'IRTA",
-      "type": "carrera",
-      "startDate": "2026-08-22T08:00:00",
-      "endDate": null,
-      "locationName": "Castellón/Castelló",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/xxi-marxa-a-peu-serra-dirta",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/e5755a1f-1415-4fb7-b2e6-05c9b156cf59.jpeg"
-    },
-    {
-      "name": "Sierra Nevada Skyrunning",
-      "type": "carrera",
-      "startDate": "2026-08-22T10:00:00",
-      "endDate": "2026-08-23T15:00:00",
-      "locationName": "Granada",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/sierra-nevada-skyrunning",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/ab698d08-3250-44cd-824c-a21f9b999221.png"
-    },
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
       "startDate": "2026-08-28T17:45:00",
@@ -373,6 +327,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "[Nueva fecha] Festival de Montaña 2026: Pedropiedra y Masquemusica llenarán de música Farellones",
+      "startDate": "2026-09-12T23:00:00.000Z",
+      "endDate": null,
+      "locationName": null,
+      "image": "https://www.suitip.cl/panoramas/cultura-generica.jpg",
+      "url": "https://www.suitip.cl/events/lo-barnechea-cultura-nueva-fecha-festival-de-montana-2026-pedropiedra-y-masquemusica-llenaran-de-musica-farellones-2026-09-12",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Andada popular \"SalvaTusPasos\"",
       "type": "travesia",
       "startDate": "2026-09-13",
@@ -659,7 +624,7 @@
       "url": "https://web.rockthesport.com/es/event/muskildia-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10975/library/root/3002c561-0390-445c-a492-a9db8b791468.jpg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10975/library/root/f24f913a-3b61-46f3-8e41-ab05ac6e6f1a.jpg"
     },
     {
       "name": "Faldes del Puig Campana, Trail & Sender Nocturn, 2026",
