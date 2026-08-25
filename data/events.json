@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:53:44.510Z",
+  "updatedAt": "2026-08-25T05:50:03.238Z",
   "events": [
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
@@ -761,6 +761,17 @@
       "url": "https://itra.run/Races/RaceDetails/III.Trail.Pé.Firme.Trail.Longo/2026/118839",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Festival de Montaña y Música 2026",
+      "startDate": "2026-09-26T00:00:00+00:00",
+      "endDate": "2026-09-27T00:00:00+00:00",
+      "locationName": "Palaiseau, Île-de-France, FR",
+      "image": "https://www.festivalenfrance.com/images/image_hero.webp",
+      "url": "https://www.festivalenfrance.com/festival/festival-de-montana-y-musica",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "V SOM TRAIL SOM VALL DE SETA 2026",
@@ -1793,17 +1804,6 @@
       "sourceName": "FAM (andadas populares)"
     },
     {
-      "name": "Andada de otoño \"Sierra de Luesia\"",
-      "type": "travesia",
-      "startDate": "2026-10-24",
-      "endDate": null,
-      "locationName": "Luesia, Zaragoza",
-      "country": "España",
-      "url": "http://www.acfayanas.org/",
-      "source": "fam",
-      "sourceName": "FAM (andadas populares)"
-    },
-    {
       "name": "Sobrescobio Redes Trail 2026",
       "startDate": "2026-10-24T01:00:00",
       "endDate": "2026-10-24T01:00:00",
@@ -1849,6 +1849,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ab27f595-028c-4eaa-9d00-3459cb7e3835.jpg"
+    },
+    {
+      "name": "XX ANDADA DE OTOÑO - LUESIA",
+      "type": "travesia",
+      "startDate": "2026-10-24T08:30:00",
+      "endDate": null,
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/2c42a48a-82bd-4b43-a030-a52f1fd9e8bd.png",
+      "url": "https://web.rockthesport.com/es/event/xx-andada-de-otono",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "CXM ALHAMA TRAIL 2026",
