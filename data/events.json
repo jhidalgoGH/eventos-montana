@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:53:27.810Z",
+  "updatedAt": "2026-08-26T17:26:04.712Z",
   "events": [
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
@@ -479,6 +479,17 @@
       "image": "https://travesiadeportiva.com/wp-content/uploads/2026/07/abierto-tenis-sabana.webp",
       "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
       "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Acebuches Trail Kids",
+      "startDate": "2026-09-19T00:00:00+01:00",
+      "endDate": "2026-09-19T23:59:59+01:00",
+      "locationName": "Gran Canaria",
+      "image": "https://fecamon.es/web2022/wp-content/uploads/ebuches.webp",
+      "url": "https://fecamon.es/eventos/acebuches-trail-kids/",
+      "type": "escalada",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -1518,7 +1529,7 @@
       "endDate": null,
       "locationName": "Tarragona",
       "country": "España",
-      "image": "https://rockthesportv2.blob.core.windows.net/manager/1785/library/root/c4b06c68-1bf5-4160-95d6-64e9791ee0b1.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/754b92c5-5769-486d-a810-def499aecdcd.jpeg",
       "url": "https://web.rockthesport.com/es/event/cursa-de-tivissa-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2003,6 +2014,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "PEÑA ROYA TRAIL 2026",
+      "type": "carrera",
+      "startDate": "2026-10-25T11:00:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/6c779764-fa1a-4417-b3b5-7e3b88069538.png",
+      "url": "https://web.rockthesport.com/es/event/pena-roya-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
       "type": "carrera",
       "startDate": "2026-10-30T17:30:00",
@@ -2451,6 +2474,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/22a4b493-ce87-4b7b-aa5f-624608fe7a58.jpg"
+    },
+    {
+      "name": "II Lodosa Trail",
+      "type": "carrera",
+      "startDate": "2026-11-14T10:30:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13772/library/root/01ea2050-ebe8-4db1-88bd-a2fba48b3eaa.jpg",
+      "url": "https://web.rockthesport.com/es/event/ii-lodosa-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "BurriacXtrem 2026",
