@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T05:50:44.355Z",
+  "updatedAt": "2026-08-27T16:34:27.785Z",
   "events": [
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
@@ -638,6 +638,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10975/library/root/f24f913a-3b61-46f3-8e41-ab05ac6e6f1a.jpg"
     },
     {
+      "name": "TRAIL ARRIETA ",
+      "type": "carrera",
+      "startDate": "2026-09-19T10:00:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15771/custom/root/8abf324d-21f0-4498-a383-a8691f97d173_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/trail-arrieta",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Faldes del Puig Campana, Trail & Sender Nocturn, 2026",
       "type": "carrera",
       "startDate": "2026-09-19T19:30:00",
@@ -739,6 +751,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2659/library/root/1b0067f2-1236-434c-a68d-20b0a29bc6a9.jpg"
+    },
+    {
+      "name": "Prueba de carácter específico RAE-MOSE101 (2026)",
+      "type": "travesia",
+      "startDate": "2026-09-21T09:00:00",
+      "endDate": "2026-09-21T14:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/8beeb377-6fba-4c8e-b862-e6c24104c7ec.png",
+      "url": "https://web.rockthesport.com/es/event/prueba-de-caracter-especifico-rae-mose101-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -887,7 +911,7 @@
       "endDate": null,
       "locationName": "Guadalajara",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/81e21683-8ade-403d-ae01-5e0f113c81c3.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/3c6e8b8d-2310-47e5-84bc-904f96a03fe4.jpeg",
       "url": "https://web.rockthesport.com/es/event/trail-pie-del-hombre-molina-aragon",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1031,6 +1055,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/117/library/root/707a69da-ec7f-484d-88e0-823678553f66.jpg"
+    },
+    {
+      "name": "TRAIL ELS MIRADORS 2026",
+      "type": "carrera",
+      "startDate": "2026-09-27T09:45:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/b2605130-2607-4ac0-a472-a5dc5ef4f04e.png",
+      "url": "https://web.rockthesport.com/es/event/trail-els-miradors-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "LASARTE-ORIAKO MENDI LASTERKETA 2026 ( MEMORIAL JUANLU )",
@@ -2020,7 +2056,7 @@
       "endDate": null,
       "locationName": "Navarra",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/6c779764-fa1a-4417-b3b5-7e3b88069538.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/8b5067b9-670a-479c-8207-f843ba5cc3b8.png",
       "url": "https://web.rockthesport.com/es/event/pena-roya-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2812,6 +2848,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Cursa Mar i Murtra 2027",
+      "type": "carrera",
+      "startDate": "2027-01-10T09:00:00",
+      "endDate": null,
+      "locationName": "Girona",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/cursa-mar-i-murtra-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
