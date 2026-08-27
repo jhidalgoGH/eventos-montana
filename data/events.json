@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:34:27.785Z",
+  "updatedAt": "2026-08-27T18:03:03.888Z",
   "events": [
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
@@ -2896,6 +2896,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Marxa Castells Altafulla - Baix Gaià 2027",
+      "type": "carrera",
+      "startDate": "2027-01-31T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14004/library/root/ad10d657-15db-4707-9743-4c403ec4e6f3.jpg",
+      "url": "https://web.rockthesport.com/es/event/marxa-castells-altafulla-baix-gaia-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
