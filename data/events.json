@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:51:36.111Z",
+  "updatedAt": "2026-08-28T17:29:12.346Z",
   "events": [
     {
       "name": "UTMB 2026 Ultra Trail Mont-Blanc",
@@ -85,6 +85,17 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/677fef8c-553e-45a7-9967-2c9c4f9fa5fb.jpeg"
     },
     {
+      "name": "Carrera Tempo Race Trail 2026",
+      "startDate": "2026-08-30T07:30:00-05:00",
+      "endDate": "2026-08-30T07:30:00-05:00",
+      "locationName": "Activa Club, Independencia, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/carrera-tempo-race-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-tempo-race-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "VIII Circuito de Senderismo de Castilla y León - XXIII Marcha de Veteranos \"Virgen del Castañar\"",
       "type": "travesia",
       "startDate": "2026-08-30T09:30:00",
@@ -103,6 +114,17 @@
       "locationName": "Cercedilla, Madrid, Cercedilla, Madrid, ES",
       "image": "https://carreraspopulares.com/calendario/carteles_def/cartel_def_4.jpg",
       "url": "https://pueblus.com/eventos/carrera-por-montana-trail-las-dehesas-de-la-fuenfria-cercedilla",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
+      "startDate": "2026-09-04T12:00:00-05:00",
+      "endDate": "2026-09-07T16:00:00-05:00",
+      "locationName": "Snowmass Town Park, Aspen, US",
+      "image": "https://karlobag.eu/images/upload/rgs10.jpg",
+      "url": "https://karlobag.eu/es/musica/noticias/entradas-para-benson-boone-en-snowmass-village-en-concierto-6akny/",
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
