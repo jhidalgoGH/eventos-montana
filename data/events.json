@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-08-28T17:29:12.346Z",
+  "updatedAt": "2026-08-29T01:01:14.043Z",
   "events": [
-    {
-      "name": "UTMB 2026 Ultra Trail Mont-Blanc",
-      "startDate": "2026-08-28T17:45:00",
-      "endDate": "2026-08-28T17:45:00",
-      "locationName": "Chamonix",
-      "image": "https://static.runnea.com/images/202512/utmb-logo-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/utmb-ultra-trail-mont-blanc/",
-      "type": "carrera",
-      "source": "runnea",
-      "sourceName": "Runnea",
-      "country": "Francia"
-    },
     {
       "name": "COUREL MOUNTAIN RUNNING",
       "type": "carrera",
