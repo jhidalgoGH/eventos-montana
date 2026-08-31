@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-08-30T19:53:22.114Z",
+  "updatedAt": "2026-08-31T05:54:10.188Z",
   "events": [
-    {
-      "name": "Carrera Tempo Race Trail 2026",
-      "startDate": "2026-08-30T07:30:00-05:00",
-      "endDate": "2026-08-30T07:30:00-05:00",
-      "locationName": "Activa Club, Independencia, Lima, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/carrera-tempo-race-trail-2026.webp",
-      "url": "https://www.running4peru.com/eventos/carrera-tempo-race-trail/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "VIII Circuito de Senderismo de Castilla y León - XXIII Marcha de Veteranos \"Virgen del Castañar\"",
-      "type": "travesia",
-      "startDate": "2026-08-30T09:30:00",
-      "endDate": "2026-08-30T14:30:00",
-      "locationName": "Salamanca",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/ddea7731-5311-4a93-b644-803ebf84eb59.jpg",
-      "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-de-castilla-y-leon-xxiii-marcha-de-veteranos-virgen-del-castanar",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Carrera por Montaña trail las Dehesas de La fuenfria",
       "startDate": "2026-09-01",
