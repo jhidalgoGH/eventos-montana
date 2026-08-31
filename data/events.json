@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:54:10.188Z",
+  "updatedAt": "2026-08-31T11:40:37.851Z",
   "events": [
     {
       "name": "Carrera por Montaña trail las Dehesas de La fuenfria",
@@ -670,6 +670,18 @@
     },
     {
       "name": "Prueba de carácter específico RAE-MOSE101 (2026)",
+      "type": "travesia",
+      "startDate": "2026-09-21T09:00:00",
+      "endDate": "2026-09-21T14:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/8beeb377-6fba-4c8e-b862-e6c24104c7ec.png",
+      "url": "https://web.rockthesport.com/es/event/prueba-de-caracter-especifico-rae-mose101-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Prueba de carácter específico ciclo inicial de senderismo (2026)",
       "type": "travesia",
       "startDate": "2026-09-21T09:00:00",
       "endDate": "2026-09-21T14:00:00",
