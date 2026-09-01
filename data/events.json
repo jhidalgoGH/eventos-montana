@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T10:13:12.962Z",
+  "updatedAt": "2026-09-01T17:35:07.881Z",
   "events": [
     {
       "name": "Carrera por Montaña trail las Dehesas de La fuenfria",
@@ -331,6 +331,18 @@
       "url": "https://itra.run/Races/RaceDetails/Nexe.107.1.2...Trail.Endurance.Trail.Endurance.107.km/2026/117464",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "OPEN INTERNACIONAL JUVENIL Y OPEN GALEGO ABSOLUTA DE ESCALADA DE VELOCIDAD",
+      "type": "escalada",
+      "startDate": "2026-09-18T19:00:00",
+      "endDate": "2026-09-19T20:30:00",
+      "locationName": "Coruña (A)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10577/library/root/fccb4f7f-e525-4564-8750-5260162af7cb.jpeg",
+      "url": "https://web.rockthesport.com/es/event/open-internacional-y-open-galego-de-escalada-de-velocidad",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Ruta de los Castillos",
