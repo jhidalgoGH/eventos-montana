@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:56:34.238Z",
+  "updatedAt": "2026-09-01T05:54:08.031Z",
   "events": [
     {
       "name": "Carrera por Montaña trail las Dehesas de La fuenfria",
@@ -2278,6 +2278,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/1c882f7d-a76f-49f0-b894-f4313a7f4107.png"
+    },
+    {
+      "name": "II Maratón de escalada de Teberga ",
+      "type": "escalada",
+      "startDate": "2026-11-07T08:00:00",
+      "endDate": "2026-11-07T20:30:00",
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15876/custom/root/2ef44160-42fe-4ca8-b7e9-f2db8d9815b8_custom2.jpg",
+      "url": "https://web.rockthesport.com/es/event/i-maraton-de-escalada-de-teberga",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "IX TRAIL ARRONIZ ",
