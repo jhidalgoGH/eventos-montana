@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:43:01.491Z",
+  "updatedAt": "2026-09-02T17:34:49.311Z",
   "events": [
     {
       "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
@@ -1346,6 +1346,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/659bda2c-3bb6-4743-bc9a-7e32a5eb613b.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-trail-del-huevo-rodao",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Ciclo Final Grado Medio Bloque Específico – Media Montaña / Barrancos / Escalada (2026)",
+      "type": "escalada",
+      "startDate": "2026-10-05T10:00:00",
+      "endDate": "2027-02-21T17:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e3c2b8cb-7b71-42e1-856d-1a0c0396019a.png",
+      "url": "https://web.rockthesport.com/es/event/ciclo-final-grado-medio-bloque-especifico-media-montana-barrancos-escalada-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2853,6 +2865,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Tenerguera Trail 2027 ",
+      "type": "carrera",
+      "startDate": "2027-01-10T10:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/71f9658b-af9b-4c34-a840-8bb2ac5aab13.jpg",
+      "url": "https://web.rockthesport.com/es/event/tenerguera-trail-2027-",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "VIII ALMÈDIA TRAIL ‐ CALLOSA D’EN SARRIÀ, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-01-17T08:30:00",
@@ -3083,6 +3107,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/xvii-botamarges-forna-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Trail Almendros y volcanes 2027",
+      "type": "carrera",
+      "startDate": "2027-04-25T09:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/543/custom/root/20c37e9e-f125-46c4-a78b-a3987e258053_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/trail-almendros-y-volcanes-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
