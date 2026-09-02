@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:54:13.224Z",
+  "updatedAt": "2026-09-02T09:43:01.491Z",
   "events": [
     {
       "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
@@ -1336,6 +1336,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/eecd98b2-f5d3-499b-afb7-f4985b2ebc1d.png"
+    },
+    {
+      "name": "III TRAIL DEL HUEVO RODAO",
+      "type": "carrera",
+      "startDate": "2026-10-04T11:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/659bda2c-3bb6-4743-bc9a-7e32a5eb613b.jpeg",
+      "url": "https://web.rockthesport.com/es/event/iii-trail-del-huevo-rodao",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Escuela de Escalada Valladolid-1er trimestre",
