@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T05:54:22.872Z",
+  "updatedAt": "2026-09-03T09:55:49.101Z",
   "events": [
     {
       "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
@@ -740,8 +740,8 @@
     {
       "name": "V SOM TRAIL SOM VALL DE SETA 2026",
       "type": "carrera",
-      "startDate": "2026-09-26T07:00:00",
-      "endDate": null,
+      "startDate": "2026-09-26T08:00:00",
+      "endDate": "2026-09-26T15:00:00",
       "locationName": "Alicante/Alacant",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/v-som-trail-som-vall-de-seta-2026",
@@ -1350,13 +1350,25 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "51. Mendira Joan-Etorria",
+      "type": "carrera",
+      "startDate": "2026-10-04T11:00:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/1cc61144-b51b-4382-89bd-fb8f7d114543.jpg",
+      "url": "https://web.rockthesport.com/es/event/51-mendira-joan-etorria",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Ciclo Final Grado Medio Bloque Específico – Media Montaña / Barrancos / Escalada (2026)",
       "type": "escalada",
       "startDate": "2026-10-05T10:00:00",
       "endDate": "2027-02-21T17:00:00",
       "locationName": "León",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/e3c2b8cb-7b71-42e1-856d-1a0c0396019a.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/8beeb377-6fba-4c8e-b862-e6c24104c7ec.png",
       "url": "https://web.rockthesport.com/es/event/ciclo-final-grado-medio-bloque-especifico-media-montana-barrancos-escalada-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
