@@ -1,6 +1,223 @@
 {
   "mentions": [
     {
+      "title": "Festival de montaña y música: concurso internacional de leñadores y conciertos gratuitos ...",
+      "url": "https://www.sortiraparis.com/es/que-ver-en-paris/conciertos-musica-festival/articles/351313-festival-de-montana-y-musica-concurso-internacional-de-lenadores-y-conciertos-gratuitos-en-palaiseau",
+      "typeHint": "carrera",
+      "image": "https://cdn.sortiraparis.com/images/80/99370/1307133-festival-montagne-et-musique-a-palaiseau.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Arrancan las acreditaciones para Destino Madryn, el gran evento del trail running patagónico",
+      "url": "https://www.elchubut.com.ar/puerto-madryn/2026-9-2-20-2-0-arrancan-las-acreditaciones-para-destino-madryn-el-gran-evento-del-trail-running-patagonico",
+      "typeHint": "travesia",
+      "image": "https://pxbcdn.elchubut.com.ar/chubut/092026/1788390244333.jpg?&cw=600&ch=365",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Chile llega a la élite mundial del Ultra Trail: atletas adidas Outdoor destacan en Chamonix",
+      "url": "https://www.fulloutdoor.cl/chile-llega-a-la-elite-mundial-del-ultra-trail-atletas-adidas-outdoor-destacan-en-chamonix/",
+      "typeHint": "travesia",
+      "image": "https://www.fulloutdoor.cl/wp-content/uploads/2026/09/NICOLAS-BENAVIDES.webp",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Bariloche se prepara para vivir la segunda edición del UTMB en noviembre de 2026",
+      "url": "https://barinoticias.com.ar/bariloche-se-prepara-para-vivir-la-segunda-edicion-del-utmb-en-noviembre-de-2026/",
+      "typeHint": "travesia",
+      "image": "https://barinoticias.com.ar/wp-content/uploads/2026/09/noticia-31.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El Museo Moderno inaugura «Vestir Mundos»: la moda como archivo y manifiesto",
+      "url": "https://lebanana.com/el-museo-moderno-inaugura-vestir-mundos-la-moda-como-archivo-y-manifiesto/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Karim y Adriano, dueños del podio Sudamericano en Brasil - Jujuy Al Momento",
+      "url": "https://www.jujuyalmomento.com/brasil/karim-y-adriano-duenos-del-podio-sudamericano-brasil-n206730",
+      "typeHint": "travesia",
+      "image": "https://media.jujuyalmomento.com/p/46e022210891eeff3468fda58fef5b0f/adjuntos/260/imagenes/002/295/0002295208/1200x675/smart/fotojet.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Monterrico será el escenario de una nueva fiesta del Trail Running - Jujuy Al Momento",
+      "url": "https://www.jujuyalmomento.com/monterrico/monterrico-sera-el-escenario-una-nueva-fiesta-del-trail-running-n204815",
+      "typeHint": "travesia",
+      "image": "https://media.jujuyalmomento.com/p/243b27529046f25a0f666bfa876b6dd8/adjuntos/260/imagenes/002/295/0002295239/1200x675/smart/image.png",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "La CanfrancCanfranc 2026 ya calienta motores: fechas, distancias y todo lo que debes saber",
+      "url": "https://www.sportaragon.com/articulo/trail/canfranccanfranc-2026-calienta-motores-fechas-distancias-todo-que-debes-saber/20260902194958158703.html",
+      "typeHint": "travesia",
+      "image": "https://www.sportaragon.com/media/sportaragon/images/2026/09/02/2026090219481376186.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Con ausencia de La Gacela, Samantha Smith entrega reconocimientos a atletas",
+      "url": "https://notus.com.mx/con-ausencia-de-la-gacela-samantha-smith-entrega-reconocimientos-a-atletas/",
+      "typeHint": "travesia",
+      "image": "https://notus.com.mx/wp-content/uploads/2026/09/premian-a-atletas-de-la-capital2.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Cine Club Gorosave Tendrá Función Gratuita - YODeportivo",
+      "url": "https://yodeportivo.com/cine-club-gorosave-tendra-funcion-gratuita/",
+      "typeHint": "travesia",
+      "image": "https://yodeportivo.com/wp-content/uploads/Cine-Club-Gorosave-tendra-funcion-gratuita.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "HUAWEI WATCH GT 7",
+      "url": "https://consumer.huawei.com/es/wearables/watch-gt7/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Steelers Laguna Busca Récord Mundial Con Su Afición - YODeportivo",
+      "url": "https://yodeportivo.com/steelers-laguna-busca-record-mundial-con-su-aficion/",
+      "typeHint": "travesia",
+      "image": "https://yodeportivo.com/wp-content/uploads/Steelers-Laguna-busca-record-mundial-con-su-aficion.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Agrupación de Pacientes con cáncer en Aysén en alerta por demoras en infraestructura",
+      "url": "https://www.radiosantamaria.cl/2026/09/02/agrupacion-de-pacientes-con-cancer-en-aysen-en-alerta-por-demoras-en-infraestructura/",
+      "typeHint": "travesia",
+      "image": "https://www.radiosantamaria.cl/wp-content/uploads/2025/01/foto-hospital-e1736803808483.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Sajú ® on Instagram: \"Hoy es el díaaaaa ‍♂️ nuestro equipo ya está subiendo el Alto del ...",
+      "url": "https://www.instagram.com/p/Dcyx1JqGhI6/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/790318526_18439079893125469_2416868353764795114_n.jpg?stp=c614.0.1843.1843a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=cLRnq-ebvbkQ7kNvwFt76Vl&amp;_nc_oc=AdqbH1eAYxJR9YLZJQteCGqwzE42Pc_P4qN3FPdTAKLOAWIu55WYqvsvynjxDY9isHI&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=5yT6_xkZOk1TJn3TkHKTww&amp;_nc_ss=7f689&amp;oh=00_AQJBmfeNvmKCZ9m2dvEqjKilFxm6SDKGiJzBAzWZKDpGIg&amp;oe=6A9ECDD0",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Llega el Mendoza Aventura Film Festival, para unir el cine con el alma de la montaña",
+      "url": "https://www.losandes.com.ar/espectaculos/llega-el-mendoza-aventura-film-festival-unir-el-cine-el-alma-la-montana-n6004712",
+      "typeHint": "travesia",
+      "image": "https://media.losandes.com.ar/p/d8ab85fc3a59c384c6707d3632071a6b/adjuntos/368/imagenes/100/743/0100743615/1200x675/smart/mendoza-aventura-film-festival.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "adidas lleva la innovación de sus récords en carretera a los senderos con las nuevas ...",
+      "url": "https://edicionessibila.com/adidas-lleva-la-innovacion-de-sus-records-en-carretera-a-los-senderos-con-las-nuevas-agravic-speed-ultra-evo/",
+      "typeHint": "travesia",
+      "image": "https://edicionessibila.com/wp-content/uploads/2026/09/730243.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Canteras de Nueva Escocia: se viene una nueva jornada de aventura y trail running",
+      "url": "https://www.cndigital.com.ar/noticias/73768_canteras-de-nueva-escocia-se-viene-una-nueva-jornada-de-aventura-y-trail-running.html",
+      "typeHint": "travesia",
+      "image": "https://www.cndigital.com.ar/fotos/2026/09/0209986d523cb4170a.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El motivo por el que el intendente Ulpiano Suarez viajó a Colombia - MDZ Online",
+      "url": "https://www.mdzol.com/politica/el-motivo-el-que-el-intendente-ulpiano-suarez-viajo-colombia-n1598257",
+      "typeHint": "travesia",
+      "image": "https://media.mdzol.com/p/555cbae79e78412273cb42927303603e/adjuntos/373/imagenes/001/988/0001988603/1200x675/smart/ulpiano-suarez-intendente-capital.jpeg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El nuevo HUAWEI Watch GT 7 Pro ya está en preventa en Amazon con 70 euros de ahorro",
+      "url": "https://www.todomountainbike.net/equipamiento/nuevo-huawei-watch-gt-7-pro-ya-esta-preventa-amazon-70-euros-ahorro",
+      "typeHint": "travesia",
+      "image": "https://cdn.todomountainbike.net/images/articles/2026/el-nuegvo-huawei-watch-gt-siete-pro-a-la-venta-en-amazon.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Estrenos de cine: Una Luisana Lopilato irreconocible protagoniza Pepita, la pistolera",
+      "url": "https://www.losandes.com.ar/espectaculos/estrenos-cine-una-luisana-lopilato-irreconocible-protagoniza-pepita-la-pistolera-n6004664",
+      "typeHint": "travesia",
+      "image": "https://media.losandes.com.ar/p/5d246b2808c3f105aef67ebe2b4e2b0e/adjuntos/368/imagenes/100/743/0100743495/1200x675/smart/image.png",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Mendoza Aventura Film Festival llega a Godoy Cruz con cine, montaña y experiencias únicas",
+      "url": "https://noticiasd.com/argentina/mendoza/mendoza-aventura-film-festival-llega-a-godoy-cruz-con-cine-montana-y-experiencias-unicas-201328507",
+      "typeHint": "travesia",
+      "image": "https://static.noticiasd.com/cdn-cgi/image/width=1200,quality=68,format=auto/img/2026/09/02/3742144213.jpeg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "VIDEO | Insólita pelea en el fútbol uruguayo entre la barra y los jugadores por los malos resultados",
+      "url": "https://www.nexofin.com/notas/1293257-video-insolita-pelea-en-el-futbol-uruguayo-entre-la-barra-y-los-jugadores-por-los-malos-resultados-n-/",
+      "typeHint": "escalada",
+      "image": "https://www.nexofin.com/archivos/2026/09/vcpn2nvgf-1200x630--1-1000x600.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Solveig Korherr repite 'Histoire sans fin' (200 m, 8b+) - Desnivel.com",
+      "url": "https://www.desnivel.com/escalada-roca/solveig-korherr-repite-histoire-sans-fin-200-m-8b/",
+      "typeHint": "escalada",
+      "image": "https://www.desnivel.com/images/2026/09/korherr-histoire-2-750x440.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Un equipo de cinco mujeres abre «Sintonia» en Pedra Baiana, Brasil - Desnivel.com",
+      "url": "https://www.desnivel.com/escalada-roca/un-equipo-de-cinco-mujeres-abre-sintonia-en-pedra-baiana-brasil/",
+      "typeHint": "escalada",
+      "image": "https://www.desnivel.com/images/2026/09/miya-tsudome-13-750x440.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El Campeonato Mundial Máster de Remo será en Paraguay en el 2029 - La Tribuna",
+      "url": "https://www.latribuna.com.py/deportes/2026/09/02/el-campeonato-mundial-master-de-remo-sera-en-paraguay-en-el-2029/",
+      "typeHint": "escalada",
+      "image": "https://www.latribuna.com.py/resizer/v2/H4EH2NKBHBABLCTLWY6K3JD5KY.jpeg?smart=true&amp;auth=08d77030f2254bb4856ea86cd93bf538c8a9d28331706e782c388630df10838d&amp;width=1200&amp;height=630",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Alberto Ginés: \"Estoy reafirmándome en que lo de Chamonix no fue un caso aislado\"",
+      "url": "https://www.canalextremadura.es/deportes/polideportivo/alberto-gines-estoy-reafirmandome-en-que-lo-de-chamonix-no-fue-un-caso",
+      "typeHint": "escalada",
+      "image": "http://www.canalextremadura.es/sites/default/files/2026-01/alberto%20gines_0.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El Encuentro Interprovincial de CxM en Edad Escolar de Guillena 'Ruta del Agua' cerrará la ...",
+      "url": "https://fadmes.es/el-encuentro-interprovincial-de-cxm-en-edad-escolar-de-guillena-ruta-del-agua-cerrara-la-fase-occidental-antes-de-la-final-en-cerro-muriano/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Tango sin fronteras: Naima Gerasopoulou y Lucas Gauto ganan el Campeonato Mundial de ...",
+      "url": "https://es.euronews.com/cultura/2026/09/02/tango-sin-fronteras-naima-gerasopoulou-lucas-gauto-ganan-campeonato-mundial-pista",
+      "typeHint": "escalada",
+      "image": "https://images.euronews.com/articles/stories/09/89/79/27/1200x675_cmsv2_cb4718e9-8931-5cdd-834a-9ca6de492bac-9897927.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Qatar aún tiene previsto organizar los eventos de MotoGP y Fórmula 1, a pesar del conflicto ...",
+      "url": "https://www.xevt.com/deportes/qatar-aun-tiene-previsto-organizar-los-eventos-de-motogp-y-formula-1-a-pesar-del-conflicto-belico-en-medio-oriente/440606",
+      "typeHint": "escalada",
+      "image": "https://blob.xevt.com/images/2026/09/02/y3-foto-4-cb82992f-focus-0.24-min0.45-608-342.webp",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "¡Increíble hazaña en bicicleta! Descubre cómo Lewis Askey conquistó la empinada subida ...",
+      "url": "https://mybike.com.co/increible-hazana-en-bicicleta-descubre-como-lewis-askey-conquisto-la-empinada-subida-de-michaelgate-en-el-tour-de-gran-bretana-impactante-49948/",
+      "typeHint": "escalada",
+      "image": "https://mybike.com.co/wp-content/uploads/2023/12/My-Bike.jpg",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Emocionantes carreras de botes tradicionales en el río Perfume. - Vietnam.vn",
+      "url": "https://www.vietnam.vn/es/soi-noi-giai-dua-ghe-truyen-thong-tren-song-huong",
+      "typeHint": "escalada",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/02/1788317933857_dua-ghe-3-1.jpeg",
+      "date": "2026-09-03"
+    },
+    {
       "title": "Detectadas 82 denuncias en Castilla y León por un nuevo fraude de WhatsApp que envía ...",
       "url": "https://inforadiomontanaleonesa.com/contenido/27541/detectadas-82-denuncias-en-castilla-y-leon-por-un-nuevo-fraude-de-whatsapp-que-e",
       "typeHint": "carrera",
@@ -482,223 +699,6 @@
       "typeHint": "escalada",
       "image": "https://www.laprensa.hn/binrepository/1200x900/1c115/1200d630/none/11004/YOVU/diseno-sin-titulo-2_15468065_20260901125537.jpg",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Belgrano perdió con Lanús y dejó pasar una buena chance de escalar en el Torneo de Reserva",
-      "url": "https://www.lavoz.com.ar/deportes/belgrano-perdio-lanus-dejo-pasar-buena-chance-escalar-torneo-reserva_0_n2yMiU5J9Z.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Gero Arias habló en Infobae a la Tarde: del éxito en La Velada 6 a la disciplina que convirtió ...",
-      "url": "https://www.infobae.com/teleshow/2026/09/01/gero-arias-hablo-en-infobae-a-la-tarde-del-exito-en-la-velada-6-a-la-disciplina-que-convirtio-en-una-forma-de-vida/",
-      "typeHint": "escalada",
-      "image": "https://www.infobae.com/resizer/v2/44T5GGOK3BFVXOTJU43USGU47A.png?auth=5a061c23db1b3469e5ac0cd610973ea289ad47685e0b9d7ac41552f635cb7bff&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Gero Arias habló en Infobae a la Tarde: del éxito en La Velada 6 a la disciplina que convirtió ...",
-      "url": "https://www.infobae.com/teleshow/2026/09/01/gero-arias-hablo-en-infobae-a-la-tarde-del-exito-en-la-velada-6-a-la-disciplina-que-convirtio-en-una-forma-de-vida/?outputType=amp-type",
-      "typeHint": "escalada",
-      "image": "https://www.infobae.com/resizer/v2/44T5GGOK3BFVXOTJU43USGU47A.png?auth=5a061c23db1b3469e5ac0cd610973ea289ad47685e0b9d7ac41552f635cb7bff&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Rocòdrom CCT21 - Club d'escalada de competición — Escalada en Pallejà - Studiomaps",
-      "url": "https://studiomaps.app/studio/rocodrom-cct21-club-d-escalada-de-competicion",
-      "typeHint": "escalada",
-      "image": "https://studiomaps.app/og/studio/rocodrom-cct21-club-d-escalada-de-competicion",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Extremadura abre inscripciones para el Campeonato Iberoamericano de Escalada en Dificultad",
-      "url": "https://caceresdiario.com/noticias/extremadura/7858-extremadura-abre-inscripciones-campeonato-iberoamericano-escalada-en-dificultad",
-      "typeHint": "escalada",
-      "image": "https://ik.imagekit.io/nq3fms8r6i/uploads3/Cartel-campeonato-de-Extremadura-dificultad-2026_page-0001-scaled_tvslxJFDK.jpg/tr:w-1200,h-630,q-75,f-auto",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "San Cristóbal de La Laguna acogerá la XIX Semana de la Montaña de Tenerife – Fecamon",
-      "url": "https://fecamon.es/san-cristobal-de-la-laguna-acogera-la-xix-semana-de-la-montana-de-tenerife/",
-      "typeHint": "carrera",
-      "image": "https://fecamon.es/web2022/wp-content/uploads/tenerife-1.webp",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Sol de La Laguna on X: \"¡Listos para correr! Presentan la 4ª edición de la 10K Trail ...",
-      "url": "https://x.com/ElSoldeLaLaguna/status/2094867889304289343",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/media/HRJ0A_NXkAAllkn?format=webp&amp;name=large",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Vení a Correr\" cumple 20 años: vuelve la carrera solidaria por el Octubre Rosa a Ciudad",
-      "url": "https://www.mendovoz.com/deportes/polideportivo/2026/9/1/veni-a-correr-cumple-20-anos-vuelve-la-carrera-solidaria-por-el-octubre-rosa-a-ciudad-167936.html",
-      "typeHint": "travesia",
-      "image": "https://img.mendovoz.com/WWoAeFsluF0KEOws9Y2OlgZ5rNzvF_UXr87v6bSB9os/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubWVuZG92b3ouY29tL2ltZy8xNzg4MjgyNjY2NTM1LXVodGJlZi5qcGc",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "¿Corrés la NB All Terrain Tandil? ‍♂️⛰️ Equipate con el mejor de trail y conseguí lo que ...",
-      "url": "https://www.instagram.com/reel/DcwJ37oga3F/",
-      "typeHint": "travesia",
-      "image": "https://scontent-fra5-2.cdninstagram.com/v/t51.71878-15/791510088_1263631149188949_601407948193300089_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=nCxdXP3BS-YQ7kNvwE-AVPd&amp;_nc_oc=Ado6e3xAZwxNgqic0gNyYV9L52HwapNw5-AZncL1GZ3EwfEz6otAPr2PWCtqNq7QAto&amp;_nc_zt=23&amp;_nc_ht=scontent-fra5-2.cdninstagram.com&amp;_nc_gid=s9lrsNR-BaKIsrI0fAKTrA&amp;_nc_ss=7f689&amp;oh=00_AQJQLxLy1vNe3XrqlF2hTkssTY0JFvPR0da4EaNXxMC-Nw&amp;oe=6A9CED76",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "ANTA enseña sus cartas en Chamonix: tres nuevas zapatillas de trail y Europa en el punto de mira",
-      "url": "https://www.runnea.com/articulos/anta-ensena-cartas-chamonix-tres-27823/",
-      "typeHint": "travesia",
-      "image": "https://static.runnea.com/images/202609/anta-guanjun-gama-recurso-apertura-1200x675x80xX.jpg?1",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "A Rayas - Regalos - Trail Running - Negro | adidas CO",
-      "url": "https://www.adidas.co/a_rayas-regalos-trail_running-negro",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Cultiva cuerpo fuerte #trail #running @fansdestacados Maruja Cántaro Runners Manchay Juan ...",
-      "url": "https://www.facebook.com/RunnersManchay22/videos/-cultiva-cuerpo-fuerte-trail-running-fansdestacados-maruja-c%C3%A1ntaro-runners-manch/2895767064137287/",
-      "typeHint": "travesia",
-      "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/790300940_1044587598483487_2859431125445796685_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=WeaTO2bXXD0Q7kNvwHUBM2h&amp;_nc_oc=AdorkWzKp5Bvt2lXEo5yf5kSDggmkmxk1qqY7ASLyGf1WmYOlFn9u6ZjVVpfaIscgIM&amp;_nc_zt=23&amp;_nc_ht=scontent-fra3-2.xx&amp;_nc_gid=m8h2cnnkzcCCZPJlqFgQeQ&amp;_nc_ss=7f289&amp;oh=00_AQIqX2HYOmLpFu6xZceS0ITSukDp74b2mHT-RJn78fHy_Q&amp;oe=6A9D0237",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "UTMB 2026: una semana para la historia en el Mont Blanc - AS.com - Diario AS",
-      "url": "https://as.com/deportes_accion/outdoor/utmb-2026-una-semana-para-la-historia-en-el-mont-blanc-f202609-n/",
-      "typeHint": "travesia",
-      "image": "https://img.asmedia.epimg.net/resizer/v2/4MO6U7ERWVGC3CJ5H2DHRH5N4I.jpg?auth=aefac0a275b81fcc149cf2881069d322335ba05a62c3385c971eeb54db15584e&amp;width=1472&amp;height=828&amp;smart=true",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Estados Unidos bombardea de nuevo Irán y apunta a la Guardia Revolucionaria en plena ...",
-      "url": "https://www.marca.com/tiramillas/politica/2026/09/01/estados-unidos-bombardea-nuevo-iran-apunta-guardia-revolucionaria-plena-escalada-estrecho-ormuz.html",
-      "typeHint": "escalada",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/03/15/69b6bcaa3eb6b.jpeg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Tennis Europe Sub 14: Benidorm acoge el torneo Juan Fuster - Ahora Marina Baixa",
-      "url": "https://ahoramarinabaixa.es/tennis-europe-sub-14-juan-fuster-zaragoza-26/",
-      "typeHint": "escalada",
-      "image": "https://ahoramarinabaixa.es/wp-content/uploads/2026/09/3B6A8205-1024x683.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El CD Egabrense debutará en Tercera Federación enfrentando al Córdoba B en un ...",
-      "url": "https://cadenaser.com/andalucia/2026/09/01/el-cd-egabrense-debutara-en-tercera-federacion-enfrentando-al-cordoba-b-en-un-encuentro-a-puerta-cerrada-ser-lucena/?outputType=amp",
-      "typeHint": "escalada",
-      "image": "https://cadenaser.com/resizer/v2/5BUWAUXKIFBX5J7DFCFCYWO5UE.jpg?auth=a109481dbfa1149e08deadcee2fbeed883e7f65eaa81afb5353c1c4012829e03&amp;quality=70&amp;width=1200&amp;height=675&amp;focal=957,518",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "La Transgrancanaria 2027 supera los 5.000 inscritos - La Voz Canaria",
-      "url": "https://lavozcanaria.com/noroeste-gran-canaria/general/la-transgrancanaria-2027-supera-los-5000-inscritos",
-      "typeHint": "travesia",
-      "image": "https://lavozcanaria.com/media/2026/09/la-transgrancanaria-2027-supera-los-5000-inscritos.webp",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Hoka presenta la zapatilla 'Tecton X 4', con placa de carbono y doble espuma para terrenos ...",
-      "url": "https://www.europapress.es/deportes/noticia-hoka-presenta-zapatilla-tecton-placa-carbono-doble-espuma-terrenos-tecnicos-trail-running-20260901174308.html",
-      "typeHint": "travesia",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260901174308_1200.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Presentan la 4ª edición de la 10K Trail Running Moderna en Torreón - El Sol de la Laguna",
-      "url": "https://oem.com.mx/elsoldelalaguna/deportes/presentan-la-4a-edicion-de-la-10k-trail-running-moderna-en-torreon-31844245",
-      "typeHint": "travesia",
-      "image": "https://oem.com.mx/elsoldelalaguna/img/31844171/1788262190/BASE_LANDSCAPE/1200/image.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Endurance Trail estrena una quinta y extrema distancia para su edición 2026 - ADN Radio",
-      "url": "https://www.adnradio.cl/2026/09/01/endurance-trail-estrena-una-quinta-y-extrema-distancia-para-su-edicion-2026/",
-      "typeHint": "travesia",
-      "image": "https://www.adnradio.cl/resizer/v2/CXKJ45VYXFHL5NQJQZFXYTWLY4.jpg?auth=e6e519a82544c85655d2d0dd3cac3387b76a3e110a7d242a04b76c06aa988433&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Teva anuncia el lanzamiento de Trailpeak, su zapatilla de trail running de alta rentabilidad ...",
-      "url": "https://es.marketscreener.com/noticias/teva-anuncia-el-lanzamiento-de-trailpeak-su-zapatilla-de-trail-running-de-alta-rentabilidad-creada-ce7858ddd080f023",
-      "typeHint": "travesia",
-      "image": "https://es.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "¿La victoria de Ben Dhiman en UTMB es la mejor actuación de la historia del trail?",
-      "url": "https://www.mundodeportivo.com/running/20260901/1004222114/victoria-ben-dhiman-utmb-mejor-actuacion-historia-trail.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/31/6a959740c7112.jpeg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "La Transgrancanaria 2027 rompe la barrera de los 5.000 corredores y ya agota tres distancias",
-      "url": "https://amp.sport.es/es/noticias/outdoor/transgrancanaria-2027-rompe-barrera-5000-corredores-133839107",
-      "typeHint": "travesia",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/b27d3851-8f88-429c-8ac6-3e8b45c1643d_16-9-discover-aspect-ratio_default_0_x929y412.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "¡Vuelve Tu Meta Trail! Las bardas de Plottier palpitan la gran carrera - LM Neuquen",
-      "url": "https://www.lmneuquen.com/deportes/vuelve-tu-meta-trail-las-bardas-plottier-palpitan-la-gran-carrera-n1251905",
-      "typeHint": "travesia",
-      "image": "https://media.lmneuquen.com/p/399049772ea2bd2e49023bda6e53bebc/adjuntos/195/imagenes/008/363/0008363756/1200x675/smart/meta-trail-2026.png",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Los cinco consejos de entrenador para empezar el gimnasio en septiembre y no abandonar ...",
-      "url": "https://www.mundodeportivo.com/running/20260901/1004222030/5-consejos-entrenador-empezar-gimnasio-septiembre-no-abandonar-pocas-semanas-retomar-habitos-avanzar-manera-progresiva-entender-resultados-construyen-constancia.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/04/14/69de4d3c15b48.jpeg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "La Transgrancanaria 2027 rompe registros con más de 5.000 corredores inscritos de 68 países",
-      "url": "https://www.laprovincia.es/deportes-canarias/2026/09/01/transgrancanaria-2027-rompe-registros-5-133842593.html",
-      "typeHint": "travesia",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/424869a2-a823-4dd2-8ab0-90628fd60922_16-9-discover-aspect-ratio_default_0_x1152y510.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "terapia.vertical 🏔️ Hay quienes corren buscando un cronómetro, y hay quienes ... - Instagram",
-      "url": "https://www.instagram.com/p/DcvyyNfxkQt/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/791045413_18110994266272652_2193602017392095917_n.heic?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Y8OfTQ8s5o4Q7kNvwGzm_Wp&amp;_nc_oc=AdrRmGDXmZCAhQ2vn0RI4vG8iHZ-2OxjxxsqS70Lt6HY7JFHi3erDziE_LFp32oPQ80&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=cSzcalgx-rY8P6HNx-B1Iw&amp;_nc_ss=7f689&amp;oh=00_AQJoFsHP0o4emZbPKKEWQ60_4JpIQRMl9r_tE-ZUDeM3Nw&amp;oe=6A9CF050",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "EL TRAIL RUNNING 12ELVE CASTRO URDIALES CONTARÁ ESTE DOMINGO CON 300 ...",
-      "url": "https://castropuntoradio.es/el-trail-running-12elve-castro-urdiales-contara-este-domingo-con-300-participantes-procedentes-de-varios-puntos-de-espana-incluidas-baleares-y-canarias/",
-      "typeHint": "travesia",
-      "image": "https://castropuntoradio.es/wordpress/wp-content/uploads/2026/09/Cartel_12ELVE-2026.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Kailas FUGA planta bandera en Chamonix: primera tienda europea, EX PRO G y un 1-2 ...",
-      "url": "https://www.runnea.com/articulos/trail/kailas-fuga-planta-bandera-chamonix-27806/",
-      "typeHint": "travesia",
-      "image": "https://static.runnea.com/images/202609/fuga-chamonix-store_ii_hd_baptiste-gousset_baptx_gousset-90-1200x675x80xX.jpg?1",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "IRONMAN Lanzarote presenta su 35ª edición y abre una nueva etapa de cara a 2027",
-      "url": "https://www.biosferadigital.com/articulo/deportes/ironman-lanzarote-presenta-35a-edicion-abre-nueva-etapa-cara-2027/20260901135512163571.html",
-      "typeHint": "travesia",
-      "image": "https://www.biosferadigital.com/media/biosferadigital/images/2026/09/01/2026090113550112136.jpg",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Kailas FUGA High-Cut EX 330 TG Trail Running Socks Unisex – KAILASFUGA",
-      "url": "https://www.kailasfuga.com/es/collections/socks-1/products/kailas-fuga-high-cut-ex-330-tg-trail-running-socks-unisex",
-      "typeHint": "travesia",
-      "image": "http://www.kailasfuga.com/cdn/shop/files/gjgw_1_..png?v=1788257163&width=2048",
-      "date": "2026-09-01"
     }
   ]
 }
