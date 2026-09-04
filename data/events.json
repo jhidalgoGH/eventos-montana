@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:59:05.714Z",
+  "updatedAt": "2026-09-04T09:48:31.500Z",
   "events": [
     {
       "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
@@ -147,6 +147,18 @@
       "url": "https://itra.run/Races/RaceDetails/CanfrancCanfranc.Ultra.100K/2026/114918",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Prueba donación",
+      "type": "carrera",
+      "startDate": "2026-09-11T00:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/prueba-donacion",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Transenyera 2026",
@@ -2535,6 +2547,17 @@
       "url": "https://web.rockthesport.com/es/event/ii-lodosa-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Condor Trail Running Race 2026",
+      "startDate": "2026-11-15T00:00:00.000Z",
+      "endDate": "2026-11-15T00:00:00.000Z",
+      "locationName": "Alrededores del Quilotoa, Pujilí, Cotopaxi, EC",
+      "image": "https://runningecuador.com/races/condor_trail_2026.webp",
+      "url": "https://runningecuador.com/carreras/condor_trail_running_race_2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "BurriacXtrem 2026",
