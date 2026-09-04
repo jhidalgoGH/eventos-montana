@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:48:31.500Z",
+  "updatedAt": "2026-09-04T17:34:57.732Z",
   "events": [
     {
       "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
@@ -2699,6 +2699,18 @@
       "url": "https://itra.run/Races/RaceDetails/TRAILSERIES.LES.ERMITES...ULLDEMOLINS.21K/2026/120324",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Lliga de Muntanya València Sud. 26/27",
+      "type": "carrera",
+      "startDate": "2026-11-29T08:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6bbdfbfa-6284-48ee-8897-cc8e3e83b7f4_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/lliga-de-muntanya-valencia-sud-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "TRES TOSSALS ‐ GATA GORGOS, 9e. Circuit Trail Marina 26/27",
