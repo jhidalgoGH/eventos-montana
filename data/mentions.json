@@ -1,6 +1,216 @@
 {
   "mentions": [
     {
+      "title": "Huawei WATCH GT 7 Pro: un reloj marcado por su carácter deportivo y su gran autonomía",
+      "url": "https://as.com/meristation/betech/analisis/huawei-watch-gt-7-pro-un-reloj-marcado-por-su-caracter-deportivo-y-su-gran-autonomia-f202609-n/",
+      "typeHint": "carrera",
+      "image": "https://img.asmedia.epimg.net/resizer/v2/ISASNI7GP5D23LLVNHWC64Y534.jpg?auth=055cfa1dc8114a1f2ac1c7aa9cfbb6a0485e00d68bc62f34b6975927a76e6ff6&amp;width=1472&amp;height=828&amp;smart=true",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La Guardia Civil localiza 27 kilos de hachís y diversa munición en Navalmoral de la Mata",
+      "url": "https://laaldaba.es/sucesos-3/detenido-27-kilos-hachis-municion-navalmoral-mata/",
+      "typeHint": "carrera",
+      "image": "https://laaldaba.es/wp-content/uploads/2026/09/Imagen.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Huawei anuncia la serie Watch GT 7, con tres modelos y hasta 21 días de autonomía",
+      "url": "https://www.geektopia.es/es/technology/2026/09/02/noticias/huawei-anuncia-la-serie-watch-gt-7-con-tres-modelos-y-hasta-21-dias-de-autonomia.html",
+      "typeHint": "carrera",
+      "image": "https://static-geektopia.com/storage/t/p/189/189258/800x372/watch-gt-7.webp",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "¿Dónde encontrar una feria de antigüedades o un mercadillo de segunda mano en ... - Sortiraparis",
+      "url": "https://www.sortiraparis.com/es/que-hacer-en-paris/compras-moda/articles/318900-donde-encontrar-un-mercadillo-de-segunda-mano-o-una-venta-de-garaje-en-los-suburbios-de-paris-este-fin-de-semana-del-5-al-6-de-septiembre",
+      "typeHint": "carrera",
+      "image": "https://cdn.sortiraparis.com/images/80/83043/1110057-guide-des-brocantes-de-la-rentree-en-ile-de-france-le-week-end-du-14-au-15-septembre-2024.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Dos mendocinas representarán a Argentina en el Mundial de Patín Paraguay 2026",
+      "url": "https://www.minutoya.com.ar/2026/09/03/dos-mendocinas-representaran-a-argentina-en-el-mundial-de-patin-paraguay-2026",
+      "typeHint": "travesia",
+      "image": "https://www.minutoya.com.ar/uploads/2026/09/03/1788470313039-patinadoras-social.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Lisandro Martínez y Marcos Senesi están cerca de ser ciudadanos ilustres de la provincia",
+      "url": "https://www.cndigital.com.ar/noticias/73785_lisandro-martinez-y-marcos-senesi-estan-cerca-de-ser-ciudadanos-ilustres-de-la-provincia.html",
+      "typeHint": "travesia",
+      "image": "https://www.cndigital.com.ar/fotos/2026/09/0309c19b67580a24d3.png",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Santa Rosa de Calamuchita recibe a más de 2.000 deportistas por el Rally Bike",
+      "url": "https://www.datadiario.com/cordoba/deportes-cba/santa-rosa-de-calamuchita-recibe-a-mas-de-2-000-deportistas-por-el-rally-bike-20269311110",
+      "typeHint": "travesia",
+      "image": "https://pxcdn.datadiario.com/diario/092026/1788444689634.jpg?&amp;cw=1200&amp;ch=630",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Destino Madryn va por su novena edición con más de 1.000 corredores",
+      "url": "https://radio3cadenapatagonia.com.ar/destino-madryn-va-por-su-novena-edicion-con-mas-de-1-000-corredores/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "US$10,000 por Dodani Estrada, el atleta nica presuntamente secuestrado en Costa Rica",
+      "url": "https://www.laprensani.com/2026/09/03/suplemento/la-prensa-domingo/3778610-10000us-por-dodani-estrada-el-atleta-nica-presuntamente-secuestrado-en-costa-rica",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Probamos el reloj perfecto para esquiar este invierno - ABC",
+      "url": "https://www.abc.es/tecnologia/probamos-reloj-perfecto-esquiar-invierno-20260904014139-nt.html",
+      "typeHint": "travesia",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/reloj-huawei-gt-U28563486041RsM-1200x630@diario_abc.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "10 carreras de trail para correr en Argentina - Más Aire",
+      "url": "https://www.masaireweb.com/10-carreras-trail-correr-argentina/",
+      "typeHint": "travesia",
+      "image": "https://www.masaireweb.com/wp-content/uploads/2026/09/475803120_595597296559144_6969989262929489324_n-2-1024x611.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La primera edición de la \"Coapan Trail 500\" se correrá el 18 de octubre en San Pablo ...",
+      "url": "https://www.facebook.com/MasDeportesRTV/videos/la-primera-edici%C3%B3n-de-la-coapan-trail-500-se-correr%C3%A1-el-18-de-octubre-en-san-pab/1583906539856685/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/793867270_1379905954287891_103171824347568389_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EYKVouKjtXAQ7kNvwEzhkjB&amp;_nc_oc=Adp5NSMXArjJ44heAbO8Z48TKgJw0q-6R7A3x8UBfdiZFnO-x6clfnT9pRvSGjwSoeA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=JxFcTawcrr_mwMa9BF_pyQ&amp;_nc_ss=7f289&amp;oh=00_AQKv_26bpcDJqW9BFabcxqBHe3ZJ1K_KLpqCjYWtwERu5A&amp;oe=6AA04458",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Probamos el reloj perfecto para esquiar este invierno - ABC",
+      "url": "https://www.abc.es/tecnologia/probamos-reloj-perfecto-esquiar-invierno-20260904014139-nt_amp.html",
+      "typeHint": "travesia",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/reloj-huawei-gt-U28563486041RsM-1200x630@diario_abc.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Patagonian International Marathon: más de dos mil corredores de 50 países animarán la ...",
+      "url": "https://www.adnradio.cl/2026/09/03/patagonian-international-marathon-mas-de-dos-mil-corredores-de-50-paises-animaran-la-edicion-2026-del-evento/",
+      "typeHint": "travesia",
+      "image": "https://www.adnradio.cl/resizer/v2/REY5ZIVFDJAJXN5BTCZJOJX2CE.png?auth=b89e5ee713b21162b5904738bdd5457fffe1e5ef8df2d7ae1b10f54dfda96f13&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Anuncian novedosa carrera de trail running por parejas - Flipr.news",
+      "url": "https://flipr.com.ar/chubut/elapatagonico/anuncian-novedosa-carrera-de-trail-running-por-parejas/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Más de 600 corredores de 12 países se esperan en la 5 edición de la Gran Carrera del ...",
+      "url": "https://audiorama.mx/mas-de-600-corredores-de-12-paises-se-esperan-en-la-5-edicion-de-la-gran-carrera-del-desierto-en-sonora/63614",
+      "typeHint": "travesia",
+      "image": "https://backend-audiorama-media.s3.amazonaws.com/2026/09/desierto.jpeg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La camiseta ya está lista. ¿Y tú? ‍♂️ ‍♀️ Este 18 de octubre nos vamos a correr 180 ...",
+      "url": "https://www.instagram.com/reel/Dc10gZzxvCq/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/793458056_18622118929063749_8676185057810846947_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&amp;_nc_ohc=5a8Hy38WV44Q7kNvwH1XidM&amp;_nc_oc=AdpJrUJpCqh_XnmQtNSEW5b9U59UbFW3SwKOTQCoNnOLwl3FC6WG7H5ih6mrcBtl4AM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=ZsUXWTPfi-v8g-VU-o5seg&amp;_nc_ss=7f689&amp;oh=00_AQJ6Zf90WQkCTURklZnjUH8NLP7MFigQ47szZ2UoFGjyGg&amp;oe=6AA034EC",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Festival Cultural del Hongo en San José del Pacífico 2026: ¿qué actividades habrá?",
+      "url": "https://oaxaca.eluniversal.com.mx/mas-de-oaxaca/festival-cultural-del-hongo-en-san-jose-del-pacifico-2026-que-actividades-habra/",
+      "typeHint": "travesia",
+      "image": "https://oaxaca.eluniversal.com.mx/resizer/v2/IEA7EEZQUZD5JLLU2T2PJLRUUI.jpg?auth=33e9d214f9adc3b9d26b33dd867ed569268f933a1cccacaeb139939fb49dd446",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Patriada Trail 2026: Recorridos, inscripciones, horarios y todo lo que hay que saber - Red43",
+      "url": "https://www.red43.com.ar/nota/2026-9-3-13-33-13-patriada-trail-2026-recorridos-inscripciones-horarios-y-todo-lo-que-hay-que-saber",
+      "typeHint": "travesia",
+      "image": "https://pxbcdn.red43.com.ar/red43/092026/1788452112353.jpg?&cw=600&ch=365",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Chileno Luis Valle ganó la Transalpine Run en los Alpes suizos - estapasando.cl",
+      "url": "https://estapasando.cl/deportes/chileno-luis-valle-gano-la-transalpine-run-en-los-alpes-suizos/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "En India, Puma viste a 40 monjes budistas con calzado de running para la campaña del ...",
+      "url": "https://roastbrief.com.mx/2026/09/en-india-puma-viste-a-40-monjes-budistas-con-calzado-de-running-para-la-campana-del-maraton-de-ladakh/",
+      "typeHint": "travesia",
+      "image": "https://roastbrief.com.mx/wp-content/uploads/2026/09/SaveClip.App_792687906_18460026361185227_4650922565565270631_n.jpg-scaled.jpeg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La camiseta ya está lista. ¿Y tú? ‍♂️ ‍♀️ Este 18 de octubre nos vamos a correr 180 ...",
+      "url": "https://www.facebook.com/catedraldesaldezipaquira/videos/la-camiseta-ya-est%C3%A1-lista-y-t%C3%BA-%EF%B8%8F%EF%B8%8Feste-18-de-octubre-nos-vamos-a-correr-180-metro/1390590795787679/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-15/793458056_18622118929063749_8676185057810846947_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=5a8Hy38WV44Q7kNvwH1XidM&amp;_nc_oc=AdpJrUJpCqh_XnmQtNSEW5b9U59UbFW3SwKOTQCoNnOLwl3FC6WG7H5ih6mrcBtl4AM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=vRY0rm3PijVlXgEo_8DU3w&amp;_nc_ss=7f289&amp;oh=00_AQJgC6G9ghZeRtUM2D9yf8wGtZv9N9cYIP2tKRshgGhhug&amp;oe=6AA034EC",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Correr, pedalear y jugar: así se vive el deporte nocturno en Quito - Diario Expreso",
+      "url": "https://www.expreso.ec/quito/correr-pedalear-jugar-asi-vive-deporte-nocturno-quito-294405.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/09/02/6a98ab67679fd.jpeg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Todo sea por una toma del chimborazo #chimborazo #running #trail #govi... | TikTok",
+      "url": "https://www.tiktok.com/@cred_castillo/video/7681156930429144328",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trekking Ascensión al M'Goun 4.071 m en 6 días | Marruecos",
+      "url": "https://senderismo-marruecos.com/trekking-ascension-al-mgoun/",
+      "typeHint": "festival",
+      "image": "https://senderismo-marruecos.com/wp-content/uploads/2026/01/Photo-178.jpg",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "xxxvi travesía nocturna de montaña de lorca - Facebook",
+      "url": "https://www.facebook.com/media/set/?vanity&set=a.10154685188215023",
+      "typeHint": "festival",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La FIFA acusa a la UEFA de emprender una “campaña de desprestigio” contra su ...",
+      "url": "https://www.independentespanol.com/noticias/plan-venta-copa-mundial-fifa-uefa-gianni-infantino-b3044430.html",
+      "typeHint": "escalada",
+      "image": "https://static.independentespanol.com/2026/09/03/19/01M1M91HRJS7YKK3704QVDEEQ0.jpg?trim=0,106,0,106&width=1200&height=800&crop=1200:800",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Curso de Escalada Nivel 0: Iniciación a la Escalada Deportiva en Roca - FEXME",
+      "url": "https://fexme.com/2026/09/03/curso-de-escalada-nivel-0-iniciacion-a-la-escalada-deportiva-en-roca-11/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Laura Rogora en 'Escaladur', su 9a más corto | WOGU",
+      "url": "https://woguclimbing.com/video-laura-rogora-escaladur-9a-mas-corto/?amp",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La escalada deportiva debutará como disciplina oficial en los Juegos Suramericanos",
+      "url": "https://infofe.com.ar/la-escalada-deportiva-debutara-como-disciplina-oficial-en-los-juegos-suramericanos/",
+      "typeHint": "escalada",
+      "image": "https://imgshock.nyc3.digitaloceanspaces.com/wp-media/infofe-com-ar/esca2-9.PNG",
+      "date": "2026-09-04"
+    },
+    {
       "title": "RACE DAY WITH MERRELL | Reflections after DNFing the TDS + Trail Running in Chamonix",
       "url": "https://www.youtube.com/watch?v=f-II7vL4yjQ",
       "typeHint": "travesia",
@@ -489,216 +699,6 @@
       "typeHint": "escalada",
       "image": "https://www.nexofin.com/archivos/2026/09/vcpn2nvgf-1200x630--1-1000x600.jpg",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Solveig Korherr repite 'Histoire sans fin' (200 m, 8b+) - Desnivel.com",
-      "url": "https://www.desnivel.com/escalada-roca/solveig-korherr-repite-histoire-sans-fin-200-m-8b/",
-      "typeHint": "escalada",
-      "image": "https://www.desnivel.com/images/2026/09/korherr-histoire-2-750x440.jpg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Un equipo de cinco mujeres abre «Sintonia» en Pedra Baiana, Brasil - Desnivel.com",
-      "url": "https://www.desnivel.com/escalada-roca/un-equipo-de-cinco-mujeres-abre-sintonia-en-pedra-baiana-brasil/",
-      "typeHint": "escalada",
-      "image": "https://www.desnivel.com/images/2026/09/miya-tsudome-13-750x440.jpg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "El Campeonato Mundial Máster de Remo será en Paraguay en el 2029 - La Tribuna",
-      "url": "https://www.latribuna.com.py/deportes/2026/09/02/el-campeonato-mundial-master-de-remo-sera-en-paraguay-en-el-2029/",
-      "typeHint": "escalada",
-      "image": "https://www.latribuna.com.py/resizer/v2/H4EH2NKBHBABLCTLWY6K3JD5KY.jpeg?smart=true&amp;auth=08d77030f2254bb4856ea86cd93bf538c8a9d28331706e782c388630df10838d&amp;width=1200&amp;height=630",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Alberto Ginés: \"Estoy reafirmándome en que lo de Chamonix no fue un caso aislado\"",
-      "url": "https://www.canalextremadura.es/deportes/polideportivo/alberto-gines-estoy-reafirmandome-en-que-lo-de-chamonix-no-fue-un-caso",
-      "typeHint": "escalada",
-      "image": "http://www.canalextremadura.es/sites/default/files/2026-01/alberto%20gines_0.jpg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "El Encuentro Interprovincial de CxM en Edad Escolar de Guillena 'Ruta del Agua' cerrará la ...",
-      "url": "https://fadmes.es/el-encuentro-interprovincial-de-cxm-en-edad-escolar-de-guillena-ruta-del-agua-cerrara-la-fase-occidental-antes-de-la-final-en-cerro-muriano/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Tango sin fronteras: Naima Gerasopoulou y Lucas Gauto ganan el Campeonato Mundial de ...",
-      "url": "https://es.euronews.com/cultura/2026/09/02/tango-sin-fronteras-naima-gerasopoulou-lucas-gauto-ganan-campeonato-mundial-pista",
-      "typeHint": "escalada",
-      "image": "https://images.euronews.com/articles/stories/09/89/79/27/1200x675_cmsv2_cb4718e9-8931-5cdd-834a-9ca6de492bac-9897927.jpg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Qatar aún tiene previsto organizar los eventos de MotoGP y Fórmula 1, a pesar del conflicto ...",
-      "url": "https://www.xevt.com/deportes/qatar-aun-tiene-previsto-organizar-los-eventos-de-motogp-y-formula-1-a-pesar-del-conflicto-belico-en-medio-oriente/440606",
-      "typeHint": "escalada",
-      "image": "https://blob.xevt.com/images/2026/09/02/y3-foto-4-cb82992f-focus-0.24-min0.45-608-342.webp",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "¡Increíble hazaña en bicicleta! Descubre cómo Lewis Askey conquistó la empinada subida ...",
-      "url": "https://mybike.com.co/increible-hazana-en-bicicleta-descubre-como-lewis-askey-conquisto-la-empinada-subida-de-michaelgate-en-el-tour-de-gran-bretana-impactante-49948/",
-      "typeHint": "escalada",
-      "image": "https://mybike.com.co/wp-content/uploads/2023/12/My-Bike.jpg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Emocionantes carreras de botes tradicionales en el río Perfume. - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/soi-noi-giai-dua-ghe-truyen-thong-tren-song-huong",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/02/1788317933857_dua-ghe-3-1.jpeg",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Detectadas 82 denuncias en Castilla y León por un nuevo fraude de WhatsApp que envía ...",
-      "url": "https://inforadiomontanaleonesa.com/contenido/27541/detectadas-82-denuncias-en-castilla-y-leon-por-un-nuevo-fraude-de-whatsapp-que-e",
-      "typeHint": "carrera",
-      "image": "https://inforadiomontanaleonesa.com/download/multimedia.normal.b367266a97398922.bm9ybWFsLndlYnA%3D.webp",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "León acogerá el XXXVI Certamen de Tunas los días 18 y 19 de septiembre",
-      "url": "https://inforadiomontanaleonesa.com/contenido/27527/leon-acogera-el-xxxvi-certamen-de-tunas-los-dias-18-y-19-de-septiembre",
-      "typeHint": "carrera",
-      "image": "https://inforadiomontanaleonesa.com/download/multimedia.normal.bb7b2e84cdd4fa4d.bm9ybWFsLndlYnA%3D.webp",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "‍♀️⛰️ Acompañamos a Yanina Valeria Moreno en su preparación deportiva rumbo a uno de ...",
-      "url": "https://www.instagram.com/p/DcylPb_kYQs/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/792743353_18338676727256387_3066551794882042065_n.webp?stp=c215.0.646.646a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=hPbCuKlRJl0Q7kNvwE0QKBm&amp;_nc_oc=AdoRAshFL2ZW2BGvIoe0KZCsY5tAcWOtQcEKxwhGp7XAULtZS4FOdJrsbCK3HHAFDY0&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;_nc_gid=tc0fG7YaIHfwtw6J-Mkyiw&amp;_nc_ss=7f689&amp;oh=00_AQKvWwaSsKQt806inWaKUBa1nrEP0niZnf4oT4yIGIzk6Q&amp;oe=6A9E63A9",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Huawei presenta la Watch GT 7 Series: 21 días de bateria, correa con una mano ... - SPORT",
-      "url": "https://www.sport.es/es/noticias/outdoor/huawei-presenta-watch-gt7-series-133878714",
-      "typeHint": "travesia",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/d4b82407-6a60-4e65-96f0-d9a9ecb63d4f_16-9-discover-aspect-ratio_default_0_x960y360.jpg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "REPORTAN CAÍDA DEL 60% EN LA PRODUCCIÓN DE MIEL EN TLAXCALA DURANTE ...",
-      "url": "https://abctlax.com/reportan-caida-del-60-en-la-produccion-de-miel-en-tlaxcala-durante-la-ultima-decada/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "adidas Tenis de Trail Running Terrex Agravic SL - Blanco",
-      "url": "https://www.adidas.co/tenis-de-trail-running-terrex-agravic-sl/KH8796.html",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Una segunda oportunidad laboral en Aysén: capacitarán en oficios a jóvenes en proceso de ...",
-      "url": "https://radio45sur.cl/2026/09/02/una-segunda-oportunidad-laboral-en-aysen-capacitaran-en-oficios-a-jovenes-en-proceso-de-reinsercion-y-a-sus-familias/",
-      "typeHint": "travesia",
-      "image": "https://radio45sur.cl/wp-content/uploads/2026/09/FIRMA-CONVENIO-SENCE-SRJ.jpeg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Ronda inicio la Feria de Pedro Romero con la tradicional Cabalgata de la Alegría y el ...",
-      "url": "https://www.diarioronda.es/2026/09/02/ronda/rondab-inicio-la-feria-de-pedro-romero-con-la-tradicional-cabalgata-de-la-alegria-y-el-encendido-del-alumbrado",
-      "typeHint": "travesia",
-      "image": "https://be.diarioronda.es/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-23.41.02.jpeg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Lo ha comunicado el Club de Montaña Anyera en una prueba que se iba a celebrar el ... - Facebook",
-      "url": "https://www.facebook.com/elpueblodeceuta/posts/carrera-de-monta%C3%B1a-lo-ha-comunicado-el-club-de-monta%C3%B1a-anyera-en-una-prueba-que-/1696916769105128/",
-      "typeHint": "carrera",
-      "image": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/6544182201998165430?url=https%3a%2f%2fstatic.elpueblodeceuta.es%2fclip%2f7761ab1f-b6a9-488d-9434-93f59628aa62_facebook-aspect-ratio_default_0.jpg&amp;fb_obo=1&amp;utld=elpueblodeceuta.es&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=nZVNTvs_F1JwRLvnwFQS-g&amp;_nc_oc=Adq04vKkL4uVhh4DE3Wp4t3d--4hflKahmvmvA_jupXx8dOt7zSPCWSCvT2ZtpwpJEk&amp;ccb=13-1&amp;oh=06_Q3_CAemsoItOcwuDJTuat5IGNS-HRICexDXRymt1VHsKahRv&amp;oe=6A9A3014&amp;_nc_sid=867500",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Llega una CanfrancCanfranc renovada tras el impulso del Mundial - Aragón TV",
-      "url": "https://www.aragonplay.es/aragondeporte/atletismo/llega-canfranccanfranc-renovada-impulso-mundial.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes.aragonplay.es/files/og_thumbnail/uploads/2026/09/02/6a981cf12fa93.jpeg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Taller GPS para trekkers y corredores en Vic - Diari de Catalunya",
-      "url": "https://diaricatalunya.cat/es/osona/general/taller-gps-para-trekkers-y-corredores-en-vic",
-      "typeHint": "travesia",
-      "image": "https://diaricatalunya.cat/media/2026/09/taller-gps-per-a-trekkers-i-corredors-a-vic.webp",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Mendoza Aventura Film Festival: cine, naturaleza y aventura para descubrir la provincia",
-      "url": "https://prensa.mendoza.gob.ar/mendoza-aventura-film-festival-cine-naturaleza-y-aventura-para-descubrir-la-provincia/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La Diputación de Soria renueva su compromiso con el Desafío Urbión con 25.000 euros",
-      "url": "http://www.gentedigital.es/soria/noticia/4392146/la-diputacion-de-soria-renueva-su-compromiso-con-el-desafio-urbion-con-25000-euros/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La práctica de la marcha nórdica se dispara de la mano de mayores de 50 años",
-      "url": "https://www.elperiodico.com/es/sociedad/20260902/marcha-nordica-auge-mayores-50-ejercicio-movilidad-fuerza-bajo-impacto-133800431",
-      "typeHint": "travesia",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/9ad465c8-6f92-4a6d-ad47-a84d6efc10c8_16-9-discover-aspect-ratio_default_0_x938y366.jpg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "NNormal y Kilian Jornet presentan en Chamonix sus avances en innovación - Infobae",
-      "url": "https://www.infobae.com/america/agencias/2026/09/02/nnormal-y-kilian-jornet-presentan-en-chamonix-sus-avances-en-innovacion/",
-      "typeHint": "travesia",
-      "image": "https://www.infobae.com/resizer/v2/VTETOAW7G5A3NOMZN4M4B3SKRA.jpg?auth=87d3ede1589dbca5e3f0a37cc690a068ea255d9b7c21a922ddf7477eca85c3e8&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Jujuy, a la altura de los eventos internacionales",
-      "url": "https://eltribunodejujuy.com/deportes/2026-9-2-11-42-0-jujuy-a-la-altura-de-los-eventos-internacionales",
-      "typeHint": "travesia",
-      "image": "https://uscdn.eltribunodejujuy.com/092026/1788360452655.jpg?&amp;cw=1200&amp;ch=630",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Tubular Trail Salomon Bandana Gfx | BeUrbanRunning",
-      "url": "https://beurbanrunning.com/en/products/lc2952700_9999",
-      "typeHint": "travesia",
-      "image": "http://beurbanrunning.com/cdn/shop/files/LC2952700_9999.jpg?v=1788361044",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Chaqueta Trail Salomon Bonatti Waterproof Jkt | BeUrbanRunning",
-      "url": "https://beurbanrunning.com/en/products/lc2932600_9999",
-      "typeHint": "travesia",
-      "image": "http://beurbanrunning.com/cdn/shop/files/LC2932600_9999.jpg?v=1788360871",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La Buenas Vida. #trail #running @fansdestacados Juan Jose Alfaro Runners Manchay ... - Facebook",
-      "url": "https://www.facebook.com/RunnersManchay22/videos/-la-buenas-vida-trail-running-fansdestacados-juan-jose-alfaro-runners-manchay-ma/1093096059894096/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/792518733_1892341888414443_5346293046509802025_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=gp3Q1oX8AT0Q7kNvwFzEVty&amp;_nc_oc=AdrYD16GLPYvnu9uE1M7ppPc2_M3cyxoVqNLNsW9qCPlV8kQOWqCP3J9wIeMpSe58o4&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=1eQ9e5vVaoKzp0sOcqeNiA&amp;_nc_ss=7f289&amp;oh=00_AQIwl_nU7Ga68Fwd47XA_f8fTZ9_q7-LuWlM7xroLjyYNQ&amp;oe=6A9E3949",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "¿Sólo indicadores o impacto real?: El verdadero sentido de la inversión pública en Aysén",
-      "url": "https://radio45sur.cl/2026/09/02/solo-indicadores-o-impacto-real-el-verdadero-sentido-de-la-inversion-publica-en-aysen/",
-      "typeHint": "travesia",
-      "image": "https://radio45sur.cl/wp-content/uploads/2026/09/OMAR-MUNOZ-SIERRA.jpeg",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Los entrenadores coinciden: \"Las personas que sonríen mientras corren mejoran su ...",
-      "url": "https://www.mundodeportivo.com/running/20260902/1004222539/entrenadores-coinciden-personas-sonrien-corren-mejoran-economia-carrera-reducen-consumo-oxigeno-dct.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/31/6a6cbef9e8ef1.r_d.1496-868-4000.jpeg",
-      "date": "2026-09-02"
     }
   ]
 }
