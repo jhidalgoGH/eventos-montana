@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:09:25.816Z",
+  "updatedAt": "2026-09-05T17:34:51.230Z",
   "events": [
     {
       "name": "Desafío Urbión",
@@ -106,7 +106,7 @@
       "name": "3ª Carrera de Montaña Arroletza Mendi Taldea",
       "type": "carrera",
       "startDate": "2026-09-06T09:00:00",
-      "endDate": "2026-09-06T14:00:00",
+      "endDate": "2026-09-06T00:01:00",
       "locationName": "Bizkaia",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/3-carrera-de-montana-arroletza-mendi-taldea",
