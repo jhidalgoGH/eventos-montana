@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-04T19:42:21.140Z",
+  "updatedAt": "2026-09-05T05:54:07.748Z",
   "events": [
-    {
-      "name": "Benson Boone en Snowmass Town Park: éxitos pop, festival de montaña y entradas para Snowmass Village",
-      "startDate": "2026-09-04T12:00:00-05:00",
-      "endDate": "2026-09-07T16:00:00-05:00",
-      "locationName": "Snowmass Town Park, Aspen, US",
-      "image": "https://karlobag.eu/images/upload/rgs10.jpg",
-      "url": "https://karlobag.eu/es/musica/noticias/entradas-para-benson-boone-en-snowmass-village-en-concierto-6akny/",
-      "type": "carrera",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Encuentro Nacional de Corredoras por Montaña FEDME",
-      "type": "otro",
-      "startDate": "2026-09-04T18:00:00",
-      "endDate": null,
-      "locationName": "Cantabria",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/encuentro-nacional-de-corredoras-por-montana-fedme",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/27f0e9e7-5253-4a94-aa3e-93a9e56160f8.jpeg"
-    },
     {
       "name": "Desafío Urbión",
       "type": "carrera",
