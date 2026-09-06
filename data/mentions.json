@@ -1,6 +1,20 @@
 {
   "mentions": [
     {
+      "title": "Así están las tablas del Torneo Clausura 2026: Vélez se metió de lleno en la pelea anual ...",
+      "url": "https://impactocastex.com.ar/nacionales/6987",
+      "typeHint": "escalada",
+      "image": "https://www.clarin.com/img/2026/09/05/m5nmsbHJR_1200x630__1.jpg",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "Seo Chae-hyun sube nuevamente al podio: medalla de bronce en la prueba de escalada ...",
+      "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090614011483616",
+      "typeHint": "escalada",
+      "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1800,fit=cover,q=high,sharpen=2/21/2026/09/2026090614011483616_1.jpg",
+      "date": "2026-09-06"
+    },
+    {
       "title": "¿Estás list@? Trail running Apan. - Facebook",
       "url": "https://www.facebook.com/josirisop/posts/est%C3%A1s-listtrail-running-apan/1676105384020040/",
       "typeHint": "travesia",
@@ -684,20 +698,6 @@
       "url": "https://www.sport.es/es/noticias/outdoor/kilian-jornet-38-anos-miedo-133916931",
       "typeHint": "travesia",
       "image": "https://estaticos-cdn.prensaiberica.es/clip/12d26c17-b901-47f1-b830-362bc23ab0ad_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Tito Parra conquista los Alpes: victoria en los 643 kilómetros de la SwissPeaks Odyssey",
-      "url": "https://infotrail.es/noticias/corredores/tito-parra-conquista-los-alpes-victoria-en-los-643-kilometros-de-la-swisspeaks-odyssey/",
-      "typeHint": "travesia",
-      "image": "https://infotrail.es/wp-content/uploads/2026/09/tito-parra-meta.jpg",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Juegos Rurales 2026 en Sumapaz, Bogotá: integración comunitaria y deportes destacados",
-      "url": "https://www.pulzo.com/nacion/juegos-rurales-2026-en-sumapaz-bogota-integracion-comunitaria-y-deportes-destacados-PP5293344A",
-      "typeHint": "travesia",
-      "image": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5293344A-h-o.jpg",
       "date": "2026-09-05"
     }
   ]
