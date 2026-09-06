@@ -1,62 +1,6 @@
 {
-  "updatedAt": "2026-09-05T19:08:44.807Z",
+  "updatedAt": "2026-09-06T05:54:19.013Z",
   "events": [
-    {
-      "name": "Desafío Urbión",
-      "type": "carrera",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-06",
-      "locationName": "Covaleda",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/Desafío.Urbión.SKY.37K/2026/118160",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "PEDRAFORCA XTRAIL",
-      "type": "carrera",
-      "startDate": "2026-09-05",
-      "endDate": null,
-      "locationName": "Saldes",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/PEDRAFORCA.XTRAIL.42K/2026/118386",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Trail 2 Heaven",
-      "type": "carrera",
-      "startDate": "2026-09-05",
-      "endDate": null,
-      "locationName": "Llanos del Hospital",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/Trail.2.Heaven.50K/2026/115628",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Magdalena &amp; Canoa Trail Running",
-      "startDate": "2026-09-05T00:00:00-05:00",
-      "endDate": null,
-      "locationName": "Beltrán, Cundinamarca",
-      "image": "https://travesiadeportiva.com/wp-content/uploads/2026/08/magdalena-canoas-trail-running-beltran.webp",
-      "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "TRAIL VALLE DE TENA 2026",
-      "type": "carrera",
-      "startDate": "2026-09-05T05:00:00",
-      "endDate": "2026-09-06T15:00:00",
-      "locationName": "Huesca",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/trail-valle-de-tena-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rockthesportv2.blob.core.windows.net/manager/140bbe5c-c9b2-4a1c-8cea-53aea7e0411a/library/root/7bf25003-2182-4f8b-9287-994c598c95df.png"
-    },
     {
       "name": "IX Trail Montan",
       "type": "carrera",
