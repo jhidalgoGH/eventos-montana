@@ -1,63 +1,6 @@
 {
-  "updatedAt": "2026-09-06T19:18:51.241Z",
+  "updatedAt": "2026-09-07T05:54:08.893Z",
   "events": [
-    {
-      "name": "IX Trail Montan",
-      "type": "carrera",
-      "startDate": "2026-09-06",
-      "endDate": null,
-      "locationName": "Montán",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/IX.Trail.Montan.34.km./2026/118101",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Penacova Trail do Centro",
-      "type": "carrera",
-      "startDate": "2026-09-06",
-      "endDate": null,
-      "locationName": "Penacova",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Penacova.Trail.do.Centro.46km/2026/117046",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "VERTICAL O SACAUNTOS",
-      "type": "carrera",
-      "startDate": "2026-09-06",
-      "endDate": null,
-      "locationName": "Vilamartin de Valdeorras",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/VERTICAL.O.SACAUNTOS.Kilometro.Vertical/2026/119994",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "V. Izki Trail",
-      "type": "carrera",
-      "startDate": "2026-09-06T09:00:00",
-      "endDate": null,
-      "locationName": "Araba-Álava",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/v-izki-trail",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/5385a660-6f4e-4e62-ae43-1160b4a0de8e.jpg"
-    },
-    {
-      "name": "3ª Carrera de Montaña Arroletza Mendi Taldea",
-      "type": "carrera",
-      "startDate": "2026-09-06T09:00:00",
-      "endDate": "2026-09-06T00:01:00",
-      "locationName": "Bizkaia",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/3-carrera-de-montana-arroletza-mendi-taldea",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11415/library/root/148381b8-deb8-493e-8cae-c30dcc6276cc.jpeg"
-    },
     {
       "name": "CanfrancCanfranc",
       "type": "carrera",
@@ -2549,7 +2492,7 @@
       "url": "https://web.rockthesport.com/es/event/i-pujada-als-plans",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/72b6776e-ad8a-4d1c-87a0-1dbeadf94d6c.jpg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/3afef578-d819-483d-b6e5-c1979bb4bcb4.jpg"
     },
     {
       "name": "Bizkaia Kopa Trail / BKT 2026 / Larrabetzu",
