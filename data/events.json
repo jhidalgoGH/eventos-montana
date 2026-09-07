@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:54:08.893Z",
+  "updatedAt": "2026-09-07T10:28:18.589Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -788,6 +788,18 @@
       "url": "https://itra.run/Races/RaceDetails/Carrera.por.Montaña.Las.Dehesas.Cross.de.las.Dehesas./2026/116882",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "5ª Travesia Fonts de l'Algar, Senija",
+      "type": "travesia",
+      "startDate": "2026-09-27T06:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/2a36fc1c-3f9f-4c75-999d-0587e102e0f1_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/5-travesia-fonts-de-lalgar-senija",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": " Valls del Freser 2026",
@@ -1927,6 +1939,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Marcha Provincial de Ávila 2026 - Navarrevisca",
+      "type": "travesia",
+      "startDate": "2026-10-25T10:30:00",
+      "endDate": "2026-10-25T15:00:00",
+      "locationName": "Ávila",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/f099e466-2ba9-4325-9911-165ded1beda5.png",
+      "url": "https://web.rockthesport.com/es/event/marcha-provincial-de-avila-2026-navarrevisca",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "PEÑA ROYA TRAIL 2026",
       "type": "carrera",
       "startDate": "2026-10-25T11:00:00",
@@ -2767,7 +2791,7 @@
       "name": "Cursa Mar i Murtra 2027",
       "type": "carrera",
       "startDate": "2027-01-10T09:00:00",
-      "endDate": null,
+      "endDate": "2027-01-10T13:00:00",
       "locationName": "Girona",
       "country": "España",
       "image": null,
