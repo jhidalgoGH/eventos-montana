@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:28:18.589Z",
+  "updatedAt": "2026-09-07T17:35:12.093Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -1208,7 +1208,7 @@
       "endDate": "2026-10-04T18:45:00",
       "locationName": "Segovia",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/48e3b28a-6498-4909-a5a9-e0eb00f7a574.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/b32708b2-65f3-4ba9-9ed4-afc7d7ca1a42.png",
       "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-de-castilla-y-leon-2-encuentro-de-peques-y-montana-",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2691,6 +2691,18 @@
       "url": "http://www.cdpadelante.es/",
       "source": "fam",
       "sourceName": "FAM (andadas populares)"
+    },
+    {
+      "name": "XI Modúver trail, Xeresa, LMVS. 26/27",
+      "type": "carrera",
+      "startDate": "2026-12-13T08:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/edddc5fa-e48e-4e9e-a150-fd9ca0667cd1_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/xi-moduvert-trail-xeresa-lmvs-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "XXI TRAIL SERRA D'OLTÀ ‐ CALP, 9e. Circuit Trail Marina 26/27",
