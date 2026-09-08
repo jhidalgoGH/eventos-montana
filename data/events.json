@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:54:17.341Z",
+  "updatedAt": "2026-09-08T09:49:18.656Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -2774,6 +2774,18 @@
       "url": "https://itra.run/Races/RaceDetails/TRAILSERIES.COLLDEJOU.22K./2026/120317",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "OSO TRAIL PROAZA",
+      "type": "carrera",
+      "startDate": "2026-12-20T10:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/12333/library/root/d7067c0f-2e98-44d2-971f-cdc1a315c9e0.png",
+      "url": "https://web.rockthesport.com/es/event/oso-trail-proaza",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Gran Canaria O-Meeting (GCOM 2026)",
