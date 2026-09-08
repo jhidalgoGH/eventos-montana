@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:49:18.656Z",
+  "updatedAt": "2026-09-08T17:34:57.513Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -956,6 +956,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "V BINAKA TRAIL OIHANA EXTREME",
+      "type": "carrera",
+      "startDate": "2026-10-02T19:15:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/12022/library/root/5eb8b801-107a-4d1b-8959-51ea2797c6c1.jpg",
+      "url": "https://web.rockthesport.com/es/event/v-binaka-trail-oihana-extreme",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Redolada a Zaragoza",
       "type": "travesia",
       "startDate": "2026-10-03",
@@ -1094,6 +1106,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/e35252de-3254-41e3-af75-bfcf0241d044.png"
+    },
+    {
+      "name": "XXXVII Travesía Nocturna de Montaña de Lorca",
+      "startDate": "2026-10-03T17:00:00+02:00",
+      "endDate": "2026-10-04",
+      "locationName": "Casa del Deporte, Lorca, ES",
+      "image": "https://planimagesstorage.blob.core.windows.net/planimage1/3062026174157_20260908_085254.jpg",
+      "url": "https://www.planomato.com/es/lorca/p/travesia-montana-lorca-2026",
+      "type": "festival",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Trail San Miguel de Abona-2026",
@@ -2818,7 +2841,7 @@
       "endDate": "2027-01-10T13:00:00",
       "locationName": "Girona",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/684d3637-b83c-4faa-a7da-9fa35881460d.png",
       "url": "https://web.rockthesport.com/es/event/cursa-mar-i-murtra-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -3136,6 +3159,18 @@
       "url": "https://itra.run/Races/RaceDetails/Picos.de.Europa.Travesera.Integral.Travesera.Integral.Picos.de.Europa/2027/120731",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "GARMIN MOUNTAIN FESTIVAL 2027",
+      "type": "carrera",
+      "startDate": "2027-06-19T07:00:00",
+      "endDate": null,
+      "locationName": "Lleida",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9865/library/root/1d848dce-a4e7-4024-b308-70d56cc00682.jpg",
+      "url": "https://web.rockthesport.com/es/event/garmin-mountain-festival-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "RIAÑO TRAIL RUN 2027",
