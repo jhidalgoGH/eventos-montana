@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:54:04.519Z",
+  "updatedAt": "2026-09-09T09:52:12.814Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -14,6 +14,18 @@
     },
     {
       "name": "Prueba donación",
+      "type": "carrera",
+      "startDate": "2026-09-11T00:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/prueba-donacion",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Run Energy",
       "type": "carrera",
       "startDate": "2026-09-11T00:00:00",
       "endDate": null,
