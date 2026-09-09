@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T17:35:27.410Z",
+  "updatedAt": "2026-09-09T19:52:47.663Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -37,6 +37,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Misti Ultra Summit 2026",
+      "startDate": "2026-09-11T00:00:00-05:00",
+      "endDate": "2026-09-12T23:59:59-05:00",
+      "locationName": "Arequipa, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/misti-ultra-summit.webp",
+      "url": "https://www.running4peru.com/eventos/misti-ultra-summit/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Transenyera 2026",
       "type": "carrera",
       "startDate": "2026-09-11T09:00:00",
@@ -67,6 +78,17 @@
       "locationName": "Arequipa, Perú",
       "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/misti-ultra-summit.webp",
       "url": "https://www.running4peru.com/eventos/misti-ultra-summit/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Pacha Wild Trail «Winter Season» 2026",
+      "startDate": "2026-09-12T04:30:00-05:00",
+      "endDate": "2026-09-12T04:30:00-05:00",
+      "locationName": "Pachacamac, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/pacha-wild-trail-by-merrell-winter-season-2026.webp",
+      "url": "https://www.running4peru.com/eventos/pacha-wild-trail/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
