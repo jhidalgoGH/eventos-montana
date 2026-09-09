@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:52:12.814Z",
+  "updatedAt": "2026-09-09T17:35:27.410Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -1106,6 +1106,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/88cb79a5-5881-4fe8-a472-18b6faa1605d.png"
+    },
+    {
+      "name": "Entrega de premios Circuito BrinkSport",
+      "type": "carrera",
+      "startDate": "2026-10-03T14:00:00",
+      "endDate": "2026-10-03T21:00:00",
+      "locationName": "Albacete",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14242/custom/root/0b3e1d5b-37ec-4314-ae16-d202794a2190_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/entrega-de-premios-circuito-brinksport",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "A NOCTURNA DO XEOPARQUE",
@@ -2611,6 +2623,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/4f0a17c4-c6ab-4cef-b6ea-923b6003b71b.jpeg"
+    },
+    {
+      "name": "Trail Popular d'Hivern de Sant Climent 2026",
+      "type": "carrera",
+      "startDate": "2026-11-28T09:30:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/853ed061-b73a-417d-afbd-1cb58d750556.png",
+      "url": "https://web.rockthesport.com/es/event/trail-popular-dhivern-de-sant-climent-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "TRAILSERIES LES ERMITES - ULLDEMOLINS",
