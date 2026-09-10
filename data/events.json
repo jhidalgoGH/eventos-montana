@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T05:53:58.489Z",
+  "updatedAt": "2026-09-10T09:50:19.163Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -1343,6 +1343,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Curso de Iniciación a la Escalada en Rocódromos",
+      "type": "escalada",
+      "startDate": "2026-10-05T19:30:00",
+      "endDate": "2026-10-08T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-iniciacion-a-la-escalada-en-rocodromos-oct26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Dynafit ANDORRA TRAIL",
       "type": "carrera",
       "startDate": "2026-10-09",
@@ -1889,7 +1901,7 @@
       "url": "https://web.rockthesport.com/es/event/aldapegora-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/6f967ea6-3a8c-4e04-b479-1d4ce4a37683.jpeg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/b877e689-37f9-431c-b1e6-77257499eaca.png"
     },
     {
       "name": "V. Txara Trail 2026",
