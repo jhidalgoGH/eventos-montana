@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:50:19.163Z",
+  "updatedAt": "2026-09-10T17:35:12.648Z",
   "events": [
     {
       "name": "CanfrancCanfranc",
@@ -2506,6 +2506,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/22a4b493-ce87-4b7b-aa5f-624608fe7a58.jpg"
     },
     {
+      "name": "III Alustante 'Trail de la Hojas Rojas'",
+      "type": "carrera",
+      "startDate": "2026-11-14T09:00:00",
+      "endDate": null,
+      "locationName": "Guadalajara",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/aa3c50d6-ffb8-43c3-ade6-86d1a334b36c.jpeg",
+      "url": "https://web.rockthesport.com/es/event/iii-alustante-trail-hojas-rojas",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "II Lodosa Trail",
       "type": "carrera",
       "startDate": "2026-11-14T10:30:00",
@@ -2620,6 +2632,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/9d8ee853-3828-4ab1-8958-4abd21b0e2af.jpg",
       "url": "https://web.rockthesport.com/es/event/xii-gualba-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "II GTF / GEOPARQUE TRAIL FONELAS",
+      "type": "carrera",
+      "startDate": "2026-11-22T09:45:00",
+      "endDate": null,
+      "locationName": "Granada",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2765/library/root/1f1fc325-1e9a-4d80-a275-ce42b93133e0.jpg",
+      "url": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
