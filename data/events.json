@@ -1,87 +1,6 @@
 {
-  "updatedAt": "2026-09-12T19:28:53.005Z",
+  "updatedAt": "2026-09-13T05:54:25.705Z",
   "events": [
-    {
-      "name": "Misti Ultra Summit 2026",
-      "startDate": "2026-09-12T00:00:00-05:00",
-      "endDate": "2026-09-12T23:59:59-05:00",
-      "locationName": "Arequipa, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/misti-ultra-summit.webp",
-      "url": "https://www.running4peru.com/eventos/misti-ultra-summit/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Pacha Wild Trail «Winter Season» 2026",
-      "startDate": "2026-09-12T04:30:00-05:00",
-      "endDate": "2026-09-12T04:30:00-05:00",
-      "locationName": "Pachacamac, Lima, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/pacha-wild-trail-by-merrell-winter-season-2026.webp",
-      "url": "https://www.running4peru.com/eventos/pacha-wild-trail/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Txantreako I.Elkartasunmendilasterketa",
-      "type": "carrera",
-      "startDate": "2026-09-12T09:00:00",
-      "endDate": "2026-09-12T18:00:00",
-      "locationName": "Navarra",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/txantreako-ielkartasunmendilasterketa",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15827/library/root/5b27517b-12b9-4392-b569-67d69e422db8.jpeg"
-    },
-    {
-      "name": "UBIDEKO BIRA 2026",
-      "type": "travesia",
-      "startDate": "2026-09-12T09:00:00",
-      "endDate": null,
-      "locationName": "Bizkaia",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/ubideko-bira-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/e65597de-34cc-4fc7-a799-a1c865843459.jpg"
-    },
-    {
-      "name": "IKAZKIN TRAIL 2026",
-      "type": "carrera",
-      "startDate": "2026-09-12T10:00:00",
-      "endDate": null,
-      "locationName": "Gipuzkoa",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/ikazkin-trail-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/af485103-c85c-4cce-99fb-6890f14ebe34.jpeg"
-    },
-    {
-      "name": "I TRAIL DE LA PICOTA DE PEZUELA DE LAS TORRES",
-      "type": "carrera",
-      "startDate": "2026-09-12T11:00:00",
-      "endDate": null,
-      "locationName": "Madrid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2893/library/root/f2a340e4-7228-424e-8fa1-5a55b9d6aff0.jpeg",
-      "url": "https://web.rockthesport.com/es/event/i-trail-de-la-picota-de-pezuela-de-las-torres",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "[Nueva fecha] Festival de Montaña 2026: Pedropiedra y Masquemusica llenarán de música Farellones",
-      "startDate": "2026-09-12T23:00:00.000Z",
-      "endDate": null,
-      "locationName": null,
-      "image": "https://www.suitip.cl/panoramas/cultura-generica.jpg",
-      "url": "https://www.suitip.cl/events/lo-barnechea-cultura-nueva-fecha-festival-de-montana-2026-pedropiedra-y-masquemusica-llenaran-de-musica-farellones-2026-09-12",
-      "type": "carrera",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "Andada popular \"SalvaTusPasos\"",
       "type": "travesia",
@@ -111,6 +30,17 @@
       "locationName": "",
       "image": "https://fasttimeecuador.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-11.22.31-AM.jpeg",
       "url": "https://fasttimeecuador.com/eventos/trail-running-cumanda-3ra-edicion-la-resistencia-bike/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Aullador trail running",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "locationName": "Cuenca, Ecuador, Cuenca, Ecuador",
+      "image": "https://dev.raceline.app/catalog/media/competition-catalog/competitions/626/banner_url/cf78462b4c32404988b972d8106e3d7a.webp",
+      "url": "https://finisherdata.com/eventos/aullador_trail_running?id_event=626",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
