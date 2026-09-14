@@ -1,74 +1,6 @@
 {
-  "updatedAt": "2026-09-13T19:33:32.325Z",
+  "updatedAt": "2026-09-14T05:54:21.645Z",
   "events": [
-    {
-      "name": "Andada popular \"SalvaTusPasos\"",
-      "type": "travesia",
-      "startDate": "2026-09-13",
-      "endDate": null,
-      "locationName": "La Puebla de Alfinden, Zaragoza",
-      "country": "España",
-      "url": "https://lapuebladealfinden.es/",
-      "source": "fam",
-      "sourceName": "FAM (andadas populares)"
-    },
-    {
-      "name": "Trail Encostas de Xira",
-      "type": "carrera",
-      "startDate": "2026-09-13",
-      "endDate": null,
-      "locationName": "Sao Joao dos Montes",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Trail.Encostas.de.Xira.Trail.Longo/2026/120306",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "TRAIL RUNNING CUMANDA 3RA EDICIÓN / LA RESISTENCIA BIKE",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-13",
-      "locationName": "",
-      "image": "https://fasttimeecuador.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-17-at-11.22.31-AM.jpeg",
-      "url": "https://fasttimeecuador.com/eventos/trail-running-cumanda-3ra-edicion-la-resistencia-bike/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Aullador trail running",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-13",
-      "locationName": "Cuenca, Ecuador, Cuenca, Ecuador",
-      "image": "https://dev.raceline.app/catalog/media/competition-catalog/competitions/626/banner_url/cf78462b4c32404988b972d8106e3d7a.webp",
-      "url": "https://finisherdata.com/eventos/aullador_trail_running?id_event=626",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "XXVI PUJADA AL MONTCABRER",
-      "type": "carrera",
-      "startDate": "2026-09-13T09:00:00",
-      "endDate": null,
-      "locationName": "Alicante/Alacant",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/xxvi-pujada-al-montcabrer",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/db506234-3b3d-4645-8599-a3c0cf847122.jpg"
-    },
-    {
-      "name": "AXARI TRAIL 2026",
-      "type": "carrera",
-      "startDate": "2026-09-13T09:30:00",
-      "endDate": null,
-      "locationName": "Gipuzkoa",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/axari-trail-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/9755508e-df3e-4dce-9fdf-668e137cfbf5.jpg"
-    },
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
       "type": "carrera",
@@ -399,6 +331,17 @@
       "locationName": "Promenade du Guittay, Saint-Just Saint-Rambert, Rhône-Alpes, FR",
       "image": "https://cdn.iris-etourism.io/media/gorges_de_la_loire/7740361/9333730f06d9210a.webp",
       "url": "https://www.gorgesdelaloire.fr/es/agenda/Desaf%C3%ADo-de-Naturaleza-del-Loira%3A-Raid-multideportiva--ciclismo-de-monta%C3%B1a--pirag%C3%BCismo--carrera-en-la-naturaleza--trail-running./",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "PA - MARIO PIQUIN ALTAMIRANO TRAIL RUNNING",
+      "startDate": "2026-09-20T08:00:00-03:00",
+      "endDate": "2026-09-20T14:00:00-03:00",
+      "locationName": "LUYABA, Luyaba, Córdoba, AR",
+      "image": "https://cbarun.com.ar/imagenescarrerascbarun/1786018894_luyaba_2026.jpeg",
+      "url": "https://www.quehacemos.com.ar/eventos/pa-mario-piquin-altamirano-trail-running-54108",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
