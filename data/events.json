@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T10:46:46.106Z",
+  "updatedAt": "2026-09-14T17:35:07.138Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -845,6 +845,17 @@
       "image": "https://assets.simpleviewinc.com/sv-melilla/image/fetch/c_fill,h_396,q_75,w_704/https://spaindmsmedia.newmindmedia.com/wsimgs/carrera_monta_a_nocturana_1279717612.png",
       "url": "https://www.melillaturismo.com/event/ii-carrera-por-monta%c3%b1a-nocturna/31647102/",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Ancares Trail 2026: tres pruebas por el valle el 3 de octubre",
+      "startDate": "2026-10-03T00:00:00+0000",
+      "endDate": "2026-10-03",
+      "locationName": "Pereda de Ancares, León, ES",
+      "image": "https://queverenponferrada.com/wp-content/uploads/2026/09/ancares-trail-2026-1.jpg",
+      "url": "https://queverenponferrada.com/ancares-trail-2026/",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
