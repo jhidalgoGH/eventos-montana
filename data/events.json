@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T10:10:04.027Z",
+  "updatedAt": "2026-09-15T17:35:04.915Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1796,6 +1796,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "CIMS DELS TRES TURONS 2026",
+      "type": "carrera",
+      "startDate": "2026-10-25T07:45:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/55b78dfc-17e0-432a-85e5-28b3b5d97bad.jpeg",
+      "url": "https://web.rockthesport.com/es/event/cims-dels-tres-turons-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XIII Roures - Montblanc 2026",
       "type": "carrera",
       "startDate": "2026-10-25T08:00:00",
@@ -1948,6 +1960,18 @@
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "PETIZO TRAIL 2026 - ORZOLA ",
+      "type": "carrera",
+      "startDate": "2026-10-31T19:00:00",
+      "endDate": "2026-10-31T23:59:00",
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14466/library/root/a3c9154f-6ba5-46d1-8c7f-ea84b0de203b.jpg",
+      "url": "https://web.rockthesport.com/es/event/petizo-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Ultra X 110 Madeira",
@@ -2470,6 +2494,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
+    },
+    {
+      "name": "Escalada Terapéutica",
+      "type": "escalada",
+      "startDate": "2026-11-21T10:00:00",
+      "endDate": "2026-11-22T15:00:00",
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/43999f79-a6aa-4ba4-8ca3-6c5d17174d74.jpg",
+      "url": "https://web.rockthesport.com/es/event/escalada-terapeutica",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "XII Gualba Trail",
