@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T05:54:18.969Z",
+  "updatedAt": "2026-09-15T10:10:04.027Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -2409,6 +2409,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/d993cfff-b894-487f-8aca-f6441d43998a.jpeg",
       "url": "https://web.rockthesport.com/es/event/historic-trail-calafell-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "VANDEKAMES 2026",
+      "type": "carrera",
+      "startDate": "2026-11-15T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/b6fa1e10-ffa6-4b01-97ed-ca82a9de8b1e.jpg",
+      "url": "https://web.rockthesport.com/es/event/vandekames-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
