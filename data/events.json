@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:59:21.113Z",
+  "updatedAt": "2026-09-15T05:54:18.969Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -331,6 +331,28 @@
       "locationName": "Promenade du Guittay, Saint-Just Saint-Rambert, Rhône-Alpes, FR",
       "image": "https://cdn.iris-etourism.io/media/gorges_de_la_loire/7740361/9333730f06d9210a.webp",
       "url": "https://www.gorgesdelaloire.fr/es/agenda/Desaf%C3%ADo-de-Naturaleza-del-Loira%3A-Raid-multideportiva--ciclismo-de-monta%C3%B1a--pirag%C3%BCismo--carrera-en-la-naturaleza--trail-running./",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Alto Shilcayo Trail 2026",
+      "startDate": "2026-09-20T06:00:00-05:00",
+      "endDate": "2026-09-20T06:00:00-05:00",
+      "locationName": "Alto Shilcayo, Tarapoto, San Martín, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/alto-shilcayo-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/alto-shilcayo-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Yauca Trail 2026",
+      "startDate": "2026-09-20T06:00:00-05:00",
+      "endDate": "2026-09-20T06:00:00-05:00",
+      "locationName": "Yauca del Rosario, Ica, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/yauca-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/yauca-trail/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
@@ -2906,6 +2928,17 @@
       "url": "https://itra.run/Races/RaceDetails/100.MILLAS.SIERRAS.DEL.BANDOLERO.by.Trangoworld.100.millas/2027/119485",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Amancay Trail 2027",
+      "startDate": "2027-03-05T00:00:00-05:00",
+      "endDate": "2027-03-06T23:59:59-05:00",
+      "locationName": "Santuario de Amancay, Pachacamac, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/09/amancay-trail-2027.webp",
+      "url": "https://www.running4peru.com/eventos/unacem-amancay-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "IV ATOM ISASA TRAIL XTREM",
