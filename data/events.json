@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:18:39.126Z",
+  "updatedAt": "2026-09-16T05:54:08.413Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1574,6 +1574,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "Carrera por Montaña Canón do Sil 2026",
+      "startDate": "2026-10-18T00:00",
+      "endDate": "2026-10-18T20:00",
+      "locationName": "Parada de Sil, Ourense, ES",
+      "image": "https://www.buscametas.com/modulos/calendario/img/rrss.jpg",
+      "url": "https://www.buscametas.com/evento/1107658821/carrera-por-montana-canon-do-sil/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "IV Copa de España en Línea CxM Barbudo Skyrace",
       "type": "carrera",
       "startDate": "2026-10-18T08:30:00",
@@ -1794,6 +1805,17 @@
       "url": "https://itra.run/Races/RaceDetails/X.SIERRA.BULLONES.32KM/2026/117161",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "KAMURO Trail running",
+      "startDate": "2026-10-25T00:00:00.000Z",
+      "endDate": "2026-10-25T00:00:00.000Z",
+      "locationName": "Kaneyama, JP",
+      "image": "https://www.datocms-assets.com/18841/1732533893-1725447836-kilian-jornet.jpg?fm=webp&amp;w=3280",
+      "url": "https://www.campus.coach/es/carreras/kamuro-trail-running-6aa4a52bd967c2c426da3aba",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "CIMS DELS TRES TURONS 2026",
