@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T05:54:08.413Z",
+  "updatedAt": "2026-09-16T10:02:15.212Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1724,7 +1724,7 @@
       "url": "https://web.rockthesport.com/es/event/cursa-muntanya-benlloc-26",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/b45b0e59-89cc-4491-8cee-39ab23c271da.jpg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10386/library/root/a182c9da-1967-4b78-a147-179d8ad4c930.jpg"
     },
     {
       "name": "Arratia Raid",
@@ -1735,6 +1735,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11519/library/root/7b01aaef-dc3e-4de6-afa2-7ad8e2948137.jpeg",
       "url": "https://web.rockthesport.com/es/event/arratia-raid",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "BACKYARD ULTRA DAMA BLANCA",
+      "type": "carrera",
+      "startDate": "2026-10-24T09:00:00",
+      "endDate": "2026-10-25T23:59:00",
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/c8439926-ad1e-4ec7-8fc3-3c0887260ee5.jpeg",
+      "url": "https://web.rockthesport.com/es/event/backyard-ultra-dama-blanca",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
