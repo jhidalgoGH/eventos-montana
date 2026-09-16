@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T10:02:15.212Z",
+  "updatedAt": "2026-09-16T17:35:38.566Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -649,6 +649,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "Trail San Cosme",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "locationName": "Lugar Nieda 19, 33559, Cangas De Onís, España, ES",
+      "image": "https://inscripciones.empa-t.com/fileserver.php?name=/images/eventos/rol/6895_evento_31032_cartel.jpg&type=public&v=1788432531",
+      "url": "https://wodira.app/es/events/trail-san-cosme",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "5ª Travesia Fonts de l'Algar, Senija",
       "type": "travesia",
       "startDate": "2026-09-27T06:00:00",
@@ -866,6 +877,17 @@
       "locationName": "España",
       "image": "https://assets.simpleviewinc.com/sv-melilla/image/fetch/c_fill,h_396,q_75,w_704/https://spaindmsmedia.newmindmedia.com/wsimgs/carrera_monta_a_nocturana_1279717612.png",
       "url": "https://www.melillaturismo.com/event/ii-carrera-por-monta%c3%b1a-nocturna/31647102/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "CxM Nocturna FMEM Melilla",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "locationName": "Plaza de España 2, 52001, Melilla, España, ES",
+      "image": "https://wodira.app/logo_wodira_wodira.png",
+      "url": "https://wodira.app/es/events/cxm-nocturna-fmem-melilla",
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
@@ -1600,7 +1622,7 @@
       "name": "XV CARRERA POR MONTAÑA \"LA ADRADA TRAIL\"",
       "type": "carrera",
       "startDate": "2026-10-18T09:00:00",
-      "endDate": null,
+      "endDate": "2026-10-18",
       "locationName": "Ávila",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-la-adrada-trail",
