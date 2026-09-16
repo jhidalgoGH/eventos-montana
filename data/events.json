@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:35:38.566Z",
+  "updatedAt": "2026-09-16T20:15:26.632Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1622,7 +1622,7 @@
       "name": "XV CARRERA POR MONTAÑA \"LA ADRADA TRAIL\"",
       "type": "carrera",
       "startDate": "2026-10-18T09:00:00",
-      "endDate": "2026-10-18",
+      "endDate": null,
       "locationName": "Ávila",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-la-adrada-trail",
