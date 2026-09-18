@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:54:51.396Z",
+  "updatedAt": "2026-09-18T09:52:29.987Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1643,6 +1643,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/0dad3711-0d20-40c0-bf1d-3ca85c62158a.png"
     },
     {
+      "name": "12 meses 12 rutas 3.0 - 12ª Ruta: Castañar en apogeo",
+      "type": "travesia",
+      "startDate": "2026-10-18T09:00:00",
+      "endDate": null,
+      "locationName": "Toledo",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/b6fc2e05-8a86-4643-8edb-13a041d16e69.jpg",
+      "url": "https://web.rockthesport.com/es/event/12-meses-12-rutas-30-12-ruta-castanar-en-apogeo",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "KOROSTI TRAIL 2026",
       "type": "carrera",
       "startDate": "2026-10-18T09:30:00",
@@ -2511,7 +2523,7 @@
       "endDate": null,
       "locationName": "Tarragona",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/b6fa1e10-ffa6-4b01-97ed-ca82a9de8b1e.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/41c2b10c-b934-4dfd-861c-2d58123e2444.png",
       "url": "https://web.rockthesport.com/es/event/vandekames-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2682,6 +2694,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27",
+      "type": "carrera",
+      "startDate": "2026-11-29T09:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/3d4597c1-ebcc-4e04-b1a0-6e977a1a5b27_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "AVENC TRAIL CUNIT 2026",
       "type": "carrera",
       "startDate": "2026-11-29T10:00:00",
@@ -2734,7 +2758,7 @@
       "endDate": null,
       "locationName": "Valencia/València",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/0f598c1c-47ad-428b-ab7b-9c20d3675625.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/57c79b10-66cb-43cd-af28-0d2ce56d8931_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-sierra-de-chiva",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2941,6 +2965,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Serralades de Barxeta -  Mabu 2027, LMVS. 26/27",
+      "type": "carrera",
+      "startDate": "2027-01-17T07:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/fd692e8d-1cb3-47e3-88fc-aabf6cf6b608.jpeg",
+      "url": "https://web.rockthesport.com/es/event/serralades-de-barxera-mabu-2027-lmvs-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "VIII ALMÈDIA TRAIL ‐ CALLOSA D’EN SARRIÀ, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-01-17T08:30:00",
@@ -2961,6 +2997,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/25f83d08-4ad4-4f97-86b3-f1fe17d90460.jpg",
       "url": "https://web.rockthesport.com/es/event/v-ultramediterrania-terres-de-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "11ª VMLL Volta Muntanya de Llaurí LMVS. 26/27",
+      "type": "carrera",
+      "startDate": "2027-01-30T09:30:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d3ba91a8-c7e9-4c27-aa4b-7fe83728380a_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/11-vmll-volta-muntanya-de-llauri-lmvs-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
