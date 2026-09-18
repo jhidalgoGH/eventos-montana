@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:24:20.295Z",
+  "updatedAt": "2026-09-18T05:54:51.396Z",
   "events": [
     {
       "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
@@ -1653,6 +1653,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/0c9f6449-70af-49e6-af91-a6352e3f3cdc.jpeg"
+    },
+    {
+      "name": "XIII. Carrera Jarindo Albertia",
+      "type": "carrera",
+      "startDate": "2026-10-18T11:00:00",
+      "endDate": null,
+      "locationName": "Araba-Álava",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/490/custom/root/a9309ae4-577d-47ba-937b-4504e2688760_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/xiii-carrera-jarindo-albertia",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Ruta de los Balnearios de Jaraba",
