@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-09-18T19:45:42.770Z",
+  "updatedAt": "2026-09-19T05:54:17.126Z",
   "events": [
-    {
-      "name": "Campeonato Mundial ISF — Gomera Paradise Trail",
-      "type": "carrera",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-20",
-      "locationName": "La Gomera, Santa Cruz de Tenerife",
-      "country": "España",
-      "url": "https://fedme.es/la-fedme-presenta-el-calendario-oficial-de-carreras-por-montana-2026/",
-      "source": "fedme",
-      "sourceName": "FEDME (calendario oficial)"
-    },
-    {
-      "name": "Nexe 107 1.2 - Trail Endurance",
-      "type": "carrera",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "locationName": "Santa Barbara de Nexe",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Nexe.107.1.2...Trail.Endurance.Trail.Endurance.107.km/2026/117464",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "OPEN INTERNACIONAL JUVENIL Y OPEN GALEGO ABSOLUTA DE ESCALADA DE VELOCIDAD",
-      "type": "escalada",
-      "startDate": "2026-09-18T19:00:00",
-      "endDate": "2026-09-19T20:30:00",
-      "locationName": "Coruña (A)",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10577/library/root/fccb4f7f-e525-4564-8750-5260162af7cb.jpeg",
-      "url": "https://web.rockthesport.com/es/event/open-internacional-y-open-galego-de-escalada-de-velocidad",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Ruta de los Castillos",
       "type": "travesia",
