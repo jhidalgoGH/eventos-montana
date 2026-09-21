@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:34:54.506Z",
+  "updatedAt": "2026-09-21T21:08:56.999Z",
   "events": [
     {
       "name": "Prueba de carácter específico RAE-MOSE101 (2026)",
@@ -66,6 +66,28 @@
       "image": "https://www.festivalenfrance.com/images/image_hero.webp",
       "url": "https://www.festivalenfrance.com/festival/festival-de-montana-y-musica",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Travesía Máncora Vichayito 2026",
+      "startDate": "2026-09-26T06:00:00-05:00",
+      "endDate": "2026-09-26T06:00:00-05:00",
+      "locationName": "Máncora, Talara, Piura, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/03/travesia-mancora-vichayito-2026.webp",
+      "url": "https://www.running4peru.com/eventos/travesia-mancora-vichayito/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Chavilca Trail 2026",
+      "startDate": "2026-09-26T07:00:00-05:00",
+      "endDate": "2026-09-26T07:00:00-05:00",
+      "locationName": "Cerro Chavilca, Cieneguilla, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/10/chavilca-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/chavilca-trail/",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -267,6 +289,17 @@
       "url": "https://web.rockthesport.com/es/event/5-travesia-fonts-de-lalgar-senija",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Wanka Trail 2026",
+      "startDate": "2026-09-27T07:00:00-05:00",
+      "endDate": "2026-09-27T07:00:00-05:00",
+      "locationName": "Cochas Grande, Huancayo, Junín",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/07/wanka-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/wanka-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": " Valls del Freser 2026",
