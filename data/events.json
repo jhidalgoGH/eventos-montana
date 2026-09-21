@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:50:01.945Z",
+  "updatedAt": "2026-09-21T17:34:54.506Z",
   "events": [
     {
       "name": "Prueba de carácter específico RAE-MOSE101 (2026)",
@@ -914,6 +914,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
     },
     {
+      "name": "Campeonato de Canarias de Escalada de Dificultad 2026",
+      "type": "escalada",
+      "startDate": "2026-10-10T09:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/d7b29a31-f605-4718-a099-18921676f5d7.jpg",
+      "url": "https://web.rockthesport.com/es/event/v2-campeonato-de-canarias-de-escalada-de-dificultad-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "III. BERTXIN XTREM",
       "type": "carrera",
       "startDate": "2026-10-10T10:00:00",
@@ -968,6 +980,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/754b92c5-5769-486d-a810-def499aecdcd.jpeg",
       "url": "https://web.rockthesport.com/es/event/cursa-de-tivissa-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Liga Infantil de Escalada - Los Realejos",
+      "type": "escalada",
+      "startDate": "2026-10-11T09:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/239ca4f8-6224-4bc8-9b11-723b6e87db88.jpg",
+      "url": "https://web.rockthesport.com/es/event/v2-liga-infantil-de-escalada-los-realejos",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1076,6 +1100,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11933/library/root/ba48df3e-cddc-4537-abc4-aaede1e90cb0.png"
+    },
+    {
+      "name": "Campeonato de Castilla y León de Escalada en Bloque Absoluto y 2ª Prueba de la Copa de Bloque Absoluta y Juvenil: La Ola 2026",
+      "type": "escalada",
+      "startDate": "2026-10-17T09:00:00",
+      "endDate": "2026-10-17T20:00:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/64062dcc-20cf-43c8-b02d-cec701acac49.jpg",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-castilla-y-leon-de-escalada-en-bloque-absoluto-y-2-prueba-de-la-copa-de-bloque-absolut",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "CURSA i CAMINADA del dia de la DONA RURAL - 2026",
@@ -2077,6 +2113,17 @@
       "url": "https://web.rockthesport.com/es/event/ii-lodosa-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Marcha senderista del Mezquin",
+      "type": "travesia",
+      "startDate": "2026-11-15",
+      "endDate": null,
+      "locationName": "La Cañada de Verich, Teruel",
+      "country": "España",
+      "url": "http://www.marchamezquin.es/",
+      "source": "fam",
+      "sourceName": "FAM (andadas populares)"
     },
     {
       "name": "Condor Trail Running Race 2026",

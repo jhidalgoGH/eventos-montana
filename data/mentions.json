@@ -1,6 +1,272 @@
 {
   "mentions": [
     {
+      "title": "Escanyabocs - Trail en La Seu dUrgell (2027) - DaleDeporte",
+      "url": "https://www.daledeporte.es/event/28272/escanyabocs",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "El Otoño Cultural de Beasain presenta 55 propuestas - Diario Euskadi",
+      "url": "https://diarioeuskadi.eus/es/goierri/general/el-otono-cultural-de-beasain-presenta-55-propuestas",
+      "typeHint": "carrera",
+      "image": "https://diarioeuskadi.eus/media/2026/09/beasaingo-udazken-kulturalak-55-kultur-proposamen-aurkeztu-ditu.webp",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Expertos piden acelerar acceso a biosimilares - Portal Metropolitano",
+      "url": "https://portalmetropolitano.cl/expertos-piden-acelerar-acceso-a-biosimilares/",
+      "typeHint": "carrera",
+      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/09/foto-Comunicado-evento-Confianza-Regulatoria-ISPOR-1.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Muere Ida Amelie Robsahm, corredora de trail, por una caída en la montaña - MARCA",
+      "url": "https://www.marca.com/deportes-aventura/2026/09/21/muere-ida-amelie-robsahm-corredora-trail-caida-montana.html",
+      "typeHint": "travesia",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/21/6ab15a689ef17.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Natalia Broglia y una travesía de 108 kilómetros que nació mucho antes de la largada",
+      "url": "https://www.sur24.com.ar/noticias/natalia-broglia-y-una-travesia-de-108-kilometros-que-nacio-mucho-antes-de-la-largada",
+      "typeHint": "travesia",
+      "image": "https://n2.cdnartic.ar/MzeAQk8b8fEPJrHd2PxoRFjwEks=/1200x0/filters:no_upscale():format(jpeg):quality(70)/https://sur24cdn.eleco.com.ar/media/2026/09/natalia_broglia.webp",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Juegos de Montaña: Esquel vivió una jornada plenamente deportiva en La Zeta - Red43",
+      "url": "https://www.red43.com.ar/nota/2026-9-21-12-23-54-juegos-de-montana-esquel-vivio-una-jornada-plenamente-deportiva-en-la-zeta",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Muere a los 30 años Ida Amelie Robsahm, corredora de trail, al caer más de diez metros en ...",
+      "url": "https://www.20minutos.es/deportes/muere-los-30-anos-ida-amelie-robsahm-corredora-trail-caer-mas-diez-metros-montana_7039440_0.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/21/6ab14291a9af17-89540318.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Maki Ferrándiz, reina mundial F55 de 100km. - FAMU",
+      "url": "https://www.famu.es/maki-ferrandiz-reina-mundial-f55-de-100km/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/09/MakiFerrandizames.jpg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Trail Running Andalucia",
+      "url": "https://www.facebook.com/TrailAndalucia/posts/1679960837469932/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/818980090_1075436668428166_9050061369403977420_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1440x1440&amp;ctp=s600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=N4KYgiosT_cQ7kNvwFRD88p&amp;_nc_oc=AdqmY37uJjZWHv2Vs0cU2PpvgpCNc_bFdYOTwCmygmD3AY66KC2VjPQwVwHfUZnd_gE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=1OIYiDiAYM_eL5hNjj3WPw&amp;_nc_ss=7f289&amp;oh=00_AQLTibjg6wDXndXj0wV-C9S9q-WDBQmk7J8ALQPKs_yt-g&amp;oe=6AB72D3B",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Muere la atleta Ida Amelie Robsahm - AS.com - Diario AS",
+      "url": "https://as.com/deportes_accion/outdoor/muere-la-atleta-ida-amelie-robsahm-f202609-n/",
+      "typeHint": "travesia",
+      "image": "https://img.asmedia.epimg.net/resizer/v2/4S5VONKG5ZFJDCCJ2MMQIAAU5U.png?auth=cabc07acd4ada21a6badfa6956753ae072cf809dcd1f696f031191bf7fb27c08&amp;width=1472&amp;height=828&amp;smart=true",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "La corredora Ida Amelie Robsahm muere a los 30 años por una trágica caída desde ... - EL PAÍS",
+      "url": "https://elpais.com/deportes/2026-09-21/la-corredora-ida-amelie-robsahm-muere-a-los-30-anos-por-una-tragica-caida-desde-decenas-de-metros-en-noruega.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.elpais.com/resizer/v2/IC7ORTBPJBHJTAMPPT3WDVW5TM.jpg?auth=60cb787467f1605c70994a41deb8078b0fff2f10861ee16dd709d1fdf533444b&amp;width=1200",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "El CAR Región de Murcia albergó un intenso fin de semana de trabajo para el Sector Trail Running",
+      "url": "https://www.famu.es/el-car-region-de-murcia-albergo-un-intenso-fin-de-semana-de-trabajo-para-el-sector-trail-running/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-19.52.48.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Vuelve la Mari Menuco Run: un desafío a medida entre bardas, música y atardecer",
+      "url": "https://www.lmneuquen.com/neuquen/vuelve-la-mari-menuco-run-un-desafio-medida-bardas-musica-y-atardecer-n1254433",
+      "typeHint": "travesia",
+      "image": "https://media.lmneuquen.com/p/5624c0d9ebf37b815911dde03740d0c8/adjuntos/195/imagenes/008/385/0008385990/1200x675/smart/mari-menuco-run-1.png",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Los temas de la semana: Alphafly 4, Berlín, una ASICS para correr despacio y el salto de On al fútbol",
+      "url": "https://www.runnea.com/articulos/running-news/temas-semana-alphafly-berlin-asics-27992/",
+      "typeHint": "travesia",
+      "image": "https://static.runnea.com/images/202609/los-temas-de-la-semana-alphafly-4-berlin-una-asics-para-correr-despacio-y-el-salto-de-on-al-futbol-1200x675x80xX.jpg?1",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "\"Con La Médaillée queremos introducir la patata en los platos de los deportistas\"",
+      "url": "https://www.freshplaza.es/spain/article/9874329/con-la-medaillee-queremos-introducir-la-patata-en-los-platos-de-los-deportistas/",
+      "typeHint": "travesia",
+      "image": "https://www.freshplaza.es/remote/https/agfstorage.blob.core.windows.net/misc/FP_fr/2026/09/17/CP1.jpeg?preset=OgImage",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Fran Castillo, vencedor de la Short Sky 16K de La Gomera Paradise - Diario Palmero",
+      "url": "https://www.diariopalmero.es/texto-diario/mostrar/6022598/fran-castillo-vencedor-short-sky-16k-gomera-paradise",
+      "typeHint": "travesia",
+      "image": "https://www.diariopalmero.es/images/showid/8147902",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Vuelve el Trail Camp 'Som dones' - El Nostre Ciutat",
+      "url": "https://www.elnostreciutat.com/es/vuelve-el-trail-camp-som-dones/",
+      "typeHint": "travesia",
+      "image": "https://www.elnostreciutat.com/wp-content/uploads/2026/09/Trail-dones.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Sonia Vizcaíno, vecina de Torre del Mar, logra un brillante Top-10 en la Ultra del Mundial de ...",
+      "url": "https://www.axarquiaplus.es/sonia-vizcaino-vecina-de-torre-del-mar-logra-un-brillante-top-10-en-la-ultra-del-mundial-de-skyrunning-y-contribuye-al-oro-de-espana/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "La industria deportiva aporta 675.000 millones dólares a PIB - Diffusion Sport",
+      "url": "https://www.diffusionsport.com/industria-deportiva-650000-millones-37418/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Nueva tragedia en el trail running: fallece la atleta profesional Ida Amelie Robsahm a los 30 años",
+      "url": "https://www.mundodeportivo.com/running/20260921/1004229776/nueva-tragedia-trail-running-fallece-atleta-profesional-ida-amelie-robsahm-30-anos.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab12eeb635f5.r_d.1057-299-10939.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Bronce para Gemma Arenas y plata por equipos para España en el campeonato del mundo ...",
+      "url": "https://www.mundodeportivo.com/running/20260921/1004229668/bronce-gemma-arenas-plata-equipos-espana-campeonato-mundo-100-kilometros-ruta.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab0f0ad12a73.r_d.875-499-6857.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "El Corte Inglés lanza este lunes una liquidación de zapatillas Asics en su outlet a mitad de precio",
+      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/corte-ingles-lanza-este-lunes-liquidacion-zapatillas-asics-su-outlet-a-mitad-precio",
+      "typeHint": "travesia",
+      "image": "https://i.blogs.es/0993a5/asics-zapatillas/840_560.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Acabó a 2:27/km: El ritmo bestial y la frecuencia del WR de Almgren en Copenhague",
+      "url": "https://www.labolsadelcorredor.com/acabo-a-227-km-el-ritmo-bestial-y-la-frecuencia-del-wr-de-almgren-en-copenhague/",
+      "typeHint": "travesia",
+      "image": "https://www.labolsadelcorredor.com/wp-content/uploads/2026/08/almgren.jpg.jpg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Un lugar mágico escondido entre la montañas de la sierra sur... mirador la cueva Vive ... - Facebook",
+      "url": "https://www.facebook.com/groups/318570521859354/posts/2886890695027311/",
+      "typeHint": "festival",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/819021510_2971480463201813_8276634780669596219_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=tGFbr3YIUKkQ7kNvwFpR4KI&amp;_nc_oc=Adq1IY1gfplN2IqJP3gr0YEBeX4DKTdb3lrWn3sVCwnIuqR2FhXVvE4dxLPtKZ9-5_U&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=vQ1GIcmhK-RyuXynFbepFw&amp;_nc_ss=7f289&amp;oh=00_AQK0bOo0fe6KUYkx1L81hGyk34EtnMSRyksi8GY8Dtbi8w&amp;oe=6AB723AC",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Irán advierte a EEUU sobre escalada de violencia, y otros sucesos en Oriente Medio",
+      "url": "https://www.mcall.com/2026/09/21/irn-advierte-a-eeuu-sobre-escalada-de-violencia-y-otros-sucesos-en-oriente-medio/",
+      "typeHint": "escalada",
+      "image": "https://www.mcall.com/wp-content/uploads/2026/09/ORIENTE_MEDIO_18552.jpg?w=6000&#038;h=4000",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "La Fórmula 1 prepara un reemplazo para Qatar y Abu Dhabi ante la escalada militar",
+      "url": "https://www.losandes.com.ar/deportes/la-formula-1-prepara-un-reemplazo-qatar-y-abu-dhabi-la-escalada-militar-los-equipos-ya-reservaron-hoteles-y-hay-un-nuevo-circuito-la-mira-n6007104",
+      "typeHint": "escalada",
+      "image": "https://media.losandes.com.ar/p/297d08ab5375c61ffabf7fd0dee52688/adjuntos/368/imagenes/100/749/0100749391/1200x675/smart/imola.png",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "2026/11/07-Circuito Provincial de Escalada Diputación de Córdoba 5ª Prueba (Baena)",
+      "url": "https://masatletismo.com/2026/09/21/2026-11-07-circuito-provincial-de-escalada-diputacion-de-cordoba-5a-prueba-baena/",
+      "typeHint": "escalada",
+      "image": "https://i0.wp.com/masatletismo.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-18.16.32.jpeg?fit=848%2C1200&#038;ssl=1",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Atlético visita a Aldosivi con la cabeza puesta en escalar en la tabla - LV12",
+      "url": "https://www.lv12.com.ar/atletico/atletico-visita-aldosivi-la-cabeza-puesta-escalar-la-tabla-n203948",
+      "typeHint": "escalada",
+      "image": "https://media.lv12.com.ar/p/a4cfa278225596b35a028bf3439ea289/adjuntos/261/imagenes/002/060/0002060369/1200x675/smart/image.png",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "For Ever volvió a escalar en la tabla tras la victoria sobre Almirante Brown - DataChaco",
+      "url": "https://www.datachaco.com/652300-for-ever-volvio-a-escalar-en-la-tabla-tras-la-victoria-sobre-almirante-brown",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "'Montañas de vida' lanza un proyecto que une pacientes oncológicos con la escalada",
+      "url": "https://www.marca.com/deportes-aventura/2026/09/21/montanas-vida-lanza-proyecto-une-escalada-pacientes-oncologicos.html",
+      "typeHint": "escalada",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/21/6ab138a99c968.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Un joven, herido tras escalar la cruz de Bunyola y dañarla en las fiestas de Sant Mateu",
+      "url": "https://www.mallorcadiario.com/joven-herido-tras-escalar-cruz-bunyola-danarla-fiestas-sant-mateu",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Éxito de participación en la jornada de marcha nórdica de Zarza de Montánchez como ... - FEXME",
+      "url": "https://fexme.com/2026/09/21/exito-de-participacion-en-la-jornada-de-marcha-nordica-de-zarza-de-montanchez-como-preparacion-para-el-campeonato-de-extremadura/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "El Real Zaragoza reaprende a ganar - Heraldo de Aragón",
+      "url": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/09/21/real-zaragoza-reaprende-ganar-2053495.html",
+      "typeHint": "escalada",
+      "image": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6ab047086873b0-35466722.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "CASI 300 MONTAÑEROS DE ESPAÑA Y PORTUGAL HAN CELEBRADO TRES DÍAS DE ...",
+      "url": "https://www.fam.es/noticias/3776-casi-300-montaneros-de-espana-y-portugal-han-celebrado-tres-dias-de-actividades-en-la-hoya-de-huesca-con-la-52-reunion-de-deportistas-veteranos-fedme",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "El equipo de escalada de la Fundación También debuta a la grande - MARCA",
+      "url": "https://www.marca.com/paralimpicos/2026/09/21/equipo-escalada-fundacion-tambien-debuta-grande.html",
+      "typeHint": "escalada",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/21/6ab119cc95b94.jpeg",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "España bate el récord de Europa de velocidad en Chongqing - AS.com - Diario AS",
+      "url": "https://as.com/deportes_accion/outdoor/espana-bate-el-record-de-europa-de-velocidad-en-chongqing-f202609-n/",
+      "typeHint": "escalada",
+      "image": "https://img.asmedia.epimg.net/resizer/v2/PXPMXNSLUFCJXETCJJ3ROLXRYU.png?auth=13529562a415b15a47e6fa58c6dc7883e592079da72b5ef131064ee2f36ed717&amp;width=1472&amp;height=828&amp;focal=556%2C323",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Mario López y Edurne Martínez, nuevos campeones de Castilla y León de Escalada de Dificultad",
+      "url": "https://www.fclm.com/2026/09/21/mario-lopez-y-edurne-martinez-nuevos-campeones-de-castilla-y-leon-de-escalada-de-dificultad/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-21"
+    },
+    {
+      "title": "La competición olímpica de Ciudad Ho Chi Minh para estudiantes de secundaria ha ...",
+      "url": "https://www.vietnam.vn/es/cuoc-thi-olympic-tp-hcm-danh-cho-hoc-sinh-pho-thong-thay-doi-ve-doi-tuong-du-thi",
+      "typeHint": "escalada",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/21/1789984704551_tnw-hs-lop-11-17899806696391265413339-200-0-1200-1600-crop-17899807458581071024786.jpeg",
+      "date": "2026-09-21"
+    },
+    {
       "title": "Carrera por Montaña Sierra de Luesia - Trail en Luesia (2027) | DaleDeporte",
       "url": "https://www.daledeporte.es/event/28446/carrera-por-montana-sierra-de-luesia",
       "typeHint": "carrera",
@@ -432,272 +698,6 @@
       "url": "https://www.mundodeportivo.com/running/20260920/1004228401/patricia-vera-entrenadora-personal-40-gluteos-fuertes-no-cambiar-te-ves-cambiar-te-mueves.html",
       "typeHint": "travesia",
       "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a635b1867e38.r_d.809-857-7500.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Cazón, el “pueblo del millón de árboles”, cumple 130 años y lo celebra a full - El Teclado",
-      "url": "https://www.elteclado.com.ar/nota/31975/cazon-el-pueblo-del-millon-de-arboles-cumple-130-anos-y-lo-celebra-a-full.html",
-      "typeHint": "travesia",
-      "image": "https://www.elteclado.com.ar/fotos/2026/09/cazon-jpg.webp",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Travesía Nocturna El Torreón de Isar - Asfalto en Isar (2027) | DaleDeporte",
-      "url": "https://www.daledeporte.es/event/28650/travesia-nocturna-el-torreon-de-isar",
-      "typeHint": "festival",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Así está la clasificación de Primera División: El Deportivo busca escalar y el Barça se distancia",
-      "url": "https://www.laopinioncoruna.es/deportivo/2026/09/20/clasificacion-primera-division-deportivo-paron-134495521.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Estados Unidos alertó por una rápida escalada de la guerra en Medio Oriente | Cipo360",
-      "url": "https://www.cipo360.com.ar/noticias/2026/09/20/76075-estados-unidos-alerto-por-una-rapida-escalada-de-la-guerra-en-medio-oriente",
-      "typeHint": "escalada",
-      "image": "https://cipo360-s3.cdn.net.ar/s3i233/2026/09/cipo360/images/02/77/84/2778467_12027fbd65fee6dc11b10b9bce58cd7a0f934b23c3acfb014542f4fecf7b3d7e/lg.webp?_v=v3-151",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "La jaula divisional en el Cowboys - Commanders: un duelo entre Prescott y Daniels",
-      "url": "https://www.eldesmarque.com/otros-deportes/20260920/previa-commanders-cowboys-jornada-2-prescott-daniels_18_020219176.html?amp=true",
-      "typeHint": "escalada",
-      "image": "https://album.mediaset.es/eimg/2026/09/20/dak-prescott-en-el-ultimo-enfrentamiento-entre-cowboys-y-commanders-16-9-aspect-ratio-default-0_da39.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Frontera conquista 18 medallas en Atletismo - La Prensa de Coahuila",
-      "url": "https://laprensadecoahuila.com.mx/2026/09/19/frontera-conquista-18-medallas-en-atletismo/",
-      "typeHint": "escalada",
-      "image": "https://laprensadecoahuila.com.mx/wp-content/uploads/2026/09/FRONTERA-ATLETISMO-3.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Lai Châu promueve el turismo a través del ciclo de eventos culturales Viettel Y-Fest 2026.",
-      "url": "https://www.vietnam.vn/es/lai-chau-quang-ba-du-lich-tu-chuoi-su-kien-van-hoa-viettel-y-fest-2026",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789899077719_03-thu-thuy-16034467.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Gabilondo y Bretos alertan de que la polarización alimenta las agresiones a periodistas",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/20/gabilondo-y-bretos-alertan-de-que-la-polarizacion-alimenta-las-agresiones-a-periodistas/",
-      "typeHint": "escalada",
-      "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "[MONTUR] Clasificación general finalizados con penalización [Filtrable] - Montureventos",
-      "url": "https://montureventos.com/wp-content/uploads/2026/05/General-Trail.pdf",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Huawei Watch GT 7 Pro en México: Características y precio - Chic Magazine",
-      "url": "https://www.chicmagazine.com.mx/consejos/huawei-watch-gt-7-pro-mexico-caracteristicas-precio-fecha-venta",
-      "typeHint": "travesia",
-      "image": "https://cdn2.chicmagazine.com.mx/uploads/media/2026/09/20/huawei-watch-gt-pro-mexico.png",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "El trail internacional bautiza a Myoko, la Sierra Nevada japonesa | Deportes - EL PAÍS",
-      "url": "https://elpais.com/deportes/2026-09-20/el-trail-internacional-bautiza-a-myoko-la-sierra-nevada-japonesa.html",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Italia, triunfadora del Campeonato de Europa de Trail Running y Mountain Running ... - El Apurón",
-      "url": "https://elapuron.com/uncategorized/166607/italia-triunfadora-del-campeonato-europa-trail-running-mountain-running-disputado-paso/",
-      "typeHint": "travesia",
-      "image": "https://elapuron.com/media/2022/07/post/ceremonia-de-clausura.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "España abre el Mundial de Skyrunning con un oro y una plata en La Gomera - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260920/1004229393/espana-abre-mundial-skyrunning-oro-plata-gomera.html?facet=amp",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafda6d96eb8.r_d.825-566-8000.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "España abre el Mundial de Skyrunning con un oro y una plata en La Gomera - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260920/1004229393/espana-abre-mundial-skyrunning-oro-plata-gomera.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafda6d96eb8.r_d.825-566-8000.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Educación realizará en San Rafael el cuarto Congreso provincial de Educación Física ...",
-      "url": "https://www.diariodeloeste.com.ar/educacion-realizara-en-san-rafael-el-cuarto-congreso-provincial-de-educacion-fisica-deportes-y-recreacion/",
-      "typeHint": "travesia",
-      "image": "http://www.diariodeloeste.com.ar/wp-content/uploads/2026/09/Educación-Física-Deportes.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Las 5 mejores rutas de trail running de Cataluña para descubrir el otoño - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/running/20260920/1004228387/5-mejores-rutas-trail-running-cataluna-descubrir-otono-paisaje-cambia-caminos-parecen-diferentes.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/04/17/68011a3f31941.r_d.2592-1728-0.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Las tres mejores rutas de montaña de España para correr cuando todavía hace calor",
-      "url": "https://www.mundodeportivo.com/running/20260920/1004228042/tres-mejores-rutas-montana-espana-correr-todavia-calor-alternativa-entrenar-enfrentarse-temperaturas-zonas-bajas.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/05/28/6655aca2bdadb.r_d.603-388-10000.jpeg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Buenos Aires corre su maratón, con atletas provenientes de Brasil a Japón y de Jujuy a ...",
-      "url": "https://www.radionacional.com.ar/buenos-aires-corre-su-maraton-con-atletas-provenientes-de-brasil-a-japon-y-de-jujuy-a-tierra-del-fuego/",
-      "typeHint": "travesia",
-      "image": "https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "New Balance HIERRO V9 – trail ancho, suela Vibram at Privé by Zalando - Chollometro",
-      "url": "https://www.chollometro.com/ofertas/new-balance-hierro-v9-zapatillas-de-trail-running-especial-pie-ancho-suela-vibram-2009429",
-      "typeHint": "travesia",
-      "image": "https://static.chollometro.com/threads/raw/6NXY1/2009429_1/re/1024x1024/qt/60/2009429_1.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "FOTOGALERÍA. ENTREGA DE TROFEOS TITÁN DE LA MANCHA 2026",
-      "url": "https://www.elsemanaldelamancha.com/album/deportes/fotogaleria-entrega-trofeos-titan-mancha-2026/20260919202615255747.html",
-      "typeHint": "travesia",
-      "image": "https://www.elsemanaldelamancha.com/media/elsemanaldelamancha/images/2026/09/19/2026091920074587291.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Salomon Speedcross Peak GORE-TEX zapatillas de trail running para mujer - AW26",
-      "url": "https://www.sportsshoes.com/es-es/product/sal7276/salomon-speedcross-peak-gore-tex-zapatillas-de-trail-running-para-mujer---aw26",
-      "typeHint": "travesia",
-      "image": "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/94210/532174/SAL7276_1000_1__43763.1789474596.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Trail Poles Ferrino Stick Eiger Cm. 115 (pair) - BeUrbanRunning",
-      "url": "https://beurbanrunning.com/en/products/78152hcu_9999?_pos=3568&_fid=d9e8047cd&_ss=c",
-      "typeHint": "travesia",
-      "image": "http://beurbanrunning.com/cdn/shop/files/78152HCU_9999.jpg?v=1701889455",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Myoko Trail 2026: de las GTWS: victorias de Kipngeno y Groeber - TURISKI",
-      "url": "https://www.turiski.es/kipngeno-groeber-ganan-myoko-trail-2026-gtws/",
-      "typeHint": "travesia",
-      "image": "https://www.turiski.es/wp-content/uploads/2026/09/Patrick-Kipngeno-2.webp",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "BOTAS DE PRESOTERAPIA JOLT: Cómo usarlas para trail running.",
-      "url": "https://carrerasdemontana.com/2026/09/20/botas-presoterapia-jolt-mayayo/",
-      "typeHint": "travesia",
-      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/09/botas-presoterapia-jolt-mayayo-1-1-1024x1024.png",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Ha Thi Hau gana el campeonato femenino VMM 2026. - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/ha-thi-hau-vo-dich-nu-vmm-2026",
-      "typeHint": "travesia",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789891545629_thumb_toxx.png",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Calzado Montagne Glide Low Hombre N*42 Trail Running - Buen Pique",
-      "url": "https://buenpique.com.ar/producto/calzado-montagne-glide-low-hombre-n42-trail/",
-      "typeHint": "travesia",
-      "image": "https://buenpique.com.ar/wp-content/uploads/fotos-2026/69516501.webp",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Asics mejorados con suelas extra ligeras diseñadas para Trail Running por ANDES Generation",
-      "url": "https://www.facebook.com/ShoesFootExpress/videos/asics-mejorados-con-suelas-extra-ligeras-dise%C3%B1adas-para-trail-running-por-andes-/1125732056775013/",
-      "typeHint": "travesia",
-      "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/818654613_29124421017141541_646070146130965655_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=n9ELUtXiAMgQ7kNvwFKIdS_&amp;_nc_oc=AdqN3X_bvHACcVYd-Rjf0GhG3eEW2SyBXBD-Od62u4SIsIKZtY7IIdPdK6XhBNB7Pg4&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.xx&amp;_nc_gid=gFP7OtLhzVp93lBUEhZWfw&amp;_nc_ss=7f289&amp;oh=00_AQJKjNfTfjfnJRPJCD6mnMAZRFqFsniya_Lqun6qfqhcUg&amp;oe=6AB60396",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Estados Unidos alertó por una rápida escalada de la guerra en Medio Oriente - El Cordillerano",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/20/263044-estados-unidos-alerto-por-una-rapida-escalada-de-la-guerra-en-medio-oriente",
-      "typeHint": "escalada",
-      "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/09/elcordillerano/images/02/77/84/2778466_56fc05eba7601c5c67ccc44e7a28a3b72b5102c218cb2e3df76c2a0d94244c73/lg.webp?_v=v3-1222",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "GRAVITEO A Coruña Xacobeo baja el telón por todo lo alto - El Periódico de Aragón",
-      "url": "https://www.elperiodicodearagon.com/deportes/2026/09/20/graviteo-coruna-xacobeo-baja-telon-134492951.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Final del Open juvenil de Escalada de Velocidad en GRAVITEO A Coruña Xacobeo",
-      "url": "https://www.informacion.es/deportes/2026/09/20/final-open-juvenil-escalada-velocidad-134491424.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "GERMÁN CASTEL Y ANA HERAS GANAN LA COPA DE ARAGÓN DE CARRERAS DE ...",
-      "url": "https://www.fam.es/noticias/3775-german-castel-y-ana-heras-ganan-la-copa-de-aragon-de-carreras-de-montana-con-su-triunfo-en-el-vi-san-martin-de-moncayo-trail",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Talleres de Escalada visita a Villa San Carlos con la necesidad de ganar - Diario La Unión",
-      "url": "https://launion.com.ar/deportes/talleres-escalada-visita-villa-san-carlos-la-necesidad-ganar-n5446050",
-      "typeHint": "escalada",
-      "image": "https://media.launion.com.ar/p/36ce27c333688266703f1afea33f14c4/adjuntos/379/imagenes/100/144/0100144743/1200x675/smart/talleres-escalada.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "¡Prepárense para un Viettel Y-Fest 2026 explosivo en Lai Chau! - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/bung-no-cung-viettel-y-fest-2026-tai-lai-chau",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789902373429_1lc1111-jpg.webp",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Embajada de Estados Unidos en Irak Alerta sobre Riesgo de Escalada Imprevista en Medio Oriente",
-      "url": "https://www.nmas.com.mx/internacional/alerta-embajada-estados-unidos-en-irak-riesgo-escalada-militar-imprevista-medio-oriente/",
-      "typeHint": "escalada",
-      "image": "https://static.nmas.com.mx/Nmas/cms/Embajada%20de%20Estados%20Unidos%20en%20Irak%20Alerta%20sobre%20Riesgo%20de%20Escalada%20Imprevista%20en%20Medio%20Oriente-1920x1080.jpg",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Torrejón se convierte en un gran rocódromo urbano en octubre - Madrid365",
-      "url": "https://madrid365.es/servicios/torrejon-se-convertira-en-el-mayor-rocodromo-urbano-de-espana-con-urban-climbing-20260920-1200/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-20"
-    },
-    {
-      "title": "El Open Internacional y Gallego absoluto de escalada de velocidad está dejando ... - Instagram",
-      "url": "https://www.instagram.com/reel/DdelzzGjxlc/",
-      "typeHint": "escalada",
-      "image": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/795253577_18564011665077459_8655275297575718747_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=GUVq7u_QS24Q7kNvwGFSOe0&amp;_nc_oc=Adpy4vERSY4ofrAQ8y2zsAp5lRNYf-bay55prjbqaQZdKgUpdaHv2PuuFUoz0CX4biI&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.cdninstagram.com&amp;_nc_gid=X78go7GgFkhWZjwmqqtT0Q&amp;_nc_ss=7f689&amp;oh=00_AQKKjwsy6qB7-ks7xa5rWa1iJl0jPtmbeNxmwc8IHeUuLA&amp;oe=6AB5E05C",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Carreras y trails en la sierra de Madrid 2026 - Pueblus",
-      "url": "https://pueblus.com/carreras",
-      "typeHint": "carrera",
-      "image": "https://pueblus.com/api/og?title=Carreras%20y%20deporte&amp;subtitle=Sierra%20de%20Madrid%2C%20Segovia%20y%20%C3%81vila&amp;emoji=%F0%9F%8F%83",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Cross Alpino Cebreros | DaleDeporte",
-      "url": "https://www.daledeporte.es/event/26059/cross-alpino-cebreros",
-      "typeHint": "carrera",
-      "image": null,
       "date": "2026-09-20"
     }
   ]
