@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:54:01.824Z",
+  "updatedAt": "2026-09-22T10:05:17.407Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -1016,6 +1016,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "GTP KIDS 2026",
+      "type": "carrera",
+      "startDate": "2026-10-11T11:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/df643346-f247-431f-ab76-6977b190b411.png",
+      "url": "https://web.rockthesport.com/es/event/gtp-kids-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Brama Stage Run 2026",
       "type": "carrera",
       "startDate": "2026-10-16T09:00:00",
@@ -1602,6 +1614,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "TRAIL ELS MIRADORS 2026",
+      "type": "carrera",
+      "startDate": "2026-10-25T10:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/d2b5d963-741e-4020-80e0-f85f1307caba.jpg",
+      "url": "https://web.rockthesport.com/es/event/trail-els-miradors-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Marcha Provincial de Ávila 2026 - Navarrevisca",
       "type": "travesia",
       "startDate": "2026-10-25T10:30:00",
@@ -2166,6 +2190,18 @@
       "country": "España",
       "image": null,
       "url": "https://web.rockthesport.com/es/event/cmg-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XIII TRAIL CHÓVAR 2026",
+      "type": "carrera",
+      "startDate": "2026-11-15T08:30:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/e165c930-5540-45ec-842f-6b26b265ff9a.jpg",
+      "url": "https://web.rockthesport.com/es/event/xiii-trail-chovar-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
