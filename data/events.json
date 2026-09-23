@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:05:14.770Z",
+  "updatedAt": "2026-09-23T17:35:00.136Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -1147,6 +1147,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Curso de Iniciación a la Escalada Deportiva",
+      "type": "escalada",
+      "startDate": "2026-10-17T09:00:00",
+      "endDate": "2026-10-18T16:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-iniciacion-a-la-escalada-deportiva-oct26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "CURSA i CAMINADA del dia de la DONA RURAL - 2026",
       "type": "carrera",
       "startDate": "2026-10-17T09:30:00",
@@ -1168,7 +1180,7 @@
       "url": "https://web.rockthesport.com/es/event/aramotz-mendi-lasterketa-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/a794fe55-6a75-4301-be2f-47b40653e902.jpg"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ab35da1a-19ce-4dac-937e-08cb21adffc5.png"
     },
     {
       "name": "JUAN MIGUELIZ Leyre Trail 2026",
@@ -1459,6 +1471,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/c8439926-ad1e-4ec7-8fc3-3c0887260ee5.jpeg",
       "url": "https://web.rockthesport.com/es/event/backyard-ultra-dama-blanca",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Curso de Escalada Clásica",
+      "type": "escalada",
+      "startDate": "2026-10-24T09:00:00",
+      "endDate": "2026-10-25T16:00:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-escalada-clasica-oct26",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1940,6 +1964,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Curso de Autorrescate",
+      "type": "travesia",
+      "startDate": "2026-11-07T09:00:00",
+      "endDate": "2026-11-08T16:00:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-autorrescate-nov26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "IX TRAIL ARRONIZ ",
       "type": "carrera",
       "startDate": "2026-11-07T09:30:00",
@@ -2360,6 +2396,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/4f0a17c4-c6ab-4cef-b6ea-923b6003b71b.jpeg"
     },
     {
+      "name": "Curso de Crestas y Aristas",
+      "type": "travesia",
+      "startDate": "2026-11-28T09:00:00",
+      "endDate": "2026-11-29T16:00:00",
+      "locationName": "Ávila",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c897d9dd-9aa3-4e87-b9c1-af376eede5b5.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-crestas-y-aristas-nov26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Trail Popular d'Hivern de Sant Climent 2026",
       "type": "carrera",
       "startDate": "2026-11-28T09:30:00",
@@ -2660,7 +2708,7 @@
       "endDate": "2027-01-10T13:00:00",
       "locationName": "Girona",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/923486d8-3b04-4d38-bda7-b3cf7c9af68a.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/93502d74-ba63-4c67-9f79-eec50b861fe3.png",
       "url": "https://web.rockthesport.com/es/event/cursa-mar-i-murtra-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
