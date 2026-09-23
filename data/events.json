@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:54:04.540Z",
+  "updatedAt": "2026-09-23T10:05:14.770Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -1097,6 +1097,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/80df521c-4bdb-465e-a332-37e030e7d36c.jpeg"
+    },
+    {
+      "name": "III Copa de España de Paraescalada ",
+      "type": "escalada",
+      "startDate": "2026-10-17T08:00:00",
+      "endDate": null,
+      "locationName": "Burgos",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-de-paraescalada",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Itxinan Barrena 2026",
