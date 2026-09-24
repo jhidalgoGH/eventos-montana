@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:54:15.157Z",
+  "updatedAt": "2026-09-24T10:10:10.796Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -1116,7 +1116,7 @@
       "endDate": null,
       "locationName": "Burgos",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/61b012b7-0d0a-45fc-8e98-1d9f121e10b1.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-de-paraescalada",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2699,6 +2699,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
+    },
+    {
+      "name": "XIV TRAIL ZOQUETES",
+      "type": "carrera",
+      "startDate": "2027-01-09T08:30:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/68d7df1d-5520-47a7-a335-2f0a2b2cd152.jpg",
+      "url": "https://web.rockthesport.com/es/event/xiv-trail-zoquetes",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
