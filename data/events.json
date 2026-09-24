@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:35:04.010Z",
+  "updatedAt": "2026-09-24T20:34:08.242Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -2981,6 +2981,17 @@
       "url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "IX Trail de Alumbres",
+      "startDate": "2027-04-04T00:00:00+02:00",
+      "endDate": "2027-04-05T00:00:00+02:00",
+      "locationName": "Alumbres, Murcia, España",
+      "image": "https://www.clubrunning.es/cartel/ix-trail-de-alumbres-2027.jpg",
+      "url": "https://www.clubrunning.es/carrera/ix-trail-de-alumbres/81669",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Tenerife Bluetrail by UTMB 2027",
