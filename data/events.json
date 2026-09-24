@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:31:52.907Z",
+  "updatedAt": "2026-09-24T05:54:15.157Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -967,6 +967,17 @@
       "url": "https://itra.run/Races/RaceDetails/X.Trail.Ribeira.Sacra.50km/2026/116566",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Carrera Aniversario Huaral Ultra Limits 2026",
+      "startDate": "2026-10-11T00:00:00-05:00",
+      "endDate": "2026-10-11T23:59:59-05:00",
+      "locationName": "Plaza Centenario, Huaral, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/carrera-aniversario-huaral-ultra-limits-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-aniversario-huaral-ultra-limits/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "TP60 2026",
