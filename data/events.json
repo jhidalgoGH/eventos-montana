@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:54:31.170Z",
+  "updatedAt": "2026-09-25T10:16:24.856Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -2191,6 +2191,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11136/library/root/aa3c50d6-ffb8-43c3-ade6-86d1a334b36c.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-alustante-trail-hojas-rojas",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "DE MARCHA A MARCHA - A PASO DE TRILOBITE",
+      "type": "travesia",
+      "startDate": "2026-11-14T09:00:00",
+      "endDate": "2026-11-14T17:00:00",
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/981/library/root/03d7efff-fa52-4dfd-8688-38f341baa5ba.jpg",
+      "url": "https://web.rockthesport.com/es/event/de-marcha-a-marcha-a-paso-de-trilobite",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
