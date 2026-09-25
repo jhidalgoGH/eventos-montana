@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:16:24.856Z",
+  "updatedAt": "2026-09-25T17:35:08.494Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -2346,6 +2346,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
+    },
+    {
+      "name": "3ª Prueba Copa Castilla y León de Bloque - Open Geko Aventura: VI Open Boulder Ciudad de Valladolid",
+      "type": "escalada",
+      "startDate": "2026-11-21T09:00:00",
+      "endDate": "2026-11-21T20:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/0c98c319-2026-47be-9541-3962b9081445.jpeg",
+      "url": "https://web.rockthesport.com/es/event/3-prueba-copa-castilla-y-leon-de-bloque-open-geko-aventura-vi-open-boulder-ciudad-de-valladolid",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Escalada Terapéutica",
