@@ -1,6 +1,230 @@
 {
   "mentions": [
     {
+      "title": "Azkotrail, una exigente y sorprendente carrera en Peralta - Diario de Navarra",
+      "url": "https://www.diariodenavarra.es/noticias/deportes/dn-running/2026/09/26/azkotrail-exigente-sorprendente-carrera-peralta-836677-51.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/09/26/6ab7ecbd74917.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "'Descubre Tsaciana' programa cuatro rutas por Laciana durante el mes de octubre",
+      "url": "https://www.lanuevacronica.com/actualidad/descubre-tsaciana-programa-cuatro-rutas-por-laciana-durante-mes-octubre_203589_102.html",
+      "typeHint": "travesia",
+      "image": "https://www.lanuevacronica.com/uploads/s1/27/60/88/5/laciana.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "La huella del Garmin fēnix 9 Pro en el circuito de la VMM 2026. - Vietnam.vn",
+      "url": "https://www.vietnam.vn/es/dau-an-garmin-fenix-9-pro-tren-duong-chay-vmm-2026",
+      "typeHint": "travesia",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/26/1790432491332_img20260919052816-4300-9666-jpg.webp",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Alain Santamaría y Sara Alonso, ambos con récord, ganadores de la Gorbeia Suzien",
+      "url": "https://www.mundodeportivo.com/running/20260926/1004231498/alain-santamaria-sara-alonso-record-ganadores-gorbeia-suzien.html?facet=amp",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/02/6a4663001e372.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "El Desafío Cerro La Tortuga vuelve a reunir corredores en Chos Malal - NoticiasNQN",
+      "url": "https://www.noticiasnqn.com.ar/amp/noticias/2026/09/26/354277-el-desafio-cerro-la-tortuga-vuelve-a-reunir-corredores-en-chos-malal",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Dime qué zapatillas Merrell llevas y te diré qué clase de deportista eres - La Vanguardia",
+      "url": "https://www.lavanguardia.com/comprar/moda-belleza/20260926/11643634/zapatillas-merrell-deportes-outdoor-hombre-mujer-mkt-alie.html",
+      "typeHint": "travesia",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab63ed086586.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Presentada la 5ª Ruta de las Canteras Murcia Trail - FAMU",
+      "url": "https://www.famu.es/presentada-la-5a-ruta-de-las-canteras-murcia-trail/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/09/Presentacion-V-Ruta-de-las-Canteras-Murcia-Trail.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Protegen 200 hectáreas para senderismo y conservación en El Sargento - El Sol de México",
+      "url": "https://oem.com.mx/elsudcaliforniano/local/protegen-200-hectareas-para-senderismo-y-conservacion-en-el-sargento-32275556",
+      "typeHint": "travesia",
+      "image": "https://oem.com.mx/elsudcaliforniano/img/32275558/1790372049/BASE_LANDSCAPE/1200/image.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "El Montseny en otoño: las tres rutas de trail running que atraviesan sus bosques de hayas ...",
+      "url": "https://www.mundodeportivo.com/running/20260926/1004228715/montseny-otono-tres-rutas-trail-running-atraviesan-bosques-hayas-plena-senescencia.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/07/07/686b91c2232dd.r_d.1294-2449-0.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Cap de Creus Trail: fechas, perfil y cómo prepararlo - Sport Analytics",
+      "url": "https://sportanalytics.es/trail-running/cap-de-creus/",
+      "typeHint": "travesia",
+      "image": "https://sportanalytics.es/wp-content/uploads/2026/05/cap-de-creus.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Trail Running: pruebas top de España y el mundo - Sport Analytics",
+      "url": "https://sportanalytics.es/trail-running/",
+      "typeHint": "travesia",
+      "image": "https://sportanalytics.es/wp-content/uploads/2026/05/trail-running.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Donde quiero estar 🏔️❤️ #trailrunning #run #running #mountains #fyp - Instagram",
+      "url": "https://www.instagram.com/reel/DdvzC2NIpCG/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825277092_18129386746774651_6271958862204369269_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=3lx3gcjIoygQ7kNvwG7kMde&amp;_nc_oc=AdpMopkaP2sUZ-ZtOq3SGXGw62KtJlwf2U20XDTQN36JPdbALzmXRkAlhAp30BzYaNs&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=xR6CVfnj4ZQLPfuM1srYNw&amp;_nc_ss=7f689&amp;oh=00_AQIjN5JLX2P7axdOELdizMt1KjEpPbxiFO0MLT-KilRxrQ&amp;oe=6ABDEB34",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Dos nuevos relojes para el deporte extremo: Huawei Watch GT 7 Pro y Amazfit T-Rex Dual Solar",
+      "url": "https://www.noticiasdebariloche.com.ar/dos-nuevos-relojes-para-el-deporte-extremo-huawei-watch-gt-7-pro-y-amazfit-t-rex-dual-solar/amp/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Durísima sanción a Carlos Sainz en el GP de Azerbaiyán: sale del top-10 tras perder cinco ...",
+      "url": "https://gerente.com/es/new-rss/durisima-sancion-a-carlos-sainz-en-el-gp-de-azerbaiyan-sale-del-top-10-tras-perder-cinco-puestos-en-parrilla/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Zapatillas de trail running de mujer MORPHLITE Merrell - Negro / Morado - El Corte Inglés",
+      "url": "https://www.elcorteingles.es/deportes/A56604124-negro-morado-pr-zapatillas-de-trail-running-de-mujer-morphlite-merrell/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Este viernes 25 de septiembre, desde las 17h00, en Ecos Deportivos, recibimos a Alex ... - Facebook",
+      "url": "https://www.facebook.com/RadioEcosEC/posts/%EF%B8%8F-este-viernes-25-de-septiembre-desde-las-17h00-en-ecos-deportivos-recibimos-a-a/1614162897391103/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/825278798_1082719391208875_120248659765031726_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=rz3vVBCIHUMQ7kNvwECxvSe&amp;_nc_oc=Adqn-pEzW_sH6GWBlswdYqn_EPR0IbVW2EQNbv8mLDyE19Kt62-l9LCno20dpBDViXs&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=fawlq3qnCn_5yfx_QQBgng&amp;_nc_ss=7f289&amp;oh=00_AQLhpk-ykqSW1rY91yIlYz3YA5FVf_ydtCJp2lXpcWLhcA&amp;oe=6ABDBA8C",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "¡La Comunidad de Madrid ya tiene su primer Trail Running Center homologado por la ... - Facebook",
+      "url": "https://www.facebook.com/fororunners/posts/%EF%B8%8F-la-comunidad-de-madrid-ya-tiene-su-primer-trail-running-center-homologado-por-/1772819498187023/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/825279478_39410523265199414_8476578492384432109_n.png?stp=dst-jpg_tt6&amp;cstp=mx597x335&amp;ctp=s597x335&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=pNXwflHlg8gQ7kNvwGDsXMs&amp;_nc_oc=AdrXtp3XVXwuddceYKoHkI8MOgcrJkKHfGeo39ojfKw3zZQbTq_3qkjI4sxslJxXaLs&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=OJW6-xBYNZDDMhXHeFJnAQ&amp;_nc_ss=7f289&amp;oh=00_AQLsuhoE5c4OyWsg0x0Ckuiy7POF76meWz4xVg-ZlK3jZA&amp;oe=6ABDDF3A",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "GORBEIA SUZIEN 2026 RESULTADOS LIVE: Crónica y streaming. Lideran Sara Alonso y ...",
+      "url": "https://carrerasdemontana.com/2026/09/26/gorbeia-suzien-2026-resultados-mayayo/",
+      "typeHint": "travesia",
+      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/09/gorbeia-suzien-2026-resultados-mayayo-3-1-1024x768.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Condor Trail Running Race 2026 | Clapzy Events",
+      "url": "https://www.clapzy.app/event/condor-trail-running-race-2026",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Running Ecuador | Clapzy",
+      "url": "https://www.clapzy.app/host/running",
+      "typeHint": "travesia",
+      "image": "https://www.clapzy.app/api/host-og/running",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Mendoza: encontraron muerto a un andinista que había desaparecido tras emprender una ...",
+      "url": "https://www.pagina12.com.ar/2026/09/26/mendoza-encontraron-muerto-a-un-andinista-que-habia-desaparecido-tras-emprender-una-travesia-de-montana/",
+      "typeHint": "festival",
+      "image": "https://www.pagina12.com.ar/resizer/v2/3GVKBBQPBFDCLKQKAFNJUUYY6A.jpg?smart=true&amp;auth=0fc6d2264ccb4df295066292c38a84082c1c467eca9c13a28606a783e3b4b038&amp;width=1200&amp;height=630",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Una alianza global contra el “colonialismo verde” - Pagina 12",
+      "url": "https://www.pagina12.com.ar/2026/09/25/una-alianza-global-contra-el-colonialismo-verde/",
+      "typeHint": "festival",
+      "image": "https://www.pagina12.com.ar/resizer/v2/S46ZDDN2TRFJNDNQ24X6TXIHUY.jpg?smart=true&amp;auth=9db94d628ea988fafaf6909c9f20fb5e8bd87176501d0ceca4d19d1ddd62bf22&amp;width=1200&amp;height=630",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "“Fue un error grave”: el mea culpa de Colapinto tras el choque en Azerbaiyán - Pagina 12",
+      "url": "https://www.pagina12.com.ar/2026/09/26/fue-un-error-grave-el-mea-culpa-de-colapinto-tras-el-choque-en-azerbaiyan/",
+      "typeHint": "festival",
+      "image": "https://www.pagina12.com.ar/resizer/v2/CJXPJA64MBBYXAGGLXFNQGEIKY.jpg?smart=true&amp;auth=5f5ecd1d13f4a078dabf6ba07257c66e9c3082859d8a5805a95140e362350596&amp;width=1200&amp;height=630",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Intiman a las autoridades del Museo Malvinas por el retiro de la bandera del Operativo Cóndor",
+      "url": "https://www.pagina12.com.ar/2026/09/25/intiman-a-las-autoridades-del-museo-malvinas-por-el-retiro-de-la-bandera-del-operativo-condor/",
+      "typeHint": "festival",
+      "image": "https://www.pagina12.com.ar/resizer/v2/VLZWTE4EMBC6NBWLMRNRW7OPFA.jpg?smart=true&amp;auth=2e8bbf8caa82082f71f7ffb4e9322997d1b344d4d5cfa940fd337f27dab2a07e&amp;width=1200&amp;height=630",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Alex Barrena y Facundo Mena avanzaron a las semifinales del Challenger de Buenos Aires",
+      "url": "https://www.pagina12.com.ar/2026/09/26/alex-barrena-y-facundo-mena-avanzaron-a-las-semifinales-del-challenger-de-buenos-aires/",
+      "typeHint": "festival",
+      "image": "https://www.pagina12.com.ar/resizer/v2/TC6RV2ZQMJBAJG6FURQRUTVFHY.jpeg?smart=true&amp;auth=aaf2f043d418a84d053b1acd5b7cc4b4f1151f90a04da839de2ebce6e9cf8005&amp;width=1200&amp;height=630",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Juegos Suramericanos: Atletismo y escalada cerraron sus competencias y el handball va ...",
+      "url": "https://www.pausa.com.ar/2026/09/juegos-suramericanos-atletismo-y-escalada-cerraron-sus-competencias-y-el-handball-va-por-las-ultimas-medallas/",
+      "typeHint": "escalada",
+      "image": "https://i0.wp.com/www.pausa.com.ar/wp-content/uploads/2026/09/GUS_9241-scaled.jpg?fit=2560%2C1920&ssl=1",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Escalada Deportiva: Chile y Brasil se repartieron los podios en Dificultad - enelarea",
+      "url": "http://enelarea.com.ar/post/escalada-deportiva-chile-y-brasil-se-repartieron-los-podios-en-dificultad",
+      "typeHint": "escalada",
+      "image": "http://enelarea.com.ar/uploads/images/image_750x_6ab79948b1bc9.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "La escalada triunfa en La Rosaleda dentro de la Semana del Deporte - Benavente Digital",
+      "url": "https://www.benaventedigital.es/exito-escalada-benavente-semana-deporte/",
+      "typeHint": "escalada",
+      "image": "https://www.benaventedigital.es/wp-content/uploads/2026/09/ESCALADA-BENAVENTE-ROCODROMO-LA-ROSALEDA-2.jpeg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "San Martín quiere estirar su racha contra uno de los animadores del torneo",
+      "url": "https://www.debrown.com.ar/san-martin-quiere-estirar-su-racha-contra-uno-de-los-animadores-del-torneo/",
+      "typeHint": "escalada",
+      "image": "https://www.debrown.com.ar/wp-content/uploads/2026/09/San-Martin-previa-2026-1.png",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Cuatro equipos participan en el Torneo de Voleibol Ciudad de Torrelavega - Cantabria Liberal",
+      "url": "https://www.cantabrialiberal.com/torrelavega/cuatro-equipos-participan-en-el-torneo-de-voleibol-ciudad-de-torrelavega,846245.html",
+      "typeHint": "escalada",
+      "image": "https://www.cantabrialiberal.com/img/cuatro-equipos-participan-en-el-torneo-de-voleibol-ciudad-de-torrelavega,846245,1.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Tuzos buscan escalar ante Santos - El Sol de Hidalgo - El Sol de México",
+      "url": "https://oem.com.mx/elsoldehidalgo/deportes/tuzos-buscan-escalar-ante-santos-32264445",
+      "typeHint": "escalada",
+      "image": "https://oem.com.mx/elsoldehidalgo/img/32264366/1790336492/BASE_LANDSCAPE/1200/image.jpg",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Dominio Absoluto de Nozzi tras Cinco Rondas en el Torneo Eduardo Talack - Deportes Hoy",
+      "url": "https://deporteshoy.com.ar/2026/09/dominio-absoluto-de-nozzi-tras-cinco-rondas-en-el-torneo-eduardo-talack/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-09-26"
+    },
+    {
       "title": "Exigente partido para el Fundación Cajasol Sporting de Huelva ante el CD Argual en La Palma",
       "url": "https://www.huelvainformacion.es/deportes/exigente-partido-fundacion-cajasol-sporting-de-huelva-cd-argual-la-palma_0_2008067476.html",
       "typeHint": "carrera",
@@ -474,230 +698,6 @@
       "url": "https://www.instagram.com/p/Ddt0_dHCFb8/",
       "typeHint": "travesia",
       "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/822298139_18129314167774651_2686264050536410447_n.jpg?stp=c819.0.2457.2457a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=gT9Dg-H5Vh8Q7kNvwH3qtj_&amp;_nc_oc=AdrIIN0lmd1RrnsKTSZBeB_wja4OHjcZ3w5FnHiQA7cMBE2cjP5rDe4RKtOl2t_KOFw&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=a_GuVyAtSflyntvUU1UegA&amp;_nc_ss=7f689&amp;oh=00_AQLksY_zXrVDAfCv_d9NFcxhIFnUUWqeRZdyDuo567VDdw&amp;oe=6ABC77DF",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Los Molinos abre primer centro de trail running homologado - Madrid Actual",
-      "url": "https://www.madridactual.es/municipios/los-molinos/molinos-sierra-guadarrama-abre-centro-trail-running-amantes-20260925-8120528.html",
-      "typeHint": "travesia",
-      "image": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/09/molinos-sierra-guadarrama-abre-centro-trail-running-amantes.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "¡A conquistar la montaña por una causa! Llega el CTU Outdoor Challenge 2026",
-      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/a-conquistar-la-montana-por-una-causa-llega-el-ctu-outdoor-challenge-2026-32255436",
-      "typeHint": "travesia",
-      "image": "https://oem.com.mx/elheraldodechihuahua/img/32255464/1790278693/BASE_LANDSCAPE/1200/image.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Montes de Triano desde Peñas Negras: una ruta sencilla en Bizkaia",
-      "url": "https://www.noticiasdenavarra.com/rutas-y-naturaleza/2026/09/25/montes-triano-ruta-sencilla-penas-negras-runnea-11584730.html",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "La Gran Muralla China pone a prueba a los aspirantes a llevarse las Golden Trail World ...",
-      "url": "https://as.com/deportes_accion/outdoor/la-gran-muralla-china-pone-a-prueba-a-los-aspirantes-a-llevarse-las-golden-trail-world-series-f202609-n/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Travesía de los Cerros 2027: Ya abrieron las inscripciones - Más Aire",
-      "url": "https://www.masaireweb.com/travesia-los-cerros-2027/",
-      "typeHint": "travesia",
-      "image": "https://www.masaireweb.com/wp-content/uploads/2026/09/imagen_20.jpeg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Magallánico Román Cancino completa los 108K del Paraty Brazil by UTMB y suma puntos ...",
-      "url": "https://www.elpinguino.com/deportes/magallanico-roman-cancino-completa-los-108k-del-paraty-brazil-by-utmb-y-suma-puntos-para-el-mundial-de-trail-running/",
-      "typeHint": "travesia",
-      "image": "https://media.elpinguino.com/2026/09/Paula-web-ok-1280-x-720-px59-768x432.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "caminata o trail running emtre tumbas? te ahuevas! lugares insólitos ... - TikTok",
-      "url": "https://www.tiktok.com/@erikatoarusso/video/7689466978410482977",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "«Non hai sitio para una planta de biogás no rural» - La Voz de Galicia",
-      "url": "https://www.lavozdegalicia.es/noticia/opinion/2026/09/24/span-langglnon-hai-sitio-planta-biogas-ruralspan/00031790265850953536822.htm",
-      "typeHint": "travesia",
-      "image": "https://img.lavdg.com/sc/SEPRMqNQwIwjW8Ss_jjXT-FDQQw=/1280x/2026/09/24/00121790273642385828143/Foto/C04M8408.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Guadarrama abre inscripciones para un taller gratuito de lectura de novela negra",
-      "url": "https://lavozdelaa6.es/guadarrama-inscripciones-taller-lectura-de-novela-negra/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Omar Driss en la @utmbmontblanc en la prueba de 50 km \" 'La épica ruta azul' combina ...",
-      "url": "https://www.facebook.com/CadenaSerMelilla/posts/omar-driss-en-la-utmbmontblanc-en-la-prueba-de-50-km-la-%C3%A9pica-ruta-azul-combina-/1806647540908454/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/815138579_1617483976599518_958175442224968395_n.png?stp=dst-jpg_tt6&amp;cstp=mx2048x1536&amp;ctp=p600x600&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=4nuhIt9PZ9MQ7kNvwGvNzmW&amp;_nc_oc=Adr53Nlhq9NZAspd14FfSErwU0ym2QvIgqNc6HQjh6dxnePf9Ix2EiV6DSQxCAZ6QS8&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=56wa2Fv3jRMNnAQzEBTBbw&amp;_nc_ss=7f289&amp;oh=00_AQI4qS6Xj6Y_6ZKQxUPOTPPOksKM2_Xe5pvlUl0hvWAZSw&amp;oe=6ABC86E2",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Sandra Rolón ya está en Grecia para su séptimo Spartathlon: “Llevar... - Eldópolis",
-      "url": "https://eldopolis.com/news/PYXkmbU5VCfN4lVxHVEL",
-      "typeHint": "travesia",
-      "image": "https://pub-514df041e2b3494caab09827cb896071.r2.dev/images/1790340147883-039b5501-4017-4f4a-9ea0-e6e6ac1aebbf.jpeg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "El kilómetro vertical de Bielsa se estrena en el Campeonato de Aragón de Ascenso",
-      "url": "https://www.aragonplay.es/aragondeporte/otros-deportes/kilometro-vertical-bielsa-estrena-campeonato-aragon-ascenso.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes.aragonplay.es/files/og_thumbnail/uploads/2026/09/25/6ab649a213fa4.jpeg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Umbrete acoge el Campeonato de Andalucía nocturno de Taekwondo - Aljarafe y más",
-      "url": "https://www.aljarafeymas.com/noticias/34147-Umbrete-acoge-el-Campeonato-de-Andaluca-nocturno-de-Taekwondo",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "\"Si corres a más de 4,30 minutos el kilómetro, usando zapatillas con placa de carbono ...",
-      "url": "https://www.diariodeltriatlon.es/articulo/runningendurance/corres-mas-5-minutos-kilometro-usando-zapatillas-placa-carbono-destrozando-tobillo/20260925134600102505.amp.html",
-      "typeHint": "travesia",
-      "image": "https://www.diariodeltriatlon.es/media/diariodeltriatlon/images/2026/09/25/2026092511514610503.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "La Night Trail San Julián se adapta a los contratiempos y traslada su salida a la Plaza de Ronda",
-      "url": "https://eldeporteconquense.com/noticias/atletismo/noticias-atletismo-trail-running/la-night-trail-san-julian-se-adapta-a-los-contratiempos-y-traslada-su-salida-a-la-plaza-de-ronda/",
-      "typeHint": "travesia",
-      "image": "https://eldeporteconquense.com/wp-content/uploads/2026/09/nightrail.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Penúltimo día de los Juegos Suramericanos en Santa Fe: qué deportes habrá este viernes ...",
-      "url": "https://www.airedesantafe.com.ar/deportes/penultimo-dia-los-juegos-suramericanos-grilla-deportes-este-viernes-santa-fe-y-el-fan-fest-n671198",
-      "typeHint": "escalada",
-      "image": "https://media.airedesantafe.com.ar/p/8e9ab32e537251b74849b0d2d8f52afb/adjuntos/268/imagenes/003/969/0003969811/1200x675/smart/atletismo-mica-levaggi.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Oro para Ecuador en la escalada deportiva de los Juegos Sudamericanos Santa Fe 2026",
-      "url": "https://www.eluniverso.com/deportes/otros-deportes/oro-para-ecuador-en-la-escalada-deportiva-de-los-juegos-sudamericanos-santa-fe-2026-nota/",
-      "typeHint": "escalada",
-      "image": "https://www.eluniverso.com/resizer/v2/WDUX4KIAE5GYFBY6MVBWEHJRO4.jpg?auth=1ee44b722894eb2392489ff36acccdbf8e676a0514b72e0ae33648e2e0a1e23b&amp;width=1005&amp;height=670&amp;quality=75&amp;smart=true",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Venezuela supera sus dos actuaciones previas en los Juegos Suramericanos con 44 medallas",
-      "url": "https://www.elnacional.com/2026/09/venezuela-supera-sus-dos-actuaciones-previas-en-los-juegos-suramericanos-con-44-medallas/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "El Gobierno activa un plan especial en Málaga contra el crimen organizado ante la ...",
-      "url": "https://www.malagahoy.es/malaga/gobierno-plan-especial-malaga-crimen-organizado-tiroteos_0_2008069265.html",
-      "typeHint": "escalada",
-      "image": "https://static.grupojoly.com/clip/60c73f7e-3bbf-4011-afbf-5145561118ab_facebook-aspect-ratio_default_0.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Agenda deportiva del viernes 25 en los Juegos Suramericanos 2026: deportes, sedes y horarios",
-      "url": "https://www.directvsports.com/noticia/agenda-deportiva-del-viernes-25-en-los-juegos-suramericanos-2026-deportes-sedes-y-horarios-20260925-0006.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "La agenda del penúltimo día de los Juegos Suramericanos - Olé",
-      "url": "https://www.ole.com.ar/polideportivo/juegos-suramericanos/agenda-penultimo-dia-juegos-suramericanos_0_VWvXaUDkWc.html",
-      "typeHint": "escalada",
-      "image": "https://www.ole.com.ar/images/2026/09/25/RtNgBxp06_2000x1500__1.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Juegos Suramericanos 2026: qué competencias se podrán ver este viernes 25 de septiembre",
-      "url": "https://www.unosantafe.com.ar/ovacion/juegos-suramericanos-2026-que-competencias-se-podran-ver-este-viernes-25-septiembre-n10283084.html",
-      "typeHint": "escalada",
-      "image": "https://media.lacapital.com.ar/p/5465cbe46aba88bb621ec15c4f6b42a4/adjuntos/204/imagenes/103/425/0103425948/atletismo.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Juegos Suramericanos 2026: qué competencias se podrán ver este viernes 25 de septiembre",
-      "url": "https://www.infocielo.com/santa-fe/juegos-suramericanos-2026-que-competencias-se-podran-ver-este-viernes-25-de-septiembre",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Juegos Suramericanos 2026: qué competencias se podrán ver este viernes 25 de septiembre",
-      "url": "https://www.cadena3.com/noticia/juegos-suramericanos/juegos-suramericanos-2026-que-competencias-se-podran-ver-este-viernes-25-de-septiembre_597624",
-      "typeHint": "escalada",
-      "image": "https://images-tools.cadena3.com/tools/r/1bc7de09-b22c-4ce7-99ae-9b0f70be449a.jpg?width=1200&height=740",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Agenda deportiva del fin de semana – 25 septiembre 2026 - RTV Manilva",
-      "url": "https://www.rtvmanilva.com/2026/09/25/agenda-deportiva-del-fin-de-semana-25-septiembre-2026/",
-      "typeHint": "escalada",
-      "image": "https://i.ytimg.com/vi_webp/T9Amfjzz2MA/maxresdefault.webp",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Juegos Suramericanos 2026: viernes de finales y definiciones en la agenda de competencias",
-      "url": "https://www.sol915.com.ar/juegos-suramericanos-2026-viernes-de-finales-y-definiciones-en-la-agenda-de-competencias/",
-      "typeHint": "escalada",
-      "image": "https://www.sol915.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-6.52.29-AM.jpeg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Venezuela y Ecuador se quedaron con los oros en la velocidad de escalada - enelarea",
-      "url": "http://enelarea.com.ar/post/venezuela-y-ecuador-se-quedaron-con-los-oros-en-la-velocidad-de-escalada",
-      "typeHint": "escalada",
-      "image": "http://enelarea.com.ar/uploads/images/image_750x_6ab645f80a4b2.jpg",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Hay días que empiezan siendo una carrera y terminan convirtiéndose en algo mucho ... - Instagram",
-      "url": "https://www.instagram.com/reel/DdtDkDZMv55/",
-      "typeHint": "carrera",
-      "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/821670949_18009477305956586_8668121641289702638_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=9N8SWqtqnaEQ7kNvwFWLkEq&amp;_nc_oc=Adp-Lngyb8AAivIbPCYVBbLEIsCJ_SEspe8INF9flzGY0admXLk3qxxmBhLdE-tqrt0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;_nc_gid=R9oADxDkDkHUMBZqHB_bzQ&amp;_nc_ss=7f689&amp;oh=00_AQL15zbpOtX3uDPPJbOGMJ_prHXBXlq5JBSlpHlIsAaqPA&amp;oe=6ABC283E",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Unos 600 participantes se darán cita en la XII edición de la Carrera por Montaña 'Ciudad de ...",
-      "url": "https://www.facebook.com/HuelvaInformacion/posts/%EF%B8%8Funos-600-participantes-se-dar%C3%A1n-cita-en-la-xii-edici%C3%B3n-de-la-carrera-por-monta%C3%B1/1713502294119386/",
-      "typeHint": "carrera",
-      "image": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/13853226130093839080?url=https%3A%2F%2Fstatic.grupojoly.com%2Fclip%2F528fe10a-6900-4e65-a192-0123280d06b8_facebook-aspect-ratio_default_0.jpg&amp;fb_obo=1&amp;utld=grupojoly.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-ord5-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=Q7WPzJZaJp8tNQvCSdVeDA&amp;_nc_zt=3&amp;oh=06_Q3_DAf5YJ33WtX2NvJXaoxTTnjUbxVcBgYR4rJeIwUgW9Fyz&amp;oe=6AB82860",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "MOUNT TO COAST M1: The shoe that does IT ALL? | 100 km Review - YouTube",
-      "url": "https://www.youtube.com/watch?v=dRA7wuwmTGA&vl=pt-BR",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Video loco de trail running : r/flashlight - Reddit",
-      "url": "https://www.reddit.com/r/flashlight/comments/1wp9mdn/crazy_trail_running_video/?tl=es-419",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Santa Fe vibró con la escalada deportiva: bronce argentino en una sede con infraestructura mundial",
-      "url": "http://enelarea.com.ar/post/santa-fe-vibro-con-la-escalada-deportiva-bronce-argentino-en-una-sede-con-infraestructura-mundial",
-      "typeHint": "escalada",
-      "image": "http://enelarea.com.ar/uploads/images/image_750x_6ab5a478312ba.jpg",
       "date": "2026-09-25"
     }
   ]
