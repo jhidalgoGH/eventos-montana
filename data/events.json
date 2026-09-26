@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T20:34:16.354Z",
+  "updatedAt": "2026-09-26T05:54:01.511Z",
   "events": [
     {
       "name": "Marcha del Abadiado (Historia y Naturaleza)",
@@ -2958,6 +2958,17 @@
       "url": "https://itra.run/Races/RaceDetails/IV.ATOM.ISASA.TRAIL.XTREM.Maratón.44.5.km/2027/121154",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Merrell Andes Mountain SKYRACE",
+      "startDate": "2027-03-06T06:00:00Z",
+      "endDate": null,
+      "locationName": "La Parva, Lo Barnechea, R. Metropolitana, CL",
+      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMDkvMjUvNzJmeXV4b2ppMF9BTkRFU19NQVJBVE9OX1NLWVJBQ0VfMjAyNy5qcGciXV0?sha=9947d9e568451539",
+      "url": "https://tusdesafios.com/events/merrell-andes-mountain-skyrace-2027",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Trail Fuentealta Vilaflor 2027",
