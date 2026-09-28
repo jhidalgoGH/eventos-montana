@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:34:58.538Z",
+  "updatedAt": "2026-09-28T22:35:35.167Z",
   "events": [
     {
       "source": "agenda",
@@ -2130,6 +2130,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XVII TRAIL CASTELLNOVO 2026",
+      "type": "carrera",
+      "startDate": "2026-11-29T08:30:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/7fcf6c1e-602f-4f00-b6eb-23e7f55e64d2.png",
+      "url": "https://web.rockthesport.com/es/event/xvii-trail-castellnovo-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27",
       "type": "carrera",
       "startDate": "2026-11-29T09:00:00",
@@ -2469,6 +2481,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d3ba91a8-c7e9-4c27-aa4b-7fe83728380a_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/11-vmll-volta-muntanya-de-llauri-lmvs-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "MEDIA DEL LINCE 2027",
+      "type": "carrera",
+      "startDate": "2027-01-30T09:30:00",
+      "endDate": null,
+      "locationName": "Sevilla",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/5feadf49-e809-4160-8ad7-d96be5a35f29.png",
+      "url": "https://web.rockthesport.com/es/event/media-del-lince-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
