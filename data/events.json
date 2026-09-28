@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:47:18.547Z",
+  "updatedAt": "2026-09-28T17:34:58.538Z",
   "events": [
     {
       "source": "agenda",
@@ -734,6 +734,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/61b012b7-0d0a-45fc-8e98-1d9f121e10b1.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-de-paraescalada",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "IV Copa de España en Línea CxM Barbudo Skyrace",
+      "type": "carrera",
+      "startDate": "2026-10-17T08:30:00",
+      "endDate": "2026-10-18T15:30:00",
+      "locationName": "Murcia",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/iv-copa-de-espana-en-linea-cxm-barbudo-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2124,7 +2136,7 @@
       "endDate": null,
       "locationName": "Valencia/València",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/3d4597c1-ebcc-4e04-b1a0-6e977a1a5b27_custom1.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/2891adb6-71cf-44cf-8340-1f0379e9b292_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
