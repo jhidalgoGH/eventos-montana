@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:54:16.050Z",
+  "updatedAt": "2026-09-28T11:47:18.547Z",
   "events": [
     {
       "source": "agenda",
@@ -32,6 +32,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/12022/library/root/5eb8b801-107a-4d1b-8959-51ea2797c6c1.jpg",
       "url": "https://web.rockthesport.com/es/event/v-binaka-trail-oihana-extreme",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 01/10 al 02/10",
+      "type": "escalada",
+      "startDate": "2026-10-02T19:30:00",
+      "endDate": null,
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-0110-al-0210",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -420,6 +432,18 @@
       "url": "https://itra.run/Races/RaceDetails/Dynafit..ANDORRA.TRAIL.DYNAFIT.ANDORRA.TRAIL.3.Stages/2026/110240",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "(copy) Rocódromo Álvaro Paredes Izquierdo-Semana 05/10 al 09/10",
+      "type": "escalada",
+      "startDate": "2026-10-09T19:30:00",
+      "endDate": "2026-10-09T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/copy-rocodromo-alvaro-paredes-izquierdo-semana-0510-al-0910",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "CNN 2026",
@@ -1237,6 +1261,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/abf1b343-f6f8-4bc4-a840-b8b33deee066.png",
       "url": "https://web.rockthesport.com/es/event/xi-trail-de-bocairent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Liga Infantil de Escalada - Maspalomas",
+      "type": "escalada",
+      "startDate": "2026-10-25T09:00:00",
+      "endDate": null,
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/dba27998-00c7-4bba-a287-678df98a0886.jpg",
+      "url": "https://web.rockthesport.com/es/event/liga-infantil-de-escalada-maspalomas",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2738,6 +2774,18 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "XVIII Formentera to Run 2027",
+      "type": "carrera",
+      "startDate": "2027-05-31T10:00:00",
+      "endDate": "2027-06-05T12:30:00",
+      "locationName": "Balears (Illes)",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2782/library/root/fdde55f3-063c-4110-9e17-aa2e113767b0.jpg",
+      "url": "https://web.rockthesport.com/es/event/xviii-f2r-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Traveserina Caja Rural de Asturias",
       "type": "carrera",
       "startDate": "2027-06-05",
@@ -2747,6 +2795,18 @@
       "url": "https://itra.run/Races/RaceDetails/Traveserina.Caja.Rural.de.Asturias.Traveserina.Picos.de.Europa/2027/120729",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "XIII Formentera Trail 21.1 - 2027",
+      "type": "carrera",
+      "startDate": "2027-06-05T09:00:00",
+      "endDate": "2027-06-05T12:30:00",
+      "locationName": "Balears (Illes)",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2782/library/root/fa094f34-e61e-40f1-b61c-0491a5a7d310.jpg",
+      "url": "https://web.rockthesport.com/es/event/xiii-formentera-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Picos de Europa Travesera Integral",
