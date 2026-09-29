@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:25:27.353Z",
+  "updatedAt": "2026-09-29T17:35:02.654Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -2829,6 +2829,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "II Vertical Hermano Pedro",
+      "type": "carrera",
+      "startDate": "2027-05-15T09:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/f1953b37-f064-475b-9f41-404d5bd8838f.jpg",
+      "url": "https://web.rockthesport.com/es/event/ii-vertical-hermano-pedro",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
