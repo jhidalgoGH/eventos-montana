@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T05:53:59.680Z",
+  "updatedAt": "2026-09-29T11:25:27.353Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -2654,6 +2654,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/5e69c267-f350-4ac6-ac7c-44c5bbafce40.jpg",
       "url": "https://web.rockthesport.com/es/event/trail-fuentealta-vilaflor-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Trail Guzmán el Bueno 2027",
+      "type": "carrera",
+      "startDate": "2027-03-13T08:00:00",
+      "endDate": null,
+      "locationName": "Córdoba",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10961/library/root/049b99b2-b125-4771-abb7-a0584a5eeeb8.png",
+      "url": "https://web.rockthesport.com/es/event/trail-guzman-el-bueno-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
