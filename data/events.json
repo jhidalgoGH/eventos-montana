@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-28T22:35:35.167Z",
+  "updatedAt": "2026-09-29T05:53:59.680Z",
   "events": [
-    {
-      "source": "agenda",
-      "sourceName": "Agenda verificada",
-      "country": "España",
-      "name": "Super Campeonato de España de Escalada (Dificultad, Bloque y Velocidad)",
-      "type": "escalada",
-      "startDate": "2026-09-28",
-      "endDate": "2026-10-04",
-      "locationName": "Cáceres",
-      "url": "https://fedme.es/escalada/"
-    },
     {
       "name": "Grande Trail Serra DArga",
       "type": "carrera",
@@ -423,6 +412,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Canchaque Trail Fest 2026",
+      "startDate": "2026-10-08T00:00:00-05:00",
+      "endDate": "2026-10-10T23:59:59-05:00",
+      "locationName": "Plaza de Armas de Canchaque, Canchaque, Piura, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/12/canchaque-trail-fest-2026.webp",
+      "url": "https://www.running4peru.com/eventos/canchaque-trail-fest/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Dynafit ANDORRA TRAIL",
       "type": "carrera",
       "startDate": "2026-10-09",
@@ -606,6 +606,17 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
+    },
+    {
+      "name": "Desafío Inti Huaycan Trail 2026",
+      "startDate": "2026-10-11T08:00:00-05:00",
+      "endDate": "2026-10-11T08:00:00-05:00",
+      "locationName": "Plaza de Armas de Huaycán, Ate, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/desafio-inti-huaycan-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-aniversario-team-amigos-runners/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Cursa de Tivissa 2026",
@@ -2715,6 +2726,17 @@
       "type": "carrera",
       "source": "runnea",
       "sourceName": "Runnea"
+    },
+    {
+      "name": "Trail Malalcahuello by Corralco",
+      "startDate": "2027-04-10T08:00:00Z",
+      "endDate": null,
+      "locationName": "Centro De Ski Corralco, Curacautín, R. De La Araucanía, CL",
+      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMDkvMjgvMXc5dHd1ajdzcl9UUkFJTF9tYWxhbGNhaHVlbGxvX2NvcnJhbGNvXzIwMjcuanBnIl1d?sha=342050224a0f94c2",
+      "url": "https://tusdesafios.com/events/trail-malalcahuello-by-corralco-2027",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Camí Bandolers, Senija, CTM 26/27",
