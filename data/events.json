@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:53:59.419Z",
+  "updatedAt": "2026-09-30T11:13:15.800Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -256,18 +256,6 @@
       "sourceName": "ITRA"
     },
     {
-      "name": "C.T.T. TRAIL - 2026",
-      "type": "carrera",
-      "startDate": "2026-10-04T07:30:00",
-      "endDate": null,
-      "locationName": "Tarragona",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
-      "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
       "name": "9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2026-10-04T08:00:00",
@@ -314,6 +302,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/15588/library/root/79af3e13-292d-47ec-bf46-b1f0b6116a17.jpg"
+    },
+    {
+      "name": "C.T.T. TRAIL - 2026",
+      "type": "carrera",
+      "startDate": "2026-10-04T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
+      "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "XIX. Sorginen Lasterketa",
@@ -1694,6 +1694,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/9659/library/root/a75b8c48-4e88-43c3-8b06-17a54a2b3ee0.png"
+    },
+    {
+      "name": "Campeonato de España de Drytooling Getafe 2026",
+      "type": "travesia",
+      "startDate": "2026-11-08T08:00:00",
+      "endDate": null,
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/0ff070a7-0975-4218-ab5b-51065d0f09a3.png",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-drytooling-getafe-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Cursa de la Ratafia 2026",
