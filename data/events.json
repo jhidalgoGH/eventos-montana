@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:34:57.674Z",
+  "updatedAt": "2026-10-01T21:52:42.765Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -1280,7 +1280,7 @@
       "endDate": null,
       "locationName": "Murcia",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/a7cb19d6-8f89-408a-8b2e-9e50a3099b78.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/502b01e8-6ecb-49a9-8778-33e0c496e2c4.jpg",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-ssaa-y-cesa-escolar-de-marcha-nordica-lorca",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2631,7 +2631,7 @@
       "endDate": "2027-02-21T14:30:00",
       "locationName": "Asturias",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15634/library/root/d0e2e9f0-91ac-48ae-ace9-2fae81e4c495.png",
       "url": "https://web.rockthesport.com/es/event/xii-trail-gijon",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
