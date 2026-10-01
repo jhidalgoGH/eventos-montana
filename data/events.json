@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:54:10.126Z",
+  "updatedAt": "2026-10-01T11:40:54.827Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -103,6 +103,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "Campeonato de España de Paraescalada 2026",
+      "startDate": "2026-10-03T00:00:00+02:00",
+      "endDate": "2026-10-04T23:59:59+02:00",
+      "locationName": "CNTD de Cáceres, Cáceres, España",
+      "image": null,
+      "url": "https://tambien.org/actividad/campeonato-de-espana-de-paraescalada-2026/",
+      "type": "escalada",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Zumaia Flysch Trail 2026",
       "startDate": "2026-10-03T01:00:00",
       "endDate": "2026-10-03T01:00:00",
@@ -125,6 +136,17 @@
       "source": "runnea",
       "sourceName": "Runnea",
       "country": "España"
+    },
+    {
+      "name": "Super Campeonato de España de Escalada 2026",
+      "startDate": "2026-10-03T08:00-CEST",
+      "endDate": "2026-10-04T20:00:00",
+      "locationName": "CNTD de Cáceres, Cáceres",
+      "image": null,
+      "url": "https://tambien.org/actividad/campeonato-de-espana-de-paraescalada-2026/",
+      "type": "escalada",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "TRAIL SOLIDARI CIUTAT D’ALCOI, 2026",
@@ -1754,6 +1776,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/15634/library/root/a7d1b105-58cf-450d-8654-19ab35be1097.png"
+    },
+    {
+      "name": " CURSARROCA 2026",
+      "type": "carrera",
+      "startDate": "2026-11-08T09:30:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/cff90421-b3ea-459f-8a9b-96b0907e0666.png",
+      "url": "https://web.rockthesport.com/es/event/-cursarroca-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Marcha senderista del Mezquin",
