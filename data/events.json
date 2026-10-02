@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:10:13.412Z",
+  "updatedAt": "2026-10-02T17:35:02.116Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -767,6 +767,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/61b012b7-0d0a-45fc-8e98-1d9f121e10b1.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-copa-de-espana-de-paraescalada",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Andada 2026",
+      "type": "travesia",
+      "startDate": "2026-10-17T08:00:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10482/custom/root/ec5939a6-1b05-4a98-a4d2-05f200430fee_custom2.jpg",
+      "url": "https://web.rockthesport.com/es/event/andada-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },

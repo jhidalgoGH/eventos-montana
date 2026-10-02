@@ -1,6 +1,286 @@
 {
   "mentions": [
     {
+      "title": "La moda cordobesa pisa fuerte en Sevilla: estas son las firmas que desfilarán en Sima 41",
+      "url": "https://www.eldiadecordoba.es/vivir-cordoba/moda-cordobesa-pisa-fuerte-sevilla_0_2008128903.html",
+      "typeHint": "carrera",
+      "image": "https://static.grupojoly.com/clip/bbbaf0f8-6b91-4205-a235-996c72623975_facebook-aspect-ratio_default_0.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Toni Kroos será el padrino de la Gañafote Cup Destino Huelva 2027",
+      "url": "https://sportshuelva.com/toni-kroos-sera-el-padrino-de-la-ganafote-cup-destino-huelva-2027/",
+      "typeHint": "carrera",
+      "image": "http://sportshuelva.com/wp-content/uploads/2026/10/TONI-KROSS-GANAFOTE.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Carratraca (Málaga) celebra el 10 y 11 de octubre una nueva carrera 'Alcaparraín Trail' con ...",
+      "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-carratraca-malaga-celebra-10-11-octubre-nueva-carrera-alcaparrain-trail-impulso-diputacion-20261002140453.html",
+      "typeHint": "carrera",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261002140453_1200.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Carratraca celebra el 10 y 11 de octubre su V Alcaparraín Trail con el impulso de la Diputación",
+      "url": "https://www.malaga.es/noticias/com1_md3_cd-54888/carratraca-celebra-el-10-y-11-de-octubre-su-v-alcaparrain-trail-con-el-impulso-de-la-diputacion?com1_prt=1",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Etxarri Aranatz celebra este fin de semana sus ferias de octubre - Diario de Noticias",
+      "url": "https://www.noticiasdenavarra.com/navarra/2026/10/01/etxarri-aranatz-celebra-semana-ferias-11607582.html",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Salim Abdelkader: “Estoy impacientes y con ganas de ver cómo funciona” - MelillaHoy",
+      "url": "https://melillahoy.es/salim-abdelkader-estoy-impacientes-y-con-ganas-de-ver-como-funciona/amp/",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Felipe Heredia: “La eliminatoria está más que sentenciada, pero hay que jugar la vuelta” - MelillaHoy",
+      "url": "https://melillahoy.es/felipe-heredia-la-eliminatoria-esta-mas-que-sentenciada-pero-hay-que-jugar-la-vuelta/amp/",
+      "typeHint": "carrera",
+      "image": "https://melillahoy.es/wp-content/uploads/2026/10/atletico-melilla-copa-rey.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "El Balonmano Maravilla Melilla, a empezar con buen pie en su debut en casa ante el ...",
+      "url": "https://melillahoy.es/el-balonmano-maravilla-melilla-a-empezar-con-buen-pie-en-su-debut-en-casa-ante-el-ciudad-imperial/",
+      "typeHint": "carrera",
+      "image": "https://melillahoy.es/wp-content/uploads/2026/10/balonmano-maravilla-melilla-debut-casa.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Karhu Ikoni Trail WR: características y opiniones | Runnea",
+      "url": "https://www.runnea.com/zapatillas-running/karhu/ikoni-trail-wr/1066658/",
+      "typeHint": "carrera",
+      "image": "https://static.runnea.com/images/202610/karhu-ikoni-trail-wr-zapatillas-running-1200x1200x90xX.jpg?1",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Todo preparado para la II Carrera por Montaña Nocturna FMEM - MelillaHoy",
+      "url": "https://melillahoy.es/todo-preparado-para-la-ii-carrera-por-montana-nocturna-fmem/",
+      "typeHint": "carrera",
+      "image": "https://melillahoy.es/wp-content/uploads/2026/10/ii-carrera-montana-nocturna-fmem.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Bussy Mohand participa en la reunión técnica del CTA en Madrid - MelillaHoy",
+      "url": "https://melillahoy.es/bussy-mohand-participa-en-la-reunion-tecnica-del-cta-en-madrid/",
+      "typeHint": "carrera",
+      "image": "https://melillahoy.es/wp-content/uploads/2026/10/reunion-equipo-de-futbol.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "II Juegos del Agua - Campeonato de Europa de Stand Up Paddle 2026 - Planomato",
+      "url": "https://www.planomato.com/es/melilla/p/ii-juegos-del-agua-melilla-2026",
+      "typeHint": "carrera",
+      "image": "https://planimagesstorage.blob.core.windows.net/planimage1/venues/Ensenada_de_los_Gal%C3%A1pagos%2C_Melilla_%283%29_20261001_183212.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Consulte la portada de MELILLA HOY del viernes 2 de octubre de 2026 - MelillaHoy",
+      "url": "https://melillahoy.es/consulte-la-portada-de-melilla-hoy-del-viernes-2-de-octubre-de-2026/amp/",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Madrid lista para acoger el rodaje de la nueva película de Woody Allen, que llevará ... - Melilla Hoy",
+      "url": "https://melillahoy.es/madrid-lista-para-acoger-el-rodaje-de-la-nueva-pelicula-de-woody-allen-que-llevara-sus-calles-a-todo-el-mundo/",
+      "typeHint": "carrera",
+      "image": "https://melillahoy.es/wp-content/uploads/2026/10/woody-allen-madrid-rodaje-2026.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Carrera por Montaña 4 Lobos y 3000 Buitres 2027 - kliva.run | Planificateur de trail & calendrier",
+      "url": "https://kliva.run/es/races/carrera-por-montana-4-lobos-y-3000-buitres-2027",
+      "typeHint": "carrera",
+      "image": "https://kliva.run/es/races/carrera-por-montana-4-lobos-y-3000-buitres-2027/opengraph-image/og?e1e6360e6c7c0c98",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "LAURA LIÑÁN, DEL ALPINO JARAPALOS, SE ADJUDICA LA CXM TAJO NEGRO Charo y ...",
+      "url": "https://www.facebook.com/alhaurinesdeporte/posts/laura-li%C3%B1%C3%A1n-del-alpino-jarapalos-se-adjudica-la-cxm-tajo-negrocharo-y-cristina-z/1787415566725642/",
+      "typeHint": "carrera",
+      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/832870287_28615506094801288_6235192742005182181_n.png?stp=dst-jpg_tt6&amp;cstp=mx998x1418&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=AIzdkoUnn4EQ7kNvwFuUC4o&amp;_nc_oc=AdpwO3rEs2r59Z4anW4r2aUDBHx9-l38-f8RxTQ77tu6lle63PxrotIPaCQVuoRP11A&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=uMFhICYmgOhc8cNsxc8Czw&amp;_nc_ss=7c289&amp;oh=00_AQNlYFuKxkWWt3FTtGkibT4wzpJOR4QM9HnEaJBPhs3C5g&amp;oe=6AC5A558",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Ceremonia de inauguración de la carrera Mu Cang Chai Ultra Trail 2026. - Vietnam.vn",
+      "url": "https://www.vietnam.vn/es/khai-mac-giai-chay-mu-cang-chai-ultra-trail-2026",
+      "typeHint": "travesia",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790954773519_baolaocai-tl_km6-8960-jpg.webp",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Presentado Siyasa Gran Trail 2026 - FAMU",
+      "url": "https://www.famu.es/presentado-siyasa-gran-trail-2026/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/10/Presentacion-Siyasa-Gran-Trail-2026.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "El viento Zonda obligó a suspender los partidos de la Liga Sanjuanina | La Nota San Juan",
+      "url": "https://lanotasj.com.ar/el-viento-zonda-obligo-a-suspender-los-partidos-de-la-liga-sanjuanina/",
+      "typeHint": "travesia",
+      "image": "https://lanotasj.com.ar/wp-content/uploads/2026/10/file_186610_main1_800.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Nuevo reto para Juan Belman - - Sistema Michoacano de Radio y Televisión",
+      "url": "http://sistemamichoacano.tv/2026/10/02/nuevo-reto-para-juan-belman/",
+      "typeHint": "travesia",
+      "image": "http://sistemamichoacano.tv/wp-content/uploads/2026/10/Juan-Belman.png",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Gonzalo Zorrilla, atleta de la Selección Española de Orientación: \"Pasar horas en el monte ...",
+      "url": "https://www.mundodeportivo.com/running/20261002/1004233013/gonzalo-zorrilla-atleta-seleccion-espanola-orientacion-pasar-horas-monte-corriendo-conexion-te-da-salud-pocas-cosas-hoy-dia-ofrecerte.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd11d3851cc.r_d.342-512-17544.jpeg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "José Juan Ciccia sobre Canchaque Trail Fest 2026 - El Comercio Perú",
+      "url": "https://elcomercio.pe/deporte-total/polideportivo/jose-juan-ciccia-sobre-canchaque-trail-fest-2026-queremos-promover-el-trail-running-y-activar-el-turismo-local-noticia/",
+      "typeHint": "travesia",
+      "image": "https://elcomercio.pe/resizer/v2/OB6NJ46PK5F57FW65M5EQULAVE.jpg?auth=23c35df83e71d1a51bd621d73f21d9d0227919ccedb3d84e3029890247aac66f&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "El hotel con una ola natural privada de clase mundial se cuela entre los 50 mejores del ...",
+      "url": "https://as.com/deportes_accion/surf/el-hotel-con-una-ola-natural-privada-de-clase-mundial-se-cuela-entre-los-50-mejores-del-mundo-f202610-n/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Vuelve Del Estrecho Trail: la espectacular carrera en la Patagonia que estrena un ...",
+      "url": "https://www.elmagallanews.cl/noticia/sociedad/vuelve-del-estrecho-trail-la-espectacular-carrera-en-la-patagonia-que-estrena-un-de",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Josef Ajram, en RUNNEA Podcast: \"Me arrepiento muchísimo de haber dejado Red Bull\"",
+      "url": "https://www.runnea.com/articulos/podcast/josef-ajram-runnea-podcast-arrepiento-28128/",
+      "typeHint": "travesia",
+      "image": "https://static.runnea.com/images/202610/podcast-ibiza_-josef-ajram-y-runnea-1-1200x675x80xX.jpg?1",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Qué camino elegirías: arriba o abajo _ #correr #running #trail #runners #china - Facebook",
+      "url": "https://www.facebook.com/pitufollow/posts/qu%C3%A9-camino-elegir%C3%ADas-arriba-o-abajo_correr-running-trail-runners-china/1483877590219491/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/829004063_18629221189039456_1627054171140323864_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=PJZrC6pUTrQQ7kNvwE_22Z3&amp;_nc_oc=Ado3QCJKe6NSrgAGAYaRkytpjVCd6N5GUhq6ZkxnHAjiKrfpMGGrEv9u_Is8zrO4r2A&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=P5xydggisWA4YQ_eKC2SpQ&amp;_nc_ss=7c289&amp;oh=00_AQO7mkr2ZkR5aYtB-sVCCA2rPrAjxvzKA2Duu1Gn9g0iIg&amp;oe=6AC5D4B3",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Qué camino elegirías: arriba o abajo _ #correr #running #trail #runners #china - Instagram",
+      "url": "https://www.instagram.com/reel/Dd_aUTxM6Wf/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/829004063_18629221189039456_1627054171140323864_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=PJZrC6pUTrQQ7kNvwE_22Z3&amp;_nc_oc=Ado3QCJKe6NSrgAGAYaRkytpjVCd6N5GUhq6ZkxnHAjiKrfpMGGrEv9u_Is8zrO4r2A&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=XNI-AbvvKiwnYDpEKQLjGw&amp;_nc_ss=7c689&amp;oh=00_AQMU9atpUT18l_F_vNqMHBim_Q463D_bg8z-XMk3T3z4wA&amp;oe=6AC5D4B3",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Carratraca celebra el 10 y 11 de octubre su V Alcaparraín Trail con el impulso de la Diputación",
+      "url": "https://www.malaga.es/comunicacion/2746/com1_md3_cd-54888/carratraca-celebra-el-10-y-11-de-octubre-su-v-alcaparrain-trail-con-el-impulso-de-la-diputacion",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Territorio Trail Media on X: \" PODCAST Sweet Home Alabama en @aragonradio 🎙️ Con ...",
+      "url": "https://x.com/TerritorioTrail/status/2105867143673708847",
+      "typeHint": "travesia",
+      "image": "https://pbs.twimg.com/media/HTmJq3XWsAAurNc?format=webp&amp;name=large",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "La 40 Volta a la Foia recorrerá Castalla, Onil e Ibi el 15 de noviembre con un ... - Alicante Plaza",
+      "url": "https://alicanteplaza.es/alicanteplaza/alcoy-el-comtat/la-40-volta-a-la-foia-recorrera-castalla-onil-e-ibi-el-15-de-noviembre-con-un-recorrido-de-275-kilometros",
+      "typeHint": "travesia",
+      "image": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1938344.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "\"Es alucinante que la San Silvestre Vallecana valga en 2025 más que un medio maratón de ...",
+      "url": "https://www.diariodeltriatlon.es/articulo/runningendurance/es-alucinante-que-san-silvestre-vallecana-valga-2025-mas-que-medio-maraton-prestigio-como-zaragoza-gente-pegue-conseguir-inscripcion/20261002112640102582.amp.html",
+      "typeHint": "travesia",
+      "image": "https://www.diariodeltriatlon.es/media/diariodeltriatlon/images/2026/10/02/2026100211255617739.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Kailas FUGA Du Monster, el modelo salvaje de Kailas que puedes ganar con Territorio Trail",
+      "url": "https://www.territoriotrail.es/kailas-fuga-du-monster-el-modelo-salvaje-de-kailas-que-puedes-ganar-con-territorio-trail/",
+      "typeHint": "travesia",
+      "image": "https://www.territoriotrail.es/wp-content/uploads/2026/09/DuMonster.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Amazon.com: KAILAS FUGA AIR 5 - Chaleco de hidratación para trail running, color rojo",
+      "url": "https://www.amazon.com/-/es/KAILAS-FUGA-AIR-Chaleco-hidrataci%C3%B3n/dp/B0DHXJ4RYD",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Zapatillas de trail running unisex TERRASKIN X02 + calcetín X-Bionic - Marrón claro",
+      "url": "https://www.elcorteingles.es/deportes/MP_0004991_TSTS02S25UN1-marron-claro-pr-zapatillas-de-trail-running-unisex-terraskin-x02-calcetin-x-bionic/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "¡La Sierra recibe al mundo! Chihuahua by UTMB arranca con homenaje a los Pies Ligeros",
+      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/la-sierra-recibe-al-mundo-chihuahua-by-utmb-arranca-con-homenaje-a-los-pies-ligeros-32382399",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Lluvia de medallas para la paraescalada madrileña en la Copa de España",
+      "url": "http://www.telemadrid.es/deportes/Lluvia-de-medallas-para-la-paraescalada-madrilena-en-la-Copa-de-Espana-0-2931006873--20261002031000.html",
+      "typeHint": "escalada",
+      "image": "https://www.telemadrid.es/2026/10/02/deportes/_2931016957_56939482_1300x731.png",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "El Club Escalate Motril estrena temporada en la Copa de Andalucía en Manilva - COPE",
+      "url": "https://www.cope.es/emisoras/andalucia/granada-provincia/motril/deportes-motril/noticias/club-escalate-motril-estrena-temporada-copa-andalucia-manilva-20261002_3448983.amp.html",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "SOLICITUD PRUEBAS CALENDARIO CARRERAS POR MONTAÑA 2027 - FEXME",
+      "url": "https://fexme.com/2026/10/02/solicitud-pruebas-calendario-carreras-por-montana-2027/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Filip Schenk también hace 'Prima classe' 9a al flash - Desnivel.com",
+      "url": "https://www.desnivel.com/escalada-roca/filip-schenk-tambien-hace-prima-classe-9a-al-flash/",
+      "typeHint": "escalada",
+      "image": "https://www.desnivel.com/images/2026/10/agu05447-13.jpg",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "LA FAM PREMIA EN LA XXX CENA DE LA MONTAÑA AL MÉDICO E HIMALAYISTA ...",
+      "url": "https://www.fam.es/noticias/3788-la-fam-premia-en-la-xxx-cena-de-la-montana-al-medico-e-himalayista-manuel-avellanas-a-la-seleccion-aragonesa-de-carreras-por-montana-y-al-escalador-lizer-aznarez",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-02"
+    },
+    {
       "title": "Saga Rueda, experto en carrera de montaña: \"Aporta mucha fuerza y variedad al entrenamiento\"",
       "url": "https://www.menshealth.com/es/fitness/a73716487/saga-rueda-experto-carrera-montana-fuerza-entrenamiento-resistencia-muscular/",
       "typeHint": "travesia",
@@ -418,286 +698,6 @@
       "url": "https://www.instagram.com/reel/Dd83G29Cf3B/",
       "typeHint": "travesia",
       "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/832131098_18642781597008445_3654053197375166014_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=MAtf9jRlVnoQ7kNvwG06S0J&amp;_nc_oc=Adq-9K2bf1VFTrk8Od44SzuMhR04jeECPlXRHbeaaJUqzvGpgsCBvAP6eSzg8IfHmsI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=34mFmumn6J2DAUrt-sj08w&amp;_nc_ss=7c689&amp;oh=00_AQNFkumOJqLbSGMaFEKspH7eLaWkpVfRVdFAKbSRitYzDg&amp;oe=6AC48FEF",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "El Baskonia persigue ante Armani Milán el primer triunfo en Euroliga tras dos derrotas",
-      "url": "https://www.infobae.com/america/agencias/2026/10/01/el-baskonia-persigue-ante-armani-milan-el-primer-triunfo-en-euroliga-tras-dos-derrotas/",
-      "typeHint": "escalada",
-      "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Camioneros vs. Laferrere en vivo: cómo llegan al partido - TyC Sports",
-      "url": "https://www.tycsports.com/primera-division-b/argentina-campeonato-primera-b-2026-camioneros-vs-laferrere-fecha-38-id763830.html",
-      "typeHint": "escalada",
-      "image": "https://media.tycsports.com/files/2026/10/01/992049/camioneros-vs-laferrere-en-vivo-como-llegan-al-partido_862x485.webp",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "MADRID ARRANCA EL SUPER CAMPEONATO DE ESCALADA A TODA VELOCIDAD Escalada",
-      "url": "https://fmm.es/madrid-arranca-el-super-campeonato-de-escalada-a-toda-velocidad/",
-      "typeHint": "escalada",
-      "image": "https://fmm.es/wp-content/uploads/2026/10/pORTADA-EQUIPO-VELOCIDAD-.webp",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "La emocionante serie de eventos deportivos \"Muong Phang - Una Marca en la Historia\" en 2026.",
-      "url": "https://www.vietnam.vn/es/soi-noi-chuoi-giai-the-thao-muong-phang-dau-an-lich-su-nam-2026",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/01/1790860176760_dai-quan-sat-chien-dich-dien-bien-phu-200521.webp",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Viernes de entrenamiento eficiente ‍♀️ con cumbre secundaria del Sincholagua 4792msnm",
-      "url": "https://www.facebook.com/groups/246505798694600/permalink/4327652483913224/",
-      "typeHint": "carrera",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-9/186491501_467632380934608_917222626973183454_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx960x480&amp;ctp=s960x480&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=9fe6e7&amp;_nc_ohc=QyF0bwTCyrgQ7kNvwF1BRI7&amp;_nc_oc=Adr_dVvOerYGOjDAPEoNZMyN3zqCUsg4j7bEHMv-aaeUMhf9Cn0CAlKym9oU4m2P91I&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=bQZEyLoYusFG7vhLImsIfw&amp;_nc_ss=7f289&amp;oh=00_AQNeI_XY78IIjbHLqOG1STVh6bpy3xCIjujUwp-GEiBqTg&amp;oe=6AE60839",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Salomon Ultra Pirineu 2026: horarios, favoritos y dónde ver la carrera",
-      "url": "https://www.labolsadelcorredor.com/ultra-pirineu-2026-horarios-favoritos-donde-ver/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Las tres rutas de España donde octubre convierte el bosque en un espectáculo de colores",
-      "url": "https://www.mundodeportivo.com/running/20261001/1004232942/tres-rutas-espana-octubre-convierte-bosque-espectaculo-colores-meses-mas-interesantes-salir-correr-montana.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/09/27/68d7cca398e0e.r_d.579-233-11719.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Rubén Barbosa y sus 15 kilómetros solidarios. - YouTube",
-      "url": "https://www.youtube.com/watch?v=KHNs5BvzRHM",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Los miércoles en nuestra ciudad son de trail running y te invitamos a ... | TikTok",
-      "url": "https://www.tiktok.com/@desnivelpositivoriobamba/video/7691701343823678728",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Empezando el día con fe y energía. Hoy, como parte de mi rutina, salí a las 5:00 a. m. a ... - Facebook",
-      "url": "https://www.facebook.com/frasecorta/posts/empezando-el-d%C3%ADa-con-fe-y-energ%C3%ADa-hoy-como-parte-de-mi-rutina-sal%C3%AD-a-las-500-a-m/1543478914479006/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/832913918_1635075271396261_7891675722173237930_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=JcbXJ7OqzfkQ7kNvwEIgnHL&amp;_nc_oc=Ado4h2Z5GLS0hI9HOXUNwac3s59YixlvzpLypUKpRgVK2CwgZe1nk4TkT_m6Ug2EDhU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=8qiMcgBfXoumytRi6R4Edw&amp;_nc_ss=7f289&amp;oh=00_AQNuFG0X_IamueBaWiHTE-1ZbsY0bz5qC2sIDQ1oxmYn4g&amp;oe=6AC4752B",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Corrí todo lo que pude, pero llegué demasiado tarde - MDZ Online",
-      "url": "https://www.mdzol.com/sociedad/2026/10/1/corri-todo-lo-que-pude-pero-llegue-demasiado-tarde-1984571.html",
-      "typeHint": "travesia",
-      "image": "https://img.mdzol.com/bDrR8zPhbjGPjg9GEtTKEtAf4zTAzpQxoYRANqOnG6g/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubWR6b2wuY29tL2ltZy8xNzkwNzc1MzMwNjc4LW5mMXFpby5qcGc",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Mathieu Blanchard, uno de los rivales de Kilian Jornet, alerta sobre el futuro del ultratrail",
-      "url": "https://www.mundodeportivo.com/running/20261001/1004233316/mathieu-blanchard-rivales-kilian-jornet-alerta-sobre-futuro-ultratrail-miedo-mi-deporte.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/28/66cefe2da1dac.r_d.3120-2080-1923.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "'Los Guilles', por tierra, mar y aire - Palencia en la Red",
-      "url": "https://www.palenciaenlared.es/los-guilles-por-tierra-mar-y-aire/",
-      "typeHint": "travesia",
-      "image": "https://www.palenciaenlared.es/wp-content/uploads/2026/10/los-guilles-aventuras-montana-buceo-parapente.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Calendario de eventos turísticos provincia de Buenos Aires - Multimedio Digital",
-      "url": "https://multimediodigital.com/calendario-de-eventos-turisticos-provincia-de-buenos-aires-29/",
-      "typeHint": "travesia",
-      "image": "https://multimediodigital.com/wp-content/uploads/2026/10/LUJAN-2.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Ultra Pirineu 2026: Jan Torrella doblará en casa - TURISKI",
-      "url": "https://www.turiski.es/ultra-pirineu-2026-jan-torrella/",
-      "typeHint": "travesia",
-      "image": "https://www.turiski.es/wp-content/uploads/2026/10/Jan-Torrella-38.webp",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Nike ACG Pegasus Trail Zapatillas Trail Running Hombre - Gridiron",
-      "url": "https://www.misterrunning.com/es/nike-acg-pegasus-trail-zapatilla-trail-hombre-gridiron-cream-ii-hv8116-007.html",
-      "typeHint": "travesia",
-      "image": "https://www.misterrunning.com/images/2026-media-09/nike-acg-pegasus-trail-scarpe-da-trail-running-uomo-gridiron-hv8116-007_A.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "MIRAFLORES DE LA SIERRA A LA NAJARRA TRAIL 17K: Guía de ruta.",
-      "url": "https://carrerasdemontana.com/2026/10/01/miraflores-de-la-sierra-la-najarra-mayayo/",
-      "typeHint": "travesia",
-      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/10/miraflores-de-la-sierra-a-la-najarra-2-1024x768.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Amazfit T-Rex Dual Solar: hasta 180 días de autonomía - Lugares de Aventura",
-      "url": "https://www.lugaresdeaventura.com/index.php/noticia/amazfit-t-rex-dual-solar-180-dias-autonomia",
-      "typeHint": "travesia",
-      "image": "https://www.lugaresdeaventura.com/sites/default/files/2026-10/Amazfit_TREX%20Solar-portada-lugares-de-aventura.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "La Ultra-Trail Guara Somontano 2026 bate su récord con más de 1.500 corredores",
-      "url": "https://www.trailrun.es/actualidad/ultra-trail-guara-somontano-2026-bate-su-record-con-mas-1500-corredores_333583_102_amp.html",
-      "typeHint": "travesia",
-      "image": "https://www.trailrun.es/uploads/s1/15/35/96/09/utgs-2025atromperla-396_7_1200x690.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Un poquito de lo que fue mi primera carrera de trail running! @ultrapaine Fueron 21k y me ...",
-      "url": "https://www.instagram.com/reel/Dd88peCKq7Z/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/833494080_18621822997061293_8693525632143569142_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=BotAElJJH_EQ7kNvwEDs0TF&amp;_nc_oc=AdoglX5FI1VUEkmVRbjcaQ-uRnI-UtniaMsDxfAvRhfiHTrLvqDTMzZdHtF3nw_C1p8&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=fImlWxA7iqpUXJK11-gU6A&amp;_nc_ss=7c689&amp;oh=00_AQOA5aAPdOGwyna2ih8QnA9ltgMwd12-5zjH7EaoH9ZVBA&amp;oe=6AC46975",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "La Ultra-Trail Guara Somontano bate récord de participación con 1.571 corredores de todo el mundo",
-      "url": "https://cadenaser.com/aragon/2026/10/01/la-ultra-trail-guara-somontano-bate-record-de-participacion-con-1571-corredores-de-todo-el-mundo-ser-aragon-oriental/",
-      "typeHint": "travesia",
-      "image": "https://cadenaser.com/resizer/v2/5CVU5LCIMBAMFJEDAZ3372ZDXM.jpg?auth=ebced71c1c9e6c7e22dc0188d36d3669306f57ee0ce3f4d67c67f5e21caeaccb&amp;quality=70&amp;width=1200&amp;height=675&amp;focal=2893,2344",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "The mind hates huge things ⛰️ Trail Running #psychology #trailrunning #ultratrailrunner",
-      "url": "https://m.youtube.com/shorts/scnFfXfg0Uk",
-      "typeHint": "travesia",
-      "image": "https://i.ytimg.com/vi/scnFfXfg0Uk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&amp;rs=AOn4CLCIEdLdCS-DzKNWbcNsr80QsYcshg&amp;usqp=CCk",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Vuelve el Mendi Tour Madrid 2026 con cuatro días y diez películas de montaña y aventura",
-      "url": "https://www.desnivel.com/cultura/vuelve-el-mendi-tour-madrid-2026-con-cuatro-dias-y-diez-peliculas-de-montana-y-aventura/",
-      "typeHint": "travesia",
-      "image": "https://www.desnivel.com/images/2026/10/cartel-mt-madrid.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Vuelve el Quiroga Trail Challenge, la gran carrera de montaña del noroeste peninsular",
-      "url": "https://www.lavozdegalicia.es/noticia/lemos/quiroga/2026/10/01/vuelve-quiroga-trail-challenge-gran-carrera-montana-noroeste-peninsular/00031790851813094960799.htm",
-      "typeHint": "travesia",
-      "image": "https://img.lavdg.com/sc/2dnQ6PgxRIwZXMuUapp_TDIEKzs=/1280x/2026/03/02/00121772458981945152687/Foto/m_20260301_185106000.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "La Ultra-Trail Guara Somontano 2026 bate su récord con más de 1.500 corredores - Trailrun",
-      "url": "https://www.trailrun.es/actualidad/ultra-trail-guara-somontano-2026-bate-su-record-con-mas-1500-corredores_333583_102.html",
-      "typeHint": "travesia",
-      "image": "https://www.trailrun.es/uploads/s1/15/35/96/09/utgs-2025atromperla-396_7_1200x690.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Madrid volverá a ser sede de una prueba World Climbing en 2027 - Desnivel.com",
-      "url": "https://www.desnivel.com/competiciones/madrid-volvera-a-ser-sede-de-una-prueba-world-climbing-en-2027/",
-      "typeHint": "escalada",
-      "image": "https://www.desnivel.com/images/2023/06/bwc-innsbruck-publico.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Ignacio Boero: Los dirigentes no podemos acoplarnos a esta escalada de violencia",
-      "url": "https://www.lacapital.com.ar/ovacion/ignacio-boero-los-dirigentes-no-podemos-acoplarnos-esta-escalada-violencia-n10284176.html",
-      "typeHint": "escalada",
-      "image": "https://media.lacapital.com.ar/p/6433a15641143e66c4c449621a7dd3fe/adjuntos/203/imagenes/103/438/0103438291/1200x675/smart/nob-boero-24157.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Jakob Schubert retransmite en directo sus intentos en 'DNA' 9c | WOGU",
-      "url": "https://woguclimbing.com/jakob-schubert-retransmite-en-directo-intentos-dna-9c/?amp",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Consulte la portada de MELILLA HOY del jueves 1 de octubre de 2026 - MelillaHoy",
-      "url": "https://melillahoy.es/consulte-la-portada-de-melilla-hoy-del-jueves-1-de-octubre-de-2026/",
-      "typeHint": "carrera",
-      "image": "https://melillahoy.es/wp-content/uploads/2026/10/portada-melilla-hoy-1-octubre-2026.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "El Club Voleibol Melilla debuta el próximo domingo en casa ante el Kiele Socuéllamos",
-      "url": "https://melillahoy.es/el-club-voleibol-melilla-debuta-el-proximo-domingo-en-casa-ante-el-kiele-socuellamos/",
-      "typeHint": "carrera",
-      "image": "https://melillahoy.es/wp-content/uploads/2026/09/plantilla-voley-femenino.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "¿Corres con la Brooks Cascadia Elite en trail? Estas son tus zapatillas de asfalto Si en ... - Instagram",
-      "url": "https://www.instagram.com/reel/Dd8pnV-gECw/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/833312981_18235331374319482_3894901675323858300_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=zcCQCuYoI_wQ7kNvwFkxxJ0&amp;_nc_oc=AdrH6JjWsMt3JVBBW-phDSBGINu5xxdarvs5tJZ-xNvf2X4LFx8tQqx07IY6ZkQAV-o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=ulklJ3PdW9iNfsd4DzZocA&amp;_nc_ss=7f689&amp;oh=00_AQMRr3j9ixwkH6-eDsxU6OO3GxiTrGE_HwQhn7cJNBi-4Q&amp;oe=6AC43079",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Muere en un río Rodolfo Morales, participante en una carrera en Colombia - AS.com",
-      "url": "https://as.com/deportes_accion/outdoor/muere-en-un-rio-rodolfo-morales-participante-en-una-carrera-en-colombia-f202610-n/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-01"
-    },
-    {
-      "title": "El brutal reto de los tres grandes del Pirineo: 220 km y 23 horas sin parar - Diario del Alto Aragón",
-      "url": "https://www.diariodelaltoaragon.es/noticias/deportes/2026/10/01/brutal-reto-los-tres-grandes-pirineo-220-kilometros-9-400-metros-desnivel-23-horas-sin-parar-2055969.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/09/30/6abd28a8056661-08807055.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Sant Just recupera el reto vertical del Walden - Material deportivo - Interempresas",
-      "url": "https://www.interempresas.net/A664863",
-      "typeHint": "travesia",
-      "image": "https://img.interempresas.net/fotos/5795687.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "ZAPATILLA RUNNING Nike QUEST HOMBRE - Tenth",
-      "url": "https://www.tenth.es/es-es/zapatilla-running-nike-quest-hombre-nik5260029.html",
-      "typeHint": "travesia",
-      "image": "https://images.tenth.es/media/catalog/product/Z/A/ZAPATILLA_RUNNING_Nike_QUEST_HOMBRE_NIK5260029-105-1_30092026131726.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Levi's desploma a mitad de precio el mítico 501: estos son los jeans que nunca pasan de moda",
-      "url": "https://www.lavanguardia.com/comprar/moda-belleza/20261001/11647435/levi-s-desploma-mitad-precio-mitico-501-son-jeans-nunca-pasan-moda-mkt-levi.html",
-      "typeHint": "travesia",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/24/699dbb42ada4c.r_d.951-361.jpeg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "La Sierra de Guadarrama estrena su primer centro de Trail Running homologado",
-      "url": "https://www.madridnorte24horas.com/articulo/sierra-norte/sierra-guadarrama-estrena-primer-centro-trail-running-homologado/20261001101930131723.amp.html",
-      "typeHint": "travesia",
-      "image": "https://www.madridnorte24horas.com/media/madridnorte24horas/images/2026/10/01/2026100110182738616.jpg",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Diario Occidente on X: \"#Deportes | ¡Trail running en el Valle! Calima El Darién se alista ...",
-      "url": "https://x.com/Diarioccidente/status/2105429638969163943",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/card_img/2105429639770312704/PkcRHemK?format=webp&amp;name=medium",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Productos. Nike US",
-      "url": "https://www.nike.com/us/es/w/1msyxz557pqz8nexhz90poy",
-      "typeHint": "travesia",
-      "image": "https://www.nike.com/android-icon-192x192.png",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "#Alejandría El Comité Organizador del Trail Running «El Paso del Arriero» emitió una ... - Instagram",
-      "url": "https://www.instagram.com/p/Dd7I95moCsh/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/825271167_1564768675686537_40923897819864499_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=vIuvQlAUKMAQ7kNvwEgyrNy&amp;_nc_oc=AdrhqLh6nMGENXxGyedBmHTIbAnrhy5cPTf9Li0DSE51pWbHq6CsMtFKE4dD9W7qg6A&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=-wc93fCaTohWVOYTTQP4Hg&amp;_nc_ss=7f689&amp;oh=00_AQM1nAn1a-zKiT4CxZ7q3NDyM6ikceNUoD0NDulGkaPTiA&amp;oe=6AC4323A",
       "date": "2026-10-01"
     }
   ]
