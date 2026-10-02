@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:54:11.434Z",
+  "updatedAt": "2026-10-02T11:10:13.412Z",
   "events": [
     {
       "name": "Grande Trail Serra DArga",
@@ -2323,6 +2323,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/edddc5fa-e48e-4e9e-a150-fd9ca0667cd1_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/xi-moduvert-trail-xeresa-lmvs-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "16a CURSA TRAIL LA RIERA DE GAIÀ - 2026",
+      "type": "carrera",
+      "startDate": "2026-12-13T08:30:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/9b8bfad9-94e1-4e8b-a70a-c3f322d401c8.jpg",
+      "url": "https://web.rockthesport.com/es/event/16a-cursa-trail-la-riera-de-gaia-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
