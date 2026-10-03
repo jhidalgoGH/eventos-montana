@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-02T21:22:30.215Z",
+  "updatedAt": "2026-10-03T05:54:35.366Z",
   "events": [
-    {
-      "name": "Grande Trail Serra DArga",
-      "type": "carrera",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-04",
-      "locationName": "Viana do Castelo",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Grande.Trail.Serra.D.Arga.GTSA.100k/2026/115088",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "V BINAKA TRAIL OIHANA EXTREME",
-      "type": "carrera",
-      "startDate": "2026-10-02T19:15:00",
-      "endDate": null,
-      "locationName": "Navarra",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/12022/library/root/5eb8b801-107a-4d1b-8959-51ea2797c6c1.jpg",
-      "url": "https://web.rockthesport.com/es/event/v-binaka-trail-oihana-extreme",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 01/10 al 02/10",
-      "type": "escalada",
-      "startDate": "2026-10-02T19:30:00",
-      "endDate": null,
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
-      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-0110-al-0210",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Redolada a Zaragoza",
       "type": "travesia",
@@ -171,6 +136,17 @@
       "url": "https://web.rockthesport.com/es/event/areatzako-mendi-martxa-xiii",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Trail Running y Desafío Rural Bike Salado Paso Las Piedras",
+      "startDate": "2026-10-03T08:00:00-03:00",
+      "endDate": "2026-10-04T17:00:00-03:00",
+      "locationName": null,
+      "image": "https://www.santafe.tur.ar/wp-content/uploads/sites/91/2026/09/WhatsApp-Image-2026-08-03-at-17.32.13-1201x800-1.webp",
+      "url": "https://www.santafe.tur.ar/evento/trail-running-y-desafio-rural-bike-salado-paso-las-piedras/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Santxikorrota'26 - herri lasterketa",
