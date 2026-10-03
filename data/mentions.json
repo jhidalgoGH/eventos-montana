@@ -1,6 +1,69 @@
 {
   "mentions": [
     {
+      "title": "Brillan corredores rarámuri en las pruebas mayores del Chihuahua by UTMB - El Diario de Juárez",
+      "url": "https://diario.mx/estado/2026/oct/03/brillan-corredores-raramuri-en-las-pruebas-mayores-del-chihuahua-by-utmb-1141462.html",
+      "typeHint": "travesia",
+      "image": "https://diario.mx/core/dmx/assets/images/2026/10/03/middle-corre-LRCexa54Q.jpg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Ultra Paine: el corredor que desafió un pronóstico de 3 meses de vida - El Reporte Diario",
+      "url": "https://reportediario.cl/2026/10/03/ultra-paine-el-corredor-que-desafio-un-pronostico-de-3-meses-de-vida/",
+      "typeHint": "travesia",
+      "image": "https://reportediario.cl/wp-content/uploads/2023/04/300525544_437506611732050_2400358810125723763_n.png",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Julen Calvó y Gemma Arenas se imponen en Salomon Ultra Pirineu recortada y atípica",
+      "url": "https://www.mundodeportivo.com/running/20261003/1004234125/julen-calvo-gemma-arenas-imponen-salomon-ultra-pirineu-recortada-atipica.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/03/6ac0fafd4dcf2.jpeg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Conquistan Jenifer y Carlos podios en Chihuahua by UTMB",
+      "url": "https://lagaceta.com.mx/ch/2026/10/03/conquistan-jenifer-y-carlos-podios-en-chihuahua-by-utmb/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Joaquín López, el mejor ultramaratonista de Ecuador, correrá la Media Maratón de Guayaquil",
+      "url": "https://www.eluniverso.com/deportes/otros-deportes/joaquin-lopez-el-mejor-ultramaratonista-de-ecuador-correra-la-media-maraton-de-guayaquil-nota/?outputType=amp",
+      "typeHint": "travesia",
+      "image": "https://www.eluniverso.com/resizer/v2/B6CKLGUDKJB4TH5LRCBJCLLUQA.jpeg?auth=73129150d9a92a1fb19dfb044a348992f59c4c5e01ec994707ba26dcfd24c0a2&amp;width=466&amp;height=533&amp;quality=75&amp;smart=true",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Cuatro rutas de montaña en Cataluña para este otoño: correr sobre un manto de hojas se ...",
+      "url": "https://www.mundodeportivo.com/running/20261003/1004232967/cuatro-rutas-montana-cataluna-otono-correr-sobre-manto-hojas-convierte-parte-entrenamiento.html?facet=amp",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abcfd89442a5.r_d.1179-940-5080.jpeg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Julen Calvó y Gemma Arenas se coronan en la Salomon Ultra Pirineu 2026, marcada por el ...",
+      "url": "https://as.com/masdeporte/polideportivo/julen-calvo-y-gemma-arenas-se-coronan-en-la-salomon-ultra-pirineu-2026-marcada-por-el-temporal-f202610-n/?outputType=amp",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Selva de Irati: dos rutas para correr por uno de los bosques más espectaculares de España en otoño",
+      "url": "https://www.mundodeportivo.com/running/20261003/1004232963/selva-irati-dos-rutas-correr-bosques-espectaculares-espana-otono.html?facet=amp",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/04/14/6257f86abee2c.r_d.699-775-8333.jpeg",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Sp. Italiano vs. Talleres (RE), EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
+      "url": "https://www.tycsports.com/primera-division-b/sp-italiano-vs-talleres-re-en-vivo-donde-ver-por-tv-y-online-id764203.html",
+      "typeHint": "escalada",
+      "image": "https://media.tycsports.com/files/2024/11/07/784712/primera-b_1440x810.webp",
+      "date": "2026-10-03"
+    },
+    {
       "title": "Juan Javier Jiménez y Ana María Torrecillas se han proclamado ganadores de la categoría ...",
       "url": "https://www.facebook.com/DiariodeAlmeria/posts/deportes-juan-javier-jim%C3%A9nez-y-ana-mar%C3%ADa-torrecillas-se-han-proclamado-ganadores/1730443689084172/",
       "typeHint": "carrera",
@@ -635,69 +698,6 @@
       "url": "https://delsurdiario.com/deportes/escalada-acrobacias-y-adrenalina-entre-las-montanas-el-festitrepe-vuelve-a-valle-fertil-con-una-edicion-imperdible",
       "typeHint": "escalada",
       "image": "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/17cc8d8d-f6eb-40b3-a4c2-fb292faf1f53.webp?width=1200&amp;height=630&amp;resize=cover&amp;quality=80",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Gran ambiente en Pico de la Miel durante el Rally 12h La Cabrera - Desnivel.com",
-      "url": "https://www.desnivel.com/escalada-roca/gran-ambiente-en-pico-de-la-miel-durante-el-rally-12h-la-cabrera/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-02"
-    },
-    {
-      "title": "El Hércules quiere prolongar su buena racha ante el Real Jaén y sumar la cuarta victoria ...",
-      "url": "https://cadenaser.com/comunitat-valenciana/2026/10/02/el-hercules-quiere-prolongar-su-buena-racha-ante-el-real-jaen-y-sumar-la-cuarta-victoria-consecutiva-radio-alicante/",
-      "typeHint": "escalada",
-      "image": "https://cadenaser.com/resizer/v2/OHWFHYV2SVAQNJIP3GGSVZBC2Q.jpg?auth=5c7a23c784b5535c3f1f4a02cf5ce6693fc1d4aae1005f1afd3bf96d59c467e4&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Un centenar de marchadores nórdica se dan cita el domingo en Albalá - FEXME",
-      "url": "https://fexme.com/2026/10/02/un-centenar-de-marchadores-nordica-se-dan-cita-el-domingo-en-albala/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Campeona femenina de la segunda temporada de la competición de escalada \"Huellas en ...",
-      "url": "https://www.vietnam.vn/es/nu-vo-dich-giai-leo-nui-buoc-chan-tren-may-mua-2-nhung-trai-nghiem-chan-thuc-cua-hang-tram-nha-bao-sau-moi-mua-giai-da-tao-nen-mot-lan-song-truyen-thong-manh-me",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790908812046_c71338a0-b012-4fa4-bd53-2481e6d26b8c.jpeg",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "La moda cordobesa pisa fuerte en Sevilla: estas son las firmas que desfilarán en Sima 41",
-      "url": "https://www.eldiadecordoba.es/vivir-cordoba/moda-cordobesa-pisa-fuerte-sevilla_0_2008128903.html",
-      "typeHint": "carrera",
-      "image": "https://static.grupojoly.com/clip/bbbaf0f8-6b91-4205-a235-996c72623975_facebook-aspect-ratio_default_0.jpg",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Toni Kroos será el padrino de la Gañafote Cup Destino Huelva 2027",
-      "url": "https://sportshuelva.com/toni-kroos-sera-el-padrino-de-la-ganafote-cup-destino-huelva-2027/",
-      "typeHint": "carrera",
-      "image": "http://sportshuelva.com/wp-content/uploads/2026/10/TONI-KROSS-GANAFOTE.jpg",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Carratraca (Málaga) celebra el 10 y 11 de octubre una nueva carrera 'Alcaparraín Trail' con ...",
-      "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-carratraca-malaga-celebra-10-11-octubre-nueva-carrera-alcaparrain-trail-impulso-diputacion-20261002140453.html",
-      "typeHint": "carrera",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261002140453_1200.jpg",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Carratraca celebra el 10 y 11 de octubre su V Alcaparraín Trail con el impulso de la Diputación",
-      "url": "https://www.malaga.es/noticias/com1_md3_cd-54888/carratraca-celebra-el-10-y-11-de-octubre-su-v-alcaparrain-trail-con-el-impulso-de-la-diputacion?com1_prt=1",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Etxarri Aranatz celebra este fin de semana sus ferias de octubre - Diario de Noticias",
-      "url": "https://www.noticiasdenavarra.com/navarra/2026/10/01/etxarri-aranatz-celebra-semana-ferias-11607582.html",
-      "typeHint": "carrera",
-      "image": null,
       "date": "2026-10-02"
     }
   ]
