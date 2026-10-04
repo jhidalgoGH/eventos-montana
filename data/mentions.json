@@ -1,6 +1,55 @@
 {
   "mentions": [
     {
+      "title": "Campeonatos de España - RFEA",
+      "url": "https://atletismorfea.es/index.php/atletismo-plus/categoria/campeonatos-de-espa%C3%B1a?absolute=&page=2",
+      "typeHint": "travesia",
+      "image": "https://atletismorfea.es/themes/custom/rfea/screenshot.png",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Etapa 2 Sanabria Glaciar Ultra Trail Zamora completada - Vivir Ediciones",
+      "url": "https://vivirediciones.es/zamora/etapa-2-sanabria-glaciar-ultra-trail-zamora-completada/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-04"
+    },
+    {
+      "title": "V TRAIL-RUNNING GOLF SON QUINT PALMA 2024<div class=\"echashtag ... - Elitechip",
+      "url": "https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200082&compsec=detr&cmpats[0]=30726368&zwlng=ca",
+      "typeHint": "travesia",
+      "image": "https://www.elitechip.net/media.php?zwimg=5462120&zwh=200&zww=200&zwrot=0&zwver=891d7",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Salomon Women's Alphacross W Trail Running Shoes, gray, 6.5 - Amazon.com",
+      "url": "https://www.amazon.com/-/es/Salomon/dp/B0FFTHDWNT",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-04"
+    },
+    {
+      "title": "‍♂️⛰️ Así vivimos el sábado en Héroes Raid Series El trail enamora y quedó demostrado en ...",
+      "url": "https://www.instagram.com/p/DeDS0ghDz1y/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/832513836_1775798740689436_6503373979153672513_n.jpg?stp=c211.0.634.634a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=yN9sy2L9ykgQ7kNvwGNFgRS&amp;_nc_oc=AdqGsgvXjueOjIh6Po0hXDntZXGVrPy4MBvztDDV0oMx8FKi6spTMuxN6G9xmqflTNw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=RT-JYsQT8Vw3K45q48sIkA&amp;_nc_ss=7c689&amp;oh=00_AQM8ZPAmdDl-1rXNIADLnwQHz7U_-dsh5-hz9o6tZYHwCQ&amp;oe=6AC7F8CC",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Jhon Atachagua va por su revancha en la ASICS Golden Run: “El año pasado quedé en ...",
+      "url": "https://elcomercio.pe/deporte-total/running/asics-golden-run-2026-jhon-atachagua-va-por-su-revancha-el-ano-pasado-quede-en-segundo-lugar-ahora-quiero-la-medalla-de-oro-noticia/",
+      "typeHint": "travesia",
+      "image": "https://elcomercio.pe/resizer/v2/SQDSGQL5UFBVLMJCGEZ5FBCU3E.jpg?auth=4b94e0a8b09e9c286c10b629e855470002a3c3df91014faf40467954302b4aca&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Peng Youfa - Corredor chino de trail running",
+      "url": "https://baike.baidu.com/es/item/Peng%20Youfa/6427072",
+      "typeHint": "travesia",
+      "image": "https://bkssl.bdimg.com/cms/static/baike.png",
+      "date": "2026-10-04"
+    },
+    {
       "title": "Diario de Almería on X: \"DEPORTES | ‍♂️Atletismo ➡️La VI 'La Burrica Trail' llena de ...",
       "url": "https://x.com/DiarioDAlmeria/status/2106371094139539787",
       "typeHint": "carrera",
@@ -649,55 +698,6 @@
       "url": "https://www.elnuevodia.com.co/judicial/madre-denuncia-presunta-tortura-contra-su-hijo-en-estacion-de-policia-del-tolima-540098",
       "typeHint": "travesia",
       "image": null,
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Jonatan Mendieta e Iris Sedano ganan la Akáa 58K del Chihuahua by UTMB | Notigram",
-      "url": "https://notigram.com/chihuahua-estado/local/jonatan-mendieta-e-iris-sedano-ganan-la-akaa-58k-del-chihuahua-by-utmb-20261002-1801517",
-      "typeHint": "travesia",
-      "image": "https://imgsnotigram.s3.amazonaws.com/uploads/2026/10/wgj8vgwssek475squyswlsan6324sa9lxbbwqsew.jpg",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Conquistan Mendieta y Sedano la Akáa 58K en Chihuahua by UTMB - A Diario Network",
-      "url": "https://www.adiario.mx/estado/conquistan-mendieta-y-sedano-la-akaa-58k-en-chihuahua-by-utmb/",
-      "typeHint": "travesia",
-      "image": "https://www.adiario.mx/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-3.54.12-PM.jpeg",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Conquistan Jonatan Uriel Mendieta e Iris Sedano la Akáa 58K de Chihuahua by UTMB",
-      "url": "https://www.chihuahua.gob.mx/prensa/conquistan-jonatan-uriel-mendieta-e-iris-sedano-la-akaa-58k-de-chihuahua-utmb",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Kilómetro Vertical + Carrera Losar de la Vera 2026 - Trail Running Cal",
-      "url": "https://www.trailrunningcal.com/es/e/kilometro-vertical-carrera-losar-de-la-vera",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-03"
-    },
-    {
-      "title": "El riesgo de tormentas obliga a cancelar La Molina Nit Pirineu 2026 - TURISKI",
-      "url": "https://www.turiski.es/la-molina-nit-pirineu-2026-cancelada-riesgo-tormentas/",
-      "typeHint": "travesia",
-      "image": "https://www.turiski.es/wp-content/uploads/2026/10/La-Molina-Nit-Pirineu-.webp",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "VEJA debuta en el trail running con el lanzamiento del Harpie Trail - Revista P&M",
-      "url": "https://www.revistapym.com.co/articulos/consumidor/101948/veja-debuta-en-el-trail-running-con-el-lanzamiento-del-harpie-trail",
-      "typeHint": "travesia",
-      "image": "https://i.revistapym.com.co/cms/2026/10/02153449/a-la-izquierda-piernas-de-personas-haciendo-hiking-con-zapatos-veja-harpix-en-el-centro-unos-tennis-harpix-morados-y-a-la-derecha-personas-de-cuerpo-completo-haciendo-hiking.jpg?w=1280",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Iris Sedano de Chihuahua Capital gana la rama femenil de la categoría 58K del UTMB",
-      "url": "https://elindicadornoticias.com.mx/contenido/60359/iris-sedano-de-chihuahua-capital-gana-la-rama-femenil-de-la-categoria-58k-del-ut",
-      "typeHint": "travesia",
-      "image": "https://elindicadornoticias.com.mx/download/multimedia.grande.a6c07fa3654072fa.Z3JhbmRlLndlYnA%3D.webp",
       "date": "2026-10-03"
     }
   ]
