@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:35:17.114Z",
+  "updatedAt": "2026-10-05T23:14:00.253Z",
   "events": [
     {
       "name": "Ciclo Final Grado Medio Bloque Específico – Media Montaña / Barrancos / Escalada (2026)",
@@ -1963,6 +1963,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/9b8bfad9-94e1-4e8b-a70a-c3f322d401c8.jpg",
       "url": "https://web.rockthesport.com/es/event/16a-cursa-trail-la-riera-de-gaia-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XVII TRAIL CASTELLNOVO 2026",
+      "type": "carrera",
+      "startDate": "2026-12-13T08:30:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/7fcf6c1e-602f-4f00-b6eb-23e7f55e64d2.png",
+      "url": "https://web.rockthesport.com/es/event/xvii-trail-castellnovo-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
