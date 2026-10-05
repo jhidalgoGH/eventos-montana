@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:54:24.668Z",
+  "updatedAt": "2026-10-05T12:22:36.086Z",
   "events": [
     {
       "name": "Ciclo Final Grado Medio Bloque Específico – Media Montaña / Barrancos / Escalada (2026)",
@@ -1300,6 +1300,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Campeonato de España de Clubes Marcha Nórdica 2026 Crevillent",
+      "type": "travesia",
+      "startDate": "2026-11-07T15:15:00",
+      "endDate": null,
+      "locationName": "Huelva",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/68a566ab-689e-41ea-b533-d9e8f4cb2796.jpg",
+      "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-clubes-marcha-nordica-2026-crevillent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Trail do Marco",
       "type": "carrera",
       "startDate": "2026-11-08",
@@ -2344,7 +2356,7 @@
       "sourceName": "Rockthesport"
     },
     {
-      "name": "Trail Guzmán el Bueno 2027",
+      "name": "Trail Guzmán el Bueno 2027 ",
       "type": "carrera",
       "startDate": "2027-03-13T08:00:00",
       "endDate": null,
