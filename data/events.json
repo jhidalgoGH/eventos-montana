@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:54:00.957Z",
+  "updatedAt": "2026-10-06T12:05:43.860Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -1240,6 +1240,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Curso de Autorescate",
+      "type": "travesia",
+      "startDate": "2026-11-07T09:00:00",
+      "endDate": "2026-11-08T16:00:00",
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-autorrescate-nov26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "IX TRAIL ARRONIZ ",
       "type": "carrera",
       "startDate": "2026-11-07T09:30:00",
@@ -1937,7 +1949,7 @@
       "endDate": null,
       "locationName": "Castellón/Castelló",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/7fcf6c1e-602f-4f00-b6eb-23e7f55e64d2.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/463f6349-c14b-4069-a153-52a4bdffd71d.jpeg",
       "url": "https://web.rockthesport.com/es/event/xvii-trail-castellnovo-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
