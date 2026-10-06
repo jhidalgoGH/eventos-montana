@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-10-05T23:14:00.253Z",
+  "updatedAt": "2026-10-06T05:54:00.957Z",
   "events": [
-    {
-      "name": "Ciclo Final Grado Medio Bloque Específico – Media Montaña / Barrancos / Escalada (2026)",
-      "type": "escalada",
-      "startDate": "2026-10-05T10:00:00",
-      "endDate": "2027-02-21T17:00:00",
-      "locationName": "León",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/8beeb377-6fba-4c8e-b862-e6c24104c7ec.png",
-      "url": "https://web.rockthesport.com/es/event/ciclo-final-grado-medio-bloque-especifico-media-montana-barrancos-escalada-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Escuela de Escalada Valladolid-1er trimestre",
-      "type": "escalada",
-      "startDate": "2026-10-05T16:30:00",
-      "endDate": "2026-12-14T19:30:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/755bd186-dd88-4cb4-a177-1a758b588869.jpg",
-      "url": "https://web.rockthesport.com/es/event/escuela-de-escalada-valladolid-1er-trimestre2627",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Curso de Iniciación a la Escalada en Rocódromos",
-      "type": "escalada",
-      "startDate": "2026-10-05T19:30:00",
-      "endDate": "2026-10-08T22:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/03f04f4f-1866-424a-bf54-f80a8306d583.png",
-      "url": "https://web.rockthesport.com/es/event/curso-de-iniciacion-a-la-escalada-en-rocodromos-oct26",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Canchaque Trail Fest 2026",
       "startDate": "2026-10-08T00:00:00-05:00",
