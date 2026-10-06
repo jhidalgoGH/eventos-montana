@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T17:35:44.665Z",
+  "updatedAt": "2026-10-06T21:45:05.063Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -1915,6 +1915,17 @@
       "locationName": "Chiva, Spain, Chiva, Spain",
       "image": "https://urbanrace.io/wp-content/uploads/2026/07/event-4087.jpg",
       "url": "https://urbanrace.io/events/trail-run/spain/chiva/xi-carrera-por-montana-sierra-de-chiva/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "I Mountain Festival Benahavís by Defender 2026",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "endDate": "2026-12-13T00:00:00.000Z",
+      "locationName": "Polideportivo municipal (salida y meta), Benahavís, ES",
+      "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&amp;fit=crop&amp;w=1600&amp;q=80",
+      "url": "https://www.vemaxsport.com/eventos/i-mountain-festival-benahavis-by-defender-2026-2026",
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
