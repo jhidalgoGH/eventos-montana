@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:51:12.337Z",
+  "updatedAt": "2026-10-07T17:35:55.493Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -854,6 +854,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "I Trail Noceda del Bierzo 2026",
+      "startDate": "2026-10-25T00:00:00+0000",
+      "endDate": "2026-10-25",
+      "locationName": "Pabellón municipal de Noceda del Bierzo, Noceda del Bierzo, León, ES",
+      "image": "https://queverenponferrada.com/wp-content/uploads/2026/10/trail-noceda-del-bierzo-2026-1.jpg",
+      "url": "https://queverenponferrada.com/trail-noceda-del-bierzo-2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "CIMS DELS TRES TURONS 2026",
       "type": "carrera",
       "startDate": "2026-10-25T07:45:00",
@@ -1474,6 +1485,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "XI Entremontañas Paralelo 28 La Aldea 2026",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "endDate": "2026-11-14T00:00:00.000Z",
+      "locationName": "Calle Real, junto a la Alameda y la iglesia de La Aldea de San Nicolás (salida y meta), La Aldea de San Nicolás, ES",
+      "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&amp;fit=crop&amp;w=1600&amp;q=80",
+      "url": "https://www.vemaxsport.com/eventos/xi-entremontanas-paralelo-28-la-aldea-2026-2026",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XXXII Jornadas de Senderos y Senderismo FEDME",
       "startDate": "2026-11-13T00:00:00+00:00",
       "endDate": "2026-11-15T23:59:59+00:00",
@@ -1776,6 +1798,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c897d9dd-9aa3-4e87-b9c1-af376eede5b5.png",
       "url": "https://web.rockthesport.com/es/event/curso-de-crestas-y-aristas-nov26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "10e Trail Senglars, La Mola Extrem, Favara, LMVS. 26/27",
+      "type": "carrera",
+      "startDate": "2026-11-28T09:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/15b459f6-1b53-4b4f-aa0f-fd83d26bc334_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/10e-trail-senglars-la-mola-extrem-favara-lmvs-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
