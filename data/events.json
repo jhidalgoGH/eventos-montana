@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T05:54:09.942Z",
+  "updatedAt": "2026-10-08T12:06:04.419Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -2401,6 +2401,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/iv-atzavares-trail-orba-vall-laguar-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XI. Arrasate-Udalatx mendi lasterketa",
+      "type": "carrera",
+      "startDate": "2027-02-27T09:30:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/xi-arrasate-udalatx-mendi-lasterketa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },

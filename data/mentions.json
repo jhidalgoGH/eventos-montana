@@ -1,6 +1,20 @@
 {
   "mentions": [
     {
+      "title": "CSD San Martín (Burzaco) - Balance contra CD UAI Urquiza | Transfermarkt",
+      "url": "https://www.transfermarkt.es/vergleich/bilanzdetail/verein/28142/gegner_id/45560",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-08"
+    },
+    {
+      "title": "CA Huracán - Balance contra Racing Club - Transfermarkt",
+      "url": "https://www.transfermarkt.es/vergleich/bilanzdetail/verein/2063/gegner_id/1444/sort/anzahl_zuschauer",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-08"
+    },
+    {
       "title": "La Diputación aprueba ayudas a 38 clubes deportivos de la provincia por valor de 323.000 euros",
       "url": "https://infoaxarquia.es/2026/10/07/la-diputacion-aprueba-ayudas-a-38-clubes-deportivos-de-la-provincia-por-valor-de-323-000-euros/",
       "typeHint": "carrera",
@@ -684,20 +698,6 @@
       "url": "https://freeman.la/ciudad-del-cabo-mundial-montana-trail-2027/",
       "typeHint": "travesia",
       "image": "https://freeman.la/images/editorial/ciudad-del-cabo-mundial-montana-trail-2027-v1.png",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "Aprovechar el potencial turístico de la región montañosa de Lai Chau. - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/danh-thuc-tiem-nang-du-lich-cua-mien-son-cuoc-lai-chau",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-07"
-    },
-    {
-      "title": "El Sol del Centro on X: \"⛰️ ‍♂️ ¿Te animas a subir al Cerro del Muerto? Jesús María ...",
-      "url": "https://x.com/ElSoldelCentro_/status/2107606839655338427",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/media/HT-meQkXQAEUUcd?format=webp&amp;name=large",
       "date": "2026-10-07"
     }
   ]
