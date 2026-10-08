@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:35:07.956Z",
+  "updatedAt": "2026-10-08T22:13:51.188Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -2682,6 +2682,18 @@
       "url": "https://web.rockthesport.com/es/event/ii-vertical-hermano-pedro",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "OTSO Travessa d&#x27;Encamp 2027",
+      "startDate": "2027-05-28T05:00:00",
+      "endDate": "2027-05-28T05:00:00",
+      "locationName": "Encamp",
+      "image": "https://static.runnea.com/images/202610/travess-de-encamp-trail-logo-250x250x80.jpg?1",
+      "url": "https://www.runnea.com/carreras-populares/otso-travessa-dencamp-2027/",
+      "country": "Andorra",
+      "type": "travesia",
+      "source": "runnea",
+      "sourceName": "Runnea"
     },
     {
       "name": "44a VOLTA AL TERME DE FONDEGUILLA",
