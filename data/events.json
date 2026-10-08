@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:06:04.419Z",
+  "updatedAt": "2026-10-08T17:35:07.956Z",
   "events": [
     {
       "name": "Canchaque Trail Fest 2026",
@@ -229,6 +229,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/239ca4f8-6224-4bc8-9b11-723b6e87db88.jpg",
       "url": "https://web.rockthesport.com/es/event/v2-liga-infantil-de-escalada-los-realejos",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "La Megalítica",
+      "type": "carrera",
+      "startDate": "2026-10-11T09:00:00",
+      "endDate": null,
+      "locationName": "Girona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15888/library/root/608087be-6aa4-453d-baca-91fcb52afb36.png",
+      "url": "https://web.rockthesport.com/es/event/megalitica",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2389,6 +2401,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6586dfbd-60c8-4223-9183-b6b09e15bd12_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/xv-trail-de-moixent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "C.T.T. TRAIL - 2027",
+      "type": "carrera",
+      "startDate": "2027-02-21T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
+      "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
