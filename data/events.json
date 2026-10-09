@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:58:12.398Z",
+  "updatedAt": "2026-10-09T17:35:06.401Z",
   "events": [
     {
       "name": "Dynafit ANDORRA TRAIL",
@@ -2250,6 +2250,17 @@
       "url": "https://web.rockthesport.com/es/event/viii-almedia-trail-callosa-den-sarria-9e-circuit-trail-marina-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Desafío Manantial Chico Trail Running",
+      "startDate": "2027-01-17T11:00:00-03:00",
+      "endDate": "2027-01-17T17:00:00-03:00",
+      "locationName": "Estancia Manantial Chico, Corpen Aike, Buenos Aires, AR",
+      "image": "https://ticketsati.s3.amazonaws.com/eventos/portada_218_1790698999.jpeg",
+      "url": "https://www.quehacemos.com.ar/eventos/desafio-manantial-chico-trail-running-65710",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "V ULTRAMEDITERRÀNIA TERRES DE TRAIL 2027",
