@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:35:06.401Z",
+  "updatedAt": "2026-10-09T21:47:09.921Z",
   "events": [
     {
       "name": "Dynafit ANDORRA TRAIL",
@@ -1768,6 +1768,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XX TRAIL MULARROYA",
+      "type": "carrera",
+      "startDate": "2026-11-22T09:00:00",
+      "endDate": null,
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/292bd506-7f21-4acf-af15-93b270c6af51.jpeg",
+      "url": "https://web.rockthesport.com/es/event/xx-trail-mularroya",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "II GTF / GEOPARQUE TRAIL FONELAS",
       "type": "carrera",
       "startDate": "2026-11-22T09:45:00",
@@ -2435,7 +2447,7 @@
       "endDate": null,
       "locationName": "Gipuzkoa",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/9e5d0f99-6593-4b5f-817a-cf77fd6fe3da.jpeg",
       "url": "https://web.rockthesport.com/es/event/xi-arrasate-udalatx-mendi-lasterketa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
