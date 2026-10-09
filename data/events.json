@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-08T22:13:51.188Z",
+  "updatedAt": "2026-10-09T05:54:00.047Z",
   "events": [
-    {
-      "name": "Canchaque Trail Fest 2026",
-      "startDate": "2026-10-08T00:00:00-05:00",
-      "endDate": "2026-10-10T23:59:59-05:00",
-      "locationName": "Plaza de Armas de Canchaque, Canchaque, Piura, Perú",
-      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/12/canchaque-trail-fest-2026.webp",
-      "url": "https://www.running4peru.com/eventos/canchaque-trail-fest/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "Dynafit ANDORRA TRAIL",
       "type": "carrera",
