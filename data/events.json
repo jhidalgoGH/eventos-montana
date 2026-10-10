@@ -1,77 +1,6 @@
 {
-  "updatedAt": "2026-10-09T21:47:09.921Z",
+  "updatedAt": "2026-10-10T05:54:06.194Z",
   "events": [
-    {
-      "name": "Dynafit ANDORRA TRAIL",
-      "type": "carrera",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-11",
-      "locationName": "Escaldes-Engordany",
-      "country": "Andorra",
-      "url": "https://itra.run/Races/RaceDetails/Dynafit..ANDORRA.TRAIL.DYNAFIT.ANDORRA.TRAIL.3.Stages/2026/110240",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "(copy) Rocódromo Álvaro Paredes Izquierdo-Semana 05/10 al 09/10",
-      "type": "escalada",
-      "startDate": "2026-10-09T19:30:00",
-      "endDate": "2026-10-09T22:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
-      "url": "https://web.rockthesport.com/es/event/copy-rocodromo-alvaro-paredes-izquierdo-semana-0510-al-0910",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "CNN 2026",
-      "type": "carrera",
-      "startDate": "2026-10-09T20:00:00",
-      "endDate": null,
-      "locationName": "Madrid",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/cnn-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
-    },
-    {
-      "name": "GTP RELEVOS 2026",
-      "type": "carrera",
-      "startDate": "2026-10-09T23:30:00",
-      "endDate": null,
-      "locationName": "Madrid",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/gtp-relevos-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
-    },
-    {
-      "name": "GTP 2026",
-      "type": "carrera",
-      "startDate": "2026-10-09T23:30:00",
-      "endDate": null,
-      "locationName": "Madrid",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/gtp-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/05f333a6-b6af-4c35-af82-53f16ff7274a.jpg"
-    },
-    {
-      "name": "Gran Trail Peñalara 2026",
-      "startDate": "2026-10-09T23:30:00",
-      "endDate": "2026-10-09T23:30:00",
-      "locationName": "Navacerrada, Madrid",
-      "image": "https://static.runnea.com/images/202403/gran-trail-pen771alara-2024-cartel-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/gran-trail-penalara/",
-      "type": "carrera",
-      "source": "runnea",
-      "sourceName": "Runnea",
-      "country": "España"
-    },
     {
       "name": "Chilegua Trail",
       "type": "carrera",
@@ -2133,6 +2062,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Cielo Nocturno - Trail Running",
+      "startDate": "2026-12-19T21:00:00-03:00",
+      "endDate": null,
+      "locationName": "San Juan, AR",
+      "image": "https://ompmpobzmorlrcngrdbk.supabase.co/storage/v1/object/public/files_events/files_events/optimized/main_b99b8fa5b4d5dbb79c96a0ea41f9fffad2a4f745537b2e8650a851365f5343b0.webp",
+      "url": "https://sanjuan.yendly.com/eventos/38101",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "TRAILSERIES COLLDEJOU",
       "type": "carrera",
       "startDate": "2026-12-20",
@@ -2635,6 +2575,17 @@
       "url": "https://itra.run/Races/RaceDetails/Farol.Adventure.Trail...Flores.Azores.Farol.Adventure.Trail.36Km/2027/119159",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Carrera por Montaña Casarabonela",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
+      "locationName": "Casarabonela, ES",
+      "image": "https://trainerday.com/og-td-mark.png",
+      "url": "https://trainerday.com/es/events/es/carrera-por-montana-casarabonela",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XVII Botamarges, Forna, CTM 26/27",
