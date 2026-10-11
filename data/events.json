@@ -1,75 +1,6 @@
 {
-  "updatedAt": "2026-10-10T20:36:29.940Z",
+  "updatedAt": "2026-10-11T05:54:10.005Z",
   "events": [
-    {
-      "name": "Chilegua Trail",
-      "type": "carrera",
-      "startDate": "2026-10-10",
-      "endDate": null,
-      "locationName": "La Pared",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/Chilegua.Trail.Half/2026/118443",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Douro Ultra Trail",
-      "type": "carrera",
-      "startDate": "2026-10-10",
-      "endDate": null,
-      "locationName": "Peso da Regua",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Douro.Ultra.Trail.Ultra.Trail.Solo/2026/117172",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "UTSM-COSTA DAURADA",
-      "type": "carrera",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-11",
-      "locationName": "ULLDEMOLINS",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/UTSM.COSTA.DAURADA.OTSO.MONTSANT.COSTA.DAURADA.ULTRA/2026/115600",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Bizkaia Kopa Trail / BKT 2026 / Arrieta",
-      "type": "carrera",
-      "startDate": "2026-10-10T09:00:00",
-      "endDate": null,
-      "locationName": "Bizkaia",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/bizkaia-kopa-trail-bkt-2026-arrieta",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2105/library/root/7213c955-1461-449a-a8e3-d992823ec0c3.png"
-    },
-    {
-      "name": "Campeonato de Canarias de Escalada de Dificultad 2026",
-      "type": "escalada",
-      "startDate": "2026-10-10T09:00:00",
-      "endDate": null,
-      "locationName": "Santa Cruz de Tenerife",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/d7b29a31-f605-4718-a099-18921676f5d7.jpg",
-      "url": "https://web.rockthesport.com/es/event/v2-campeonato-de-canarias-de-escalada-de-dificultad-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "III. BERTXIN XTREM",
-      "type": "carrera",
-      "startDate": "2026-10-10T10:00:00",
-      "endDate": "2026-10-10T14:00:00",
-      "locationName": "Gipuzkoa",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/iii-bertxin-xtrem",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ddf03b12-8d0e-42f0-ae4e-b628fc8486ce.jpg"
-    },
     {
       "name": "trail cat the race",
       "type": "carrera",
@@ -2633,6 +2564,17 @@
       "url": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Carrera por Montaña del Maestrazgo",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "locationName": "Iglesuela del Cid, ES",
+      "image": "https://trainerday.com/og-td-mark.png",
+      "url": "https://trainerday.com/cs/events/es/carrera-por-montana-del-maestrazgo",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "II Vertical Hermano Pedro",
