@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T05:54:18.691Z",
+  "updatedAt": "2026-10-12T13:17:07.054Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -1557,7 +1557,7 @@
       "url": "https://web.rockthesport.com/es/event/copy-3-dias-trail-ibiza-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11067/library/root/463395e4-1b6a-41c0-b060-2a48b0954242.png"
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11067/custom/root/c1856ca8-6c60-467d-bb9e-9e775d79a45c_custom2.jpg"
     },
     {
       "name": "Caras Nortes Skyrace 2026",
@@ -1757,6 +1757,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "VIII BERREA TRAIL RACE 2026",
+      "type": "carrera",
+      "startDate": "2026-12-12T08:00:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/167a85d0-372f-46ac-812e-caad3978aed9.jpeg",
+      "url": "https://web.rockthesport.com/es/event/viii-berrea-trail-race-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "IV TRAIL SAN SILVESTRE TEMBLECA",
