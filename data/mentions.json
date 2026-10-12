@@ -1,6 +1,258 @@
 {
   "mentions": [
     {
+      "title": "XVI Carrera por Montaña “Subida a Campanarios” - Atletismo Extremadura",
+      "url": "https://atletismoextremadura.com/carreras/xvi-carrera-por-montana-subida-a-campanarios/",
+      "typeHint": "carrera",
+      "image": "https://atletismoextremadura.com/wp-content/uploads/2026/10/6371_evento_31180_cartel-3.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "IV Carrera por Montaña Corre con Nosotras - Atletismo Extremadura",
+      "url": "https://atletismoextremadura.com/carreras/iv-carrera-por-montana-corre-con-nosotras-2/",
+      "typeHint": "carrera",
+      "image": "https://atletismoextremadura.com/wp-content/uploads/2026/10/261121-iv-carrera-por-montana-corre-con-nosotras-cartel.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "IV Carrera por Montaña Corre con Nosotras | ChipSerena. Cronometraje deportivo",
+      "url": "https://www.chipserena.es/it//web-evento/13262-iv-carrera-por-montana-corre-con-nosotras",
+      "typeHint": "carrera",
+      "image": "https://deporticket.blob.core.windows.net/awebs/chipserena.-cronometraje-deportivo/logo-chipserena-blanco-2017-638853183074871968.png",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Girls&Boys: Alfredo Castro dirige a Antonia Zegers - Portal Metropolitano",
+      "url": "https://portalmetropolitano.cl/girlsboys-alfredo-castro-dirige-a-antonia-zegers/",
+      "typeHint": "carrera",
+      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/10/MiguelLecaros1.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Carreras de montaña, incluye pasaje y hospedaja - Facebook",
+      "url": "https://www.facebook.com/groups/585041321625038/posts/28254424350926696/",
+      "typeHint": "carrera",
+      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/844860578_1541477074689388_9122008736167114100_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx841x1256&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=6376bf&amp;_nc_ohc=O3Mt94Kb0PMQ7kNvwFeDG_l&amp;_nc_oc=AdqT5yJLDCz8HMDFpdFT5yaOYBgYqx2eQ48VAJRUI7GVdq_UcqrVTp7Cbj658pJ-_lI&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=iCQq1olejmOCcTTXbXB_Vw&amp;_nc_ss=7c289&amp;oh=00_AQO52FJCn3FcmhCxm2RXFKcWM5sA-hB2j4p35_0HjphpPQ&amp;oe=6AD34DE5",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Atleta catamarqueña se consagró campeona regional Trail - Diario Inforama - Catamarca",
+      "url": "https://inforama.com.ar/deportes/2026/10/12/atleta-catamarquena-se-consagro-campeona-regional-trail/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Podio nacional para atleta local en una competencia importante de trail - Diario Inforama",
+      "url": "https://inforama.com.ar/deportes/2026/10/12/podio-nacional-para-atleta-local-en-una-competencia-importante-de-trail/",
+      "typeHint": "travesia",
+      "image": "https://inforama.com.ar/wp-content/uploads/2026/10/IMG-20261012-WA0147.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Speedland Trail Running Shoes - TikTok",
+      "url": "https://www.tiktok.com/@trailrunningalec/photo/7690036057089330445",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Torneo Patagónico de Acrobacia Aérea: notables logros obtenidos por Felicitas Fiocco Temi",
+      "url": "https://www.zapala-noticias.com.ar/torneo-patagonico-de-acrobacia-aerea-notables-logros-obtenidos-por-felicitas-fiocco-temi/",
+      "typeHint": "travesia",
+      "image": "https://www.zapala-noticias.com.ar/wp-content/uploads/2026/10/felic.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "ANDREA AGONAL SE LUCIÓ EN LAS MONTAÑAS DE SALTA - MONTE MAIZ MIRA",
+      "url": "https://montemaizmira.com.ar/nota/25839/andrea-agonal-se-luci-en-las-montaas-de-salta",
+      "typeHint": "travesia",
+      "image": "https://montemaizmira.com.ar/10-2026/resize_1791843314.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Trail Running Parque Cantillana 2026 ‍♀️ 🏔️ #trails #trailrunning #deportes - Instagram",
+      "url": "https://www.instagram.com/p/DeaPhBMj20H/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/845012846_18398266795207044_1005173921000703738_n.jpg?stp=c614.0.1843.1843a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=sfeFWEO2VkUQ7kNvwGBHt_W&amp;_nc_oc=AdpMH1kXtLiZ7QaMi3yOPbXUaejb2kVLk4CJMvBfH5Kb0r4x72Uuq52FVdieHBOKQTk&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=MExbixSgygOqPl005XeBBQ&amp;_nc_ss=7c689&amp;oh=00_AQPV0MPUch9PJy8sLEpTVPwe7jb6q5RzhCaozzQT8cIgTA&amp;oe=6AD3282D",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Fernando Mendieta Campeón argentino de Long Distance y entrenador Nos da tres ... - Instagram",
+      "url": "https://www.instagram.com/reel/DeaPvDchQae/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/844252684_18147675985603233_6200477115707017935_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=BmQ2XSnHQfcQ7kNvwFr5w_U&amp;_nc_oc=Ado1obQH_JesSxo4zSB2tNFX_hfsLJzOmbPAJgbzluGK6BDIqZgvs64dbMuQubz8MN0&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=ek6_q4NG8wQSD6I2qWqwVQ&amp;_nc_ss=7c689&amp;oh=00_AQP0H3OJ2mvC2mGI2jXja86k2zlOG5dkSXh-edm963RWxg&amp;oe=6AD32AEF",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Dos personas sufrieron fracturas durante una carrera en las sierras de Córdoba y tuvieron ...",
+      "url": "https://www.infobae.com/sociedad/2026/10/12/dos-personas-sufrieron-fracturas-durante-una-carrera-en-las-sierras-de-cordoba-y-tuvieron-que-ser-rescatadas/",
+      "typeHint": "travesia",
+      "image": "https://www.infobae.com/resizer/v2/CII34HNNCZGIJPJCOOAJFUDUWQ.png?auth=1e1da15fd44ccb3e308b37830a961122df13bf96a24561956ebfbfb8163feaaf&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Plan Pehuén: se prepara un Ateneo de Tecnologías Educativas en Las Lajas - zapala-noticias",
+      "url": "https://www.zapala-noticias.com.ar/plan-pehuen-se-prepara-un-ateneo-de-tecnologias-educativas-en-las-lajas/",
+      "typeHint": "travesia",
+      "image": "https://www.zapala-noticias.com.ar/wp-content/uploads/2026/10/md-32.webp",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "El compostelano Roberto Ouro gana el Premio Luces de Granada con una fotografía de Os Ancares",
+      "url": "https://www.diariodesantiago.es/santiago/el-compostelano-roberto-ouro-gana-el-premio-luces-de-granada-con-una-fotografia-de-os-ancares/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Así vivimos el 5.º Trail Running Camp en Cerro de la Cruz, 7 km y 714 m de ascenso ...",
+      "url": "https://www.instagram.com/p/DeaLNKqmsT7/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/844460982_18044072318828019_2837743227683648177_n.jpg?stp=c320.0.960.960a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ifkggt0oOEMQ7kNvwHDOwdv&amp;_nc_oc=AdorlEgfMzWFepEIDYrvmgnXhaXI9FIBmuzUKLs5Jr5ChtW5xvKakWDKoKgP1r-TK-w&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;_nc_gid=svak17oNJW8JkPG_5pu3zQ&amp;_nc_ss=7c689&amp;oh=00_AQMdIXKahlxM0UU_ZDR1B2dFIuB3B-17lXZmcvFMVTy9JA&amp;oe=6AD3454C",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "El DUAR rescató a dos corredores fracturados y a una pareja perdida",
+      "url": "https://elobjetivo.com.ar/contenido/102267/el-duar-rescato-a-dos-corredores-fracturados-y-a-una-pareja-perdida",
+      "typeHint": "travesia",
+      "image": "https://elobjetivo.com.ar/download/multimedia.normal.b6cbb2f9d97a0335.bm9ybWFsLndlYnA%3D.webp",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "TRAIL DE ANNA | Mi corazón marca el LÍMITE… así he corrido este TRAIL ❤️ - YouTube",
+      "url": "https://www.youtube.com/watch?v=TPwrlM1D8V8",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "CALCULADORAS RUNNING Y TRAIL RUNNING - Dani Hernández Coach",
+      "url": "https://danihernandezcoach.com/calculadoras-running-y-trail-running/",
+      "typeHint": "travesia",
+      "image": "https://danihernandezcoach.com/wp-content/uploads/2025/05/inversa-1.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Gran actuación del equipo Izaguirre Jiu Jitsu Colonia en el Torneo Nacional “CPC Adidas”",
+      "url": "https://helvecia.com.uy/2026/10/12/gran-actuacion-del-equipo-izaguirre-jiu-jitsu-colonia-en-el-torneo-nacional-cpc-adidas/",
+      "typeHint": "travesia",
+      "image": "https://helvecia.com.uy/wp-content/uploads/2026/10/j1-scaled.jpeg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Anxo Otero e Olalla Saborido coróanse no trail Entre Pontes de Vigo",
+      "url": "https://www.farodevigo.es/deportes/2026/10/12/anxo-otero-olalla-saborido-vencedores-segunda-proba-entre-pontes-trail-running-135261529.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Jóvenes de Tricao Malal afianzan su espacio de “Escucha Joven” | Neuquen Informa",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/12/265326-jovenes-de-tricao-malal-afianzan-su-espacio-de-escucha-joven",
+      "typeHint": "travesia",
+      "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/80/64/2806481_84ea8efce8b744866ecbcea6e42861d834b2618ffaded4a2c69ccad15848858f/xs.webp?_v=v3-47",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Trail Running News - Facebook",
+      "url": "https://www.facebook.com/trailrunningnew/posts/1715546367246290/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t51.82787-15/807901140_18126487681873590_4710637192476513947_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=RVlrR2dYP20Q7kNvwFklx4B&amp;_nc_oc=AdrkcabHcc8EVfacYyQPFTVyEELxbRg2JIwGIUhcBOYa4meV_6rgM8IyFsc2kTZX5W4&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=0bpwxkRsdImRARLmEBsZug&amp;_nc_ss=7c289&amp;oh=00_AQMWqhuCa836MM2kZ9IpqP5NyES9uwYhRooUcsmoHW2LsA&amp;oe=6AD34EFA",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Santa Brígida abre sus puertas a atletas de todo el planeta en la 360º The Challenge",
+      "url": "https://www.laprovincia.es/deportes-canarias/2026/10/12/santa-brigida-abre-puertas-atletas-135260044.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Nike ACG Pegasus GORE-TEX zapatillas de trail running para mujer - FA26",
+      "url": "https://www.sportsshoes.com/es-es/product/nik26081/nike-acg-pegasus-gore-tex-zapatillas-de-trail-running-para-mujer---fa26",
+      "typeHint": "travesia",
+      "image": "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/93503/527685/NIK26081_1000_1__03303.1787836576.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "la expedición de tres mujeres en el Campo de Hielo Sur ... - Facebook",
+      "url": "https://www.facebook.com/SenalCalafate/posts/%F0%9D%97%96%F0%9D%97%BC%CC%81%F0%9D%97%BA%F0%9D%97%BC-%F0%9D%97%B3%F0%9D%98%82%F0%9D%97%B2-%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6%CC%81%F0%9D%97%AE-%F0%9D%97%B9%F0%9D%97%AE-%F0%9D%97%B2%F0%9D%98%85%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%BC%CC%81%F0%9D%97%BB-%F0%9D%97%B1%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%BA%F0%9D%98%82%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B2%F0%9D%97%BB-%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%BF-%F0%9D%97%BE%F0%9D%98%82%F0%9D%97%B2/1752889693510033/",
+      "typeHint": "festival",
+      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/844630313_1795458031656194_7903193627110596333_n.png?stp=dst-jpg_tt6&amp;cstp=mx749x936&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=R3DYhjemjjMQ7kNvwEu1wxu&amp;_nc_oc=AdqTlGrJ75lRtWsvGEyS8G6bVFwCYqDoVOtHaP4qRFn6qb-H_3gpkcuck8DktapOY38&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=95tYfWZxNxrPdMd5qo0W2g&amp;_nc_ss=7c289&amp;oh=00_AQNS9nQLNIQR3LUDPGSr8xLt9LkXzFvNEFzkewkK79hKYg&amp;oe=6AD35D55",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "María José Estrada Planell, escaladora poblana, apunta a Brisbane 2032 | Exclusivas Puebla",
+      "url": "https://exclusivaspuebla.com.mx/maria-jose-estrada-planell-apunta-a-brisbane-2032/",
+      "typeHint": "escalada",
+      "image": "https://exclusivaspuebla.com.mx/wp-content/uploads/2026/10/Maria-Jose-Estrada-Planell-escaladora-poblana-apunta-a-Brisbane-2032-2.webp",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Martina Suárez alcanzó la tercera posición en el Regional de Escalada Deportiva - El Chubut",
+      "url": "https://www.elchubut.com.ar/nota/2026-10-12-18-20-0-martina-suarez-alcanzo-la-tercera-posicion-en-el-regional-de-escalada-deportiva",
+      "typeHint": "escalada",
+      "image": "https://pxbcdn.elchubut.com.ar/chubut/102026/1791840243939.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Dodgers vs Brewers: ¿A qué hora y dónde ver EN VIVO el Juego 2 de la Serie de ...",
+      "url": "https://www.cronica.com.mx/deportes/2026/10/12/dodgers-vs-brewers-a-que-hora-y-donde-ver-en-vivo-el-juego-2-de-la-serie-de-campeonato-mlb/",
+      "typeHint": "escalada",
+      "image": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/YG4GZR6DPRDSJHS4SNGBAT2TLA.png?auth=c2ea20dad155c8780da4bd2624a109ceb597c0afa01a9eced6eb97fa6bc857ad&amp;width=1200",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Tabla de Champions League 2026-27: los equipos que buscan escalar posiciones en la fecha 2",
+      "url": "https://www.expreso.ec/deportes/tabla-champions-league-2026-27-equipos-buscan-escalar-posiciones-fecha-2-299078.html",
+      "typeHint": "escalada",
+      "image": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/12/6acd455a6dc8a.r_d.2840-1893-2112.jpeg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "La cantera del Recreativo de Huelva se luce este fin de semana - Albiazules.es",
+      "url": "https://www.huelva24.com/albiazules/12102026-la-cantera-del-recreativo-de-huelva-se-luce-este-fin-de-semana/",
+      "typeHint": "escalada",
+      "image": "https://www.huelva24.com/albiazules/wp-content/uploads/2025/11/InfantilD1.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "La UE exhibe una parca respuesta militar ante la escalada en Yemen - Yahoo Noticias",
+      "url": "https://es-us.noticias.yahoo.com/ue-exhibe-parca-respuesta-militar-192902002.html",
+      "typeHint": "escalada",
+      "image": "https://s.yimg.com/lo/mysterio/api/9922fa9cebec79261dc21cbe6e0499e618fbc2182339233ffc9dedf17ba518c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Feuronews_es_us_articles_146%2Fc47af3844f846ecc7345ac33014e61df.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "El aeropuerto de Riad seguirá cerrado hasta el sábado en plena escalada de ataques hutíes",
+      "url": "https://www.ondavasca.com/el-aeropuerto-de-riad-seguira-cerrado-hasta-el-sabado-en-plena-escalada-de-ataques-huties/",
+      "typeHint": "escalada",
+      "image": "https://cdn2.ondavasca.com/8c4ae55a-9883-4e0e-a8f1-cb384a0835fb_16-9-discover_1200x630.jpg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "El Quesos El Hidalgo Manzanares frena en seco la escalada de ElPozo Murcia en un ... - AsturSala",
+      "url": "https://astursala.es/articulos/el-quesos-el-hidalgo-manzanares-frena-en-seco-la-escalada-de-elpozo-murcia-en-un-festival-de-goles-4-6",
+      "typeHint": "escalada",
+      "image": "https://admin.asturfutsal.es/img/articulos/2026/10/12/2026_10_12_6acd07babccba.webp",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Mercedes se prepara para seis carreras de F1 pese a las dudas sobre Qatar y Abu Dhabi",
+      "url": "https://www.carburando.com/notas/mercedes-se-prepara-para-seis-carreras-de-f1-pese-a-las-dudas-sobre-qatar-y-abu-dhabi",
+      "typeHint": "escalada",
+      "image": "https://www.carburando.com/media/cache/resolve/post_desktop_1000/images/6acd2cc41af3a250085924.jpeg",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "River se juega puntos clave ante Sarmiento para escalar posiciones - Radio 3 Cadena Patagonia",
+      "url": "https://radio3cadenapatagonia.com.ar/river-se-juega-puntos-clave-ante-sarmiento-para-escalar-posiciones/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-12"
+    },
+    {
       "title": "Presentada la Barbudo Sky Race, final de la Copa de España de Carreras por Montaña en Línea",
       "url": "https://www.facebook.com/sietedias.jumilla/posts/presentada-la-barbudo-sky-race-final-de-la-copa-de-espa%C3%B1a-de-carreras-por-monta%C3%B1/1714253877374566/",
       "typeHint": "carrera",
@@ -447,258 +699,6 @@
       "typeHint": "escalada",
       "image": "https://media.launion.com.ar/p/b7c8bed1e3f71b3d1a7bcedd4770ce64/adjuntos/379/imagenes/100/146/0100146572/1200x675/smart/camioneros.jpg",
       "date": "2026-10-12"
-    },
-    {
-      "title": "Venados Buscan Un Respiro Y Los Chicharroneros Quieren Escalar Posiciones - La Red 106.1 FM",
-      "url": "https://www.lared1061.com/posts/venados-buscan-un-respiro-y-los-chichcarroneros-quieren-escalar-posiciones",
-      "typeHint": "escalada",
-      "image": "https://cms.lared1061.com/wp-content/uploads/2026/10/844148901_4016856631953398_6284130003730304306_n.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Atlético de San Luis vs. Santos Laguna: ¿dónde ver en vivo el partido de la Jornada 11 de ...",
-      "url": "https://www.cronica.com.mx/deportes/2026/10/11/atletico-de-san-luis-vs-santos-laguna-donde-ver-en-vivo-el-partido-de-la-jornada-11-de-la-liga-mx/",
-      "typeHint": "escalada",
-      "image": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/XSSNHUDA7FGL5PYZFHPEFRNK2M.png?auth=c319130c1ac649c8db165a96f33ad12a85f4f75d45ecef5154d07b5be8bb76e0&amp;width=1200",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "El touchdown del engaño: pizarra y magia de Arizona Cardinals ante los Lions",
-      "url": "https://www.eldesmarque.com/otros-deportes/20261011/broncos-chargers-touchdown-quatoriano-brisset_18_020409479.html?amp=true",
-      "typeHint": "escalada",
-      "image": "https://album.mediaset.es/eimg/2026/10/11/el-touchdown-de-quitoriano-de-los-cardinals-16-9-aspect-ratio-default-0_da39.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Andrés Cumbreras y Laura Ramos se adjudican la I MN El Santiscal de la Copa de ... - fadmes",
-      "url": "https://fadmes.es/andres-cumbreras-y-laura-ramos-se-adjudican-la-i-mn-el-santiscal-de-la-copa-de-andalucia-y-el-onubense-sigue-lider-junto-con-inmaculada-rosales/",
-      "typeHint": "escalada",
-      "image": "https://fadmes.es/wp-content/uploads/2026/10/LIDEERES.jpeg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "XX CARRERA POR MONTAÑA Y MARCHA A PIÉ SERRA DEL COTO - Mychip",
-      "url": "https://www.mychip.es/e/xx-carrera-por-montana-y-marcha-a-pie-serra-del-coto",
-      "typeHint": "carrera",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Recoleta lleva el jazz a tres escuelas de la comuna - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/recoleta-lleva-el-jazz-a-tres-escuelas-de-la-comuna/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/10/Recoleta-jazz.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Maia Coletto, segunda en la general de 15K del UTACCH",
-      "url": "https://realidadsm.com/2026/10/11/maia-coletto-segunda-15k-utacch/amp/",
-      "typeHint": "travesia",
-      "image": "https://i0.wp.com/realidadsm.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-11-at-11.50.52.jpeg?fit=833%2C1200&amp;ssl=1",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Jujuy (7, 12 y 20 Km) ‍♀️ ‍♀️ . . 🗓️Sábado 26 de Diciembre Tilcara - Instagram",
-      "url": "https://www.instagram.com/p/DeXCetOjMBH/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t39.30808-6/841411432_1539175568234070_7231320279413401537_n.jpg?stp=c172.0.519.518a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4G7YGSJ8uz0Q7kNvwF64zRy&amp;_nc_oc=AdqJ9Yw8dsOdGzdM96sbmdr5AZJrgbji28dktl5kt4xI2WDaaiD2-HlvqdKiWOWjFBU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=SMAVSVJ9iKtw8_Dd5c6wzg&amp;_nc_ss=7c689&amp;oh=00_AQNLW7MA7bk8JQZVbfy6LdrPUrq7FpaGoFij1_dPNX1HBg&amp;oe=6AD1C289",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Running Team K2: trail \"a lo Checho\", la propuesta de Sergio Pagliafora en Mendoza",
-      "url": "https://mendozacorre.com/running-team-k2-sergio-checho-pagliafora-trail-mendoza/",
-      "typeHint": "travesia",
-      "image": "https://mendozacorre.com/wp-content/uploads/2026/10/K2-Running-Team-Checho-Pagliafora-2.webp",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Viajó desde Paraguay para celebrar los 50 años de casados de sus padres y terminó ... - La Gaceta",
-      "url": "https://www.lagaceta.com.ar/nota/1157611/deportes/viajo-desde-paraguay-para-celebrar-50-anos-casados-sus-padres-termino-corriendo-21k-la-gaceta.html",
-      "typeHint": "travesia",
-      "image": "https://img.lagaceta.com.ar/fotos/notas/2026/10/11/edgar-gomez-mostro-camiseta-paraguay-al-cruzar-meta-tucuman-1157611-140601.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "De momento bronce en los 1500 metros y oro por equipos en ciclismo en ruta en los Juegos ...",
-      "url": "https://www.calatayudnoticias.com/deporte/79-polideportivo/18191-de-momento-bronce-en-los-1500-metros-y-oro-por-equipos-en-ciclismo-en-ruta-en-los-juegos-europeos-de-policias-y-bomberos-para-ruben-colchero",
-      "typeHint": "travesia",
-      "image": "https://www.calatayudnoticias.com/images/deportes/26/a11/europeos%20policia%20ruben%20colchero.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "25k trail running - Facebook",
-      "url": "https://www.facebook.com/groups/623035671908099/posts/2211177476427236/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/845812246_10165074557217552_6067011742412964836_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1169x884&amp;ctp=p600x600&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=6376bf&amp;_nc_ohc=qRFQnvb49KEQ7kNvwGEJF_M&amp;_nc_oc=AdrytfEDkv-5LtLiUmO51vtzOdQ5I3F35eAWsrtS70KuPiwHqiY0X5GQTlceEnGKw40&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=6aK_Hl82pEcbv8DDrhXRUw&amp;_nc_ss=7c289&amp;oh=00_AQMgHLbJ1SZSgRuem8N19mMz8LhO9ySEl6qaOV3ZKGonnA&amp;oe=6AD1DC21",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "VMM 100K: 103 Kilometres Through the Mud and Mountains of Sapa - AETRAIL",
-      "url": "https://aetrail.com/vmm-100k-103-kilometres-through-the-mud-and-mountains-of-sapa/",
-      "typeHint": "travesia",
-      "image": "https://aetrail.com/wp-content/uploads/2026/10/Maraton-de-Montana-en-Vietnam_-EN.webp",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Rubén Martín Sánchez y María Jesús Marco se imponen en el TP60 del FUGA Gran Trail de ...",
-      "url": "https://www.territoriotrail.es/ruben-martin-sanchez-y-maria-jesus-marco-se-imponen-en-el-tp60-del-fuga-gran-trail-de-penalara/",
-      "typeHint": "travesia",
-      "image": "https://www.territoriotrail.es/wp-content/uploads/2026/10/GTP-2026_TP60_©️Jose-Miguel-Munoz_20.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Amos Kipruto gana la Maratón de Chicago con una exhibición de poderío",
-      "url": "https://www.mundodeportivo.com/running/20261011/1004237440/amos-kipruto-gana-maraton-chicago-exhibicion-poderio.html?facet=amp",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/11/6acba695bc9d4.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "México pide a sus ciudadanos en Arabia Saudí evitar aeropuertos ante escalada de violencia",
-      "url": "https://www.cronica.com.mx/mundo/2026/10/11/mexico-pide-a-sus-ciudadanos-en-arabia-saudi-evitar-aeropuertos-ante-escalada-de-violencia/",
-      "typeHint": "escalada",
-      "image": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/I4F5FCQSHNCH5O5L3DSLYIWGEI.jpg?auth=b556c21c308ebe65483f52dbf43d01b19bffd873831a8ad0134413768dbd2e5b&amp;width=1200",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Gira de supervisión presidencial coincide con escalada en conflicto del IMSS - La Capital",
-      "url": "https://www.lacapital.com.mx/noticia/115400-Gira_de_supervision_presidencial_coincide_con_escalada_en_conflicto_del_IMSS",
-      "typeHint": "escalada",
-      "image": "https://www.lacapital.com.mx/files/news/imss_conflicto_laboral_oct_2026.png",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Manuel Turizo, el último gran fichaje del NFL Madrid Game 2026 - ElDesmarque",
-      "url": "https://www.eldesmarque.com/otros-deportes/20261011/manuel-turizo-nfl-madrid-game_18_020409227.html?amp=true",
-      "typeHint": "escalada",
-      "image": "https://album.mediaset.es/eimg/2026/10/11/manuel-turizo-artista-invitado-para-el-nfl-madrid-game-2026-16-9-aspect-ratio-default-0_da39.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Gran Premio de Singapur: Colapinto abandonó la carrera tras una falla en su auto",
-      "url": "https://mnews.com.ar/deportes/182141-Gran-Premio-de-Singapur-Colapinto-abandono-la-carrera-tras-una-falla-en-su-auto",
-      "typeHint": "escalada",
-      "image": "https://mnews.com.ar/resizer.asp?archivo=2026/cola.jpg&width=640&height=480&formato=webp",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "ASICS METAFUJI TRAIL 2 | NOW A REAL TRAIL SUPER SHOE - YouTube",
-      "url": "https://www.youtube.com/watch?v=qQ5UvX-PcxA",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Arranca la Trail Cat The Race, prueba de 466 kilómetros entre Andorra y Tarragona",
-      "url": "https://www.diaridetarragona.com/deportes/polideportivo/272882/arranca-trail-cat-the-race-prueba-466-kilometros-andorra-tarragona.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes.diaridetarragona.com/files/og_thumbnail/uploads/2026/10/11/6acbb207ae4fc.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Trail running en Pelileo- running Hallowen @Run&Fun #running #trailrun... | TikTok",
-      "url": "https://www.tiktok.com/@dome09_oficial/video/7695440069166992661",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Rubén Martín Sánchez y María Jesús Marco se imponen en el TP60 del FUGA Gran Trail de ...",
-      "url": "https://www.territoriotrail.es/amp/ruben-martin-sanchez-y-maria-jesus-marco-se-imponen-en-el-tp60-del-fuga-gran-trail-de-penalara/",
-      "typeHint": "travesia",
-      "image": "https://www.territoriotrail.es/wp-content/uploads/2026/10/GTP-2026_TP60_&copy;&#65039;Jose-Miguel-Munoz_20.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "CANFRANC 2026 Carrera Trail Running Maratón en Pirineos con Adidas Terrex - YouTube",
-      "url": "https://www.youtube.com/watch?v=JmVVusl8CaQ",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "La parrilla televisiva mezcla deporte, cine, series y programas de actualidad - El Output",
-      "url": "https://eloutput.com/noticias/general/la-parrilla-televisiva-mezcla-deporte-cine-series-y-programas-de-actualidad/",
-      "typeHint": "travesia",
-      "image": "https://eloutput.com/wp-content/uploads/2026/10/programacion-tv-1.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Kipchoge agranda su leyenda con su victoria en el maratón de Melbourne",
-      "url": "https://www.mundodeportivo.com/running/20261011/1004237314/kipchoge-agranda-leyenda-victoria-maraton-melbourne.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/10/11/6acb5c23a5fda.r_d.1495-934-4000.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Calzado Barefoot Para Correr Y Baloncesto | Horma Ancha Y Suela Antideslizante - arcat",
-      "url": "https://www.arcat.info/index.php/445843/Para-Correr-Y-Baloncesto-Horma-Ancha-Y-Suela-Antideslizante",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "helly hansen hombre: chaqueta verglas infinity shell jacket 2.0. - carreras de montaña, por mayayo",
-      "url": "https://carrerasdemontana.com/2026/10/11/helly-hansen-verglas-infinity-shell-jacket-2-0-mayayo/amp/",
-      "typeHint": "travesia",
-      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/10/black-diamond-chaqueta-hombre-deploy-3L-shell-.webp",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Un exfutbolista andaluz conquista la Major norteamericana de las UTMB World Series",
-      "url": "https://www.mundodeportivo.com/running/20261011/1004237359/exfutbolista-andaluz-conquista-major-norteamericana-utmb-world-series.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/11/6acb72bfd9049.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Playera de trail running de manga larga Dri-FIT para mujer ACG Radical AirFlow NXT. Nike.com",
-      "url": "https://www.nike.com/mx/t/playera-de-trail-running-de-manga-larga-dri-fit-para-mujer-acg-radical-airflow-nxt-jjEWSVyk/reviews",
-      "typeHint": "travesia",
-      "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/65a06767-247c-481d-8f4d-e693e30df326/W+ACG+DF+RA+NXT+LS.png",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Jorge Hernández y Libertad Rivero vencen en la categoría reina de la III Brutraltrail Machado",
-      "url": "https://www.ayuntamientoelrosario.org/index.php/2026/10/11/jorge-hernandez-y-libertad-rivero-vencen-en-la-categoria-reina-de-la-iii-brutraltrail-machado/",
-      "typeHint": "travesia",
-      "image": "https://www.ayuntamientoelrosario.org/wp-content/uploads/2026/10/III-Brutaltrail-Machado-2026-3-scaled.jpg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Cuatro rutas españolas de trail running que merecen la pena hacer este otoño después de ...",
-      "url": "https://www.mundodeportivo.com/running/20261011/1004235303/cuatro-rutas-espanolas-trail-running-merecen-pena-otono-dias-lluvia.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2022/08/03/62ea4cd4f2e4d.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Ossama Ghazi y Ángela Morales triunfan en la III Brutraltrail Machado de El Rosario",
-      "url": "https://lavozcanaria.com/area-metropolitana-tenerife/general/ossama-ghazi-y-angela-morales-triunfan-en-la-iii-brutraltrail-machado-de-el-rosario",
-      "typeHint": "travesia",
-      "image": "https://lavozcanaria.com/media/2026/10/ossama-ghazi-y-angela-morales-triunfan-en-la-iii-brutraltrail-machado-de-el-rosario.webp",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Jordi Canes, 37 años, trail runner: \"Correr por la montaña me ayuda a poner orden en los ...",
-      "url": "https://www.mundodeportivo.com/running/20261011/1004232864/jordi-canes-37-anos-trail-runner-correr-montana-me-ayuda-poner-orden-cajones-mi-vida.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abcc8dd5487e.r_d.1268-699-5882.jpeg",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Salomon Zapatillas de Trail Running Ultra Glide 4 Código 491412 Negro - Amazon",
-      "url": "https://www.amazon.es/Salomon-Zapatillas-Running-C%C3%B3digo-491412/dp/B0HCX2HQNW",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Zapatilla Trail Running Hombre Amplux 2 - Lowa - ONE KAYAK",
-      "url": "https://onekayak.cl/zapatilla-trail-running-hombre-amplux-2/348313",
-      "typeHint": "travesia",
-      "image": "https://assets.altaventa.cl/sherpa/media/img/28/28450aff1a88ff9589717ce54a99f400.jpg",
-      "date": "2026-10-11"
     }
   ]
 }
