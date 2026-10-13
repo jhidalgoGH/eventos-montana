@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:35:02.814Z",
+  "updatedAt": "2026-10-13T21:54:05.092Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -896,7 +896,7 @@
       "name": "XXXV CROSS 3 REFUGIOS",
       "type": "carrera",
       "startDate": "2026-11-01T09:00:00",
-      "endDate": "2026-11-01",
+      "endDate": null,
       "locationName": "Madrid",
       "country": "España",
       "url": "https://web.rockthesport.com/es/event/xxxv-cross-3-refugios",
