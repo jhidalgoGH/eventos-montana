@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T05:54:18.862Z",
+  "updatedAt": "2026-10-13T12:47:16.159Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -22,6 +22,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/15760/library/root/053903f1-2f08-4ef6-8733-83f7cc26f9a6.jpg",
       "url": "https://web.rockthesport.com/es/event/concentracion-escalada-arnedillo-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 13/10 al 16/10",
+      "type": "escalada",
+      "startDate": "2026-10-16T19:30:00",
+      "endDate": "2026-10-16T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-1310-al-1610",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -385,7 +397,7 @@
       "endDate": null,
       "locationName": "Palmas (Las)",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/58a83489-6792-495c-b8df-73dadd00927f.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/3e1e6403-e7b7-4d41-b19a-ffec203d766f.jpg",
       "url": "https://web.rockthesport.com/es/event/x-encuentro-de-escalada-clasica-ayacata",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2423,6 +2435,17 @@
       "image": "https://trainerday.com/og-td-mark.png",
       "url": "https://trainerday.com/es/events/es/carrera-por-montana-casarabonela",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "MIUT® - Madeira Island Ultra-Trail® 2027",
+      "startDate": "2027-04-24T00:00:00.0000000",
+      "endDate": "2027-04-25T14:00:00.0000000",
+      "locationName": "Islas Madeira",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/12289/library/root/5a6c021a-9476-4dc5-b25b-882be8c2bae1.jpg",
+      "url": "https://web.rockthesport.com/es/event/miut-2027",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
