@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T23:40:22.183Z",
+  "updatedAt": "2026-10-13T05:54:18.862Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -599,6 +599,17 @@
       "url": "https://itra.run/Races/RaceDetails/X.SIERRA.BULLONES.32KM/2026/117161",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Senderismo, ciclismo de montaña, trail running y canicross: Los senderos de Brulhois en Saint-Loup.",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "locationName": "Salles des fêtes, Saint-Loup, Tarn-et-Garonne, FR",
+      "image": "https://cdn.iris-etourism.io/media/adt_tarn_garonne/7988187/1ec4d5ecd65bae04.webp",
+      "url": "https://www.tourisme-tarnetgaronne.fr/es/fete-manifestation/randonnee-pedestre-vtt-trail-et-canicross-les-sentiers-du-brulhois-a-saint-loup-2/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "KAMURO Trail running",
