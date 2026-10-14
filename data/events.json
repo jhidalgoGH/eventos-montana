@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T17:35:09.859Z",
+  "updatedAt": "2026-10-14T20:48:01.003Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -1950,7 +1950,7 @@
       "name": "XX CARRERA POR MONTAÑA Y MARCHA A PIÉ SERRA DEL COTO",
       "type": "travesia",
       "startDate": "2026-12-20T08:00:00",
-      "endDate": "2026-12-20",
+      "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/87d10bc1-37ce-4bb5-ab3f-bae8bf18d1bb_custom1.jpeg",
@@ -2228,6 +2228,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
       "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "IX Larrate Trail",
+      "type": "carrera",
+      "startDate": "2027-02-21T10:00:00",
+      "endDate": "2027-02-21T15:00:00",
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1339/library/root/1f824dc3-8017-4fc2-bf2a-0e9575202f17.jpg",
+      "url": "https://web.rockthesport.com/es/event/ix-larrate-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
