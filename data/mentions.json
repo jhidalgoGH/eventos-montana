@@ -1,6 +1,230 @@
 {
   "mentions": [
     {
+      "title": "Carreras en El Campillo 2026 — comprar dorsal",
+      "url": "https://www.dorsal.pro/carreras/el-campillo",
+      "typeHint": "carrera",
+      "image": "https://www.dorsal.pro/api/og?title=Dorsales+en+El+Campillo+2026+%C2%B7+0%25+comisi%C3%B3n&amp;subtitle=0%25+comisi%C3%B3n+%C2%B7+Publica+gratis+%C2%B7+Vendedores+verificados",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Carreras en Monovar 2026 — comprar dorsal",
+      "url": "https://www.dorsal.pro/carreras/monovar",
+      "typeHint": "carrera",
+      "image": "https://www.dorsal.pro/api/og?title=Dorsales+en+Monovar+2026+%C2%B7+0%25+comisi%C3%B3n&amp;subtitle=0%25+comisi%C3%B3n+%C2%B7+Publica+gratis+%C2%B7+Vendedores+verificados",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Gran Premio Ruta Molins Llucena 2027: fecha y detalles - Running Valencia",
+      "url": "https://runningvalencia.com/carreras/gran-premio-molins-llucena-2027/",
+      "typeHint": "carrera",
+      "image": "https://runningvalencia.com/wp-content/uploads/trail-running-group-climbing-dry-mountain-path-mediterranean_pexels_4268092.webp",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Llistat de participants - V CARRERA POR MONTAÑA PUERTA DE MUNIELLOS",
+      "url": "https://inscripciones.empa-t.com/inscripcion/v-carrera-por-montana-puerta-de-muniellos/participantes/?lang=ca&pagina=3",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "X CARRERA POR MONTAÑA SNELL EL CAMPILLO “UN RETO COMPARTIDO”",
+      "url": "https://inscripciones.tecnocrono.com/inscripcion/x-carrera-por-montana-snell-el-campillo-un-reto-compartido/informacion/?lang=es",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Skechers da en el blanco con sus nuevas zapatillas estilo Salomon - Trendencias",
+      "url": "https://www.trendencias.com/shopping/skechers-da-blanco-sus-nuevas-zapatillas-estilo-salomon-absoluta-tendencia-moda-muy-comodas",
+      "typeHint": "travesia",
+      "image": "https://i.blogs.es/a75d87/saveclip.app_831768835_18464299462191208_3902453610675762346_n/840_560.jpeg",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Peralta y Hicks impulsan victoria 3-1 de Rays ante Guardianes para igualar la Serie de Campeonato",
+      "url": "https://www.chron.com/sports/article/peralta-y-hicks-impulsan-victoria-3-1-de-rays-22476125.php",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "La gran aventura deportiva de Lanzarote arranca este jueves: 800 corredores desafían sus ...",
+      "url": "https://www.laprovincia.es/lanzarote/2026/10/14/gran-aventura-deportiva-lanzarote-arranca-135330025.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Caro Zbrun ganó en el Qhapaq Ñan - La Voz de San Justo",
+      "url": "https://www.lavozdesanjusto.com.ar/caro-zbrun-gano-en-el-qhapaq-nan",
+      "typeHint": "travesia",
+      "image": "https://n2.cdnartic.ar/jqH_mJ6nG7lKY6RDUJewDks2NX8=/1200x630/smart/filters:format(jpeg):quality(70)/https://lvdsjcdn.eleco.com.ar/media/2026/10/caro_zbrun.webp",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Agustina Ojeda terminó entre las diez mejores del Ultra Trail Amanecer Comechingón",
+      "url": "https://eldiariodeescobar.com.ar/article/agustina-ojeda-termino-entre-las-diez-mejores-del-ultra-trail-amanecer-comechingon",
+      "typeHint": "travesia",
+      "image": "https://api.eldiariodeescobar.com.ar//public/uploads/news/images/2520cc4a-1c51-472b-9a62-e630fbd9df93.png",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "José Manuel Quispe se coronó en la prueba de los 42K del Canchaque Trail Fest",
+      "url": "https://andina.pe/agencia/noticia-jose-manuel-quispe-se-corono-la-prueba-los-42k-del-canchaque-trail-fest-1095865.aspx",
+      "typeHint": "travesia",
+      "image": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2026/10/14/001323391W.jpg",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Ezequiel Marzano completó los 55 kilómetros del Ultra Trail Amanecer Comechingón",
+      "url": "https://elsurdiario.com.ar/articulo/ezequiel-marzano-completo-los-55-kilometros-del-ultra-trail-amanecer-comechingon.php",
+      "typeHint": "travesia",
+      "image": "http://elsurdiario.com.ar/images/noticias/6350_1791944223.png",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Gran Trail Running Sapallanga 2026 - Campañas",
+      "url": "https://www.gob.pe/institucion/munisapallanga/campa%C3%B1as/146018-gran-trail-running-sapallanga-2026",
+      "typeHint": "travesia",
+      "image": "https://www.gob.pe/assets/escudo-rojo-200-f4bf73f7.png",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "El Corte Inglés rebaja en los Happy Days de su outlet todas las zapatillas Under Armour a ...",
+      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/corte-ingles-rebaja-happy-days-su-outlet-todas-zapatillas-under-armour-a-70-descuento",
+      "typeHint": "travesia",
+      "image": "https://i.blogs.es/84ebfd/collage-17-/840_560.jpeg",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "A la aventura en Lanzarote - Iberia Club magazine",
+      "url": "https://iberiaclubmagazine.iberia.com/articulos/2026/9/lanzarote-deportes/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Varios atletas de nuestra ciudad compitieron en la Carrera Ultra Trail Amanecer Comechingón",
+      "url": "https://www.diariodemocracia.com/mas-deportivo/polideportivo/346525-varios-atletas-de-nuestra-ciudad-compitieron-en-la/",
+      "typeHint": "travesia",
+      "image": "https://storage.googleapis.com/diariodemocracia/news/gacelas-a37737.webp",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "15:30H | 13 OCTUBRE 2026 | LA TARDE DE COPE EN SEVILLA",
+      "url": "https://www.cope.es/emisoras/andalucia/sevilla-provincia/sevilla/podcast/episodios/15-30h-13-octubre-2026-tarde-cope-sevilla-20261013_3454937.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Un bombero voluntario afrontará el desafío de pedalear por 24 horas con su equipo de incendio",
+      "url": "https://11noticias.com/novedades/un-bombero-voluntario-afrontara-el-desafio-de-pedalear-por-24-horas-con-su-equipo-de-incendio_52864",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Finde largo de trail running Fueron 3 días de entrenamiento, montaña, lluvia, frío, juegos de ...",
+      "url": "https://www.instagram.com/reel/Deecx38P3b7/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/846824999_18283089991291288_6065259624376293519_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=u-9cayA4mlkQ7kNvwHTWmiy&amp;_nc_oc=AdpYB9s3MIBuDA_n7zmhJvVbPek_mvPxreN_D5Q5YMG5gTobCxlItd9ce3XqLeITekI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=uDCnKKLCaMTdlTLwCL8FoQ&amp;_nc_ss=7c689&amp;oh=00_AQP4VOng5fKw0YfjyP7VAHKEzcLpz2-tdUfeVqZ19rjJ0w&amp;oe=6AD57E62",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Chaqueta Trail Nnormal Trail Rain Jacket | BeUrbanRunning",
+      "url": "https://beurbanrunning.com/products/nc1rj1m_002",
+      "typeHint": "travesia",
+      "image": "http://beurbanrunning.com/cdn/shop/files/NC1RJ1M_002.jpg?v=1791968615",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Los eventos impulsaron el turismo y generaron ingresos por más de 10 millones de dólares",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2026/10/14/265509-los-eventos-impulsaron-el-turismo-y-generaron-ingresos-por-mas-de-10-millones-de-dolares",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "atletismoRFEA on X: \"El Club de Entrenadores RFEA reúne en Madrid a ...",
+      "url": "https://x.com/atletismoRFEA/status/2110304549617504679",
+      "typeHint": "travesia",
+      "image": "https://pbs.twimg.com/media/HUlOpMDWsAAzQrv?format=webp&amp;name=large",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "12:30H | 14 OCTUBRE 2026 | HERRERA EN COPE EN SEVILLA",
+      "url": "https://www.cope.es/emisoras/andalucia/sevilla-provincia/sevilla/podcast/episodios/12-30h-14-octubre-2026-herrera-cope-sevilla-20261014_3455381.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Trail running. Nike US",
+      "url": "https://www.nike.com/us/es/w/trail-running-3glsmz75jcnz7nem3",
+      "typeHint": "travesia",
+      "image": "https://www.nike.com/android-icon-192x192.png",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "20k de París con las Joma RS9000: corremos con las zapatillas que ganaron la carrera",
+      "url": "https://www.runnea.com/articulos/running-news/paris-joma-rs9000-corremos-zapatillas-28192/",
+      "typeHint": "travesia",
+      "image": "https://static.runnea.com/images/202610/corremos-la-20k-paris-con-las-joma-rs9000-version-paris-las-zapatillas-ganadoras-1200x675x80xX.png?1",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Arabia Saudita pospone torneo de tenis Six Kings Slam tras ataques hutíes - Yahoo Noticias",
+      "url": "https://es-us.noticias.yahoo.com/arabia-saudita-pospone-torneo-tenis-155012183.html",
+      "typeHint": "escalada",
+      "image": "https://s.yimg.com/lo/mysterio/api/621cefebe3f606757b3f8723e1db84472fa3b8d1d59075606eecc8832e4f1961/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_economista_434%2Fd3e44ae3c5d8551ee5f890a1b333262e.png",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Un adolescente de 16 años usó IA para planear una excursión y terminó atrapado al borde ...",
+      "url": "https://www.infobae.com/america/mundo/2026/10/14/un-adolescente-de-16-anos-uso-ia-para-planear-una-excursion-y-termino-atrapado-al-borde-de-un-abismo-del-monte-crown-en-canada/",
+      "typeHint": "escalada",
+      "image": "https://www.infobae.com/resizer/v2/NNFA6YBF2ZHGPAOMWG72Y3HQEA.png?auth=4691cc7082b51c0bca5408aeae53e0e8d95df2e814acc8746299887d3c8cda82&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Torrejón de Ardoz se sube por las paredes: «Nos va a dejar con la boca abierta» - ABC",
+      "url": "https://www.abc.es/deportes/torrejon-ardoz-sube-paredes-dejar-boca-abierta-20261014141351-nt_amp.html",
+      "typeHint": "escalada",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/14/TORREJON2_20261014161751-U44085462784Mnn-1200x630@diario_abc.JPG",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Reel Rock 20: el tráiler - WOGU",
+      "url": "https://woguclimbing.com/reel-rock-20-trailer/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "PRO-Escalada Chisinau - Noticias, calendario y resultados - Eurosport",
+      "url": "https://www.eurosport.es/balonmano/equipos/pro-escalada-chisinau/equipo.shtml",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Escalada de Ginebra 2026: programa, desfile y marmita - Pixidia",
+      "url": "https://pixidia.com/es/escalada-ginebra-2026-programa-desfile-marmita/",
+      "typeHint": "escalada",
+      "image": "https://pixidia.com/wp-content/uploads/2026/10/escalade-geneve-2026-featured.jpg",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Carrera de Escalada Vertical 'Copa Guotou' de Yancheng, Jiangsu",
+      "url": "https://baike.baidu.com/es/item/Carrera%20de%20Escalada%20Vertical%20%27Copa%20Guotou%27%20de%20Yancheng%2C%20Jiangsu/6730692",
+      "typeHint": "escalada",
+      "image": "https://bkssl.bdimg.com/cms/static/baike.png",
+      "date": "2026-10-14"
+    },
+    {
       "title": "Liga China de Escalada 2026",
       "url": "https://baike.baidu.com/es/item/Liga%20China%20de%20Escalada%202026/2408228",
       "typeHint": "escalada",
@@ -475,230 +699,6 @@
       "typeHint": "travesia",
       "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-15/844252684_18147675985603233_6200477115707017935_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=BmQ2XSnHQfcQ7kNvwHmJWb7&amp;_nc_oc=Adpl4O24jmpWswBSZE9yzxQ-dEnsj_O83Gg1IWbj1rcW59BGa3deIF7yB7bD18J_H-8&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=JKWt_dHz4j6EY4YzxcjTDw&amp;_nc_ss=7c289&amp;oh=00_AQPs9XUrHgPu7NOYvKuc27sxskm8dnkMdgwObSyYcDmTpQ&amp;oe=6AD40BEF",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Smartwatch Enduro 4 de Garmin redefine el alto rendimiento - Diffusion Sport",
-      "url": "https://www.diffusionsport.com/el-enduro-4-garmin-alto-rendimiento-37705/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "El chaleco de hidratación para quien empieza en el trail cae un 33% en Amazon - La Razón",
-      "url": "https://www.larazon.es/compras/chaleco-hidratacion-quien-empieza-trail-cae-33-amazon-150-55-litros-bidon-500-3v3r_202610136acd576cbafd3d73635e5c75.html?outputType=amp",
-      "typeHint": "travesia",
-      "image": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/12/BE95F572-61D4-4A3F-8991-F9872E4B7185/chaleco-hidratacion-quien-empieza-trail-cae-33-amazon-150-55-litros-bidon-500_98.jpg?crop=889,500,x156,y0&width=1900&height=1069&optimize=low&format=webply",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Tayén, el primer destino de longevidad integral en Latinoamérica, invita a ser inversor del proyecto",
-      "url": "https://infomendoza.info/amp/default/tayen-el-primer-destino-de-longevidad-integral-en-latinoamerica-invita-a-ser-inversor-del-proyecto",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Trail running: 5 consejos de expertos para correr mejor",
-      "url": "https://menshealthlatam.com/trail-running-consejos-expertos-correr-montana/",
-      "typeHint": "travesia",
-      "image": "https://menshealthlatam.com/wp-content/uploads/2026/10/consejos-para-practicar-trail-running.jpg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Las mejores rutas de Trail running en Parque Natural Diecimare - AllTrails",
-      "url": "https://www.alltrails.com/es-mx/parques/italy/campania/parco-naturale-diecimare/trail-running",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Zapatillas Hombre Trail Running 410 V9 New Balance - Saga Falabella",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/80103067/zap-nb-m4101dn-hombre/80103512",
-      "typeHint": "travesia",
-      "image": "https://media.falabella.com/falabellaPE/80103512_1/public",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "VisiónDeportiva | ¡Se acerca una nueva edición del San Francisco Trail Running!. Nos llena ...",
-      "url": "https://www.facebook.com/visionalsur/posts/visi%C3%B3ndeportiva-se-acerca-una-nueva-edici%C3%B3n-del-san-francisco-trail-runningnos-l/1718657860262257/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/845977938_3428298140682262_61207280396628273_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=uCw1GMlWTwIQ7kNvwHlUf0Z&amp;_nc_oc=Ado5H7nGdJXdC80KGc_DqAREeWFLqz_mLyR_-8G1w2qCMXCDrVWkDMFTRr_N1ZJSg78&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=FtOVvFn10LzM3DWR43nPvA&amp;_nc_ss=7c289&amp;oh=00_AQPgYkO9HxBkgM84p-5UPv0JyrnYGt-JUUFB4gHx-2Pzbw&amp;oe=6AD40AEF",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Lone Peak 9+ Mujer - Zapatillas Trail Running Vaporous Gray/Knockout Pink/Black - Altra",
-      "url": "https://eu.altrarunning.com/es-es/collections/zapatillas-lifestyle-mujer/products/lone-peak-9-para-mujer-al0a85rh88b",
-      "typeHint": "travesia",
-      "image": "https://cdn.shopify.com/s/files/1/0784/8289/9173/files/AL0A85RH88B-HERO.png?v=1782148162",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Ser guarda te obliga a estar siempre activo porque hay que andar resolviendo cosas muy variadas",
-      "url": "https://www.fam.es/noticias/3798-chema-grau-ser-guarda-te-obliga-a-estar-siempre-activo-porque-hay-que-andar-resolviendo-cosas-muy-variadas",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "\"Subir no se le dio muy bien\": El entrenador de Remco Evenepoel explica su fracaso en Il Lombardia",
-      "url": "https://ciclismoaldia.es/ciclismo/la-escalada-no-se-le-da-muy-bien-el-entrenador-explica-por-que-el-nivel-de-remco-evenepoel-en-las-subidas-no-fue-suficiente-en-il-lombardia",
-      "typeHint": "escalada",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fciclismoaldia.newsifier.com%2Fimages%2F2026-10%2Fremco-evenepoel-ahead-of-il-lombardia-2026.jpg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Bárbara Ruiz y José Antonio Bellido defienden el liderato en Jumilla, donde se decide la ... - FEDME",
-      "url": "https://fedme.es/barbara-ruiz-y-jose-antonio-bellido-defienden-el-liderato-en-jumilla-donde-se-decide-la-copa-de-espana-de-carreras-por-montana-en-linea/",
-      "typeHint": "escalada",
-      "image": "https://fedme.es/wp-content/uploads/2026/10/ZUR8276-e1791885569693.webp",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "3, 2, 1… ¡Prepárate que arranca la fiesta de la escalada! - ABC",
-      "url": "https://www.abc.es/contentfactory/post/2026/10/12/3-2-1-preparate-que-arranca-la-fiesta-de-la-escalada/?utm_source=vnews&utm_medium=apoyo&utm_campaign=urban-climbing-comunidad-de-madrid-torrejon-2026_13",
-      "typeHint": "escalada",
-      "image": "https://www.abc.es/contentfactory/post/wp-content/uploads/2026/10/6acce8877779f.SIMULACION-BLOQUE-IGLESIA-copia.webp",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Deportistas del Programa Talento de Marcha Nórdica realizan una productiva ... - fadmes",
-      "url": "https://fadmes.es/deportistas-del-programa-talento-de-marcha-nordica-realizan-una-productiva-concentracion-en-arcos-de-la-frontera/",
-      "typeHint": "escalada",
-      "image": "https://fadmes.es/wp-content/uploads/2026/10/1.1.jpg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Escalada madridista que siembra el pánico en el arbitraje español antes del Clásico",
-      "url": "https://www.goal.com/es-mx/noticias/escalada-madridista-que-siembra-el-panico-en-el-arbitraje-espanol-antes-del-clasico/blt229f25fc9ad97cb6",
-      "typeHint": "escalada",
-      "image": "https://assets.goal.com/images/v3/getty-2299843214/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DAORUGA======/GettyImages-2299843214.jpg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "CMPC FRONTERA TRAIL 2026: LANZAN EN TEMUCO LA DÉCIMA EDICIÓN QUE ...",
-      "url": "https://araucanianoticias.cl/2026/cmpc-frontera-trail-2026-lanzan-en-temuco-la-decima-edicion-que-albergara-el-nacional-de-classic-trail/1012316969",
-      "typeHint": "travesia",
-      "image": "https://araucanianoticias.cl/wp-content/uploads/2026/10/cmpc-frontera-trail-2026-lanzan-en-temuco-la-d.jpg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "NNormal Tomir 2.0 vs. Mount to Coast T1: Which One to Choose for Trail Running?",
-      "url": "https://www.youtube.com/watch?v=4GJZ3Pg3n8I",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Marina Montoya conquistó los 50K del Ultra Tierras del Diablo en Balcarce | Deportes",
-      "url": "https://www.diariolavanguardia.com/deportes/14325-marina-montoya-conquisto-los-50k-del-ultra-tierras-del-diablo-en-balcarce/",
-      "typeHint": "travesia",
-      "image": "https://www.diariolavanguardia.com/img/logo.png",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Mariano Moreno invita a correr entre los paisajes del corazón de Neuquén",
-      "url": "https://www.mejorinformado.com/deportes/mariano-moreno-invita-correr-paisajes-corazon-neuquen_1791844836",
-      "typeHint": "travesia",
-      "image": "https://pxcdn.mejorinformado.com/mejorinformado/102026/1791843188021.jpg?cw=1200&ch=630&x=169&y=154&width=827&height=465&rotate=0&scaleX=1&scaleY=1&ow=992&oh=661&extw=jpeg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Nike Zapatillas de trail running - Mujer ACG Pegasus Trail en Negro - JD Sports España",
-      "url": "https://www.jdsports.es/product/negro-nike-zapatillas-de-trail-running---mujer-acg-pegasus-trail/19741094_jdsportses/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Trail Las Aguilillas 2026 - Trail Running Calendar",
-      "url": "https://www.trailrunningcal.com/es/e/trail-las-aguilillas",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "adidas performance Terrex agravic gtx 2 zapatillas de trail running en negro intenso / gris cuatro",
-      "url": "https://www.asos.com/es/adidas-performance/adidas-performance-terrex-agravic-gtx-2-zapatillas-de-trail-running-en-negro-intenso-gris-cuatro/prd/212003915",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Ciencias Económicas CR on X",
-      "url": "https://x.com/colegiocecr/status/2109717593519181923",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/media/HUc45l9WUAAJwry?format=webp&amp;name=large",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "“Se sube, muchachos” - Mundo Deportivo",
-      "url": "https://www.mundodeportivo.com/mas-deporte-deporte-extremo/20261013/1004236276/lynn-hill-escalada-thenose-elcapitan-climbing.html",
-      "typeHint": "escalada",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7c79790d89.r_d.300-192-20000.jpeg",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "María José Estrada Planell, escaladora poblana, apunta a Brisbane 2032 - El Quinto Medio",
-      "url": "https://elquintomedio.com/2026/10/maria-jose-estrada-planell-escaladora-poblana-apunta-a-brisbane-2032/",
-      "typeHint": "escalada",
-      "image": "https://i0.wp.com/elquintomedio.com/wp-content/uploads/2026/10/IMG-20261012-WA0046.jpg?resize=150%2C150&amp;ssl=1",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Consenso China-UE sobre comercio de vehículos evita una escalada de fricciones ...",
-      "url": "http://spanish.xinhuanet.com/20261012/d1003b26f0364e35a9e6ff5356fddf24/c.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Exatlón México 2026: ¿Quién gana La Villa 360 hoy 12 de octubre? - La Crónica de Hoy",
-      "url": "https://www.cronica.com.mx/tendencias/2026/10/12/exatlon-mexico-2026-quien-gana-la-villa-360-hoy-12-de-octubre/",
-      "typeHint": "escalada",
-      "image": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/Z2G7JHID3RHYNMKE5HDHP4NILU.png?auth=4c4bf0d9948863c2478702d6b8b6c356d8a9a673cae285e869c8b3b53c80f262&amp;width=1200",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "El equipo de fútbol femenino de Central se consagró campeón - El Ciudadano",
-      "url": "https://elciudadanoweb.com/el-equipo-de-futbol-femenino-de-central-se-consagro-campeon/amp/",
-      "typeHint": "escalada",
-      "image": "https://elciudadanoweb.com/wp-content/uploads/2025/01/logo-2025.png",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "XVI Carrera por Montaña “Subida a Campanarios” - Atletismo Extremadura",
-      "url": "https://atletismoextremadura.com/carreras/xvi-carrera-por-montana-subida-a-campanarios/",
-      "typeHint": "carrera",
-      "image": "https://atletismoextremadura.com/wp-content/uploads/2026/10/6371_evento_31180_cartel-3.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "IV Carrera por Montaña Corre con Nosotras - Atletismo Extremadura",
-      "url": "https://atletismoextremadura.com/carreras/iv-carrera-por-montana-corre-con-nosotras-2/",
-      "typeHint": "carrera",
-      "image": "https://atletismoextremadura.com/wp-content/uploads/2026/10/261121-iv-carrera-por-montana-corre-con-nosotras-cartel.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "IV Carrera por Montaña Corre con Nosotras | ChipSerena. Cronometraje deportivo",
-      "url": "https://www.chipserena.es/it//web-evento/13262-iv-carrera-por-montana-corre-con-nosotras",
-      "typeHint": "carrera",
-      "image": "https://deporticket.blob.core.windows.net/awebs/chipserena.-cronometraje-deportivo/logo-chipserena-blanco-2017-638853183074871968.png",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Girls&Boys: Alfredo Castro dirige a Antonia Zegers - Portal Metropolitano",
-      "url": "https://portalmetropolitano.cl/girlsboys-alfredo-castro-dirige-a-antonia-zegers/",
-      "typeHint": "carrera",
-      "image": "https://portalmetropolitano.cl/wp-content/uploads/2026/10/MiguelLecaros1.jpg",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Carreras de montaña, incluye pasaje y hospedaja - Facebook",
-      "url": "https://www.facebook.com/groups/585041321625038/posts/28254424350926696/",
-      "typeHint": "carrera",
-      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/844860578_1541477074689388_9122008736167114100_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx841x1256&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=6376bf&amp;_nc_ohc=O3Mt94Kb0PMQ7kNvwFeDG_l&amp;_nc_oc=AdqT5yJLDCz8HMDFpdFT5yaOYBgYqx2eQ48VAJRUI7GVdq_UcqrVTp7Cbj658pJ-_lI&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=iCQq1olejmOCcTTXbXB_Vw&amp;_nc_ss=7c289&amp;oh=00_AQO52FJCn3FcmhCxm2RXFKcWM5sA-hB2j4p35_0HjphpPQ&amp;oe=6AD34DE5",
-      "date": "2026-10-12"
     }
   ]
 }
