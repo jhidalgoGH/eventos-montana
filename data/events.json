@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:03:21.393Z",
+  "updatedAt": "2026-10-15T17:35:21.322Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -1501,6 +1501,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "VII TRAIL CRESTAS MAR DE ARAGÓN",
+      "type": "carrera",
+      "startDate": "2026-11-15T10:30:00",
+      "endDate": null,
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/03d6bf55-c976-4554-b973-15a2c0e5d5bb.jpeg",
+      "url": "https://web.rockthesport.com/es/event/vii-trail-crestas-mar-de-aragon",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "EL PRIVILEGIO 100 MILLAS",
       "type": "carrera",
       "startDate": "2026-11-20",
@@ -2174,6 +2186,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "SANTKUTRAIL 2027",
+      "type": "carrera",
+      "startDate": "2027-02-06T09:30:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/514cf6e9-879e-42ce-85b5-9f09ee4fc68a.jpeg",
+      "url": "https://web.rockthesport.com/es/event/santkutrail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XIV MITJA MARATÓ OCAIVE – PEDREGUER, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-02-07T08:30:00",
@@ -2182,6 +2206,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/xiv-mitja-marato-ocaive-pedreguer-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Copa de MN FEMECV 2027",
+      "type": "carrera",
+      "startDate": "2027-02-13T10:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/4e28cc94-1fbe-4d7a-ab1e-642d380e1e4f_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/copa-de-mn-femecv-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2316,6 +2352,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "2a Prova Copa Marxa Nòrdica FEMECV 2027, Ròtova",
+      "type": "carrera",
+      "startDate": "2027-02-28T10:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/62ce5657-4f7d-4eae-9eac-603ea571f49a_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/2a-prova-copa-marxa-nordica-femecv-2027-rotova",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "100 MILLAS SIERRAS DEL BANDOLERO by Trangoworld",
       "type": "carrera",
       "startDate": "2027-03-05",
@@ -2408,6 +2456,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "3a Prova de Lliga CxM FEMECV + Carrera de la Dona 2027 , La Vall D'Uixó",
+      "type": "carrera",
+      "startDate": "2027-03-21T09:00:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/059712d7-10f1-44b1-9d2a-c697d05dd4b7.png",
+      "url": "https://web.rockthesport.com/es/event/3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "UNICAJA ULTRA SIERRA NEVADA 2027",
       "type": "carrera",
       "startDate": "2027-04-02T22:00:00",
@@ -2473,6 +2533,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/cami-bandolers-senija-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campionat Autonòmic Individual i de Clubs, FEMECV  2027, Crevillent",
+      "type": "carrera",
+      "startDate": "2027-04-11T09:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/37956fa0-75a8-4238-8020-40fc3ccd8174_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/campionat-autonomic-individual-i-de-clubs-femecv-2027-crevillent",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2592,6 +2664,30 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "3a Prova Copa Marxa Nòrdica FEMECV 2027, Alcoi",
+      "type": "carrera",
+      "startDate": "2027-05-15T09:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6c41dca6-42fd-48a5-9111-0646e2c12292_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/3a-prova-copa-marxa-nordica-femecv-2027-alcoi",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campionat Autonòmic de Quilòmetre Vertical, FEMECV 2027 Benissa.",
+      "type": "carrera",
+      "startDate": "2027-05-16T08:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/168b0237-a43f-44d7-acab-fa745024094f_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "OTSO Travessa d&#x27;Encamp 2027",
       "startDate": "2027-05-28T05:00:00",
       "endDate": "2027-05-28T05:00:00",
@@ -2705,6 +2801,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/90244d22-d998-4135-b40f-9417b860c970.jpg",
       "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx",
+      "type": "carrera",
+      "startDate": "2027-10-16T09:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/4e28cc94-1fbe-4d7a-ab1e-642d380e1e4f_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/campionat-autonomic-individual-i-per-clubs-femecv-2027-elx",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     }
