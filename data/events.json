@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:48:01.003Z",
+  "updatedAt": "2026-10-15T05:54:32.630Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -1739,7 +1739,7 @@
       "name": "XV Carrera por Montaña Sierra de Chiva.",
       "type": "carrera",
       "startDate": "2026-12-06T07:00:00",
-      "endDate": null,
+      "endDate": "2026-12-06",
       "locationName": "Valencia/València",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/57c79b10-66cb-43cd-af28-0d2ce56d8931_custom1.jpeg",
