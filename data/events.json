@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:55:19.130Z",
+  "updatedAt": "2026-10-16T17:35:13.444Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -1663,6 +1663,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/4f0a17c4-c6ab-4cef-b6ea-923b6003b71b.jpeg"
+    },
+    {
+      "name": "XIII TRAIL CHÓVAR 2026",
+      "type": "carrera",
+      "startDate": "2026-11-28T08:30:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/e165c930-5540-45ec-842f-6b26b265ff9a.jpg",
+      "url": "https://web.rockthesport.com/es/event/xiii-trail-chovar-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Curso de Crestas y Aristas",
