@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:25:11.715Z",
+  "updatedAt": "2026-10-16T05:54:14.037Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -291,6 +291,17 @@
       "image": "https://www.buscametas.com/modulos/calendario/img/rrss.jpg",
       "url": "https://www.buscametas.com/evento/1107658821/carrera-por-montana-canon-do-sil/",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Huacachina Trail 2026",
+      "startDate": "2026-10-18T06:30:00-05:00",
+      "endDate": "2026-10-18T06:30:00-05:00",
+      "locationName": "Huacachina, Ica, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/06/huacachina-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/huacachina-trail/",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
