@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:54:14.037Z",
+  "updatedAt": "2026-10-16T09:55:19.130Z",
   "events": [
     {
       "name": "Brama Stage Run 2026",
@@ -472,6 +472,17 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ab27f595-028c-4eaa-9d00-3459cb7e3835.jpg"
     },
     {
+      "name": "Campeonato y Copa de Escalada de Andalucía",
+      "startDate": "2026-10-24T08:00:00+02:00",
+      "endDate": "2026-10-25",
+      "locationName": "Rocódromo Municipal de Estepona, Estepona, ES",
+      "image": "https://img.planomato.com/planimage1/venues/EP-Climbing-Roc%C3%B3dromo-municipal-de-Estepona-Ayuntamiento-Espana-Escalada_20261015_211831.jpeg",
+      "url": "https://www.planomato.com/es/estepona/p/campeonato-copa-escalada-andalucia-estepona",
+      "type": "escalada",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XX ANDADA DE OTOÑO - LUESIA",
       "type": "travesia",
       "startDate": "2026-10-24T08:30:00",
@@ -544,6 +555,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Portillo: PRC-VA 31 – Pino Pinilla",
+      "type": "travesia",
+      "startDate": "2026-10-24T09:00:00",
+      "endDate": "2026-10-24T13:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
+      "url": "https://web.rockthesport.com/es/event/senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-portillo-prc-va-31-pino-pinilla",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Aldapegora 2026",
       "type": "travesia",
       "startDate": "2026-10-24T09:15:00",
@@ -566,18 +589,6 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/57f0a48b-7684-4f7c-a7ba-e58d5d7ed3cc.jpeg"
-    },
-    {
-      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Portillo: PRC-VA 31 – Pino Pinilla",
-      "type": "travesia",
-      "startDate": "2026-10-24T09:30:00",
-      "endDate": "2026-10-24T13:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
-      "url": "https://web.rockthesport.com/es/event/senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-portillo-prc-va-31-pino-pinilla",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
     },
     {
       "name": "Argitxo Trail 2026",
@@ -848,6 +859,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/1914d8c9-aaaf-4470-b07b-6e58c31591e7.png"
     },
     {
+      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Tiedra: SLC-VA 46 – Ruta de las Canteras",
+      "type": "travesia",
+      "startDate": "2026-10-31T09:15:00",
+      "endDate": "2026-10-31T13:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
+      "url": "https://web.rockthesport.com/es/event/senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-tiedra",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "III TRAIL RUNNING BOCA DEL LOBO 2026",
       "type": "carrera",
       "startDate": "2026-10-31T09:30:00",
@@ -858,18 +881,6 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/7666ad4c-0d8c-499b-9161-a2a6128bb551.jpg"
-    },
-    {
-      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Tiedra: SLC-VA 46 – Ruta de las Canteras",
-      "type": "travesia",
-      "startDate": "2026-10-31T09:30:00",
-      "endDate": "2026-10-31T13:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
-      "url": "https://web.rockthesport.com/es/event/senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-tiedra",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
     },
     {
       "name": "Mictlán Trail - Run Fest Día 1",
@@ -1233,6 +1244,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Íscar: PRC-VA 38 – Senda de la Resina",
+      "type": "travesia",
+      "startDate": "2026-11-08T09:15:00",
+      "endDate": "2026-11-08T13:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
+      "url": "https://web.rockthesport.com/es/event/copy-senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-iscar-prc-va-38-senda-de-l",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "IV TRAIL SIERO",
       "type": "carrera",
       "startDate": "2026-11-08T09:30:00",
@@ -1253,18 +1276,6 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/cff90421-b3ea-459f-8a9b-96b0907e0666.png",
       "url": "https://web.rockthesport.com/es/event/-cursarroca-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Íscar: PRC-VA 38 – Senda de la Resina",
-      "type": "travesia",
-      "startDate": "2026-11-08T09:30:00",
-      "endDate": "2026-11-08T13:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
-      "url": "https://web.rockthesport.com/es/event/copy-senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-iscar-prc-va-38-senda-de-l",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2169,6 +2180,18 @@
       "country": "España",
       "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/5feadf49-e809-4160-8ad7-d96be5a35f29.png",
       "url": "https://web.rockthesport.com/es/event/media-del-lince-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Granadella Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-01-30T10:00:00",
+      "endDate": "2027-01-31T15:00:00",
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/b6a865f5-8191-4e34-819d-2e8fe1e22f69_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/granadella-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
