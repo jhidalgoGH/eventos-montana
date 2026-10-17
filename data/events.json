@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-10-16T20:00:16.745Z",
+  "updatedAt": "2026-10-17T05:54:03.713Z",
   "events": [
-    {
-      "name": "Brama Stage Run 2026",
-      "type": "carrera",
-      "startDate": "2026-10-16T09:00:00",
-      "endDate": null,
-      "locationName": "Girona",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/brama-stage-run-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/2cec5010-1174-45c5-bc88-2d0192d4e74b.jpg"
-    },
-    {
-      "name": "Concentración escalada Arnedillo 2026",
-      "type": "escalada",
-      "startDate": "2026-10-16T19:00:00",
-      "endDate": "2026-10-18T18:00:00",
-      "locationName": "Rioja (La)",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15760/library/root/053903f1-2f08-4ef6-8733-83f7cc26f9a6.jpg",
-      "url": "https://web.rockthesport.com/es/event/concentracion-escalada-arnedillo-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 13/10 al 16/10",
-      "type": "escalada",
-      "startDate": "2026-10-16T19:30:00",
-      "endDate": "2026-10-16T22:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
-      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-1310-al-1610",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Marcha senderista \"Valle de Anso\"",
       "type": "travesia",
@@ -2861,6 +2825,17 @@
       "url": "https://web.rockthesport.com/es/event/campionat-autonomic-individual-i-per-clubs-femecv-2027-elx",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Carrera por Montaña Corre con Nosotras 8 km",
+      "startDate": "2027-11",
+      "endDate": null,
+      "locationName": "Cáceres, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Carrera+por+Monta%C3%B1a+Corre+con+Nosotras+8+km+2027&amp;subtitle=C%C3%A1ceres+%C2%B7+10K+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/caceres/carrera-por-montana-corre-con-nosotras-8-km-2027",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     }
   ]
 }
