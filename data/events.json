@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:29:00.021Z",
+  "updatedAt": "2026-10-17T17:34:59.726Z",
   "events": [
     {
       "name": "Marcha senderista \"Valle de Anso\"",
@@ -845,6 +845,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11667/library/root/7666ad4c-0d8c-499b-9161-a2a6128bb551.jpg"
+    },
+    {
+      "name": "III Trail Nocturno Cabeço D'Or, Busot",
+      "type": "carrera",
+      "startDate": "2026-10-31T17:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/735d2a53-7d07-4003-800c-0cbd029fb3c5.jpeg",
+      "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Mictlán Trail - Run Fest Día 1",
