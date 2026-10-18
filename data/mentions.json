@@ -1,6 +1,202 @@
 {
   "mentions": [
     {
+      "title": "La carrera 'Solidarios con la Salud Mental' del Reina Sofía | Planomato",
+      "url": "https://www.planomato.com/es/cordoba/n/carrera-solidarios-salud-mental",
+      "typeHint": "carrera",
+      "image": "https://img.planomato.com/planimage1/entities/3268I%20CXM%20SOLIDARIA%20CON%20LA%20SALUD%20MENTAL%20_20261018_133545.jpeg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "La actriz Anna Faris, tras superar sus problemas con el alcohol, responde al productor ... - HOLA",
+      "url": "https://www.hola.com/actualidad/20261018929724/anna-faris-alcohol-responde-chuck-lorre-duras-palabras/",
+      "typeHint": "travesia",
+      "image": "https://www.hola.com/horizon/landscape/1200/a93d790f33b6-gettyimages-2279765956.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "El historiador Daniel Campione llega a Necochea para presentar su libro sobre el avance ...",
+      "url": "https://nden.com.ar/nota/38434/el-historiador-daniel-campione-llega-a-necochea-para-presentar-su-libro-sobre-el-avance-de-la-ultraderecha/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Santa Cruz Extreme: Calvó gana la 42K en un sprint de infarto ante Ait Malek",
+      "url": "https://www.canariasenpleno.com/santa-cruz-extreme-42k-calvo/",
+      "typeHint": "travesia",
+      "image": "https://www.canariasenpleno.com/wp-content/uploads/2026/10/santa-cruz-extreme-42k-calvo.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Trail San Bernardino 2026 - TimioLive!",
+      "url": "https://live.timio.com.py/resultado/arasunu_2026_fecha9/general/17166",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Emelie Forsberg, pareja de Kilian Jornet, sobre su próximo desafío tras ser madre por tercera vez",
+      "url": "https://www.sport.es/es/noticias/outdoor/emelie-forsberg-pareja-kilian-jornet-desafio-ultra-135384416",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Dos podios podios calafateños en la Ultra Fitz Roy",
+      "url": "https://xn--sealcalafate-bhb.com/contenido/25303/dos-podios-podios-calafatenos-en-la-ultra-fitz-roy",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Los atletas del Club Team MAD Ronda cosechan podios en la Cueva del Gato y superan la ...",
+      "url": "https://www.diarioronda.es/2026/10/18/deportes/los-atletas-del-club-team-mad-ronda-cosechan-podios-en-la-cueva-del-gato-y-superan-la-ultra-de-cazorla",
+      "typeHint": "travesia",
+      "image": "https://be.diarioronda.es/wp-content/uploads/2026/10/213724.png",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Vídeos de Trail Running - Página 3 - SirokoTV",
+      "url": "https://www.siroko.com/tv/es/videos/trail-running/3",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "La Unique Trail Lanzarote by Joma deslumbra a los corredores en su exitoso estreno",
+      "url": "https://8sports.es/canarias/2026/10/18/la-unique-trail-lanzarote-by-joma-deslumbra-a-los-corredores-en-su-exitoso-estreno/",
+      "typeHint": "travesia",
+      "image": "https://8sports.es/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-18-a-las-14.25.51-1024x732.png",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "El carbajoseño Lucas Hernández conquista el título europeo de trail running tras una ...",
+      "url": "https://www.carbajosanoticias.es/deportes/carbajoseno-lucas-hernandez-proclama-campeon-europa-trail-running-categoria-veteranos/20261018150055060305.html",
+      "typeHint": "travesia",
+      "image": "https://www.carbajosanoticias.es/media/carbajosanoticias/images/2026/10/18/2026101814542948715.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "El baile más desgarrador de Leah Behn, hija de Marta Luisa de Noruega, dedicado a su padre",
+      "url": "https://www.hola.com/realeza/casa_noruega/20261018929711/el-baile-mas-desgarrador-de-leah-behn/",
+      "typeHint": "travesia",
+      "image": "https://www.hola.com/horizon/landscape/1200/b3e55c4be4fc-snapinstato851829101186410367580358021439872298180364687n.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "TRAIL RUNNING EN MOJADO (1/2) Tipos de lluvia y cómo gestionar la ropa. LLuvia y nieve ...",
+      "url": "https://www.facebook.com/Carrerasdemontanacom/posts/trail-running-en-mojado-12-tipos-de-lluvia-y-c%C3%B3mo-gestionar-la-ropa-lluvia-y-nie/1565058282315968/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/854533391_1786857759204220_4579991245620372749_n.png?stp=dst-jpg_tt6&amp;cstp=mx1300x866&amp;ctp=p600x600&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=Y0vec0Ul63oQ7kNvwFadw5q&amp;_nc_oc=AdoXvz3QDQQ6NK0uA7zpIYutD-vI8T4Q9jl4bURoOtlJs97BWDyqRSo_xMtPqdVQRTQ&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=ZoCNZvQgWQj8X6H7XhrYEQ&amp;_nc_ss=7c289&amp;oh=00_AQMNKniuXK2HeZIaRhKhyAzL3vfnyvRagdOYX7pPYEZvow&amp;oe=6ADAC937",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Atletas de Necochea hicieron podio en el Ultra Trail Tierras del Diablo, que reunió a más de ...",
+      "url": "https://nden.com.ar/nota/38431/atletas-de-necochea-hicieron-podio-en-el-ultra-trail-tierras-del-diablo-que-reunio-a-mas-de-800-corredores/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Nunca me imaginé corriendo y hoy estoy haciendo 100 kilómetros y pensando por qué no 100 millas",
+      "url": "https://www.radionacional.com.ar/nunca-me-imagine-corriendo-y-hoy-estoy-haciendo-100-kilometros-y-pensando-por-que-no-100-millas/",
+      "typeHint": "travesia",
+      "image": "https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Matías Prats, Ana Blanco, Pedro Piqueras y otros iconos del periodismo, juntos por primera ...",
+      "url": "https://www.hola.com/actualidad/20261017929665/matias-prats-ana-blanco-pedro-piqueras-imagen-historica/",
+      "typeHint": "travesia",
+      "image": "https://www.hola.com/horizon/landscape/1200/283411c15b98-whatsapp-image-2026-10-17-at-142811.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Salomon deja por menos de 100 euros las zapatillas de trail y senderismo que más se ...",
+      "url": "https://www.lavanguardia.com/comprar/moda-belleza/20261018/11659726/salomon-100-euros-zapatillas-trail-senderismo-mujeres-mkt-salo.html",
+      "typeHint": "travesia",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6ad0d29fc65b3.jpeg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Santa Cruz Extreme: Calvó gana la XTRM42 | Canariasdiario.com",
+      "url": "https://www.canariasdiario.com/noticia/152274/deportes/la-42k-de-santa-cruz-extreme-se-resuelve-con-un-sprint-entre-ivan-calvo-y-zaid-ait-malek.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Leire Fernández Abete, campeona de España de 'trail running': \"No hace falta correr todo el ...",
+      "url": "https://www.hola.com/estar-bien/20261018927095/trail-running-beneficios-fisicos-correr-monte-caminar-subidas-consejos/",
+      "typeHint": "travesia",
+      "image": "https://www.hola.com/horizon/landscape/1200/1aae57486fdc-saveclipapp671791000183504999582131493493245182674648984n.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "FRANCESCO PUPPI REMPORTE LE GRAND TRAIL DES TEMPLIERS L'Italien a rejoint ...",
+      "url": "https://www.instagram.com/reel/DeoZLeIs5AR/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/852111646_18411691102080011_4013133553628025719_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=zftJ5wNeGq0Q7kNvwHYzZJb&amp;_nc_oc=AdqapkYFj3TCgT3S__PHeSkUtcoUDWyxTGxZfudDcj2RRhuvSziH6GJ7dWW7XcZHwE8&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=rqOVQX7B7G5WyAzrrGxWuA&amp;_nc_ss=7c689&amp;oh=00_AQNG7iAAvmsdYq_92eiWBIXFixiV9GJRuDnTwRc37caSog&amp;oe=6ADAD88D",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "RMC Running | ⚡️ ⏱️ Pour @francesco.puppi et @sylvaincachard, le ravito c'est une ...",
+      "url": "https://www.instagram.com/reel/DeoTtf-MYb1/",
+      "typeHint": "travesia",
+      "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/856316129_18075614879724853_2138977510036538786_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=FeSna9PcPHAQ7kNvwFrzBW0&amp;_nc_oc=AdpJWSWhhfhKRnhqCYd3bPyIrbJ9ie1rh-iyUS9UV3l91TKDS36fk-bE-5bi6K7Zekw&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=9FOFevDvFbCyUOcIy3M5ig&amp;_nc_ss=7c689&amp;oh=00_AQPHl3oYsC5nxsH91QVwmRSQttxy-trwMB0HS4BywHixkA&amp;oe=6ADAD4ED",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Arde River por la decisión que tomó Ponzio antes del clásico ante Boca - Urgente24",
+      "url": "https://urgente24.com/golazo24/arde-river-la-decision-que-tomo-ponzio-antes-del-clasico-boca-n634893",
+      "typeHint": "escalada",
+      "image": "https://media.urgente24.com/p/c7de899b3b9abfd7babc03eba62a1d22/adjuntos/319/imagenes/003/500/0003500292/ponzio-river-beltran-driussi.png",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Michi Matheus y Hugo Martín, reyes de la escalada urbana en Torrejón - ABC",
+      "url": "https://www.abc.es/deportes/michi-matheus-hugo-martin-reyes-escalada-urbana-20261018183045-nt.html",
+      "typeHint": "escalada",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/18/0234523-U47216847745ZHi-1200x630@diario_abc.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Mei Kotake se anota su primer problema de 8C: 'P.I.G' | WOGU",
+      "url": "https://woguclimbing.com/mei-kotake-se-anota-primer-problema-8c-p-i-g/?amp",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "David Bermúdez firma la primera ascensión de 'Tina' y propone 9a | WOGU",
+      "url": "https://woguclimbing.com/david-bermudez-firma-primera-ascension-tina-propone-9a/?amp",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Campeonato de España de Marcha Nórdica - FEXME",
+      "url": "https://fexme.com/2026/10/18/campeonato-de-espana-de-marcha-nordica/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "XXIV Ruta de las Grullas de La Garrovilla - FEXME",
+      "url": "https://fexme.com/2026/10/18/xxiv-ruta-de-las-grullas-de-la-garrovilla/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "1-3. Dembelé, a tiempo - Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/17/1-3-dembele-a-tiempo/",
+      "typeHint": "escalada",
+      "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+      "date": "2026-10-18"
+    },
+    {
       "title": "Trail El Mazucu Rebulle: carrera por la Sierra del Cuera - Vivir Asturias",
       "url": "https://www.vivirasturias.com/agenda-de-asturias/i/98414130/trail-mazucu-rebulle-carrera-sierra-cuera",
       "typeHint": "carrera",
@@ -502,202 +698,6 @@
       "url": "https://www.mundodeportivo.com/running/20261017/1004239525/5-rutas-trail-running-espana-correr-terreno-mojado-empiezan-bajar-temperaturas.html?facet=amp",
       "typeHint": "travesia",
       "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a6229364f2d0.r_d.493-561-12220.jpeg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Panoramas en Maipú para el fin de semana: actividades del 17 y 18 de octubre",
-      "url": "https://lavozdemaipu.cl/fin-de-semana-en-maip%C3%BA-f%C3%BAtbol-en-el-bueras-deporte-al-aire-libre-folclore-y-fest/",
-      "typeHint": "travesia",
-      "image": "https://lavozdemaipu.cl/_variantes/social/01M502JVCRH1H5HX70NVN8M85W.01M502JWF95DF6DYE31RGMY5JD.jpeg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Se disputa la competencia atlética «Los Hornillos Golden Trail» | - Córdoba Interior Informa",
-      "url": "https://cordobainteriorinforma.com/2026/10/17/se-disputa-la-competencia-atletica-los-hornillos-golden-trail/",
-      "typeHint": "travesia",
-      "image": "https://img.cordobainteriorinforma.com/2026/10/hornillos-1.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Ruth Croft vence en la Diagonale des Fous y entra en el olimpo del ultratrail",
-      "url": "https://www.territoriotrail.es/ruth-croft-vence-en-la-diagonale-des-fous-y-entra-en-el-olimpo-del-ultratrail/",
-      "typeHint": "travesia",
-      "image": "https://www.territoriotrail.es/wp-content/uploads/2026/10/855437104_2370266360412549_369163628702648778_n.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Mineros busca escalar posiciones ante Cruz Azul Hidalgo - El Sol de Zacatecas",
-      "url": "https://oem.com.mx/elsoldezacatecas/deportes/mineros-busca-escalar-posiciones-ante-cruz-azul-hidalgo-32636280",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Talleres de Escalada visita a Deportivo Merlo con la misión de volver al triunfo",
-      "url": "https://launion.com.ar/deportes/talleres-escalada-visita-deportivo-merlo-la-mision-volver-al-triunfo-n5446793/amp",
-      "typeHint": "escalada",
-      "image": "https://media.launion.com.ar/p/92fa8c2250c9621f6a330530a3aa8156/adjuntos/379/imagenes/100/139/0100139520/1200x675/411x140:431x160/talleres-de-escalada-deportivo-merlo.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Talleres de Escalada visita a Deportivo Merlo con la misión de volver al triunfo",
-      "url": "https://launion.com.ar/deportes/talleres-escalada-visita-deportivo-merlo-la-mision-volver-al-triunfo-n5446793",
-      "typeHint": "escalada",
-      "image": "https://media.launion.com.ar/p/92fa8c2250c9621f6a330530a3aa8156/adjuntos/379/imagenes/100/139/0100139520/1200x675/411x140:431x160/talleres-de-escalada-deportivo-merlo.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Nueva derrota para el CH Jaca en la segunda jornada de la Continental Cup - Aragón Play",
-      "url": "https://www.aragonplay.es/aragondeporte/otros-deportes/nueva-derrota-ch-jaca-segunda-jornada-continental-cup.html",
-      "typeHint": "escalada",
-      "image": "https://imagenes.aragonplay.es/files/og_thumbnail/uploads/2026/10/17/6ad3688752554.jpeg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Cerca de 600 atletas participaron en la competición de escalada de montaña ... - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/gan-600-van-dong-vien-tham-gia-giai-leo-nui-chinh-phuc-thac-nam-ria-duong-len-mua-vang-nam-2026",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/17/1792226934527_baolaocai-br_c67d6c07-39ec-4325-a2f8-0c204911e8ab-png.webp",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "MANUEL AVELLANAS: “EL MONTAÑISMO TE PERMITE DISFRUTAR DE LA ...",
-      "url": "https://www.fam.es/noticias/3803-manuel-avellanas-el-montanismo-te-permite-disfrutar-de-la-naturaleza-con-el-grupo-de-amigos-que-has-elegido",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Ceremonia de entrega de premios de la competición de pickleball y escalada en \"Ba ... - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/trao-giai-hoi-thao-pickleball-va-leo-nui-diem-den-chua-ba",
-      "typeHint": "escalada",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/17/1792229514911_1398056_1a657e7b656261a6d573405df6029a78.jpeg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Olga Martynenkova y Francisco Santana se imponen en la Vertical de Guelguén – Fecamon",
-      "url": "https://fecamon.es/olga-martynenkova-y-francisco-santana-se-imponen-en-la-vertical-de-guelguen/",
-      "typeHint": "escalada",
-      "image": "https://fecamon.es/web2022/wp-content/uploads/55592822093_677a9b55db_c.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Deportivo Merlo quiere hacerse fuerte en casa ante Talleres - Solo Ascenso",
-      "url": "https://www.soloascenso.com.ar/notas/deportivo-merlo/deportivo-merlo-quiere-hacerse-fuerte-en-casa-ante-talleres/233657",
-      "typeHint": "escalada",
-      "image": "https://www.soloascenso.com.ar/Noticias/narielzarate2.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Rafaela se consolida como capital del ciclismo: tres campeonatos argentinos y la mirada ...",
-      "url": "https://radiorafaela.com.ar/deportes/rafaela-se-consolida-como-capital-del-ciclismo-tres-campeonatos-argentinos-y-la-mirada-puesta-en-el-alto-rendimiento",
-      "typeHint": "escalada",
-      "image": "https://cdnartic.ar/gawnKpdNGOTNrPTKwN7wgKN2AXc=/1200x630/smart/filters:format(jpeg):quality(70)/https://radiorafaelacdn.eleco.com.ar/media/2026/10/della_santa_1.webp",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Tebas carga de nuevo y responde al Madrid: «Quieren destruir la competición - Món Esport",
-      "url": "https://monesport.cat/es/real-madrid/club-real-madrid/tebas-carga-de-nuevo-y-responde-al-madrid-quieren-destruir-la-competicion-496381/",
-      "typeHint": "escalada",
-      "image": "https://monesport.cat/app/uploads/sites/12/2026/03/europapress_7246132_javier_tebas_president_of_laliga_receives_an_award_during_the_gala_premios-1.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "\"No podrás caminar por la calle\": Tebas responde a Pérez sin piedad y destapa los ... - Goal.com",
-      "url": "https://www.goal.com/es-mx/noticias/no-podras-caminar-por-la-calle-tebas-responde-a-perez-sin-piedad-y-destapa-los-expedientes-mas-delicados-del-real-madrid/bltbc087bda7002453d",
-      "typeHint": "escalada",
-      "image": "https://assets.goal.com/images/v3/getty-2242522480/crop/MM5DINZQGE5DENRUGQ5G433XMU5DAORUGQZA====/GettyImages-2242522480.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "El HC Eivissa visita al complicado Guadalajara - Periódico de Ibiza y Formentera",
-      "url": "https://amp.periodicodeibiza.es/deportes/deporte-ibiza/2026/10/17/2730585/eivissa-visita-complicado-guadalajara.html",
-      "typeHint": "escalada",
-      "image": "https://ibi.gsstatic.es/sfAttachPlugin/social/4812089.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Pau Capell, la estrella mundial del trail que quiere dejar de 'estafar' a las marcas que llenan ...",
-      "url": "https://www.diariodeltriatlon.es/articulo/runningendurance/pau-capell-estrella-mundial-trail-que-quiere-dejar-estafar-marcas-que-llenan-bolsillos-he-forrado/20261017104043102740.html",
-      "typeHint": "travesia",
-      "image": "https://www.diariodeltriatlon.es/media/diariodeltriatlon/images/2026/10/17/2026101710445713910.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Santa Cruz Extreme desafía este sábado el Macizo de Anaga - Radio Televisión Canaria",
-      "url": "https://rtvc.es/santa-cruz-extreme-desafia-este-sabado-la-dureza-y-belleza-del-macizo-de-anaga-17-de-octubre-de-2026/",
-      "typeHint": "travesia",
-      "image": "https://cdn.rtvc.es/archivos/2026/10/santa-cruz-extreme.webp",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "¡Todo listo! Más de 2 mil 500 atletas se preparan para el CTU Outdoor Challenge 2026",
-      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/todo-listo-mas-de-2-mil-500-atletas-se-preparan-para-el-ctu-outdoor-challenge-2026-32639542",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "¿QUÉ ES LA DISCIPLINA? @luisscola lo cuenta perfectamente. Años de Trail me hicieron ...",
-      "url": "https://www.instagram.com/reel/DektPDjuZO1/",
-      "typeHint": "travesia",
-      "image": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/849773058_18641478559032426_4505156890804685233_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Ue_48m9us50Q7kNvwHr22PM&amp;_nc_oc=Adrjp7N_gXSFwcjkW_1pXL9Ju-drU4m2vvDP02QXhsfYasdV3PEhXXxbOW4sUqa2irw&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=PxmzXYlgYiipx8SVbaPlwA&amp;_nc_ss=7c689&amp;oh=00_AQNYhr_KbUjEtQCn2fUGloLZ8CRqS2Wykr4uVZ3mMyW9Xg&amp;oe=6AD915AE",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Trail y Montaña: capacitación con un referente del atletismo argentino - Jujuy Al Momento",
-      "url": "https://www.jujuyalmomento.com/atletismo/trail-y-montana-capacitacion-un-referente-del-atletismo-argentino-n208715",
-      "typeHint": "travesia",
-      "image": "https://media.jujuyalmomento.com/p/d6f90f6bc49b46ba3cca3b52972b0bdd/adjuntos/260/imagenes/002/300/0002300896/1200x675/smart/fotojet.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Trail running - YouTube",
-      "url": "https://www.youtube.com/shorts/er1P_Q1z4vs",
-      "typeHint": "travesia",
-      "image": "https://i.ytimg.com/vi/er1P_Q1z4vs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&amp;rs=AOn4CLCacJziKI-O4sX4XUmeJpC_p5S0aA",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Pau Capell, excampeón de UTMB, sobre su momento vital: \"Creo que no puedo devolver lo ...",
-      "url": "https://www.sport.es/es/noticias/outdoor/pau-capell-excampeon-utmb-momento-135388839",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "La primera Kinder Trail de Unique Trail Lanzarote by Joma reúne a medio centenar ... - 8SPORTS.es",
-      "url": "https://8sports.es/canarias/2026/10/16/la-primera-kinder-trail-de-unique-trail-lanzarote-by-joma-reune-a-medio-centenar-de-jovenes-corredores/",
-      "typeHint": "travesia",
-      "image": "https://8sports.es/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-16-a-las-23.21.56-1024x675.png",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "JOMA Zapatillas De Trail Running Sierra Barefoot EU 40 : Amazon.es",
-      "url": "https://www.amazon.es/JOMA-Zapatillas-Running-Sierra-Barefoot/dp/B0HKMZJCX5",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "José Manuel Quispe y Victoria Calero se coronan en la prueba reina del Canchaque Trail Fest",
-      "url": "https://depor.com/full-deportes/jose-manuel-quispe-y-victoria-calero-se-coronan-en-la-prueba-reina-del-canchaque-trail-fest-noticia/",
-      "typeHint": "travesia",
-      "image": "https://depor.com/resizer/v2/KO65IWM2N5EV5KDCZTZRHZFKPQ.jpg?auth=d09964ab1046d0e8ec34e0828ebef3a3dafa9263e54df1e67e80ab55711d58f4&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "adidas Tenis Terrex Tracefinder Trail Running para mujer - Tiendamia",
-      "url": "https://tiendamia.com.uy/p/amz/b0d2pl2zzw/adidas-tenis-terrex-tracefinder-trail-running-para-mujer",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Galaxy Watch Ultra 2: ¿Puede guiarlo en una carrera de 'trail' a 3.700 metros de altura?",
-      "url": "https://www.elespectador.com/tecnologia/gadgets-y-apps/galaxy-watch-ultra-2-puede-guiarlo-en-una-carrera-de-trail-a-3-700-metros-de-altura/?outputType=amp",
-      "typeHint": "travesia",
-      "image": "https://www.elespectador.com/wp-content/uploads/2026/10/Lumepic-photograph-3.jpg?resize=1200,630",
       "date": "2026-10-17"
     }
   ]
