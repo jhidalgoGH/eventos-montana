@@ -1,6 +1,62 @@
 {
   "mentions": [
     {
+      "title": "Trail El Mazucu Rebulle: carrera por la Sierra del Cuera - Vivir Asturias",
+      "url": "https://www.vivirasturias.com/agenda-de-asturias/i/98414130/trail-mazucu-rebulle-carrera-sierra-cuera",
+      "typeHint": "carrera",
+      "image": "https://cmsphoto.ww-cdn.com/resizeapi/36f5a516a73235ed2ae71432379cc5d6e0d4393c/3200/-1/",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "¡Vuelve la cita deportiva más esperada al de Los Filabres! ¡X Aniversario de nuestra ... - Facebook",
+      "url": "https://www.facebook.com/ayuntamientotahal/videos/%EF%B8%8F-vuelve-la-cita-deportiva-m%C3%A1s-esperada-al-de-los-filabres-x-aniversario-de-nue/1115718574331499/",
+      "typeHint": "carrera",
+      "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t51.71878-15/849978816_1801942387606390_7208720272979768413_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=RIftdq_1tbgQ7kNvwFGiE7y&amp;_nc_oc=Adp-mott42fsofDiuGhBo29tuQnAMtIEwmSuGekfFYYnWbSxQKkGyDzH463D56GXctk&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-2.xx&amp;_nc_gid=clW0i8V57NB8ifYFyA2AdQ&amp;_nc_ss=7c289&amp;oh=00_AQO-M4trK1p5ZsJtL96UvO8vVIWUoPweGDLBn95YZYAXGg&amp;oe=6ADA72EB",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Tienda Zapatillas Trail Running Chile | BuscaTrail",
+      "url": "https://buscatrail.cl/tienda/",
+      "typeHint": "travesia",
+      "image": "https://buscatrail.cl/og-image.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Garabitos Hiking Trail - Cartagena | Trailforks",
+      "url": "https://www.trailforks.com/trails/garabitos-948101/",
+      "typeHint": "travesia",
+      "image": "https://ep1.pinkbike.org/trailstaticmap/948000/948101_3_600x315.png",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Tenis Trail Running new balance DynaSoft Nitrel v6 Violeta - Compra Ahora - Dafiti",
+      "url": "https://www.dafiti.com.co/Tenis-Trail-Running-new-balance-DynaSoft-Nitrel-v6-Violeta-2882698.html",
+      "typeHint": "travesia",
+      "image": "https://static.dafiti.com.co/p/new-balance-6401-8962882-1-product.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "¡Se siente la energía del Trail Running de Colores! ‍♂️ Seguimos entregando kits hasta ...",
+      "url": "https://www.facebook.com/catedraldesaldezipaquira/videos/se-siente-la-energ%C3%ADa-del-trail-running-de-colores-%EF%B8%8Fseguimos-entregando-kits-hast/4644775195766361/",
+      "typeHint": "travesia",
+      "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t51.82787-15/855831189_18637056535063749_7066395730568684169_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=3YEXHhedUigQ7kNvwG4v1qh&amp;_nc_oc=AdriZdQZV9NVWvAWlr3wXKrdcrJbfYLuUtmBY_LwdLWu3eyBDxM5B0HdqSwhusdXVuo&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=TahRJdP54pystdD8jypRsg&amp;_nc_ss=7c289&amp;oh=00_AQN07KkGtKgrSyPkGSvGflRBeniA6Sbft_KIuUDhL3KAhg&amp;oe=6ADA5E2A",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Deportivo Merlo ganó y llega afilado al clásico de la ciudad - Solo Ascenso",
+      "url": "https://www.soloascenso.com.ar/notas/deportivo-merlo/deportivo-merlo-gano-y-llega-afilado-al-clasico-de-la-ciudad/233737",
+      "typeHint": "escalada",
+      "image": "https://www.soloascenso.com.ar/Noticias/ndeportivomerlo2.jpg",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Animado torneo de escalada de montaña para conquistar la cascada Nậm Rịa en las tierras ...",
+      "url": "https://es.laodong.vn/du-lich/tin-tuc/soi-dong-giai-leo-nui-chinh-phuc-thac-nam-ria-tren-vung-cao-hop-thanh-1784746.html",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-18"
+    },
+    {
       "title": "La carrera de montaña disputada con salida y meta en la localidad estellesa de ... - Facebook",
       "url": "https://www.facebook.com/diariodenavarra/posts/la-carrera-de-monta%C3%B1a-disputada-con-salida-y-meta-en-la-localidad-estellesa-de-g/1712616804207429/",
       "typeHint": "carrera",
@@ -642,62 +698,6 @@
       "url": "https://www.elespectador.com/tecnologia/gadgets-y-apps/galaxy-watch-ultra-2-puede-guiarlo-en-una-carrera-de-trail-a-3-700-metros-de-altura/?outputType=amp",
       "typeHint": "travesia",
       "image": "https://www.elespectador.com/wp-content/uploads/2026/10/Lumepic-photograph-3.jpg?resize=1200,630",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Torrejón escala la iglesia de la plaza y el arco de Libertad este fin de semana",
-      "url": "https://eltelescopiodigital.com/index.php/es/noticias-deporte-torrejon/125132-torrejon-escala-la-iglesia-de-la-plaza-y-el-arco-de-libertad-este-fin-de-semana.html",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Reportan el impacto de dos misiles en el aeropuerto de Adén, en Yemen - Informador.mx",
-      "url": "https://www.informador.mx/internacional/reportan-el-impacto-de-dos-misiles-en-el-aeropuerto-de-aden-en-yemen-20261016-0153.html",
-      "typeHint": "escalada",
-      "image": "https://www.informador.mx/__export/1792196738530/sites/elinformador/img/2026/10/16/yemen.jpg_1656218194.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "«Alpinismo de secano», el nuevo libro de Edu Sallent",
-      "url": "https://www.desnivel.com/cultura/alpinismo-de-secano-el-nuevo-libro-de-edu-sallent/",
-      "typeHint": "festival",
-      "image": "https://www.desnivel.com/images/2026/10/alpinismodesecano.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Este domingo 18 de octubre la Carrera por Montaña Miranda de Ebro acoge el ... - Facebook",
-      "url": "https://www.facebook.com/cxmcyl/posts/%EF%B8%8F-este-domingo-18-de-octubre-la-carrera-por-monta%C3%B1a-miranda-de-ebro-acoge-el-cam/1724514206344588/",
-      "typeHint": "carrera",
-      "image": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9156910658683257009?url=https%3A%2F%2Fwww.fclm.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fcxm-miranda.png&amp;fb_obo=1&amp;utld=fclm.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=ErWkTA-QtIKTDhofdD5dVg&amp;_nc_zt=3&amp;oh=06_Q3_EAW_Vpfsfzf3bsPDK2QBjPmDGBHAUBZmFsbL4YGH0fWkd&amp;oe=6AD4D93C",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Carreras en Extremadura en noviembre de 2026",
-      "url": "https://runningextremadura.com/carreras/noviembre-2026/",
-      "typeHint": "carrera",
-      "image": "https://runningextremadura.com/compartir.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "El Trail del Bisaura regresa con casi 2.000 participantes y un recorrido renovado",
-      "url": "https://www.lugaresdeaventura.com/noticia/trail-bisaura-2026-2000-corredores-recorrido-renovado",
-      "typeHint": "carrera",
-      "image": "https://www.lugaresdeaventura.com/sites/default/files/2026-10/trail-del-bisaura.jpg",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "¿Y TÚ, POR QUÉ CORRES? ‍♀️ Por sentirte libre. Por descubrir de qué eres capaz ... - Instagram",
-      "url": "https://www.instagram.com/reel/DekHSlNzG0K/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/843655338_17912459373493865_5360125594561026442_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pzvAIeoDvG8Q7kNvwHwTBAi&amp;_nc_oc=AdpyYTNCM0peGo5GqykP2hKZN7GIiXl4vKpgvPOAXpEtVhW5wNZ1AUngd1HFZw0zuRo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=FCOvr-QH2fm2RJeH5vf0dQ&amp;_nc_ss=7c689&amp;oh=00_AQNKWQIpmxKkwbm1CtA9q0LmarHSwicH2-BWUpqZ3GzUFw&amp;oe=6AD8DEA5",
-      "date": "2026-10-17"
-    },
-    {
-      "title": "Día de los Cerros: ¿Puede Chile convertirse en la capital mundial del trail running?",
-      "url": "https://austerra.org/articulos/dia-de-los-cerros-chile-capital-mundial-trail-running",
-      "typeHint": "travesia",
-      "image": null,
       "date": "2026-10-17"
     }
   ]
