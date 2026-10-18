@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:34:48.036Z",
+  "updatedAt": "2026-10-18T19:29:59.507Z",
   "events": [
     {
       "name": "Barbudo SkyRace (Línea)",
@@ -2296,6 +2296,18 @@
       "url": "https://web.rockthesport.com/es/event/10-onil-trails-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Chianti Ultra Trail by UTMB 2027",
+      "startDate": "2027-03-20T01:00:00",
+      "endDate": "2027-03-20T01:00:00",
+      "locationName": "Radda (Chianti)",
+      "image": "https://static.runnea.com/images/202411/chianti-trail-by-utmb-2025-cartel-250x250x80.jpg?1",
+      "url": "https://www.runnea.com/carreras-populares/chianti-ultra-trail-by-utmb/",
+      "country": "España",
+      "type": "carrera",
+      "source": "runnea",
+      "sourceName": "Runnea"
     },
     {
       "name": "VIII PEGO TRAIL, Pego, CTM 26/27",
