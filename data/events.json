@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:10:04.326Z",
+  "updatedAt": "2026-10-20T17:35:11.943Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -43,6 +43,17 @@
       "locationName": "Talcahuano (Michimalongo s/n, península de Tumbes), Región del Biobío, Talcahuano, Región del Biobío, CL",
       "image": "https://andestrail.cl/ilustraciones/121-cosacos-trail.jpg",
       "url": "https://andestrail.cl/carreras/cosacos-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "October Trail Menorca",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "locationName": "Son Bou (Alaior), Islas Baleares, ES",
+      "image": "https://trailruntemple.com/images/races/october-trail-menorca-hero.jpg",
+      "url": "https://trailruntemple.com/carreras/espana/baleares/october-trail-menorca/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
@@ -1058,7 +1069,7 @@
       "endDate": null,
       "locationName": "Gipuzkoa",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/198cf508-e505-4f61-ab08-f188ed33d52e.jpeg",
       "url": "https://web.rockthesport.com/es/event/lasarte-oriako-ii-aniztasunean-elkarrekin-jardunaldi-inklusiboa-mendi-martxa-inklusiboa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
