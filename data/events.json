@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:54:11.482Z",
+  "updatedAt": "2026-10-20T10:10:04.326Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -35,6 +35,17 @@
       "url": "http://www.jarabaturismo.com/",
       "source": "fam",
       "sourceName": "FAM (andadas populares)"
+    },
+    {
+      "name": "Cosacos Trail",
+      "startDate": "2026-10-24",
+      "endDate": null,
+      "locationName": "Talcahuano (Michimalongo s/n, península de Tumbes), Región del Biobío, Talcahuano, Región del Biobío, CL",
+      "image": "https://andestrail.cl/ilustraciones/121-cosacos-trail.jpg",
+      "url": "https://andestrail.cl/carreras/cosacos-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Sobrescobio Redes Trail 2026",
@@ -599,6 +610,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/1261/library/root/0d1f696f-1df7-4fd5-83d8-2060c9d35823.jpg"
     },
     {
+      "name": "VIII Circuito de Senderismo - XIII Marcha del Otoño de Bejarano 2026",
+      "type": "travesia",
+      "startDate": "2026-11-01T09:30:00",
+      "endDate": null,
+      "locationName": "Salamanca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/daf83081-026a-4367-a1cf-3386259f9f8c.jpeg",
+      "url": "https://web.rockthesport.com/es/event/viii-circuito-de-senderismo-xiii-marcha-del-otono-de-bejarano-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "II EMBUN MONSTER TRAIL",
       "type": "carrera",
       "startDate": "2026-11-01T11:00:00",
@@ -1025,6 +1048,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/981/library/root/03d7efff-fa52-4dfd-8688-38f341baa5ba.jpg",
       "url": "https://web.rockthesport.com/es/event/de-marcha-a-marcha-a-paso-de-trilobite",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Lasarte-Oriako II. “Aniztasunean Elkarrekin” Jardunaldi Inklusiboa: Mendi-martxa inklusiboa",
+      "type": "travesia",
+      "startDate": "2026-11-14T09:30:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/lasarte-oriako-ii-aniztasunean-elkarrekin-jardunaldi-inklusiboa-mendi-martxa-inklusiboa",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2167,7 +2202,7 @@
       "endDate": null,
       "locationName": "Córdoba",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10961/library/root/049b99b2-b125-4771-abb7-a0584a5eeeb8.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10961/library/root/ebc33bc4-e1dd-45d8-9697-c31a0fc6fa2b.jpg",
       "url": "https://web.rockthesport.com/es/event/trail-guzman-el-bueno-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
