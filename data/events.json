@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:54:42.758Z",
+  "updatedAt": "2026-10-21T10:18:01.903Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -456,6 +456,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/1914d8c9-aaaf-4470-b07b-6e58c31591e7.png"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 26/10 al 30/10",
+      "type": "escalada",
+      "startDate": "2026-10-30T19:30:00",
+      "endDate": "2026-10-30T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-2610-al-3010",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Ultra X 110 Madeira",
@@ -1250,6 +1262,17 @@
       "url": "https://web.rockthesport.com/es/event/3-prueba-copa-castilla-y-leon-de-bloque-open-geko-aventura-vi-open-boulder-ciudad-de-valladolid",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XIII CxM Tiñosa, Copa de Andalucía de Carreras por Montaña en Priego de Córdoba",
+      "startDate": "2026-11-21T09:00:00+01:00",
+      "endDate": "2026-11-21T15:00:00+01:00",
+      "locationName": "Fuente del Rey (salida y meta), Priego de Córdoba, Andalucía, ES",
+      "image": "https://www.eventoscordoba.es/carteles/social/tinosa-trail-priego-de-cordoba-2026.jpg",
+      "url": "https://www.eventoscordoba.es/agenda/tinosa-trail-priego-de-cordoba-2026",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Escalada Terapéutica",
