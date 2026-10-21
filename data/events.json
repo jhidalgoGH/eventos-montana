@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:18:01.903Z",
+  "updatedAt": "2026-10-21T17:35:12.971Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -1896,6 +1896,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11688/library/root/25f83d08-4ad4-4f97-86b3-f1fe17d90460.jpg",
       "url": "https://web.rockthesport.com/es/event/v-ultramediterrania-terres-de-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "TRAIL TERRAS DE BURÓN 2027",
+      "type": "carrera",
+      "startDate": "2027-01-23T07:00:00",
+      "endDate": null,
+      "locationName": "Lugo",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/a03e4b05-7bb9-4a7c-aaa3-917d45c71e27.jpeg",
+      "url": "https://web.rockthesport.com/es/event/trail-terras-de-buron-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
