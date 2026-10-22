@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:54:09.025Z",
+  "updatedAt": "2026-10-22T10:18:28.805Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -1192,6 +1192,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "VI CANICROS DE REUS - 2026",
+      "type": "carrera",
+      "startDate": "2026-11-15T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/812ded99-42fc-4b2f-82ec-b75076bc41f1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/vi-canicros-de-reus-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Txulato Trail Zambrana",
       "type": "carrera",
       "startDate": "2026-11-15T10:00:00",
@@ -1551,7 +1563,7 @@
       "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/735d2a53-7d07-4003-800c-0cbd029fb3c5.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/49d977a7-7e21-4f3f-9343-0c5d1ea7d5fb_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1914,7 +1926,7 @@
       "name": "TRAIL TERRAS DE BURÓN 2027",
       "type": "carrera",
       "startDate": "2027-01-23T07:00:00",
-      "endDate": null,
+      "endDate": "2027-01-23T19:00:00",
       "locationName": "Lugo",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/a03e4b05-7bb9-4a7c-aaa3-917d45c71e27.jpeg",
