@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T10:12:29.446Z",
+  "updatedAt": "2026-10-23T17:35:02.111Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -679,6 +679,18 @@
       "sourceName": "FAM (andadas populares)"
     },
     {
+      "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
+      "type": "travesia",
+      "startDate": "2026-11-02T12:00:00",
+      "endDate": "2026-11-02T12:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/7979512f-118f-4f63-abad-d8901ac5840f.png",
+      "url": "https://web.rockthesport.com/es/event/solicitud-pertenencia-seleccion-absoluta-skimo-castilla-y-leon-2026-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "V Trail Demonios do Lizandro",
       "type": "carrera",
       "startDate": "2026-11-06",
@@ -957,6 +969,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/cff90421-b3ea-459f-8a9b-96b0907e0666.png",
       "url": "https://web.rockthesport.com/es/event/-cursarroca-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Curso de Guiado de Personas con Discapacidad Visual en Entornos Naturales y de Montaña",
+      "type": "travesia",
+      "startDate": "2026-11-08T10:00:00",
+      "endDate": "2026-11-08T20:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/905fea7a-f54f-44e4-a32e-81ad2af08e40.png",
+      "url": "https://web.rockthesport.com/es/event/curso-de-guiado-de-personas-con-discapacidad-visual-en-entornos-naturales-y-de-montana",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1754,6 +1778,18 @@
       "country": "España",
       "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/8d81e921-f0f6-456c-8dfe-df2835b60ec6.jpg",
       "url": "https://web.rockthesport.com/es/event/trail-trincheras-xyz-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "SAN SILVESTRE DE AMIEVA 2026",
+      "type": "carrera",
+      "startDate": "2026-12-19T16:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/7c29922e-d3cf-4d45-b2cc-099a9255e48d.jpeg",
+      "url": "https://web.rockthesport.com/es/event/san-silvestre-de-amieva-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
