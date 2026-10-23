@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:54:18.033Z",
+  "updatedAt": "2026-10-23T10:12:29.446Z",
   "events": [
     {
       "name": "X Encuentro de Escalada Clásica Ayacata",
@@ -1872,6 +1872,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/543/library/root/71f9658b-af9b-4c34-a840-8bb2ac5aab13.jpg",
       "url": "https://web.rockthesport.com/es/event/tenerguera-trail-2027-",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "CASTAÑERU REDES TRAIL 2027",
+      "type": "carrera",
+      "startDate": "2027-01-10T10:30:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/9b117a40-e14a-4393-ad3d-064dd50dd8e6.jpg",
+      "url": "https://web.rockthesport.com/es/event/castaneru-redes-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
