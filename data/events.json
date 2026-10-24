@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-10-23T20:31:39.472Z",
+  "updatedAt": "2026-10-24T05:54:11.427Z",
   "events": [
-    {
-      "name": "X Encuentro de Escalada Clásica Ayacata",
-      "type": "otro",
-      "startDate": "2026-10-23T19:00:00",
-      "endDate": null,
-      "locationName": "Palmas (Las)",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/3e1e6403-e7b7-4d41-b19a-ffec203d766f.jpg",
-      "url": "https://web.rockthesport.com/es/event/x-encuentro-de-escalada-clasica-ayacata",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 19/10 al 23/10",
-      "type": "escalada",
-      "startDate": "2026-10-23T19:30:00",
-      "endDate": "2026-10-23T22:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
-      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-1910-al-2310",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Ruta de los Balnearios de Jaraba",
       "type": "travesia",
@@ -314,6 +290,28 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "Ultra Gocta 2026",
+      "startDate": "2026-10-25T05:00:00-05:00",
+      "endDate": "2026-10-25T05:00:00-05:00",
+      "locationName": "Centro Poblado Cocachimba, Bongará, Amazonas, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/01/ultra-gocta-2026.webp",
+      "url": "https://www.running4peru.com/eventos/ultra-gocta/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Gepetrail 2026",
+      "startDate": "2026-10-25T07:00:00-05:00",
+      "endDate": "2026-10-25T07:00:00-05:00",
+      "locationName": "Basilio Auqui, Lurigancho-Chosica, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/07/carrera-gepetrail-2025.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-gepetrail-2/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "CIMS DELS TRES TURONS 2026",
       "type": "carrera",
       "startDate": "2026-10-25T07:45:00",
@@ -581,6 +579,17 @@
       "locationName": "Bogotá",
       "image": "https://travesiadeportiva.com/wp-content/uploads/2025/09/lets-run-halloween-2026.webp",
       "url": "https://travesiadeportiva.com/calendario/magdalena-canoa-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Cerro Colorado Race Trail 2026",
+      "startDate": "2026-11-01T05:00:00-05:00",
+      "endDate": "2026-11-01T05:00:00-05:00",
+      "locationName": "Jicamarca, San Juan de Lurigancho, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/cerro-colorado-race-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-cerro-colorado/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
