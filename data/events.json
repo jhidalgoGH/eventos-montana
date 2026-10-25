@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:54:28.081Z",
+  "updatedAt": "2026-10-25T17:35:03.671Z",
   "events": [
     {
       "name": "XII KV Las Hurdes (Vertical)",
@@ -231,6 +231,17 @@
       "url": "https://web.rockthesport.com/es/event/pena-roya-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "SoyChile - temuco/deportes/2026/10/25/970073/cmpc-frontera-trail.html",
+      "startDate": "2026-10-25T15:20:39.039Z",
+      "endDate": "2026-10-25T16:20:39.039Z",
+      "locationName": "Chile, CL",
+      "image": "https://www.soychile.cl/favicon.png",
+      "url": "https://www.soychile.cl/temuco/deportes/2026/10/25/970073/cmpc-frontera-trail.html",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
