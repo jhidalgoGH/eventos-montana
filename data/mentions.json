@@ -1,6 +1,132 @@
 {
   "mentions": [
     {
+      "title": "Cararavaca Experience, en imágenes - La Opinión de Murcia",
+      "url": "https://www.laopiniondemurcia.es/deportes/2026/10/25/cararavaca-experience-imagenes-135742485.html",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
+      "title": "20ª edición de la Carrera del Río Martín de Alcaine el 16 de mayo de 2027 - Facebook",
+      "url": "https://www.facebook.com/100079983802598/posts/amigos-la-pr%C3%B3xima-edici%C3%B3n-va-a-ser-muy-especialcelebramos-20-a%C3%B1os-de-la-carrera-/1118033957539387/",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Miriam Morales conquista el podio mundial en Corea del Sur - El Imparcial de Oaxaca",
+      "url": "https://imparcialoaxaca.mx/super-deportivo/atletismo/miriam-morales-conquista-el-podio-mundial-en-corea-del-sur-la-corredora-oaxaquena-logra-el-tercer-lugar/",
+      "typeHint": "travesia",
+      "image": "https://imparcialoaxaca.mx/wp-content/uploads/2026/10/oaxaquena.webp",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "CMPC Frontera Trail 2026: Jorge Vera y María José Saavedra son campeones de los 40k ...",
+      "url": "https://sabesdeportes.com/2026/10/25/cmpc-frontera-trail-2026-jorge-vera-y-maria-jose-saavedra-son-campeones-de-los-40k-en-una-fiesta-deportiva-y-familiar/",
+      "typeHint": "travesia",
+      "image": "https://i2.ondapress.com/?w=1200&h=630&q=90&src=https%3A%2F%2Fassets.ondapress.com%2Fsabesdeportes%2F2026%2F10%2Frunning77f41ad02839054cb673cb0d8-1792951284.png",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Las Golden encuentran en Corea del Sur un antídoto al dominio keniano - EL PAÍS",
+      "url": "https://elpais.com/deportes/2026-10-25/las-golden-encuentran-en-corea-del-sur-un-antidoto-al-dominio-keniano.html?outputType=amp",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Rocío “Chío” Flores Cárdenas: de las montañas de Colima a conquistar escenarios ...",
+      "url": "https://www.afmedios.com/rocio-chio-flores-cardenas-de-las-montanas-de-colima-a-conquistar-escenarios-internacionales-del-trail-running/",
+      "typeHint": "travesia",
+      "image": "https://www.afmedios.com/wp-content/uploads/2026/05/chio-qr-06.jpg",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "¡Fecha confirmada! La Fiesta del Chef Patagónico 2027 despliega en mayo sus sabores en ...",
+      "url": "https://www.rionegro.com.ar/sociedad/fecha-confirmada-la-fiesta-del-chef-patagonico-2027-despliega-en-mayo-sus-sabores-en-villa-pehuenia-moquehue-4771841/",
+      "typeHint": "travesia",
+      "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/md-29.jpg?w=1200&amp;h=630&amp;crop=1&amp;resize=1200,630",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Exhibición y triplete de Elazzaoui en las Golden Trail World Series - AS.com - Diario AS",
+      "url": "https://as.com/deportes_accion/outdoor/exhibicion-y-triplete-de-elazzaoui-en-las-golden-trail-world-series-f202610-n/?outputType=amp",
+      "typeHint": "travesia",
+      "image": "https://img.asmedia.epimg.net/resizer/v2/5FHQ2G7G25BFNBBGRJ6LWA2XEQ.jpg?auth=7baff8834fe0c38b6ef76eb18b0c0168ba838b1f041599596b17ac3fe408eb63&amp;width=1472&amp;height=828&amp;focal=733%2C352",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "El británico Finlay Grant y la gallega Emma Méndez ganan la 'Speed Trail' en Redes - RTPA",
+      "url": "https://www.rtpa.es/noticias-deportes/2026-10-25/El-britanico-Finlay-Grant-y-la-gallega-Emma-Mendez-ganan-la-'Speed-Trail'-en-Redes_111792942183.html",
+      "typeHint": "travesia",
+      "image": "https://www.rtpa.es/fotos//26/10/20261025161347_RTPA8768037.webp",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Julen Calvó conquista la Ultra de Lanzarote con una gran victoria en los 67 kilómetros",
+      "url": "https://www.diaridetarragona.com/deportes/polideportivo/273961/julen-calvo-conquista-ultra-lanzarote-gran-victoria-67-kilometros_amp.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes.diaridetarragona.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6adddc8cc30eb.r_d.399-373-11858.jpeg",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Las mujeres de Hiru Herri se cuelgan la plata nacional - Diario de Navarra",
+      "url": "https://www.diariodenavarra.es/noticias/deportes/dn-running/2026/10/25/mujeres-hiru-herri-cuelgan-plata-nacional-840047-51.html",
+      "typeHint": "escalada",
+      "image": "https://imagenes.diariodenavarra.es/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade4849e960f.r_d.478-465-12684.jpeg",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Andalucía, pentacampeona de España de Marcha Nórdica en Edad Escolar, oro por ... - fadmes",
+      "url": "https://fadmes.es/andalucia-pentacampeona-de-espana-de-marcha-nordica-en-edad-escolar-oro-por-selecciones-absolutas-femeninas-y-bronce-en-masculino/",
+      "typeHint": "escalada",
+      "image": "https://fadmes.es/wp-content/uploads/2026/10/GRITO-DE-GUERRA.jpg",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Talleres de Escalada golea a Dock Sud y retoma la confianza pensando en el Reducido",
+      "url": "https://launion.com.ar/deportes/talleres-escalada-golea-dock-sud-y-retoma-la-confianza-pensando-el-reducido-n5446980",
+      "typeHint": "escalada",
+      "image": "https://media.launion.com.ar/p/41e21ba8621d0352e9e072ed078cfdec/adjuntos/379/imagenes/100/147/0100147221/1200x675/smart/tall.png",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Comentarios en directo - CA Talleres (Remedios de Escalada) : CS Dock Sud",
+      "url": "https://www.transfermarkt.es/ticker/begegnung/live/4804834",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Brown (Adrogué) vs. Def. Unidos, EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
+      "url": "https://www.tycsports.com/primera-division-b/brown-adrogue-vs-def-unidos-en-vivo-donde-ver-por-tv-y-online-id768539.html",
+      "typeHint": "escalada",
+      "image": "https://media.tycsports.com/files/2024/11/07/784712/primera-b_1440x810.webp",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Federación Fútbol Castilla-La Mancha-Ficha Partido - FFCM",
+      "url": "https://www.ffcm.es/pnfg/NPcd/NFG_CmpPartido?cod_primaria=1000120&CodActa=592238&cod_acta=592238",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Ya se han dado a conocer oficialmente los cuatro finalistas de la competición Road to Olympia 2026.",
+      "url": "https://www.vietnam.vn/es/chinh-thuc-lo-dien-4-nha-leo-nui-lot-vao-chung-ket-duong-len-dinh-olympia-2026",
+      "typeHint": "escalada",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/25/1792914823039_anh-man-hinh-2026-10-24-luc-194014-17928456238292016412797-0-0-966-1844-crop-1792845822247413005837.png",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "La escalada de una protesta juvenil deja a cientos de personas dentro de comercios de Barcelona",
+      "url": "https://101tvsevilla.es/la-escalada-de-una-protesta-juvenil-deja-a-cientos-de-personas-dentro-de-comercios-de-barcelona/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-25"
+    },
+    {
       "title": "Villa Pehuenia Moquehue se prepara para el verano y ya confirmó la Fiesta Nacional del ...",
       "url": "https://neuquenpost.com/villa-pehuenia-moquehue-se-prepara-para-el-verano-y-ya-confirmo-la-fiesta-nacional-del-chef-patagonico-2027/",
       "typeHint": "travesia",
@@ -572,132 +698,6 @@
       "url": "https://cogetumochila.com/blog/otono-magico-valle-del-ambroz-2026/",
       "typeHint": "carrera",
       "image": "https://cogetumochila.com/wp-content/uploads/2026/10/otono-magico-valle-ambroz-2026.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "undoubtably the performance of her career. Coming in with an at-large spot, a - Instagram",
-      "url": "https://www.instagram.com/p/De3uJTVEyVr/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/866147167_18100312307399900_3495480889963860662_n.jpg?stp=c503.0.1512.1511a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=py4iUj2HxMcQ7kNvwH8yFJ5&amp;_nc_oc=AdpWNyiApxmli7binNPeorcf9DKHe6Zyq38Louv3g_L30pNrE4kp-nLAilLelakMzhM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=ymqmAdVuoSYzBXgmg9VV4A&amp;_nc_ss=7c689&amp;oh=00_AQNsd3TAo9A3t0ROd-XfGKWwycAZhGhRkjYDHY2Mkwrdmg&amp;oe=6AE2AB70",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "El pueblo de Navarra que se convierte en capital del trail: 660 corredores de seis países ...",
-      "url": "https://navarra.okdiario.com/articulo/sociedad/pueblo-navarra-que-convierte-capital-trail-660-corredores-seis-paises-llenan-calles/20261024181955665123.amp.html",
-      "typeHint": "travesia",
-      "image": "https://navarra.okdiario.com/media/navarra/images/2026/10/24/2026102418172887885.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Diari de Tarragona on X: \"#Fotogalería |El deporte y la solidaridad se unen en Lliga't a la ...",
-      "url": "https://x.com/diaridtarragona/status/2113997216150896992",
-      "typeHint": "travesia",
-      "image": "https://pbs.twimg.com/media/HVZtPF2XAAEEyN1?format=webp&amp;name=large",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "‍ Arc'teryx Vertex Speed, diseñada para trail running técnico en... | TikTok",
-      "url": "https://www.tiktok.com/@extremsportec/video/7699887719832358152?lang=es",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Frédéric Tranchand y Sara Alonso pulverizan los récords en la Sobrescobio Skyrace",
-      "url": "https://www.territoriotrail.es/amp/frederic-tranchand-y-sara-alonso-pulverizan-los-records-en-la-sobrescobio-skyrace/",
-      "typeHint": "travesia",
-      "image": "https://www.territoriotrail.es/wp-content/uploads/2026/10/DSC05489.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Cinco rutas de trail cerca de Madrid para correr entre bosques este otoño: Hayas, castaños ...",
-      "url": "https://www.mundodeportivo.com/running/20261024/1004241507/cinco-rutas-trail-cerca-madrid-correr-bosques-otono-hayas-castanos-robles-caminos-rios-sierra-norte-sierra-oeste.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/27/6a671e9ad9317.r_d.813-366-6667.jpeg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Encuentro de Harley-Davidson, jornada de dibujo, running y trekking: las propuestas para ...",
-      "url": "https://www.lagaceta.com.ar/nota/1159427/sociedad/encuentro-harleydavidson-jornada-dibujo-running-trekking-propuestas-para-disfrutar-fin-semana-tucuman.html",
-      "typeHint": "travesia",
-      "image": "https://img.lagaceta.com.ar/fotos/notas/2026/10/24/encuentro-harley-davidson-jornada-dibujo-running-trekking-tucuman-tiene-todo-fin-semana-1159427-111144.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Lliga't a la Vida-Trail o el gran evento deportivo solidario de Tarragona",
-      "url": "https://www.diaridetarragona.com/fotogalerias/273895/lliga-t-vida-trail-gran-evento-deportivo-solidario-tarragona.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes.diaridetarragona.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6adcb8c969816.r_d.800-554-0.jpeg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "3 Trail Running Shoes You Need to Know in 2027 | Nike, Adidas, and NNormal - YouTube",
-      "url": "https://www.youtube.com/watch?v=w92-E9XfFR0&vl=es",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Nike a precio de outlet: chaquetas, zapatillas Air Max, pantalones y más desde 27,99 euros",
-      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/nike-a-precio-outlet-chaquetas-zapatillas-air-max-pantalones-27-99-euros",
-      "typeHint": "travesia",
-      "image": "https://i.blogs.es/7b97fe/nike/840_560.jpeg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "La Fira de Tots Sants de Cocentaina, los orangutanes de Borneo y el éxito de Bar Mistela en Madrid",
-      "url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-fira-de-tots-sants-de-cocentaina-los-orangutanes-de-borneo-y-el-exito-de-bar-mistela-en-madrid-radio-valencia/",
-      "typeHint": "travesia",
-      "image": "https://cadenaser.com/resizer/v2/B66EFLTINFGLDGLQKDRDYL226E.jpg?auth=9d56c2c4575159e100d056b0153ff209ef0997fecac5b829d72d1aae3b7c7c64&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Trail y mountain bike: dos días de aventura en La Falda | El Diario de Carlos Paz",
-      "url": "https://www.eldiariodecarlospaz.com.ar/deportes/2026/10/23/trail-y-mountain-bike-dos-dias-de-aventura-en-la-falda-262732.html",
-      "typeHint": "travesia",
-      "image": "https://img.eldiariodecarlospaz.com.ar/UhulbQ8z6FkC68Mpy-hhzZ-X6rYIa9FHHgw0u7AIZ3E/rs:fill:1200:630:1/g:fp:0.459:0.253/f:jpg/aHR0cHM6Ly9hc3NldHMuZWxkaWFyaW9kZWNhcmxvc3Bhei5jb20uYXIvaW1nLzE3OTI3OTYwMjIzNjgtbm9rcGwyLmpwZw",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Carreras de Trail Running en Calle 12#1N-28 el prado 2026 | BuscaTrail",
-      "url": "https://buscatrail.cl/carreras/calle-12-1n-28-el-prado/tipo/trail/",
-      "typeHint": "travesia",
-      "image": "https://buscatrail.cl/og-image.jpg",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "RESPONSIVE CUSHIONING - TERREX - BLOQUES DE COLOR | ADIDAS ES",
-      "url": "https://www.adidas.es/responsive_cushioning-terrex-bloques_de_color",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Aprende a vivir sin nadie. #trail #running @fansdestacados - Runners Manchay - Maruja Cántaro",
-      "url": "https://www.facebook.com/RunnersManchay22/videos/-aprende-a-vivir-sin-nadie-trail-running-fansdestacados-runners-manchay-maruja-c/2324245195066321/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/857232877_918781771168320_2549721026551336015_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=YN_m4QlvUJAQ7kNvwEAlJYH&amp;_nc_oc=AdoIo43tDceGkCZ6Iv9Z7H_gW8oz6iNiplwoLQlRWmz--CEIYuNcOGQuDRagnBf9Xw0&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=dAl-4KUyWhVAP1EkGNwHBQ&amp;_nc_ss=7c289&amp;oh=00_AQNvuRkCtwG-DzJIv75qFoqK3sRLUnLNVtYjq_U2-VJbSQ&amp;oe=6AE2C5A0",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "‍♂️⛰️ RECORRIERON 163 KILÓMETROS POR LAS SIERRAS GRANDES EN UN ...",
-      "url": "https://www.instagram.com/p/De2xKP4iZAM/",
-      "typeHint": "travesia",
-      "image": "https://scontent-iad3-2.cdninstagram.com/v/t39.30808-6/859898643_1528566739300950_7763373675272578273_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=EYenuYpMr20Q7kNvwEexb4p&amp;_nc_oc=AdofP7-atqvx3u4532D_DkHuzdHCVqiY6s0Pdki0I4f2w-0AcoWNOMoSRvfDOwZT18o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=4FZWE5GyhkoMHi8GgwYN5w&amp;_nc_ss=7c689&amp;oh=00_AQP2T7j06PGp6xhnBm543CzfaqWU8Jb0zFv_jD5yOyoo7w&amp;oe=6AE2CB86",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Franco Collé - Atleta italiano de trail running",
-      "url": "https://baike.baidu.com/es/item/Franco%20Coll%C3%A9/5975782",
-      "typeHint": "travesia",
-      "image": "https://bkssl.bdimg.com/cms/static/baike.png",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Epic Traverse Hidalgo 2026 arranca con travesía extrema por nueve municipios",
-      "url": "https://www.criteriohidalgo.com/la-copa/deporte-hidalgo/epic-traverse-hidalgo-2026-arranca-con-travesia-extrema-por-nueve-municipios",
-      "typeHint": "travesia",
-      "image": null,
       "date": "2026-10-24"
     }
   ]
