@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:15:23.213Z",
+  "updatedAt": "2026-10-26T17:35:12.302Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -2006,6 +2006,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/f69d50ca-7d19-4890-80f0-a3b6a4ab0cc4_custom1.jpg",
       "url": "https://web.rockthesport.com/es/event/volta-al-terme-aielo-de-malferit-2027-lliga-de-muntanya-valencia-sud-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XVIII CALAMORRO SKYRACE",
+      "type": "carrera",
+      "startDate": "2027-04-04T08:30:00",
+      "endDate": null,
+      "locationName": "Málaga",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/xviii-calamorro-skyrace",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
