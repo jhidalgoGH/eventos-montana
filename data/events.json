@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:54:20.963Z",
+  "updatedAt": "2026-10-26T11:15:23.213Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -418,6 +418,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/05ae9d1b-3733-4412-bbf6-d54f36dd152b.jpg",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-clubes-marcha-nordica-2026-crevillent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 02/11 al 07/11",
+      "type": "escalada",
+      "startDate": "2026-11-07T19:30:00",
+      "endDate": "2026-11-07T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-0211-al-0711",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
