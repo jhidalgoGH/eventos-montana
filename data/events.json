@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:41:27.986Z",
+  "updatedAt": "2026-10-27T17:35:26.128Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -193,7 +193,7 @@
       "endDate": null,
       "locationName": "Valencia/València",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/f63687b6-8c06-4027-a706-6178cdb6e607.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6eb24a21-8c73-4800-9e84-2bdbc6df2ceb_custom1.png",
       "url": "https://web.rockthesport.com/es/event/xi-trail-de-bunol",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2138,6 +2138,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "XIII Trail Requena, el Rebollar",
+      "type": "carrera",
+      "startDate": "2027-04-18T09:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/87ae81cd-0a45-4e4d-a2a4-ab6f3e300474.jpeg",
+      "url": "https://web.rockthesport.com/es/event/xiii-trail-requena-el-rebollar",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Iberika Trail San Agustín del Guadalix",
       "startDate": "2027-04-18T09:45:00+02:00",
       "endDate": "2027-04-18",
@@ -2180,6 +2192,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/543/custom/root/20c37e9e-f125-46c4-a78b-a3987e258053_custom1.jpg",
       "url": "https://web.rockthesport.com/es/event/trail-almendros-y-volcanes-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Ultra Trail Moncayo 2027",
+      "type": "carrera",
+      "startDate": "2027-05-01T06:00:00",
+      "endDate": null,
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/d612b294-63c4-4547-8bd7-e82c18aa291e.jpeg",
+      "url": "https://web.rockthesport.com/es/event/ultra-trail-moncayo-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
