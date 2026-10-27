@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:35:26.128Z",
+  "updatedAt": "2026-10-27T21:24:24.786Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -2238,6 +2238,17 @@
       "image": "https://trainerday.com/og-td-mark.png",
       "url": "https://trainerday.com/cs/events/es/carrera-por-montana-del-maestrazgo",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "HOLY TRAIL RUNNING FESTIVAL",
+      "startDate": "2027-05-15T00:00:00.000Z",
+      "endDate": "2027-05-15T00:00:00.000Z",
+      "locationName": "Oulton Broad, GB",
+      "image": "https://www.datocms-assets.com/18841/1733319771-1726134825-ultra-8.jpg?fm=webp&amp;w=3280",
+      "url": "https://www.campus.coach/es/carreras/holy-trail-running-festival-6ad8046ecc6649ad1b463019",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
