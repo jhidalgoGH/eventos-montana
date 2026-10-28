@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:54:57.653Z",
+  "updatedAt": "2026-10-28T11:25:30.294Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1904,6 +1904,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "C.T.T. TRAIL - 2027",
+      "type": "carrera",
+      "startDate": "2027-03-07T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
+      "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Trail Fuentealta Vilaflor 2027",
       "type": "carrera",
       "startDate": "2027-03-12T17:00:00",
@@ -2040,7 +2052,7 @@
       "endDate": null,
       "locationName": "Málaga",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/e8d7445f-64bf-43a8-9e08-ce751826e015.jpeg",
       "url": "https://web.rockthesport.com/es/event/xviii-calamorro-skyrace",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2399,7 +2411,7 @@
       "endDate": "2027-06-19T07:00:00",
       "locationName": "Palisades Tahoe, California (EEUU), Ee.uu",
       "image": "https://static.runnea.com/images/202512/broken-logo-250x250x80.jpg?1",
-      "url": "https://www.runnea.com/carreras-populares/broken-arrow-skyrace-2026/",
+      "url": "https://www.runnea.com/carreras-populares/broken-arrow-skyrace/",
       "type": "carrera",
       "source": "runnea",
       "sourceName": "Runnea"
