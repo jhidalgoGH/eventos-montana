@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T11:25:30.294Z",
+  "updatedAt": "2026-10-28T17:35:00.659Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1784,6 +1784,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/4bf6cb8c-9bd2-48df-a287-f661bc8368cb.jpg",
       "url": "https://web.rockthesport.com/es/event/ctt-trail-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Cursa Hostrailric 2027",
+      "type": "carrera",
+      "startDate": "2027-02-21T09:00:00",
+      "endDate": null,
+      "locationName": "Girona",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/cursa-hostrailric-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
