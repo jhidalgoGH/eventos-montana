@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:35:00.659Z",
+  "updatedAt": "2026-10-28T21:46:12.302Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -430,6 +430,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/05ae9d1b-3733-4412-bbf6-d54f36dd152b.jpg",
       "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-clubes-marcha-nordica-2026-crevillent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "PETIZO TRAIL 2026 - ORZOLA ",
+      "type": "carrera",
+      "startDate": "2026-11-07T19:00:00",
+      "endDate": "2026-11-07T23:59:00",
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14466/library/root/a3c9154f-6ba5-46d1-8c7f-ea84b0de203b.jpg",
+      "url": "https://web.rockthesport.com/es/event/petizo-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },

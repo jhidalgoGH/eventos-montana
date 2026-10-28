@@ -1,6 +1,209 @@
 {
   "mentions": [
     {
+      "title": "Guardia Civil: oficinas para recoger ADN de víctimas - La Aldaba",
+      "url": "https://laaldaba.es/sucesos-es/guardia-civil-oficinas-adn-victimas-accidente-ferroviario/",
+      "typeHint": "carrera",
+      "image": "https://laaldaba.es/wp-content/uploads/2026/10/foto_01.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Comienza el curso 26-27 de 'La Montaña en la escuela', un programa deportivo en el que ...",
+      "url": "https://guillena.org/comienza-el-curso-26-27-de-la-montana-en-la-escuela-un-programa-deportivo-en-el-que-participa-el-alumnado-de-los-colegios-y-el-instituto/",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "X Carrera por Montaña de Zafra | ChipSerena. Cronometraje deportivo",
+      "url": "https://www.chipserena.es/fr//web-evento/14077-x-carrera-por-montana-de-zafra",
+      "typeHint": "carrera",
+      "image": "https://deporticket.blob.core.windows.net/awebs/chipserena.-cronometraje-deportivo/logo-chipserena-blanco-2017-638853183074871968.png",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Cayón Trail en Piloña: carrera por montaña de 11 km y 1.200 m de desnivel - Vivir Asturias",
+      "url": "https://www.vivirasturias.com/agenda-de-asturias/i/98518241/cayon-trail-pilona-11-km-monte-cayon",
+      "typeHint": "carrera",
+      "image": "https://cmsphoto.ww-cdn.com/resizeapi/e4d4f180d130b63583bc91bba45c4862af23cb7f/3200/-1/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "8. Festival de Montaña en Araia - Hala Bedi",
+      "url": "https://halabedi.eus/event/8-festival-de-montana-en-araia-3",
+      "typeHint": "carrera",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Corte de Coyhaique confirma prisión preventiva de dos imputados por tráfico de drogas y ...",
+      "url": "https://radio45sur.cl/2026/10/28/corte-de-coyhaique-confirma-prision-preventiva-de-dos-imputados-por-trafico-de-drogas-y-tenencia-ilegal-de-armas/",
+      "typeHint": "travesia",
+      "image": "https://radio45sur.cl/wp-content/uploads/2026/09/Foto-02-Corte-Coyhaique-.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Miriam Morales, de Tlaxiaco, gana bronce en mundial de trail running - Meganoticias.mx",
+      "url": "https://www.meganoticias.mx/salina-cruz/noticia/miriam-morales-de-tlaxiaco-gana-bronce-en-mundial-de-trail-running/783318",
+      "typeHint": "travesia",
+      "image": "https://www.meganoticias.mx/uploads/noticias/miriam-morales-de-tlaxiaco-gana-bronce-en-mundial-de-trail-running-783318.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Team UCuenca invita a sumarse al Social Run 4K por la salud y el bienestar - El Mercurio",
+      "url": "https://elmercurio.com.ec/deportes/2026/10/28/social-run-tema-ucuenca-invitacion/",
+      "typeHint": "travesia",
+      "image": "https://elmercurio.com.ec/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.51.48-AM.jpeg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Alejandro Mora y el Club Entresierras llevarán la representación zafrense a la Ultra de los Castillos",
+      "url": "https://zafra.hoy.es/deportes/alejandro-mora-club-entresierras-llevaran-representacion-zafrense-20261028173517-nt_amp.html",
+      "typeHint": "travesia",
+      "image": "https://s1.ppllstatics.com/hoy/zafra/multimedia/externo/2026/10/28/WhatsApp%20Image%202026-10-28%20at%2010.35.25-RcEBLwVRtZMBVGEgd18ZyDN-1200x840@Hoy.jpeg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "¿Puede la IA crear anuncios que la gente no quiera ignorar? Así propone Making Science ...",
+      "url": "https://www.revistapym.com.co/articulos/mercadeo/102907/puede-la-ia-crear-anuncios-que-la-gente-no-quiera-ignorar-asi-propone-making-science-lograr-relevancia-a-escala",
+      "typeHint": "travesia",
+      "image": "https://i.revistapym.com.co/cms/2026/10/28110353/Diana-Chaves-de-Making-Science-durante-su-charla-sobre-inteligencia-artificial-agentica-y-creatividad-publicitaria-en-el-Marketing-Conference-Latam-de-PM-en-Bogota.-1.png?w=1280",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Disfruta de la Media Maratón Internacional de Fondo del Ripollès en Ripoll - Turisme de Catalunya",
+      "url": "https://www.catalunya.com/es/continguts/esdeveniments-agenda/campeonato-internacional-atletismo-fondo-ripolles-media-maraton-1-1-561803",
+      "typeHint": "travesia",
+      "image": "https://www.catalunya.com/content/dam/catalunyacom/web/ca/contingut-generic/logotips/catalunya.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Players entrenamiento o trail running de The North Face de segunda mano - GoTrendier",
+      "url": "https://www.gotrendier.mx/p/players-entrenamiento-o-trail-running-40247099?i=24",
+      "typeHint": "travesia",
+      "image": "https://media.gotrendier.mx/media/p/2026/10/27/i_bmkbvu63svvm0n.342617cd4de6f6a6.jpeg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Sandra Rolón se quedó con los 50K en el Utra Yabotí - Primera Edición",
+      "url": "https://www.primeraedicion.com.ar/nota/101155270/sandra-rolon-gano-ultra-trail-50k-yaboty/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Azpeitia será la sede del Campeonato de Europa de Skyrunning en 2027 - El Diario Vasco",
+      "url": "https://www.diariovasco.com/mendira/azpeitia-sede-campeonato-europa-skyrunning-2027-20261028181208-nt.html",
+      "typeHint": "travesia",
+      "image": "https://s1.ppllstatics.com/diariovasco/www/multimedia/mendira/2026/10/28/1518596385-U201305251745fZE-RWjdjOa0g4skWk0k95q9b0N-1200x840@Diario%20Vasco.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Resolado de zapatillas de trail y aproximación | Tonigatos",
+      "url": "https://tonigatos.es/zapatillas/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Probamos qué tal el Método de @sergioleoz para el Trail Running 🎙️ @albertovillalbapy Presenta",
+      "url": "https://www.facebook.com/SomosGEN/posts/metodoleoz-probamos-qu%C3%A9-tal-el-m%C3%A9todo-de-sergioleoz-para-el-trail-running-%EF%B8%8F-albe/1606428731526924/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/870909199_1467078358672451_3603206475477821997_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=rm_IxY-KktgQ7kNvwHEMjl6&amp;_nc_oc=AdpyaX4wsdl5I_1pNUrQgiNEdVm2C-JLnnR3B2KRZsDsD-iK9Oc9g8o6SaKmEg_Suns&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=O16OjDYxJPXvKeaZtkn6aQ&amp;_nc_ss=7c289&amp;oh=00_AQSB8CIFaceQlhvNc4dvrPFtwssXhdCtFNqhUDB7U4eXgg&amp;oe=6AE859C0",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Air Force 1 GORE-TEX Vibram Thunder Blue: Los tenis Nike impermeables azules con ...",
+      "url": "https://www.gq.com.mx/articulo/tenis-nike-air-force-1-gore-tex-vibram-thunder-blue-hv5953-400-precio-fotos-lanzamiento-28-10-2026",
+      "typeHint": "travesia",
+      "image": "https://media.gq.com.mx/photos/6ae22764c1e6911b4fdddb71/16:9/w_1280,c_limit/Tenis_Nike_Air_Force_1_GORE-TEX_Vibram_Thunder_Blue_HV5953-400.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Por qué el trail running no es moda sino rendimiento y seguridad - Facebook",
+      "url": "https://www.facebook.com/groups/623035671908099/posts/2227796748098642/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/865216546_39541651852149820_3178306679727395820_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1408x768&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=6376bf&amp;_nc_ohc=oyQTINHhNHIQ7kNvwEeM3sh&amp;_nc_oc=AdoCeg4YECr4wWFyTZQS5hor_q-OeVhvMNu4tWvsFdFWgwyykShc6W41N0Ue8fETgpw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=I5RwzS9zXVWzJfRhYF3GJw&amp;_nc_ss=7c289&amp;oh=00_AQSMwHljjh2yo6BoBfy99zG8E0PTBMKIevEqHmq0yovzmQ&amp;oe=6AE84BDD",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Mohamed Amine El Hamdani, único aragonés convocado al CAR de Sierra Nevada",
+      "url": "https://www.elcruzado.es/mohamed-amine-el-hamdani-unico-aragones-convocado-al-car-de-sierra-nevada/",
+      "typeHint": "travesia",
+      "image": "https://i0.wp.com/www.elcruzado.es/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-15.55.37-e1793032442412.jpeg?fit=2048%2C1242&ssl=1",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Probamos qué tal el Método de @sergioleoz para el Trail Running 🎙️ @albertovillalbapy Presenta",
+      "url": "https://www.instagram.com/reel/DfC1NOgjDQf/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/869829080_18470440078191797_4839516832317604994_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=xM_lVa4X-QgQ7kNvwEuRhbo&amp;_nc_oc=AdpvdUuZd3yJAo1tQ_qeMgFM9CRQjls74DlQhcPfUJZjP49H6kvoizlnup1b3s7VwSk&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=sPFNLVhqS-MVKXdkrkcmEQ&amp;_nc_ss=7c689&amp;oh=00_AQQlG1cC58F2429ZFnY1SUgxSuPjOZh3lTs9_SrAlxV2lg&amp;oe=6AE8372D",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Saucony Peregrine 15 Gore-Tex Impermeable | Zapatillas Trail Running - Amazon.com",
+      "url": "https://www.amazon.com/-/es/Saucony-Peregrine-Gore-Tex-Impermeable-Zapatillas/dp/B0FCFVJP9Z",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "New Balance rebaja a casi mitad de precio sus zapatillas todoterreno más resistentes para ...",
+      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/new-balance-rebaja-a-casi-mitad-precio-sus-zapatillas-todoterreno-resistentes-para-no-parar-este-otono",
+      "typeHint": "travesia",
+      "image": "https://i.blogs.es/4abcac/emblema-rojo-y-zapatilla-deportiva/840_560.jpeg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "¡Pahuatlán te espera para vivir la emoción del trail running! De la mano del gobernador ...",
+      "url": "https://www.facebook.com/TuristicoGobPue/posts/pahuatl%C3%A1n-te-espera-para-vivir-la-emoci%C3%B3n-del-trail-running-de-la-mano-del-gober/1427392626175195/",
+      "typeHint": "travesia",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/865110883_1594615588542249_1707268617963788052_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=ZbvvvZp14-wQ7kNvwFjcv9V&amp;_nc_oc=Adq-bzRoKXbrrWMfdyZwVeSEV6qAdQBRC8xrwB3xZd4KG1KiSYF6sVZG_B2JaN7FAd8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=rV9jQtXaOxv4q6Fowdt36g&amp;_nc_ss=7c289&amp;oh=00_AQRolHQ0s2kk2HDzgJiJ7DH4r_lToyM6h8ezdztT4iS5Sw&amp;oe=6AE82589",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "V OPEN DE ESCALADA CELEBRADO EN BLOKACERES - FEXME",
+      "url": "https://fexme.com/2026/10/28/v-open-de-escalada-celebrado-en-blokaceres/",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Qué necesita Comunicaciones para meterse en el Reducido - Solo Ascenso",
+      "url": "https://www.soloascenso.com.ar/notas/comunicaciones/que-necesita-comunicaciones-para-meterse-en-el-reducido/234062",
+      "typeHint": "escalada",
+      "image": "https://www.soloascenso.com.ar/Noticias/ncomunicaciones.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Santa Fe llevará 51 deportistas a los Juegos Argentinos Urbanos 2026 - Radio Rafaela",
+      "url": "https://radiorafaela.com.ar/deportes/santa-fe-llevara-51-deportistas-a-los-juegos-argentinos-urbanos-2026",
+      "typeHint": "escalada",
+      "image": "https://cdnartic.ar/_jGU5xU-hU-k52GEfyilWSxk8JY=/1200x630/smart/filters:format(jpeg):quality(70)/https://radiorafaelacdn.eleco.com.ar/media/2026/10/juegos.webp",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Macará quiere blindar a Guillermo Sanguinetti ante el posible interés de otros clubes",
+      "url": "https://www.eluniverso.com/deportes/campeonato-ecuatoriano/macara-quiere-blindar-a-guillermo-sanguinetti-ante-el-posible-interes-de-otros-clubes-nota/",
+      "typeHint": "escalada",
+      "image": "https://www.eluniverso.com/resizer/v2/WJH6PMH5ARHK5AQGRW2CCGS4CA.jpg?auth=89e6636dd5cc335598aa17ba3d8259dd71e3a215d3b6eb2c5932bfd58b81bd66&amp;width=1005&amp;height=670&amp;quality=75&amp;smart=true",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "España y Argentina, protagonistas en el mayor torneo mundial de rugby a siete en Dubái",
+      "url": "https://www.elcorreo.ae/deportes/espana-argentina-protagonistas-mayor-torneo-mundial-rugby-siete-dubai/20261028082446177842.html",
+      "typeHint": "escalada",
+      "image": "https://www.elcorreo.ae/media/elcorreo/images/2026/10/27/2026102722051313802.jpg",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Torneo I San Isidro 2026 - dbSportpress",
+      "url": "https://dbsport.press/torneo-i-villa-de-madrid-2026/",
+      "typeHint": "escalada",
+      "image": "https://dbsport.press/wp-content/uploads/2026/10/Club-de-Lluita-Camp-de-Morvedre-3.jpg",
+      "date": "2026-10-28"
+    },
+    {
       "title": "Carreras en Cercedilla 2026 — comprar dorsal",
       "url": "https://www.dorsal.pro/carreras/cercedilla",
       "typeHint": "carrera",
@@ -496,209 +699,6 @@
       "typeHint": "escalada",
       "image": "https://defensacentral.com/uploads/s1/51/55/93/4/real-madrid-baloncesto-baskonia-pedro-martinez.jpeg",
       "date": "2026-10-28"
-    },
-    {
-      "title": "Nacho Ferri brilla en el Feyenoord con seis goles en nueve jornadas - Noticias deporte valenciano",
-      "url": "https://www.deportevalenciano.com/2026/10/27/nacho-ferri-brilla-feyenoord-seis-goles-nueve-jornadas",
-      "typeHint": "escalada",
-      "image": "https://www.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/jarvies/2026-10/d25e4183-cbb9-4f30-ad54-9ef03cfd52d6_16-9-discover-aspect-ratio_default_1523472.jpg?itok=zzFSVQ2S",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Carlos Granja y el oro de Santa Fe 2026 que lo acerca a los Juegos Olímpicos de Los Ángeles 2028",
-      "url": "https://www.extra.ec/noticia/deportes/carlos-granja-oro-santa-fe-2026-acerca-juegos-olimpicos-angeles-2028-166256_amp.html",
-      "typeHint": "escalada",
-      "image": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/27/6ae1094f1031d.jpeg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "El Chorro corona a Despistaos on the Wall en el cierre de la Liga de Rallyes de Escalada 2026",
-      "url": "https://lacronicadigital.com/el-chorro-corona-a-despistaos-on-the-wall-en-el-cierre-de-la-liga-de-rallyes-de-escalada-2026/",
-      "typeHint": "escalada",
-      "image": "https://lacronicadigital.com/wp-content/uploads/2026/10/IMG_4316.jpeg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "El Chorro pone el broche final a la Liga de Rallyes de Escalada 2026 con una exigente ...",
-      "url": "https://noticiasronda24horas.es/el-chorro-pone-el-broche-final-a-la-liga-de-rallyes-de-escalada-2026-con-una-exigente-prueba-de-doce-horas/",
-      "typeHint": "escalada",
-      "image": "https://noticiasronda24horas.es/wp-content/uploads/2026/10/VRM0982.jpeg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "El Chorro cierra la Liga de Rallyes de Escalada 2026 con doce horas de competición y 16 ...",
-      "url": "https://comarcaantequera24horas.es/el-chorro-cierra-la-liga-de-rallyes-de-escalada-2026-con-doce-horas-de-competicion-y-16-equipos-participantes/",
-      "typeHint": "escalada",
-      "image": "https://comarcaantequera24horas.es/wp-content/uploads/2026/10/VRM1226.jpg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Una cordada mixta conquista el Rally de Escalada 12 Horas de El Chorro tras una exigente ...",
-      "url": "https://diversosmagazine.com/una-cordada-mixta-conquista-el-rally-de-escalada-12-horas-de-el-chorro-tras-una-exigente-jornada-de-competicion/",
-      "typeHint": "escalada",
-      "image": "https://diversosmagazine.com/wp-content/uploads/2026/10/VRM0483.jpeg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "ASOCIACIÓN DE ESCALADA Y MONTAÑA DIAGUITA ORGANIZA EL CONTROL ...",
-      "url": "https://www.coquimbonoticias.cl/2026/10/27/asociacion-de-escalada-y-montana-diaguita-organiza-el-control-regional-de-escalada-infantil-en-la-serena/30770/amp",
-      "typeHint": "escalada",
-      "image": "https://www.coquimbonoticias.cl/wp-content/uploads/2026/10/asociacion-de-escalada-y-montana-diaguita-orga.jpg",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Fruggina Sunset Trail: Pablo Salamanca y Camila García García ganaron los 23K",
-      "url": "https://www.alertadigital.ar/noticias/2026/10/27/180429-fruggina-sunset-trail-pablo-salamanca-y-camila-garcia-garcia-ganaron-los-23k",
-      "typeHint": "travesia",
-      "image": "https://cdn4.alertadigital.ar/s4/2026/10/27/alertadigital/images/29/16/291674_dc026df2137cab188d0f2ee052f0e18d873399fd80a7a1dfd548791bbd367c67/lg.webp?_v=v3-22",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Últimos días para inscribirse en Entremontañas Paralelo 28, que se celebrará el 13 y 14 de ...",
-      "url": "https://nortegrancanaria.com/noticias/noticias-deportivas/ultimos-dias-para-inscribirse-en-entremontanas-paralelo-28-que-se-celebrara-el-13-y-14-de-noviembre-en-la-aldea-de-san-nicolas/",
-      "typeHint": "travesia",
-      "image": "https://nortegrancanaria.com/wp-content/uploads/2026/10/Cartel-Entremontanas-Paralelo-28-La-Aldea.webp",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Se viene el Trail Aniversario de Tolhuin con un recorrido renovado en el Cerro Michi",
-      "url": "https://www.actualidadtdf.com.ar/se-viene-el-trail-aniversario-de-tolhuin-con-un-recorrido-renovado-en-el-cerro-michi/",
-      "typeHint": "travesia",
-      "image": "https://www.actualidadtdf.com.ar/wp-content/uploads/2026/10/cerro-michi.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Road to the Grand Final, Golden Trail World Series (South Korea) - YouTube",
-      "url": "https://m.youtube.com/watch?v=0sepALtoeew",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Calendario DEFINITIVO para 2027 de carreras de Trail Running en La Rioja. Recuperamos ...",
-      "url": "https://www.instagram.com/p/DfAmPFWA49P/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/864931933_18085269083704790_8458083948534693028_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=mCQjQvmRjeMQ7kNvwHOfokQ&amp;_nc_oc=AdrlbqN5wc4BbRZ98W8S82UaHBgrYbKISA6wWyuRtF7LCs-_mL5Z2iRinqynS1XbrmM&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=urk9weNPvLk0HKJUhxOWmw&amp;_nc_ss=7c689&amp;oh=00_AQOqeOyw3SpZyxX_7CMGujcAnCc1A91lk0kJgVZpFo5okA&amp;oe=6AE7034E",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "La Aldea: Últimos días para inscribirse en Entremontañas Paralelo 28, que se celebrará el ...",
-      "url": "https://www.radiofarodelnoroeste.es/municipios/la-aldea-de-san-nicolas/item/41295-la-aldea-ultimos-dias-para-inscribirse-en-entremontanas-paralelo-28-que-se-celebrara-el-13-y-14-de-noviembre",
-      "typeHint": "travesia",
-      "image": "https://www.radiofarodelnoroeste.es/media/k2/items/cache/6807cdc6dcdc7468e37ed11cec7b6646_M.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Acabas de correr tu primera carrera de trail ⛰️ #running #runner #trail #trailrunning #montaña",
-      "url": "https://www.instagram.com/reel/DfAiUiAovnK/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/871252737_1640072727857170_4574607085044316012_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=oQ1t5OP5P-AQ7kNvwEsGoZl&amp;_nc_oc=AdpvkXa66JktnM7llF2awKZHebZ-k4dP1NwN_9-FGEoTajl2J6FcDc_VWD7zMKSEfbU&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=6NFdS43R8NoK8r5Pds_2Ig&amp;_nc_ss=7c689&amp;oh=00_AQOlAw-0CFnQzNtuns5kwrjVwUvaduamHrMQjZFssTXQtw&amp;oe=6AE7037B",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Ruta de los Tres Horizontes: trail running en Manzanillo, Colima - Milenio",
-      "url": "https://www.milenio.com/estilo/viajes/colima-combina-naturaleza-desafio-fisico-trail-running",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Pau Capell, excampeón de UTMB: \"Conseguí mi éxito profesional, pero al mismo tiempo ...",
-      "url": "https://www.mundodeportivo.com/running/20261027/1004243837/pau-capell-excampeon-utmb-consegui-mi-exito-profesional-consegui-mentalmente-mal.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/02/18/67b4531c75fe0.r_d.900-600-0.jpeg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Machalí Trail Race | Welcu",
-      "url": "https://welcu.com/desnivel-positivo/machali-trail-racests",
-      "typeHint": "travesia",
-      "image": "https://cdn.welcu.com/uploads/public/images/flyers/98a0295f0b9897eb607847e504d54420_square.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "El marroquí Elhousine Elazzaoui hace historia con su tercer título mundial consecutivo de trail",
-      "url": "https://es.rue20.com/2026/10/27/el-marroqui-elhousine-elazzaoui-hace-historia-con-su-tercer-titulo-mundial-consecutivo-de-trail/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "El K42 vuelve a desafiar los senderos y montañas de Villa La Angostura | Neuquen Informa",
-      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/27/266253-el-k42-vuelve-a-desafiar-los-senderos-y-montanas-de-villa-la-angostura",
-      "typeHint": "travesia",
-      "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/83/19/2831972_fd7787a988d31e33d881e929c34bba573413de4c9c37da417ba383f149dbfd5a/xs.webp?_v=v3-47",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Nike inaugura una tienda en Perú con su nuevo formato global: ¿cómo es?",
-      "url": "https://www.peru-retail.com/nike-inaugura-una-tienda-en-peru-con-su-nuevo-formato-global-como-es/",
-      "typeHint": "travesia",
-      "image": "https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/Nike-3.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "BONATTI PRO - Salomon Costa Rica",
-      "url": "https://salomon.co.cr/products/bonatti-pro-chaqueta-impermeable-de-trail-running-para-hombre",
-      "typeHint": "travesia",
-      "image": "http://salomon.co.cr/cdn/shop/files/LC2769800_0_MOD_bonattiprojkt_deepblack_run_m-copia.jpg?v=1792167838&width=2048",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "La dimisión del presidente destapa el relevo pactado en la FEDME y desata una crisis de ...",
-      "url": "https://www.elcorreo.com/deportes/mas-deportes/dimision-presidente-destapa-relevo-pactado-fedme-desata-20261027213027-ntrc.html",
-      "typeHint": "escalada",
-      "image": "https://s1.ppllstatics.com/rc/www/multimedia/deportes/2026/10/27/image_20261027190759-RVmrH1VLnWxPh0RE5m1TgBL-1200x840@RC.png",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Santa Fe competirá en los Juegos Argentinos Urbanos 2026 con 51 deportistas",
-      "url": "https://adn979.com/contenido/177693/santa-fe-competira-en-los-juegos-argentinos-urbanos-2026-con-51-deportistas",
-      "typeHint": "escalada",
-      "image": "https://adn979.com/download/multimedia.grande.83fa3459f951e61d.Z3JhbmRlLndlYnA%3D.webp",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Santa Fe participará de los Juegos Argentinos Urbanos 2026 en Malvinas Argentinas",
-      "url": "https://www.santafe.gov.ar/noticias/noticia/287708/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Real Pilar cierra el sábado al mediodía en Berisso - Pilar a Diario",
-      "url": "https://www.pilaradiario.com/la-liga/real-pilar-cierra-el-sabado-al-mediodia-berisso-n5473167",
-      "typeHint": "escalada",
-      "image": "https://media.pilaradiario.com/p/7b2dcb8e6db117018111a9317b93199b/adjuntos/352/imagenes/100/154/0100154101/1200x675/smart/real-previa.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "33 deportistas fueguinos ya están en Buenos Aires para competir en los JAUR | Sur54.com",
-      "url": "https://www.sur54.com/noticias/2026/10/27/132042-33-deportistas-fueguinos-ya-estan-en-buenos-aires-para-competir-en-los-jaur",
-      "typeHint": "escalada",
-      "image": "https://sur54-s3.cdn.net.ar/s3i233/2026/10/sur54/images/02/83/25/2832502_cf2bfde8c0d0b9e9889e0350429f67e019df34e5a4cbdb9c7a41acd3fbd71222/sm.jpg",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Dorados y Adelitas UACh buscan escalar posiciones en la Liga ABE",
-      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/dorados-y-adelitas-uach-buscan-escalar-posiciones-en-la-liga-abe-32820752",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Hades | WOGU | Cultura de escalada",
-      "url": "https://woguclimbing.com/tag/hades/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Jessica Pilz en 'Hades' 9a - WOGU",
-      "url": "https://woguclimbing.com/video-jessica-pilz-hades-9a/?amp",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-10-27"
     }
   ]
 }
