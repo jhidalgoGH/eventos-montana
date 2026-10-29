@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:35:54.905Z",
+  "updatedAt": "2026-10-29T17:35:09.510Z",
   "events": [
     {
       "name": "Eurafrica Trail 2026",
@@ -2498,6 +2498,17 @@
       "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Quito Trail Ecuador by UTMB 2027",
+      "startDate": "2027-07-30T08:00:00",
+      "endDate": "2027-08-01",
+      "locationName": "Quito, Ecuador, AR",
+      "image": null,
+      "url": "https://www.carrerasdecalleytrail.com.ar/carrera/quito-trail-ecuador-by-utmb-2027",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx",
