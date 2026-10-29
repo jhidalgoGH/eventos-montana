@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:53:58.484Z",
+  "updatedAt": "2026-10-29T11:35:54.905Z",
   "events": [
     {
       "name": "Eurafrica Trail 2026",
@@ -1490,6 +1490,18 @@
       "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
     },
     {
+      "name": "SAN SILVESTRE TRAIL MIERES DEL CAMINO 2026",
+      "type": "carrera",
+      "startDate": "2026-12-27T11:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/80088473-9658-457a-a4fe-1a2d4a842171.jpeg",
+      "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-mieres-del-camino-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XIV TRAIL ZOQUETES",
       "type": "carrera",
       "startDate": "2027-01-09T08:30:00",
@@ -2116,6 +2128,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "TRAIL DE LOS TORROLLONES 2027",
+      "type": "carrera",
+      "startDate": "2027-04-10T09:30:00",
+      "endDate": null,
+      "locationName": "Huesca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/20671f1b-de7b-43bb-952b-dad77efab7d3.png",
+      "url": "https://web.rockthesport.com/es/event/trail-de-los-torrollones-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Camí Bandolers, Senija, CTM 26/27",
       "type": "carrera",
       "startDate": "2027-04-11T09:00:00",
@@ -2274,6 +2298,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/trail-de-primavera-confrides-ctm-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "VI-Domusa Teknik 40 MLK (65km)",
+      "type": "carrera",
+      "startDate": "2027-05-08T08:00:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9905/library/root/75408162-8a61-481d-86e8-601a71c543c8.jpg",
+      "url": "https://web.rockthesport.com/es/event/vi-domusa-teknik-40-mlk-65km-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
