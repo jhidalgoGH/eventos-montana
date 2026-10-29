@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:35:09.510Z",
+  "updatedAt": "2026-10-29T21:53:06.602Z",
   "events": [
     {
       "name": "Eurafrica Trail 2026",
@@ -529,7 +529,7 @@
     {
       "name": "BODEGAS XALÓ‐ BÈRNIA MOSCATEL, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
-      "startDate": "2026-11-08T09:00:00",
+      "startDate": "2026-11-08T08:30:00",
       "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
@@ -1691,6 +1691,17 @@
       "url": "https://web.rockthesport.com/es/event/marxa-castells-altafulla-baix-gaia-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Carrera por Montaña Arroyo de los Molinos 26 km",
+      "startDate": "2027-02",
+      "endDate": null,
+      "locationName": "Arroyomolinos, Cáceres, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Carrera+por+Monta%C3%B1a+Arroyo+de+los+Molinos+26+km+2027&amp;subtitle=Arroyomolinos+%C2%B7+26+km+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/arroyomolinos/carrera-por-montana-arroyo-de-los-molinos-26-km",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Simat trail, LMVS. 26/27",
