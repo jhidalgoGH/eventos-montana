@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:35:06.117Z",
+  "updatedAt": "2026-10-30T21:37:07.869Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1737,6 +1737,28 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "El Buitre CXM 34 km",
+      "startDate": "2027-02",
+      "endDate": null,
+      "locationName": "Pabellón Julio Cardozo (Carretera del Campo de San Juan), Moratalla, Moratalla, Murcia, ES",
+      "image": "https://www.dorsal.pro/api/og?title=El+Buitre+CXM+34+km+2027&amp;subtitle=Moratalla+%C2%B7+34+km+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/moratalla/el-buitre-cxm-34-km",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "CxM Los Molinos del Ciudadeja 14 km",
+      "startDate": "2027-02",
+      "endDate": null,
+      "locationName": "Plaza de España, Las Navas de la Concepción (Sevilla), Las Navas de la Concepción, Sevilla, ES",
+      "image": "https://www.dorsal.pro/api/og?title=CxM+Los+Molinos+del+Ciudadeja+14+km+2027&amp;subtitle=Las+Navas+de+la+Concepci%C3%B3n+%C2%B7+14+km+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/las-navas-de-la-concepcion/cxm-los-molinos-del-ciudadeja-14-km",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Simat trail, LMVS. 26/27",
       "type": "carrera",
       "startDate": "2027-02-06T09:00:00",
@@ -1969,6 +1991,17 @@
       "locationName": "Área recreativa de Los Arbolitos, Yunquera, Yunquera, Málaga, ES",
       "image": "https://www.dorsal.pro/api/og?title=Pinsapo+Trail+29+km+2027&amp;subtitle=Yunquera+%C2%B7+29+km+%C2%B7+Dorsal+Pro",
       "url": "https://www.dorsal.pro/carreras/yunquera/pinsapo-trail-29-km",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Cañada del Lobo 13 km",
+      "startDate": "2027-03",
+      "endDate": null,
+      "locationName": "Estadio Polideportivo «Ciudad de Torremolinos», Torremolinos, Málaga, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Trail+Ca%C3%B1ada+del+Lobo+13+km+2027&amp;subtitle=Torremolinos+%C2%B7+13+km+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/torremolinos/trail-canada-del-lobo-13-km",
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
