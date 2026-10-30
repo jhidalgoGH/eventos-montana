@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:27:50.733Z",
+  "updatedAt": "2026-10-30T17:35:06.117Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1107,7 +1107,7 @@
       "endDate": "2026-11-29",
       "locationName": "Casas del Monte, Cáceres, España",
       "image": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_default_dark.jpg",
-      "url": "https://sportmaniacs.com/fr/races/29-11-2026-xvi-carrera-por-montantildea-subida-a-campanarios---casas-del-monte-2026",
+      "url": "https://sportmaniacs.com/pl/races/29-11-2026-xvi-carrera-por-montantildea-subida-a-campanarios---casas-del-monte-2026",
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
@@ -1891,6 +1891,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "2027 TRAIL ZONE - TGC",
+      "type": "carrera",
+      "startDate": "2027-02-22T16:00:00",
+      "endDate": null,
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10423/library/root/e9b24605-3e6f-44a5-856c-f473a96d69e8.png",
+      "url": "https://web.rockthesport.com/es/event/2027-trail-zone-tgc",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "V ATZAVARES TRAIL, ORBA-VALL LAGUAR, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-02-27T08:30:00",
@@ -1949,6 +1961,17 @@
       "url": "https://web.rockthesport.com/es/event/2a-prova-copa-marxa-nordica-femecv-2027-rotova",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Pinsapo Trail 29 km",
+      "startDate": "2027-03",
+      "endDate": null,
+      "locationName": "Área recreativa de Los Arbolitos, Yunquera, Yunquera, Málaga, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Pinsapo+Trail+29+km+2027&amp;subtitle=Yunquera+%C2%B7+29+km+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/yunquera/pinsapo-trail-29-km",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "100 MILLAS SIERRAS DEL BANDOLERO by Trangoworld",
@@ -2195,6 +2218,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Desafío Trail Running - Parquemet 2027",
+      "startDate": "2027-04-11T03:00:00-04:00",
+      "endDate": "2027-04-11",
+      "locationName": "Providencia, Providencia, Región Metropolitana, Chile",
+      "image": "https://www.corredorpromedio.com/wp-content/uploads/2025/07/desafio_tr_cla.jpg",
+      "url": "https://www.corredorpromedio.com/evento/desafio-trail-running-parquemet-1/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Camí Bandolers, Senija, CTM 26/27",
       "type": "carrera",
       "startDate": "2027-04-11T09:00:00",
@@ -2365,6 +2399,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/9905/library/root/75408162-8a61-481d-86e8-601a71c543c8.jpg",
       "url": "https://web.rockthesport.com/es/event/vi-domusa-teknik-40-mlk-65km-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "MARATÓN XTREMELAGOS Y TRAILXTREME 2027",
+      "type": "carrera",
+      "startDate": "2027-05-08T08:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/c86fea57-04c6-4450-b6ab-a69ba6147bd4.jpg",
+      "url": "https://web.rockthesport.com/es/event/xtreme-lagos-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2577,6 +2623,17 @@
       "url": "https://web.rockthesport.com/es/event/marimurumendimarathon-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "IV Carrera por Montaña Santa Marina",
+      "startDate": "2027-07-11",
+      "endDate": "2027-07-11",
+      "locationName": "Campo de Fútbol de Santa Marina, Parres, Asturias, ES",
+      "image": "https://montecarreras.com/api/media/ac3e88d3e8374e06b934b30395ff8baa.webp",
+      "url": "https://montecarreras.com/carreras/carrera-por-montana-santa-marina-2027",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Quito Trail Ecuador by UTMB 2027",
