@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-29T21:53:06.602Z",
+  "updatedAt": "2026-10-30T05:54:09.164Z",
   "events": [
-    {
-      "name": "Eurafrica Trail 2026",
-      "startDate": "2026-10-29",
-      "endDate": "2026-11-02",
-      "locationName": "Gibraltar, GI",
-      "image": "https://jereznews.com/wp-content/uploads/2026/10/Cartel-Eurafrica-TrailCab.jpg",
-      "url": "https://eurafricatrail.com/es/programacion/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
       "type": "carrera",
@@ -972,6 +961,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Ancón Trail Fest 2026",
+      "startDate": "2026-11-22T05:45:00-05:00",
+      "endDate": "2026-11-22T05:45:00-05:00",
+      "locationName": "Balneario de la Marina de Ancón, Ancón, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/08/ancon-trail-fest-2026.webp",
+      "url": "https://www.running4peru.com/eventos/ancon-trail-fest/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XII Gualba Trail",
       "type": "carrera",
       "startDate": "2026-11-22T09:00:00",
@@ -1478,6 +1478,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Trout Mountain Trail 2026",
+      "startDate": "2026-12-27T08:30:00-05:00",
+      "endDate": "2026-12-27T08:30:00-05:00",
+      "locationName": "Plaza de Armas de Canta, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/09/trout-mountain-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/trout-mountain-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Gran Canaria O-Meeting (GCOM 2026)",
       "type": "otro",
       "startDate": "2026-12-27T10:00:00",
@@ -1500,6 +1511,17 @@
       "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-mieres-del-camino-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Lomas de Jatosisa Trail 2027",
+      "startDate": "2027-01-03T00:00:00-05:00",
+      "endDate": "2027-01-03T23:59:59-05:00",
+      "locationName": "Lomas de Jatosisa, Pachacámac, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/10/lomas-de-jatosisa-trail-2027.webp",
+      "url": "https://www.running4peru.com/eventos/lomas-jatosisa-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XIV TRAIL ZOQUETES",
@@ -2128,6 +2150,17 @@
       "sourceName": "Runnea"
     },
     {
+      "name": "Cantamarca Trail 2027",
+      "startDate": "2027-04-10T00:00:00-05:00",
+      "endDate": "2027-04-11T23:59:59-05:00",
+      "locationName": "Cantamarca, Canta, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/09/cantamarca-trail-2027.webp",
+      "url": "https://www.running4peru.com/eventos/cantamarca-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Trail Malalcahuello by Corralco",
       "startDate": "2027-04-10T08:00:00Z",
       "endDate": null,
@@ -2507,6 +2540,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/90244d22-d998-4135-b40f-9417b860c970.jpg",
       "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Marimurumendi Marathon 2027",
+      "type": "carrera",
+      "startDate": "2027-07-10T08:00:00",
+      "endDate": "2027-07-10T16:00:00",
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/4aa2ae14-a564-42c9-8c6b-95cb237eff48.png",
+      "url": "https://web.rockthesport.com/es/event/marimurumendimarathon-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
