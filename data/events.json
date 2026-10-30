@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:54:09.164Z",
+  "updatedAt": "2026-10-30T11:27:50.733Z",
   "events": [
     {
       "name": "EURAFRICA TRAIL GRAN SENDA DE MALAGA 2026",
@@ -1536,6 +1536,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XIII CxM Alhaurín de la Torre La Conquista del Paraíso 2027",
+      "startDate": "2027-01-10T00:00:00.000Z",
+      "endDate": "2027-01-10T00:00:00.000Z",
+      "locationName": "Alhaurín de la Torre, ES",
+      "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&fit=crop&w=1600&q=80",
+      "url": "https://www.vemaxsport.com/eventos/xiii-cxm-alhaurin-de-la-torre-la-conquista-del-paraiso-2027",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-01-10T08:30:00",
@@ -2426,6 +2437,18 @@
       "type": "travesia",
       "source": "runnea",
       "sourceName": "Runnea"
+    },
+    {
+      "name": "Good Loop Backyard Ultra 2027",
+      "type": "carrera",
+      "startDate": "2027-05-28T22:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13984/library/root/c6f5e21e-b497-4537-af5c-51ab0f04442d.jpg",
+      "url": "https://web.rockthesport.com/es/event/good-loop-backyard-ultra-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "44a VOLTA AL TERME DE FONDEGUILLA",
