@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:35:19.170Z",
+  "updatedAt": "2026-10-31T20:31:01.555Z",
   "events": [
     {
       "name": "Ultra X 110 Madeira",
@@ -1759,6 +1759,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Trail des Calanques",
+      "startDate": "2027-02-07",
+      "endDate": "2027-02-07",
+      "locationName": "Marseille, Provenza-Alpes-Costa Azul, FR",
+      "image": "https://trailruntemple.com/images/races/trail-des-calanques-hero.webp",
+      "url": "https://trailruntemple.com/carreras/francia/provenza-alpes-costa-azul/trail-des-calanques/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XIV MITJA MARATÓ OCAIVE – PEDREGUER, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-02-07T08:30:00",
@@ -1802,6 +1813,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
       "url": "https://web.rockthesport.com/es/event/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "V TRAIL SÁSTAGO",
+      "type": "carrera",
+      "startDate": "2027-02-14T08:30:00",
+      "endDate": null,
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/0ee57110-1c12-4d92-a32a-da143d6f623a.jpeg",
+      "url": "https://web.rockthesport.com/es/event/v-trail-sastago",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
