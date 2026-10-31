@@ -1,6 +1,48 @@
 {
   "mentions": [
     {
+      "title": "Cáceres contará con cuatro nuevas áreas biosaludables con una inversión de más de 91.000€",
+      "url": "https://www.regiondigital.com/noticias-amp/caceres-y-provincia/437777-caceres-contara-con-cuatro-nuevas-areas-biosaludables-con-una-inversion-de-mas-de-91000eur.html",
+      "typeHint": "carrera",
+      "image": "https://www.regiondigital.com/m/p/960x410/media/files/155049_area-biosaludable-de-pancaliente.jpg",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "España logra tres podios en la Copa del Mundo de paraescalada de Gunsan - FEDME",
+      "url": "https://fedme.es/espana-logra-tres-podios-en-la-copa-del-mundo-de-paraescalada-de-gunsan/",
+      "typeHint": "escalada",
+      "image": "https://fedme.es/wp-content/uploads/2026/10/5195be6e-23c2-460a-97cb-90c88da02ce6-scaled.webp",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "CA Argentino de Quilmes - Pesadilla del club - Transfermarkt",
+      "url": "https://www.transfermarkt.es/club-atletico-argentino-de-quilmes/vereinsschreck/verein/22603",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Campeonato Alemán de Escalada de Dificultad este fin de semana: ¿Quién se alzará con los títulos?",
+      "url": "https://www.lacrux.com/es/escalar/El-campeonato-alem%C3%A1n-lidera-este-fin-de-semana%3A-%C2%BFqui%C3%A9n-se-alzar%C3%A1-con-los-t%C3%ADtulos/",
+      "typeHint": "escalada",
+      "image": "https://www.lacrux.com/wp-content/uploads/2026/10/Deutsche-Meisterschaft-Lead-dieses-Wochenende-Wer-holt-sich-den-Titel.png",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Campeonato Popular Boulder Pio Baroja - CD Fortuna KE",
+      "url": "https://cdfortunake.com/es/pruebas/campeonato-popular-boulder-pio-baroja/",
+      "typeHint": "escalada",
+      "image": "https://cdfortunake.com/wp-content/uploads/2026/09/fortuna-pruebas-boulder-destacada.webp",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "El Moncayo: La trampa de la ruta normal",
+      "url": "https://www.desnivel.com/cultura/analisis-de-accidentes/el-moncayo-la-trampa-de-la-ruta-normal/",
+      "typeHint": "festival",
+      "image": "https://www.desnivel.com/images/2026/10/fot-1.jpg",
+      "date": "2026-10-31"
+    },
+    {
       "title": "¿Nos regalan las zapatillas que recomendamos? RUNNEA cuenta cómo probamos el ...",
       "url": "https://www.runnea.com/articulos/mujer-running/regalan-zapatillas-recomendamos-runnea-cuenta-28350/",
       "typeHint": "travesia",
@@ -656,48 +698,6 @@
       "url": "https://carrerasdemontana.com/2026/10/30/lesiones-deportivas-cinco-errores-que-provocan-recaidas-por-zurine-celis/",
       "typeHint": "travesia",
       "image": "https://carrerasdemontana.com/wp-content/uploads/2026/10/lesiones-deportivas-cinco-errores-por-mayayo-1024x1024.png",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "JOMA Zapatillas De Trail Running Sierra EU 42 - Amazon.es",
-      "url": "https://www.amazon.es/JOMA-Zapatillas-Trail-Running-Sierra/dp/B0HKNBSWVT",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Stage 1 of Eurafrica Trail (@eurafricatrail) is in the books. Gibraltar welcomed the runners ...",
-      "url": "https://www.facebook.com/EurafricaTrailOficial/videos/-stage-1-of-eurafrica-trail-eurafricatrail-is-in-the-booksgibraltar-welcomed-the/1656514162816314/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.71878-15/870410793_1084168597957787_8982011826855957075_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=t92L3NQY4q0Q7kNvwESAJaI&amp;_nc_oc=AdrXQJBevfA1C88JdyggA41rJKb1C6C4nMRB7_FmCG42CLCtQuvdTmBjF5a7G49p-SM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=Ug8f_ML8hkBttK7edxJZfQ&amp;_nc_ss=7c289&amp;oh=00_AQSoU7fEXtkrkIbieT3RRhJAmo4PLQJT6V1jVxq15RzMVQ&amp;oe=6AE9EF93",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "El 19 de diciembre se correrá, en dos distancias, un Trail nocturno donde se combina la ...",
-      "url": "https://www.facebook.com/Red43Noticias/posts/el-19-de-diciembre-se-correr%C3%A1-en-dos-distancias-un-trail-nocturno-donde-se-combi/1045604521818406/",
-      "typeHint": "travesia",
-      "image": "https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/17235045642178856393?url=https%3A%2F%2Fpxbcdn.red43.com.ar%2Fred43%2F102026%2F1793304883667.jpg%3F%26cw%3D600%26ch%3D365&amp;fb_obo=1&amp;utld=red43.com.ar&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=1GfrQtHM_D6ypI81Owt3Hw&amp;_nc_zt=3&amp;oh=06_Q3_EAVcTqc12CaUOBl-riC4LpHmws7Jap_ntiAxOfJ4FMMDM&amp;oe=6AE61F9A",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Tenis Para Trail Running Salomon Xa Pro 3d V9 Gore Tex Para Mujer | Coppel.com",
-      "url": "https://www.coppel.com/pdp/tenis-para-trail-running-salomon-xa-pro-3d-v9-gore-tex-para-mujer-mkp-749874687",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-10-30"
-    },
-    {
-      "title": "El momento histórico en el que Jasmin Paris logró convertirse en la primera mujer que ... - Instagram",
-      "url": "https://www.instagram.com/reel/DfGFb-FjYzS/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/871683380_17914017336481422_4025769154729811614_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=GU-vyhgv3CMQ7kNvwGTAv_x&amp;_nc_oc=AdrkZiN8ZXZjKnLTn3aj2UT-5Th96P3BP34tsVei_gTvM83j9SWq3UHYjmXuHSIf8z8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;_nc_gid=sfA3vmOCKZB1fxtBFB1A2w&amp;_nc_ss=7c689&amp;oh=00_AQQ-2ROWoNA7UHpb_oD6kOqxmiTpQUPp9xzO7-TtfLLCyg&amp;oe=6AE9F304",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "El proceso y la tensa espera hasta la largada de la carrera más dura del mundo y que nadie ...",
-      "url": "https://www.instagram.com/reel/DfGCRyDAmxE/",
-      "typeHint": "travesia",
-      "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/874775048_17914015401481422_8244196761627852830_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=XgkFjez_pNIQ7kNvwEFaLJC&amp;_nc_oc=AdpJOM2C_VihPYs54WDEDKGwfqHvNcMOq9uDwOmmR2jHkbEsKyVdGtgkZX5QAln7BrI&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=Tfw0ZrDMdSn-kAbU8sYsvw&amp;_nc_ss=7c689&amp;oh=00_AQRdhGViBpunoXBH25MgWCDdPjJuXVhvjpX1jDqbNbtChQ&amp;oe=6AE9FDED",
       "date": "2026-10-30"
     }
   ]
