@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:54:47.640Z",
+  "updatedAt": "2026-11-01T11:55:26.442Z",
   "events": [
     {
       "name": "Ultra X 110 Madeira",
@@ -1499,6 +1499,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Snowrunning Larra Belagua 2027 Elur Lasterketa",
+      "type": "carrera",
+      "startDate": "2027-01-16T10:00:00",
+      "endDate": null,
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2837/library/root/32815e4e-1b8c-4ece-9019-8798db0b6a31.jpg",
+      "url": "https://web.rockthesport.com/es/event/httpssnowrunninglarrabelaguacom",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Serralades de Barxeta -  Mabu 2027, LMVS. 26/27",
       "type": "carrera",
       "startDate": "2027-01-17T07:00:00",
@@ -2123,7 +2135,7 @@
       "name": "XVIII CALAMORRO SKYRACE",
       "type": "carrera",
       "startDate": "2027-04-04T08:30:00",
-      "endDate": null,
+      "endDate": "2027-04-04T15:30:00",
       "locationName": "Málaga",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/e8d7445f-64bf-43a8-9e08-ce751826e015.jpeg",
@@ -2594,6 +2606,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Vielha Molieres 3010 - ",
+      "type": "carrera",
+      "startDate": "2027-07-17T06:30:00",
+      "endDate": "2027-07-17T21:30:00",
+      "locationName": "Lleida",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14322/library/root/974a9e0f-8262-4c77-b359-33db81aade96.jpg",
+      "url": "https://web.rockthesport.com/es/event/trail-vielha-molieres-3010-",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Quito Trail Ecuador by UTMB 2027",
