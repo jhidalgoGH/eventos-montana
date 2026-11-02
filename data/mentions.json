@@ -1,6 +1,76 @@
 {
   "mentions": [
     {
+      "title": "La Carrera de la Salchicha cita a centenares de corredores | Noticias El Día de Valladolid",
+      "url": "https://www.eldiadevalladolid.com/noticia/zead178ca-62e1-4a6f-ae01b8786677cee9/202611/la-carrera-de-la-salchicha-cita-a-centenares-de-corredores",
+      "typeHint": "travesia",
+      "image": "https://www.eldiadevalladolid.com/media/IMG/2026/A5FF5584-907F-458A-93F5902D6F62ED9F.JPEG",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Garmin lanza una actualización masiva para los Fénix 9 con más de 30 novedades",
+      "url": "https://www.adslzone.net/noticias/marcas/garmin-fenix-9-actualizacion-24-14-novedades/",
+      "typeHint": "travesia",
+      "image": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/garmin-fenix-9-pcpal-1212-az.jpg",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "De los iroman de Australia, a Gredos | Noticias Diario de Ávila",
+      "url": "https://www.diariodeavila.es/noticia/z9a8e559f-b0c1-4026-9d981464ade95951/202611/de-los-ironman-de-australia-a-gredos",
+      "typeHint": "travesia",
+      "image": "https://www.diariodeavila.es/media/IMG/2026/0C256F52-85B1-4148-BE1F3112D7FC80B7.PNG",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Tolhuin celebró su 54º aniversario con un trail de 14 kilómetros por el Cerro Michi",
+      "url": "https://19640noticias.com/contenido/104384/tolhuin-trail-aniversario-54-anos-cerro-michi-ganadores",
+      "typeHint": "travesia",
+      "image": "https://19640noticias.com/download/multimedia.normal.b3cb8d8143f3a6ee.bm9ybWFsLndlYnA%3D.webp",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Antonio Martínez y Mayte Vera conquistan la II Subida al Mingrano en Las Palas",
+      "url": "https://www.cartagenaactualidad.com/polideportivo/antonio-martinez-mayte-vera-conquistan-ii-subida-mingrano-palas/20261101223732230305.html",
+      "typeHint": "travesia",
+      "image": "https://www.cartagenaactualidad.com/media/cartagenaactualidad/images/2026/11/01/2026110122365913311.jpg",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "ZAPATILLA DE TRAIL RUNNING TERREX AGRAVIC BOA CLIMAPROOF - Negro adidas",
+      "url": "https://www.adidas.es/zapatilla-de-trail-running-terrex-agravic-boa-climaproof/HQ9367.html",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-02"
+    },
+    {
+      "title": "How to Choose Trail Running Shoes Based on Your Biomechanics | Salomon Genesis 2",
+      "url": "https://www.youtube.com/shorts/CY_Dz5oweME",
+      "typeHint": "travesia",
+      "image": "https://i.ytimg.com/vi/CY_Dz5oweME/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&amp;rs=AOn4CLDHdEyNAU-hcBnHJLHqlVVWACzhmQ",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Los consumidores chinos están cambiando sus hábitos: un nuevo punto de inflexión para la ...",
+      "url": "https://www.vietnam.vn/es/nguoi-trung-quoc-doi-gu-tieu-dung-buoc-ngoat-moi-cua-nen-kinh-te-ty-dan",
+      "typeHint": "travesia",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/02/1793583333125_china-cropped-1793580768404.jpeg",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "PAS NORMAL STUDIOS x SALOMON: UNA SEXTA COLABORACIÓN DISEÑADA PARA ...",
+      "url": "https://selectabisso.com/es/Not-Normal-Studios-x-Salomon%3A-una-sexta-colaboraci%C3%B3n-dise%C3%B1ada-para-correr-durante-la-temporada-baja-de-ciclismo./",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Momentos memorables de la 26ª temporada de las Finales del Camino a Olympia.",
+      "url": "https://www.vietnam.vn/es/nhung-khoanh-khac-dang-nho-tai-chung-ket-duong-len-dinh-olympia-nam-thu-26",
+      "typeHint": "escalada",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/01/1793510481684_thiet-ke-chua-co-ten-34-png.webp",
+      "date": "2026-11-02"
+    },
+    {
       "title": "‼️VUELVE LIGHT UP‼️ EL EVENTO DEPORTIVO NOCTURNO MAS ESPERADO ... - Instagram",
       "url": "https://www.instagram.com/p/DfN2rUqMW3g/",
       "typeHint": "travesia",
@@ -628,76 +698,6 @@
       "url": "https://www.infobae.com/america/agencias/2026/10/31/cronica-el-almeria-sufre-otro-empate-y-el-girona-para-su-escalada/",
       "typeHint": "escalada",
       "image": "https://www.infobae.com/resizer/v2/R24W3VADJVFW3HUJIIHXBWLMME.jpg?auth=ef0aa8f0c5859da03941d1e508da9847d7456a0b46bac3e8a2a6f14991a096b1&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Real Pilar empató en Berisso y espera rival para el Reducido - Pilar a Diario",
-      "url": "https://www.pilaradiario.com/la-liga/real-pilar-empato-berisso-y-espera-rival-el-reducido-n5473263",
-      "typeHint": "escalada",
-      "image": "https://media.pilaradiario.com/p/21ec08f803867bbbe6e185bcaadf79b8/adjuntos/352/imagenes/100/154/0100154240/1200x675/smart/real-aguilar-pansardi-crocco-mancini-y-vergara.jpg",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "‍♀️⛰️ Intibucá será sede del Campeonato Colegial Departamental de Carreras por ... - Facebook",
-      "url": "https://www.facebook.com/lencatv/posts/lencatelevision-%EF%B8%8F%EF%B8%8F-intibuc%C3%A1-ser%C3%A1-sede-del-campeonato-colegial-departamental-de-c/1925928485822057/",
-      "typeHint": "carrera",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/854430327_1147671938217263_8247325446023471027_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=VRaYyXOCzVMQ7kNvwEuL553&amp;_nc_oc=AdpUPhgSQzZIHvT5EaqlyJ3G0furl0dOXZ85RRNra4yYpBAAG0sArfOGva8nKHfyWYA&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=_3EnL8ARz8levPLWLY7eXQ&amp;_nc_ss=7c289&amp;oh=00_AQT0dsuYKGimzHIX9WX3-K5rfc15-14cpodmBMfLnqgBIA&amp;oe=6AEC976A",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Mejor encontrarnos en la cumbre",
-      "url": "https://baike.baidu.com/es/item/Mejor%20encontrarnos%20en%20la%20cumbre/7293135",
-      "typeHint": "carrera",
-      "image": "https://gbaike-image.cdn.bcebos.com/34fae6cd7b899e510fb33a8ed5face33c895d043a7ae/34fae6cd7b899e510fb33a8ed5face33c895d043a7ae_16_9?x-bce-process=image/format,f_auto",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "En la octava edición del EQUIS Festival de Cine Feminista de Ecuador podrás ver \"Elaha ...",
-      "url": "https://www.facebook.com/FestivalEQUIS/posts/en-la-octava-edici%C3%B3n-del-equis-festival-de-cine-feminista-de-ecuador-podr%C3%A1s-ver-/1734523855348707/",
-      "typeHint": "carrera",
-      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/862003155_1726342272833532_3499494886214324184_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1080&amp;ctp=s600x600&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=v2cnjeM3fCgQ7kNvwEsRXvD&amp;_nc_oc=Adqxa8gVOh5zvgc4-s8vtaT9Cl9hlNOk4cNRAyXe56W3dvcKMEbbSR4-nC1LmHRxNBk&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=57bXxyG_agXPX7ZuzZMQ8Q&amp;_nc_ss=7c289&amp;oh=00_AQQ7MBgG4W3Pd0yYCeNDjwi56qCiD0SbqXIkuvpEULsyNA&amp;oe=6AECAD8B",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Reseñas: ACG Zegama Trail GORE-TEX Zapatillas de trail running impermeables - Nike",
-      "url": "https://www.nike.com/es/t/acg-zegama-trail-gore-tex-zapatillas-de-trail-running-impermeables-mujer-DhEdcTsn/reviews",
-      "typeHint": "travesia",
-      "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/06410fae-d92f-426d-8d64-e5053bc1ef75/W+NIKE+ACG+ZEGAMA+TRAIL+GTX.png",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "El turismo deportivo resulta atractivo en Yen Tu. - Vietnam.vn",
-      "url": "https://www.vietnam.vn/es/hap-dan-du-lich-the-thao-o-yen-tu",
-      "typeHint": "travesia",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/01/1793492933815_bqn_tr_69-jpg.webp",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Ayacucho Trail 2026 ‍♀️ ‍♂️ AYACUCHO TRAIL llega a Huamanga para descubrir los ...",
-      "url": "https://www.facebook.com/PentaRunPeru/posts/%EF%B8%8F-ayacucho-trail-2026-%EF%B8%8F%EF%B8%8Fayacucho-trail-llega-a-huamanga-para-descubrir-los-impre/1185123567511412/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/863730276_1450307190401997_3552614301261500088_n.png?stp=dst-jpg_tt6&amp;cstp=mx1716x2048&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=ipGTKgC1NDwQ7kNvwF1rmTe&amp;_nc_oc=Adpm0pft7npMnVdNuXjHtRdicanxQCy_hDQAu71A7GPB-K08X2APIrazhgenGksVYJk&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=WeleUOCis5RCEMCTMkP5Pw&amp;_nc_ss=7c289&amp;oh=00_AQTmJEDsJrSbM_qdH76yO34yBpi8XTJvVSVdRL4T7b2Ohw&amp;oe=6AECB434",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "IV EDICIÓN (VOLCÁN DE AGUA)*🏔️ Prepárate para enfrentar uno de los retos de trail ...",
-      "url": "https://www.facebook.com/runguate/posts/-volcano-race-iv-edici%C3%B3n-volc%C3%A1n-de-agua%EF%B8%8Fprep%C3%A1rate-para-enfrentar-uno-de-los-reto/1544870787673628/",
-      "typeHint": "travesia",
-      "image": "https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/3068007589248676880?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Feventrid-global-gt%2Feventos%2Frungu_vried%2F6b0cf090b696ba9a122acba7cc0a0a96.png&amp;fb_obo=1&amp;utld=amazonaws.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=_uxtQzCc0NGOY9NNR_USFA&amp;_nc_zt=3&amp;oh=06_Q3_EAfcCElmd5Lo0KWJ6XELXbYnVVAMjOGRxggtoD3Yz9fY3&amp;oe=6AE89EB8",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "“Mientras mis amigos jugaban a la pelota, yo estaba tratando de pararme de la silla de ... - AS Chile",
-      "url": "https://chile.as.com/masdeporte/mientras-mis-amigos-jugaban-a-la-pelota-yo-estaba-tratando-de-pararme-de-la-silla-de-ruedas-esto-me-devolvio-las-ganas-de-vivir-f202611-n/",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-01"
-    },
-    {
-      "title": "️ Comentá CAMP si no te querés perder el próximo Trail Camp. Sumate al grupo ... - Instagram",
-      "url": "https://www.instagram.com/p/DfLbQMhjiLR/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/878257218_18647035168032426_8199361132045453442_n.webp?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=3m_gMHvEqP8Q7kNvwETziGb&amp;_nc_oc=Ado-hzTg0NBUw4dprv2NjpsWzCU8CWJxwSzfEGkJlf5KqmDORtd-FUXDHESecqfgTpA&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=yCdBl21fB63fHv6VKci5Ew&amp;_nc_ss=7c689&amp;oh=00_AQRVnFzLMDUJw4IPeUexAziWdHlsqst2lefhlBn3IJPSWg&amp;oe=6AEC9454",
       "date": "2026-11-01"
     }
   ]
