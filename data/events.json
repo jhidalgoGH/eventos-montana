@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-11-02T23:57:47.728Z",
+  "updatedAt": "2026-11-03T05:54:20.287Z",
   "events": [
-    {
-      "name": "Ruta de los Tres Ríos",
-      "type": "travesia",
-      "startDate": "2026-11-02",
-      "endDate": null,
-      "locationName": "Arándiga-Morata, Zaragoza",
-      "country": "España",
-      "url": "http://www.rutadelostresrios.org/",
-      "source": "fam",
-      "sourceName": "FAM (andadas populares)"
-    },
-    {
-      "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
-      "type": "travesia",
-      "startDate": "2026-11-02T12:00:00",
-      "endDate": "2026-11-02T12:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/7979512f-118f-4f63-abad-d8901ac5840f.png",
-      "url": "https://web.rockthesport.com/es/event/solicitud-pertenencia-seleccion-absoluta-skimo-castilla-y-leon-2026-2027",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
       "type": "travesia",
@@ -90,6 +67,17 @@
       "url": "https://itra.run/Races/RaceDetails/TRAIL.TORRES.DEL.FOC...MONTNEGRE.I.CORREDOR.60K/2026/120095",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Trail Running Festival Cartagena Costa Cálida 9 km",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Cartagena, Murcia, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Trail+Running+Festival+Cartagena+Costa+C%C3%A1lida+9+km+2026&amp;subtitle=Cartagena+%C2%B7+10K+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/cartagena/trail-running-festival-cartagena-costa-calida-9-km",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Increïble Trail",
