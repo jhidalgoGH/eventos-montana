@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:35:38.685Z",
+  "updatedAt": "2026-11-03T22:24:47.400Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -1006,6 +1006,17 @@
       "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "CAMPEONATO TRAIL RUNNING URUGUAY",
+      "startDate": "2026-12-06T00:00:00.000Z",
+      "endDate": "2026-12-06T00:00:00.000Z",
+      "locationName": "LAVALLEJA /MINAS, UY",
+      "image": "https://www.datocms-assets.com/18841/1732261928-trail-foret.jpg?fm=webp&amp;w=3280",
+      "url": "https://www.campus.coach/es/carreras/campeonato-trail-running-uruguay-6a757f94b5d4958be04f4383",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XV Carrera por Montaña Sierra de Chiva.",
