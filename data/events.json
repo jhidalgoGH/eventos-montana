@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:54:20.287Z",
+  "updatedAt": "2026-11-03T12:53:26.766Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -703,6 +703,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Final de la Copa de Canarias de Marcha Nórdica Tinajo 2026",
+      "type": "travesia",
+      "startDate": "2026-11-21T09:00:00",
+      "endDate": null,
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/2a619260-7abe-42db-af59-5c321762ccae.jpg",
+      "url": "https://web.rockthesport.com/es/event/final-de-la-copa-de-canarias-de-marcha-nordica-tinajo-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XIII CxM Tiñosa, Copa de Andalucía de Carreras por Montaña en Priego de Córdoba",
       "startDate": "2026-11-21T09:00:00+01:00",
       "endDate": "2026-11-21T15:00:00+01:00",
@@ -1330,7 +1342,7 @@
       "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d59d097c-6998-49ed-8f94-5c28c13f36d7_custom1.png",
       "url": "https://web.rockthesport.com/es/event/x-trail-monte-ponoig-polop-de-la-marina-9e-circuit-trail-marina-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1675,6 +1687,18 @@
       "url": "https://itra.run/Races/RaceDetails/Marbella.Epic.Trail.Epic.Trail.Ultra./2027/119689",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "TRAILCAT 100 (TRAINING EVENT)",
+      "type": "carrera",
+      "startDate": "2027-02-20T08:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/11144/custom/root/e0283298-b28b-4dad-aab9-a9dc4ae316ce_custom2.png",
+      "url": "https://web.rockthesport.com/es/event/trailcat-100-training-event",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "XV TRAIL DE MOIXENT",
@@ -2201,6 +2225,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Trail Running de La Lentejada 19 km",
+      "startDate": "2027-05",
+      "endDate": null,
+      "locationName": "Zarzalejo, Madrid, ES",
+      "image": "https://www.dorsal.pro/api/og?title=Trail+Running+de+La+Lentejada+19+km+2027&amp;subtitle=Zarzalejo+%C2%B7+Media+marat%C3%B3n+%C2%B7+Dorsal+Pro",
+      "url": "https://www.dorsal.pro/carreras/zarzalejo/trail-running-de-la-lentejada-19-km",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Ultra Trail Moncayo 2027",
       "type": "carrera",
       "startDate": "2027-05-01T06:00:00",
@@ -2502,6 +2537,18 @@
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "CANFRANC-CANFRANC 2027",
+      "type": "carrera",
+      "startDate": "2027-09-10T17:00:00",
+      "endDate": null,
+      "locationName": "Huesca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/b19183c9-0c8c-4b22-a70c-bfb6f8a5f736.png",
+      "url": "https://web.rockthesport.com/es/event/canfranc-canfranc-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Campionat Autonòmic Individual i per Clubs FEMECV 2027, Elx",
