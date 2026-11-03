@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:53:26.766Z",
+  "updatedAt": "2026-11-03T17:35:38.685Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -709,7 +709,7 @@
       "endDate": null,
       "locationName": "Palmas (Las)",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/2a619260-7abe-42db-af59-5c321762ccae.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/f5f3e561-d4d1-4752-8c82-6bdf482bf786.jpg",
       "url": "https://web.rockthesport.com/es/event/final-de-la-copa-de-canarias-de-marcha-nordica-tinajo-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1650,6 +1650,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/0ee57110-1c12-4d92-a32a-da143d6f623a.jpeg",
       "url": "https://web.rockthesport.com/es/event/v-trail-sastago",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Hiru Herri Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-02-14T09:00:00",
+      "endDate": "2027-02-14T14:00:00",
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/custom/root/495b8ac6-4e9d-4350-a067-e7d5e9ec4e6f_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/hiru-herri-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
