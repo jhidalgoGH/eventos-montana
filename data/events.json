@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:06:01.433Z",
+  "updatedAt": "2026-11-04T17:35:28.206Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -1724,6 +1724,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "XI TOMACA TRAIL",
+      "type": "carrera",
+      "startDate": "2027-02-20T08:30:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b62a6ca4-0aa9-417e-9805-9c125ea37bc2.jpeg",
+      "url": "https://web.rockthesport.com/es/event/xi-tomaca-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "XV TRAIL DE MOIXENT",
       "type": "carrera",
       "startDate": "2027-02-20T09:00:00",
@@ -2281,6 +2293,17 @@
       "url": "https://web.rockthesport.com/es/event/ultra-trail-moncayo-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Innsbruck Alpine Trailrun Festival 2027",
+      "startDate": "2027-05-05T16:00:00+02:00",
+      "endDate": "2027-05-08T20:30:00+02:00",
+      "locationName": "Landestheatervorplatz, Innsbruck, AT-7, AT",
+      "image": "https://media.spoferan.com/images/spoferan-feature-image.jpg",
+      "url": "https://spoferan.com/events/innsbruck-alpine-trailrun-festival",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Transvulcania adidas La Palma Island",
