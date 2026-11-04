@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T05:54:50.239Z",
+  "updatedAt": "2026-11-04T13:06:01.433Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -1736,6 +1736,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "TRAINING EVENT-TRAILCAT100",
+      "type": "carrera",
+      "startDate": "2027-02-20T12:01:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/71a887cc-659e-4e52-8b6f-eaea52d0db5f.png",
+      "url": "https://web.rockthesport.com/es/event/training-event-trailcat100",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "C.T.T. TRAIL - 2027",
       "type": "carrera",
       "startDate": "2027-02-21T09:00:00",
@@ -2502,6 +2514,18 @@
       "type": "carrera",
       "source": "runnea",
       "sourceName": "Runnea"
+    },
+    {
+      "name": "VII TRAIL EL ARCEDIANU DE AMIEVA",
+      "type": "carrera",
+      "startDate": "2027-06-19T09:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/f12b328d-4d34-4507-a220-7e509bba70ab.jpg",
+      "url": "https://web.rockthesport.com/es/event/arcedianu",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "RIAÑO TRAIL RUN 2027",
