@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:35:28.206Z",
+  "updatedAt": "2026-11-04T22:43:08.047Z",
   "events": [
     {
       "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
@@ -665,6 +665,17 @@
       "url": "https://itra.run/Races/RaceDetails/EL.PRIVILEGIO.100.MILLAS.100.MILLAS.EL.PRIVILEGIO/2026/116377",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "IV Carrera por Montaña Corre con Nosotras",
+      "startDate": "2026-11-21T00:00:00+01:00",
+      "endDate": "2026-11-22T00:00:00+01:00",
+      "locationName": "Cáceres, España",
+      "image": "https://www.clubrunning.es/cartel/iv-carrera-por-monta-a-corre-con-nosotras-2026.jpg",
+      "url": "https://www.clubrunning.es/carrera/iv-carrera-por-montana-corre-con-nosotras/82160",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "I PUJADA ALS PLANS",
