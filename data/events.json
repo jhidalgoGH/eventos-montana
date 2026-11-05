@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:54:31.428Z",
+  "updatedAt": "2026-11-05T13:18:54.103Z",
   "events": [
     {
       "name": "V Trail Demonios do Lizandro",
@@ -499,6 +499,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/13772/library/root/01ea2050-ebe8-4db1-88bd-a2fba48b3eaa.jpg",
       "url": "https://web.rockthesport.com/es/event/ii-lodosa-trail",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 09/11 al 14/11",
+      "type": "escalada",
+      "startDate": "2026-11-14T19:30:00",
+      "endDate": "2026-11-14T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/copy-rocodromo-alvaro-paredes-izquierdo-semana-0911-al-1411",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1298,6 +1310,18 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10211/library/root/9e10fc5b-cacf-4260-9144-30f39a3efac0.png"
+    },
+    {
+      "name": "SAN SILVESTRE TRAIL ÁGREDA 2026",
+      "type": "carrera",
+      "startDate": "2026-12-27T10:00:00",
+      "endDate": null,
+      "locationName": "Soria",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/c5c7d55b-b945-41b0-b448-45e8e4b9226a.jpeg",
+      "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-agreda-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "SAN SILVESTRE TRAIL MIERES DEL CAMINO 2026",
