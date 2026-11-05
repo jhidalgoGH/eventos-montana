@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:35:44.723Z",
+  "updatedAt": "2026-11-05T22:44:20.526Z",
   "events": [
     {
       "name": "V Trail Demonios do Lizandro",
@@ -891,6 +891,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Lachay Night Trail 2026",
+      "startDate": "2026-11-28T18:00:00-05:00",
+      "endDate": "2026-11-28T18:00:00-05:00",
+      "locationName": "Reserva Nacional de Lachay (Lomas de Lachay), Huaral, Lima, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/04/carrera-lachay-night-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/lachay-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "TRAILSERIES LES ERMITES - ULLDEMOLINS",
       "type": "carrera",
       "startDate": "2026-11-29",
@@ -1030,6 +1041,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "Marcona Wind Trail 2026",
+      "startDate": "2026-12-06T02:00:00-05:00",
+      "endDate": "2026-12-06T02:00:00-05:00",
+      "locationName": "San Juan de Marcona, Nasca, Ica, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2025/12/marcona-wind-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/marcona-wind-trail/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "XV Carrera por Montaña Sierra de Chiva.",
       "type": "carrera",
       "startDate": "2026-12-06T07:00:00",
@@ -1072,6 +1094,17 @@
       "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&amp;fit=crop&amp;w=1600&amp;q=80",
       "url": "https://www.vemaxsport.com/eventos/i-mountain-festival-benahavis-by-defender-2026-2026",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Campeonato de Canarias en Edad Escolar | Escalada",
+      "startDate": "2026-12-12T00:00:00+00:00",
+      "endDate": "2026-12-12T23:59:59+00:00",
+      "locationName": "Tenerife",
+      "image": "https://fecamon.es/web2022/wp-content/uploads/escalda-escolar-copia.jpg",
+      "url": "https://fecamon.es/eventos/campeonato-de-canarias-en-edad-escolar-escalada/",
+      "type": "escalada",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -1696,6 +1729,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/custom/root/495b8ac6-4e9d-4350-a067-e7d5e9ec4e6f_custom1.png",
       "url": "https://web.rockthesport.com/es/event/hiru-herri-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Negu Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-02-14T10:00:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/negu-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2584,6 +2629,18 @@
       "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Trail Val d&#x27;Aran UTMB 2027",
+      "startDate": "2027-07-09T01:00:00",
+      "endDate": "2027-07-09T01:00:00",
+      "locationName": "Vielha, Lerida",
+      "image": "https://static.runnea.com/images/202206/trail-valdaran-utmd-2022-250x250x80.jpg?1",
+      "url": "https://www.runnea.com/carreras-populares/trail-val-daran-utmb/",
+      "country": "España",
+      "type": "carrera",
+      "source": "runnea",
+      "sourceName": "Runnea"
     },
     {
       "name": "Marimurumendi Marathon 2027",
