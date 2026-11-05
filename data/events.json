@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-04T22:43:08.047Z",
+  "updatedAt": "2026-11-05T05:54:31.428Z",
   "events": [
-    {
-      "name": "Solicitud Pertenencia Selección Absoluta Skimo Castilla y León 2026 - 2027",
-      "type": "travesia",
-      "startDate": "2026-11-04T12:00:00",
-      "endDate": "2026-11-04T12:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/7979512f-118f-4f63-abad-d8901ac5840f.png",
-      "url": "https://web.rockthesport.com/es/event/solicitud-pertenencia-seleccion-absoluta-skimo-castilla-y-leon-2026-2027",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "V Trail Demonios do Lizandro",
       "type": "carrera",
