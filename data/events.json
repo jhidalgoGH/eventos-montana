@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:54:42.930Z",
+  "updatedAt": "2026-11-06T13:02:32.138Z",
   "events": [
     {
       "name": "V Trail Demonios do Lizandro",
@@ -2430,6 +2430,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "VEINTE LEGUAS ALPUJARRA 2027",
+      "type": "carrera",
+      "startDate": "2027-05-15T00:00:00",
+      "endDate": null,
+      "locationName": "Granada",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/5291f2aa-bf5a-440d-ae4f-1a496eb4f926.jpg",
+      "url": "https://web.rockthesport.com/es/event/veinte-leguas-alpujarra-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "HOLY TRAIL RUNNING FESTIVAL",
