@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:35:37.247Z",
+  "updatedAt": "2026-11-06T22:12:42.218Z",
   "events": [
     {
       "name": "V Trail Demonios do Lizandro",
@@ -11,6 +11,17 @@
       "url": "https://itra.run/Races/RaceDetails/V.Trail.Demonios.do.Lizandro.Ultra.Trail.100K/2026/116861",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Campament Trail Serra de Mariola",
+      "startDate": "2026-11-06",
+      "endDate": null,
+      "locationName": "Alfafar, Valencia, ES",
+      "image": "https://welovetrail.app/og-home.png",
+      "url": "https://welovetrail.app/carrera/2026/campament-trail-serra-de-mariola-alfafar--campament-trail-serra-de-mariola__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Festival d'Escalada: Campionat d'Open Bloc",
@@ -63,6 +74,116 @@
       "locationName": "Cartagena, Murcia, ES",
       "image": "https://www.dorsal.pro/api/og?title=Trail+Running+Festival+Cartagena+Costa+C%C3%A1lida+9+km+2026&amp;subtitle=Cartagena+%C2%B7+10K+%C2%B7+Dorsal+Pro",
       "url": "https://www.dorsal.pro/carreras/cartagena/trail-running-festival-cartagena-costa-calida-9-km",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Cross Trail El Portús",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "El Portús - Cartagena, Murcia, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/cross-trail-el-portus-el-portus-cartagena--cross-trail-el-portus__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "CXM Nocturna Feria de Mora",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Mora de Rubielos, Teruel, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/cxm-nocturna-feria-de-mora-mora-de-rubielos--cxm-nocturna-feria-de-mora__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Haro Wine Trail",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Haro, La Rioja, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/haro-wine-trail-haro--haro-wine-trail__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Las Ánimas Trail + Sunrise Run",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Mineral del Chico, Hidalgo, MX",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/las-animas-trail-sunrise-run-mineral-del-chico--las-animas-trail-sunrise-run__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Machalí Trail Race",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Machalí, Provincia de Cachapoal, CL",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/machali-trail-race-machali--machali-trail-race__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Altas Cumbres",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Puente Alto, Provincia de Cordillera, CL",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/trail-altas-cumbres-puente-alto--trail-altas-cumbres__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Montañas del Aranda",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Brea de Aragón, Zaragoza, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/trail-montanas-del-aranda-brea-de-aragon--trail-montanas-del-aranda__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Ruta del Puma (La Ruta del Puma)",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Concepción, Provincia de Concepción, CL",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/trail-ruta-del-puma-la-ruta-del-puma-concepcion--trail-ruta-del-puma-la-ruta-del-puma__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Sierra de Facinas",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Facinas - Tarifa, Cádiz, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/trail-sierra-de-facinas-facinas-tarifa--trail-sierra-de-facinas__2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Trail Trans Serra da Groba",
+      "startDate": "2026-11-07",
+      "endDate": null,
+      "locationName": "Baiona, Pontevedra, ES",
+      "image": "https://welovetrail.app/og-default.png",
+      "url": "https://welovetrail.app/carrera/2026/trail-trans-serra-da-groba-baiona--trail-trans-serra-da-groba__2026",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
@@ -1876,6 +1997,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "IberiKa Trail Guadalix de la Sierra 2027",
+      "startDate": "2027-02-21T10:15:00+01:00",
+      "endDate": "2027-02-21T14:30:00+01:00",
+      "locationName": "Guadalix de la Sierra (Madrid)",
+      "image": "https://www.fororunners.es/wp-content/uploads/2026/09/fororunners-compartir-1200x630.jpg",
+      "url": "https://www.fororunners.es/event/iberika-trail-guadalix-de-la-sierra-2027/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "2027 TRAIL ZONE - TGC",
       "type": "carrera",
       "startDate": "2027-02-22T16:00:00",
@@ -2010,6 +2142,17 @@
       "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMDkvMjUvNzJmeXV4b2ppMF9BTkRFU19NQVJBVE9OX1NLWVJBQ0VfMjAyNy5qcGciXV0?sha=9947d9e568451539",
       "url": "https://tusdesafios.com/events/merrell-andes-mountain-skyrace-2027",
       "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "IberiKa Trail Mataelpino 2027",
+      "startDate": "2027-03-06T10:00:00+01:00",
+      "endDate": "2027-03-06T14:00:00+01:00",
+      "locationName": "Mataelpino (Madrid)",
+      "image": "https://www.fororunners.es/wp-content/uploads/2026/09/fororunners-compartir-1200x630.jpg",
+      "url": "https://www.fororunners.es/event/iberika-trail-mataelpino-2027/",
+      "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
