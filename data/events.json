@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T17:35:34.583Z",
+  "updatedAt": "2026-11-07T21:00:29.482Z",
   "events": [
     {
       "name": "Caminata nocturna \"Bajo las estrellas\"",
@@ -2733,7 +2733,7 @@
       "name": "GARMIN MOUNTAIN FESTIVAL 2027",
       "type": "carrera",
       "startDate": "2027-06-19T07:00:00",
-      "endDate": null,
+      "endDate": "2027-06-20",
       "locationName": "Lleida",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/9865/library/root/1d848dce-a4e7-4024-b308-70d56cc00682.jpg",
