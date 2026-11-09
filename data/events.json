@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:54:45.990Z",
+  "updatedAt": "2026-11-09T14:01:58.001Z",
   "events": [
     {
       "name": "Marcha senderista del Mezquin",
@@ -969,6 +969,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "CURSA DEL GALL RIUDECANYES - 2026",
+      "type": "carrera",
+      "startDate": "2026-12-20T09:30:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/7c43664c-7feb-451e-a811-8b697692f3bb.jpg",
+      "url": "https://web.rockthesport.com/es/event/cursa-del-gall-riudecanyes-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "OSO TRAIL PROAZA",
       "type": "carrera",
       "startDate": "2026-12-20T10:00:00",
@@ -1272,6 +1284,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/14004/library/root/ad10d657-15db-4707-9743-4c403ec4e6f3.jpg",
       "url": "https://web.rockthesport.com/es/event/marxa-castells-altafulla-baix-gaia-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "HERRI AMETSA TALAIA",
+      "type": "carrera",
+      "startDate": "2027-01-31T10:00:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/51d5a1b5-4ceb-4423-8e83-58884044202c.jpg",
+      "url": "https://web.rockthesport.com/es/event/herri-ametsa-talaia",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
