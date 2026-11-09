@@ -1,159 +1,6 @@
 {
-  "updatedAt": "2026-11-08T21:16:07.784Z",
+  "updatedAt": "2026-11-09T05:54:45.990Z",
   "events": [
-    {
-      "name": "Trail do Marco",
-      "type": "carrera",
-      "startDate": "2026-11-08",
-      "endDate": null,
-      "locationName": "Marco de Canavezes",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Trail.do.Marco.Trail.Ultra/2026/118579",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Trilhos do Burel",
-      "type": "carrera",
-      "startDate": "2026-11-08",
-      "endDate": null,
-      "locationName": "Manteigas",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/Trilhos.do.Burel.Trilhos.do.Burel...Trail/2026/120844",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "LA POTA ROJA 2026",
-      "type": "carrera",
-      "startDate": "2026-11-08T08:00:00",
-      "endDate": null,
-      "locationName": "Barcelona",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/pota-roja-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/9659/library/root/a75b8c48-4e88-43c3-8b06-17a54a2b3ee0.png"
-    },
-    {
-      "name": "Campeonato de España de Drytooling Getafe 2026",
-      "type": "travesia",
-      "startDate": "2026-11-08T08:00:00",
-      "endDate": null,
-      "locationName": "Madrid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/0ff070a7-0975-4218-ab5b-51065d0f09a3.png",
-      "url": "https://web.rockthesport.com/es/event/campeonato-de-espana-de-drytooling-getafe-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Cursa de la Ratafia 2026",
-      "type": "carrera",
-      "startDate": "2026-11-08T08:30:00",
-      "endDate": null,
-      "locationName": "Girona",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/cursa-de-la-ratafia-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1785/library/root/3bc56a18-d488-46c3-a148-87f3d628ff98.jpeg"
-    },
-    {
-      "name": "BODEGAS XALÓ‐ BÈRNIA MOSCATEL, 9e. Circuit Trail Marina 26/27",
-      "type": "carrera",
-      "startDate": "2026-11-08T08:30:00",
-      "endDate": null,
-      "locationName": "Alicante/Alacant",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/56ddb697-8053-4ba3-801a-0b6cdd91d13a_custom1.png",
-      "url": "https://web.rockthesport.com/es/event/bodegas-xalo-bernia-moscatel-9e-circuit-trail-marina-2627",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Sierra Nevada Trails",
-      "type": "carrera",
-      "startDate": "2026-11-08T09:00:00",
-      "endDate": null,
-      "locationName": "Granada",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10134/library/root/24b23831-de4f-4bd8-ba54-c326b7a61518.jpeg",
-      "url": "https://web.rockthesport.com/es/event/sierra-nevada-trails",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Senderos Turísticos por la Provincia de Valladolid: Ruta de Castillos Íscar: PRC-VA 38 – Senda de la Resina",
-      "type": "travesia",
-      "startDate": "2026-11-08T09:15:00",
-      "endDate": "2026-11-08T13:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/c13d69ec-6ef0-4014-b84c-4253fcb12704.png",
-      "url": "https://web.rockthesport.com/es/event/copy-senderos-turisticos-por-la-provincia-de-valladolid-ruta-de-castillos-iscar-prc-va-38-senda-de-l",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "IV TRAIL SIERO",
-      "type": "carrera",
-      "startDate": "2026-11-08T09:30:00",
-      "endDate": "2026-11-08T15:00:00",
-      "locationName": "Asturias",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/iv-trail-siero",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/15634/library/root/a7d1b105-58cf-450d-8654-19ab35be1097.png"
-    },
-    {
-      "name": " CURSARROCA 2026",
-      "type": "carrera",
-      "startDate": "2026-11-08T09:30:00",
-      "endDate": null,
-      "locationName": "Barcelona",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/cff90421-b3ea-459f-8a9b-96b0907e0666.png",
-      "url": "https://web.rockthesport.com/es/event/-cursarroca-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "CxM de la Rosquilla 2026",
-      "startDate": "2026-11-08T09:30:00+01:00",
-      "endDate": null,
-      "locationName": "Alhama de Almería, Almería, ES",
-      "image": "https://www.cruzandolameta.es/media-clm/carteles/cxm-de-la-rosquilla-2026-40a3d6e0a0.webp",
-      "url": "https://www.cruzandolameta.es/pruebas/cxm-de-la-rosquilla-2026/",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
-    {
-      "name": "Curso de Guiado de Personas con Discapacidad Visual en Entornos Naturales y de Montaña",
-      "type": "travesia",
-      "startDate": "2026-11-08T10:00:00",
-      "endDate": "2026-11-08T20:00:00",
-      "locationName": "Valladolid",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/905fea7a-f54f-44e4-a32e-81ad2af08e40.png",
-      "url": "https://web.rockthesport.com/es/event/curso-de-guiado-de-personas-con-discapacidad-visual-en-entornos-naturales-y-de-montana",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
-      "name": "Cronoescalada Sant Vicenç de Castellet 2026",
-      "type": "escalada",
-      "startDate": "2026-11-08T10:30:00",
-      "endDate": null,
-      "locationName": "Barcelona",
-      "country": "España",
-      "image": null,
-      "url": "https://web.rockthesport.com/es/event/cronoescalada-sant-vicenc-de-castellet-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
     {
       "name": "Marcha senderista del Mezquin",
       "type": "travesia",
@@ -1191,6 +1038,17 @@
       "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-mieres-del-camino-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "VI SAN SILVESTRAIL VILLA DE FINES",
+      "startDate": "2026-12-31T10:00:00+01:00",
+      "endDate": null,
+      "locationName": "Plaza del Ayuntamiento, ES",
+      "image": "https://inscrik.com/media/banners/WhatsApp_Image_2026-10-05_at_13.53.33_1.jpg",
+      "url": "https://www.cruzandolameta.es/pruebas/vi-san-silvestrail-villa-de-fines/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Lomas de Jatosisa Trail 2027",
