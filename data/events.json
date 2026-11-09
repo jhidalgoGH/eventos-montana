@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:01:58.001Z",
+  "updatedAt": "2026-11-09T17:35:50.230Z",
   "events": [
     {
       "name": "Marcha senderista del Mezquin",
@@ -1260,6 +1260,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/b6a865f5-8191-4e34-819d-2e8fe1e22f69_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/granadella-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "TRAIL UMBRIA LA PLANA ENGUERA",
+      "type": "carrera",
+      "startDate": "2027-01-31T08:00:00",
+      "endDate": null,
+      "locationName": null,
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/15960/custom/root/df9c222d-f67a-4929-bb02-b26cf3d17b71_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/trail-umbria-la-plana-enguera",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
