@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T13:36:16.579Z",
+  "updatedAt": "2026-11-10T17:36:03.174Z",
   "events": [
     {
       "source": "agenda",
@@ -769,6 +769,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "IV CxM EL VERGEL BÉRCHULES-ALCÚTAR 2026",
+      "startDate": "2026-12-12T09:00:00+01:00",
+      "endDate": null,
+      "locationName": "Plaza de la Iglesia de Alcútar, Granada, ES",
+      "image": "https://inscrik.com/media/banners/Cartel_IV_CXM_B%C3%A9rchules-Alc%C3%BAtar_page-0001_AcRAhAE.jpg",
+      "url": "https://www.cruzandolameta.es/pruebas/iv-cxm-el-vergel-berchules-alcutar-2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "IV TRAIL SAN SILVESTRE TEMBLECA",
       "type": "carrera",
       "startDate": "2026-12-12T10:00:00",
@@ -998,7 +1009,7 @@
       "type": "carrera",
       "startDate": "2026-12-26T16:00:00",
       "endDate": null,
-      "locationName": null,
+      "locationName": "Bizkaia",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/4d22a85c-a8fb-41ab-8b5d-673ccf552020.jpeg",
       "url": "https://web.rockthesport.com/es/event/arantzazuko-sansilbestrail-2026",
