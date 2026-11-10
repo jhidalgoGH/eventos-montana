@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:54:37.777Z",
+  "updatedAt": "2026-11-10T13:36:16.579Z",
   "events": [
     {
       "source": "agenda",
@@ -110,7 +110,7 @@
       "endDate": "2026-11-14T17:00:00",
       "locationName": "Zaragoza",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/981/library/root/03d7efff-fa52-4dfd-8688-38f341baa5ba.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/981/library/root/0307eb52-2eea-4cbe-9ba0-0b006f738d2b.jpg",
       "url": "https://web.rockthesport.com/es/event/de-marcha-a-marcha-a-paso-de-trilobite",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -990,6 +990,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/bc98a8c8-6148-4b1c-9f85-997de908e1e5.png",
       "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-agreda-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "ARANTZAZUKO SANSILBESTRAIL 2026",
+      "type": "carrera",
+      "startDate": "2026-12-26T16:00:00",
+      "endDate": null,
+      "locationName": null,
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/4d22a85c-a8fb-41ab-8b5d-673ccf552020.jpeg",
+      "url": "https://web.rockthesport.com/es/event/arantzazuko-sansilbestrail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2467,11 +2479,11 @@
     {
       "name": "CANFRANC-CANFRANC 2027",
       "type": "carrera",
-      "startDate": "2027-09-10T17:00:00",
+      "startDate": "2027-09-10T22:00:00",
       "endDate": null,
       "locationName": "Huesca",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/b19183c9-0c8c-4b22-a70c-bfb6f8a5f736.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/ce53c6fb-f2ac-4292-b4c5-d9e3c847f813.png",
       "url": "https://web.rockthesport.com/es/event/canfranc-canfranc-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
