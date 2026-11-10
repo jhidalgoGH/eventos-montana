@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-09T17:35:50.230Z",
+  "updatedAt": "2026-11-10T00:46:03.675Z",
   "events": [
-    {
-      "name": "Marcha senderista del Mezquin",
-      "type": "travesia",
-      "startDate": "2026-11-09",
-      "endDate": null,
-      "locationName": "La Cañada de Verich, Teruel",
-      "country": "España",
-      "url": "http://www.marchamezquin.es/",
-      "source": "fam",
-      "sourceName": "FAM (andadas populares)"
-    },
     {
       "source": "agenda",
       "sourceName": "Agenda verificada",
@@ -1375,6 +1364,17 @@
       "locationName": "Marseille, Provenza-Alpes-Costa Azul, FR",
       "image": "https://trailruntemple.com/images/races/trail-des-calanques-hero.webp",
       "url": "https://trailruntemple.com/carreras/francia/provenza-alpes-costa-azul/trail-des-calanques/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "CXM El Buitre",
+      "startDate": "2027-02-07T00:00:00",
+      "endDate": null,
+      "locationName": "30440 Moratalla, Murcia, España, Moratalla, MC, ES",
+      "image": "https://www.intervals.icu/og_image_event.jpg",
+      "url": "https://www.intervals.icu/events/14761/",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
