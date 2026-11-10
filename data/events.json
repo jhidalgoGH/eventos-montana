@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:36:03.174Z",
+  "updatedAt": "2026-11-10T22:26:50.378Z",
   "events": [
     {
       "source": "agenda",
@@ -1589,6 +1589,18 @@
       "country": "España",
       "image": null,
       "url": "https://web.rockthesport.com/es/event/cursa-hostrailric-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "IX TRAIL URREA DE GAEN",
+      "type": "carrera",
+      "startDate": "2027-02-21T09:30:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/04e9b307-f049-4fc4-ad98-4fd6d86c7eb1.jpg",
+      "url": "https://web.rockthesport.com/es/event/ix-trail-urrea-de-gaen",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
