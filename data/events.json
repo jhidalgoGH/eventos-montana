@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:48:45.795Z",
+  "updatedAt": "2026-11-11T17:35:44.332Z",
   "events": [
     {
       "source": "agenda",
@@ -1837,6 +1837,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "LPA Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-03-13T09:00:00",
+      "endDate": null,
+      "locationName": "Palmas (Las)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10423/library/root/8eac1480-bfb8-426c-94e1-3476ab1e94b8.jpg",
+      "url": "https://web.rockthesport.com/es/event/lpa-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "10º Onil Trails, 2027",
       "type": "carrera",
       "startDate": "2027-03-14T08:00:00",
@@ -2403,7 +2415,7 @@
       "endDate": "2027-06-05T12:30:00",
       "locationName": "Balears (Illes)",
       "country": "España",
-      "image": "https://rockthesportv2.blob.core.windows.net/manager/2782/library/root/fdde55f3-063c-4110-9e17-aa2e113767b0.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2782/library/root/5503e667-9c6d-4508-85fe-844e302fbd5f.png",
       "url": "https://web.rockthesport.com/es/event/xviii-f2r-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2426,7 +2438,7 @@
       "endDate": "2027-06-05T12:30:00",
       "locationName": "Balears (Illes)",
       "country": "España",
-      "image": "https://rockthesportv2.blob.core.windows.net/manager/2782/library/root/fa094f34-e61e-40f1-b61c-0491a5a7d310.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2782/library/root/6d24623b-2cc1-4906-9a66-cfe951a35ec0.jpg",
       "url": "https://web.rockthesport.com/es/event/xiii-formentera-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
