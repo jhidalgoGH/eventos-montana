@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T05:54:43.633Z",
+  "updatedAt": "2026-11-12T13:52:26.731Z",
   "events": [
     {
       "source": "agenda",
@@ -405,6 +405,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/735d2a53-7d07-4003-800c-0cbd029fb3c5.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 16/11 al 21/11",
+      "type": "escalada",
+      "startDate": "2026-11-21T19:30:00",
+      "endDate": "2026-11-21T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-0911-al-1411",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -960,7 +972,7 @@
       "name": "XX CARRERA POR MONTAÑA Y MARCHA A PIÉ SERRA DEL COTO",
       "type": "travesia",
       "startDate": "2026-12-20T08:00:00",
-      "endDate": null,
+      "endDate": "2026-12-20",
       "locationName": "Alicante/Alacant",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/87d10bc1-37ce-4bb5-ab3f-bae8bf18d1bb_custom1.jpeg",
@@ -2080,6 +2092,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10701/library/root/51840e34-780f-4afa-9b2f-bea912898a5f.jpeg",
       "url": "https://web.rockthesport.com/es/event/costa-brava-stage-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Alameda Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-04-16T21:00:00",
+      "endDate": "2027-04-18T16:00:00",
+      "locationName": "Madrid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10777/library/root/f6194698-df66-428b-9896-c76ac4d640b6.png",
+      "url": "https://web.rockthesport.com/es/event/alameda-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
