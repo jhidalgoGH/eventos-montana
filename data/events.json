@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:35:48.102Z",
+  "updatedAt": "2026-11-12T22:48:19.302Z",
   "events": [
     {
       "source": "agenda",
@@ -1427,6 +1427,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "X TRAIL DA FILLOA DE ZAS 2027",
+      "type": "carrera",
+      "startDate": "2027-02-07T09:00:00",
+      "endDate": null,
+      "locationName": "Coruña (A)",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/a3e4dffd-d884-4583-9729-122da40b74de_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/x-trail-da-filloa-de-zas-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Copa de MN FEMECV 2027",
       "type": "carrera",
       "startDate": "2027-02-13T10:00:00",
@@ -1915,7 +1927,7 @@
       "endDate": null,
       "locationName": "Gipuzkoa",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/892b9847-39fb-47e2-8b5a-e2e6bf49c261.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/cd729a87-558a-433b-acec-264a25234764.jpeg",
       "url": "https://web.rockthesport.com/es/event/gatza-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
