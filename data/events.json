@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:52:26.731Z",
+  "updatedAt": "2026-11-12T17:35:48.102Z",
   "events": [
     {
       "source": "agenda",
@@ -972,7 +972,7 @@
       "name": "XX CARRERA POR MONTAÑA Y MARCHA A PIÉ SERRA DEL COTO",
       "type": "travesia",
       "startDate": "2026-12-20T08:00:00",
-      "endDate": "2026-12-20",
+      "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/87d10bc1-37ce-4bb5-ab3f-bae8bf18d1bb_custom1.jpeg",
@@ -2629,6 +2629,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "PRADES EPIC TRAIL COSTA DAURADA 2027",
+      "type": "carrera",
+      "startDate": "2027-11-06T08:00:00",
+      "endDate": "2027-11-07T13:00:00",
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/12314/library/root/054711b9-3645-4bee-b28a-4abf66f8ce1e.png",
+      "url": "https://web.rockthesport.com/es/event/prades-epic-trail-costa-daurada-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     }
   ]
 }
