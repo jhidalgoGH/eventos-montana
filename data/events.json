@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:14:03.272Z",
+  "updatedAt": "2026-11-13T17:35:25.097Z",
   "events": [
     {
       "source": "agenda",
@@ -138,6 +138,28 @@
       "url": "https://web.rockthesport.com/es/event/ii-lodosa-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Moralzarzal en Marcha Contra el Cáncer",
+      "startDate": "2026-11-14T11:00:00+01:00",
+      "endDate": "2026-11-14T12:00:00+01:00",
+      "locationName": "Moralzarzal (Madrid)",
+      "image": "https://res.cloudinary.com/ickvlrow/image/upload/f_auto,q_auto,w_1200,c_limit/fororunners/noticias/trail-natura-rivas-vaciamadrid-2027.jpg",
+      "url": "https://www.fororunners.es/event/moralzarzal-en-marcha-contra-el-cancer/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "13ª Carrera por Montaña MORALTRAIL RACE",
+      "startDate": "2026-11-14T13:00:00+01:00",
+      "endDate": "2026-11-14T17:00:00+01:00",
+      "locationName": "Moralzarzal (Madrid)",
+      "image": "https://res.cloudinary.com/ickvlrow/image/upload/f_auto,q_auto,w_1200,c_limit/fororunners/noticias/trail-natura-rivas-vaciamadrid-2027.jpg",
+      "url": "https://www.fororunners.es/event/13a-carrera-por-montana-moraltrail-race/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 09/11 al 14/11",
@@ -957,6 +979,17 @@
       "url": "https://web.rockthesport.com/es/event/san-silvestre-de-amieva-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Sunset Runnight - Trail Penco",
+      "startDate": "2026-12-19T17:30:00",
+      "endDate": null,
+      "locationName": "Fundo Cohiueco Penco, R. del Bío-Bío, CL",
+      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMTEvMTMvODY2bmtkb3d4bl9waG90b18xNDgzNTI3ODc3NjUwX2EyOWZhMGRmNDljMC5qcGciXSxbInAiLCJ0aHVtYiIsIjEyMDB4NjMwIyJdXQ?sha=e822211aeba96a7e",
+      "url": "https://tusdesafios.com/events/sunset-runnight-trail-penco-2026",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Cielo Nocturno - Trail Running",
