@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:54:22.456Z",
+  "updatedAt": "2026-11-13T13:14:03.272Z",
   "events": [
     {
       "source": "agenda",
@@ -720,6 +720,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/57c79b10-66cb-43cd-af28-0d2ce56d8931_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/xv-carrera-por-montana-sierra-de-chiva",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "IV TRAIL MINERO EL CALDERÍN",
+      "type": "carrera",
+      "startDate": "2026-12-06T10:00:00",
+      "endDate": null,
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/69c43d91-fc0d-4606-b289-98a1ee909626.jpeg",
+      "url": "https://web.rockthesport.com/es/event/iv-trail-minero-el-calderin",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1623,7 +1635,7 @@
       "endDate": null,
       "locationName": "Teruel",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/04e9b307-f049-4fc4-ad98-4fd6d86c7eb1.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/e5c0fce7-37e9-456a-84e7-818e9e308fd3.jpeg",
       "url": "https://web.rockthesport.com/es/event/ix-trail-urrea-de-gaen",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2256,6 +2268,17 @@
       "url": "https://web.rockthesport.com/es/event/ultra-trail-moncayo-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "CxM SIERRO 2027",
+      "startDate": "2027-05-02T09:00:00+02:00",
+      "endDate": null,
+      "locationName": "Plaza de Andalucía, Sierro, ES",
+      "image": "https://inscrik.com/media/banners/WhatsApp_Image_2026-11-12_at_11.10.18.jpg",
+      "url": "https://www.cruzandolameta.es/pruebas/cxm-sierro-2027/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Innsbruck Alpine Trailrun Festival 2027",
