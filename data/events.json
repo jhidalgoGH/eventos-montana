@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:35:18.316Z",
+  "updatedAt": "2026-11-14T21:36:55.708Z",
   "events": [
     {
       "name": "Maratón Sierra de Mijas 2026",
@@ -722,6 +722,17 @@
       "image": "https://urbanrace.io/wp-content/uploads/2026/07/event-4087.jpg",
       "url": "https://urbanrace.io/events/trail-run/spain/chiva/xi-carrera-por-montana-sierra-de-chiva/",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "IX Travesía de Resistencia MilSendas Alpujarra",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "locationName": "Sorbas, ES",
+      "image": "https://assets.haid.app/external-events/cmsib1kz6miuc01ptka5gqbzc/image.webp",
+      "url": "https://haid.app/zh/events/travesia-de-resistencia-milsendas-alpujarra-msib1kuy",
+      "type": "festival",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
