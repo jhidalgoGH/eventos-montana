@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T05:54:46.745Z",
+  "updatedAt": "2026-11-15T12:50:32.762Z",
   "events": [
     {
       "name": "Marcha senderista del Mezquin",
@@ -1531,7 +1531,7 @@
       "endDate": null,
       "locationName": "Gipuzkoa",
       "country": "España",
-      "image": null,
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/0462367c-7dec-41b3-8851-74d4daa19347.png",
       "url": "https://web.rockthesport.com/es/event/ordiziako-mendi-lasterketa-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
