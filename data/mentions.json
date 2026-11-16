@@ -1,6 +1,181 @@
 {
   "mentions": [
     {
+      "title": "La Paleotrail Loarre reúne a quinientos corredores en una segunda edición marcada por la lluvia",
+      "url": "https://cadenaser.com/aragon/2026/11/15/la-paleotrail-loarre-reune-a-quinientos-corredores-en-una-segunda-edicion-marcada-por-la-lluvia-radio-huesca/",
+      "typeHint": "carrera",
+      "image": "https://cadenaser.com/resizer/v2/CZY5ND4O25FO7GWDLDMNNWZYKA.JPG?auth=45a9c1f4011669edb990f3cb43419f20918c37c260332ff7a99dede2531083ff&amp;quality=70&amp;width=1200&amp;height=675&amp;focal=3592,742",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Martina Catalá, Deportista del Año en Almassora - Castellón Base - Tu web de fútbol base",
+      "url": "https://castellonbase.com/martina-catala-deportista-del-ano-en-almassora/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-16"
+    },
+    {
+      "title": "El Team MAD Ronda firma un intenso fin de semana deportivo entre el Valle del Genal y el ...",
+      "url": "https://www.diarioronda.es/2026/11/16/deportes/el-team-mad-ronda-firma-un-intenso-fin-de-semana-deportivo-entre-el-valle-del-genal-y-el-campeonato-de-andalucia",
+      "typeHint": "travesia",
+      "image": "https://be.diarioronda.es/wp-content/uploads/2026/11/229121.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Día del Deportista: Karen Ponce y una pasión por correr que se convirtió en un estilo de vida",
+      "url": "https://lavozdecataratas.com/2026/11/16/dia-del-deportista-karen-ponce-y-una-pasion-por-correr-que-se-convirtio-en-un-estilo-de-vida/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-16"
+    },
+    {
+      "title": "El bosque en los Pirineos para disfrutar del 'trail running' antes de que lleguen las primeras nevadas",
+      "url": "https://www.mundodeportivo.com/running/20261116/1004250271/bosque-pirineos-disfrutar-trail-running-lleguen-primeras-nevadas-rts.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/11/12/6af5d2e2b4577.r_d.392-148-15000.jpeg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Las tres rutas de 'trail running' fáciles para descubrir la montaña andaluza en otoño",
+      "url": "https://www.mundodeportivo.com/running/20261116/1004250275/tres-rutas-trail-running-faciles-descubrir-montana-andaluza-otono-permiten-disfrutar-afrontar-grandes-distancias-rts.html",
+      "typeHint": "travesia",
+      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/11/12/6af5d543ea83c.r_d.800-600-7500.jpeg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Se inició sin experiencia previa y hoy, las alpargatas que fabrica llegan a toda la Argentina",
+      "url": "https://www.noticiasnet.com.ar/noticias/2026/11/15/234780-se-inicio-sin-experiencia-previa-y-hoy-las-alpargatas-que-fabrica-llegan-a-toda-la-argentina",
+      "typeHint": "travesia",
+      "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/86/12/2861292_a73439299b6eaf7f932aef242386d745673d31b0d9918dac932f6a9ae7a169ea/lg.webp?_v=v3-1240",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "La Volta a la Foia celebra sus 40 años con más de 740 inscritos y el primer corredor ...",
+      "url": "https://cadenaser.com/comunitat-valenciana/2026/11/16/la-volta-a-la-foia-celebra-sus-40-anos-con-mas-de-740-inscritos-y-el-primer-corredor-invidente-en-completarla-radio-alcoy/",
+      "typeHint": "travesia",
+      "image": "https://cadenaser.com/resizer/v2/FZ3XXYTZUJEMVEWNZE24KAIG4M.jpg?auth=d78d13e852e14a06ba1ce235ecb07ca4fe702e19ea87afcc1632baada3249f03&amp;quality=70&amp;width=1200&amp;height=675&amp;focal=1824,1093",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Outdoor & ORBDAYS 2027 amplía su espacio y refuerza su apuesta por la experiencia profesional",
+      "url": "https://www.interempresas.net/Material-deportivo/669832-Outdoor-ORBDAYS-2027-amplia-su-espacio-refuerza-su-apuesta-experiencia-profesional.html",
+      "typeHint": "travesia",
+      "image": "https://img.interempresas.net/fotos/5863576.jpeg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Se retira una leyenda española del trail harta de \"ser una marioneta en manos ... - Diario del Triatlón",
+      "url": "https://www.diariodeltriatlon.es/articulo/runningendurance/retira-leyenda-espanola-trail-harta-ser-marioneta-manos-multinacionales-que-han-acabado-valores-deporte/20261116115721103033.html",
+      "typeHint": "travesia",
+      "image": "https://www.diariodeltriatlon.es/media/diariodeltriatlon/images/2026/11/16/2026111612091638095.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "¿Correrías 227km sin avituallamientos por los montes de Álava? Nace Ultra Trail Larre - Gasteiz Hoy",
+      "url": "https://www.gasteizhoy.com/ultra-trail-larre-alava-2027/",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-16"
+    },
+    {
+      "title": "adidas Terrex Agravic GTX 2: trail running without fear of rain or mud 🌧️ - YouTube",
+      "url": "https://www.youtube.com/shorts/FKooi7dSRYQ",
+      "typeHint": "travesia",
+      "image": "https://i.ytimg.com/vi/FKooi7dSRYQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&amp;rs=AOn4CLBIiddm-qOtBvZGp8iGOzXD0FZ1Rg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "CALENDARIO CARRERAS MONTAÑA CANARIAS 2027: Circuito Skyrunning Fecamon.",
+      "url": "https://carrerasdemontana.com/2026/11/16/calendario-carreras-montana-canarias-2027-circuito-skyrunning-fecamon/",
+      "typeHint": "travesia",
+      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/11/calendario-carreras-montana-canarias-2027-skyrunning-fecamon-mayayo-1024x775.png",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Puerto de Mazarrón estreno su I Trail Sendero Azul Alamillo - FAMU",
+      "url": "https://www.famu.es/puerto-de-mazarron-estreno-su-i-trail-sendero-azul-alamillo/",
+      "typeHint": "travesia",
+      "image": "https://www.famu.es/wp-content/uploads/2026/11/DSC_0246-scaled.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Entrevista a Serafín Acevedo sobre el XIII Trail do Trega: La prueba nocturna va a ser una ...",
+      "url": "https://www.infominho.com/entrevista-a-serafin-acevedo-sobre-el-xiii-trail-do-trega-la-prueba-nocturna-va-a-ser-una-experienci-62670.html",
+      "typeHint": "travesia",
+      "image": "https://www.infominho.com/udecontrol_datos/objetos/med/62670.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Trail running ‍♀️☀️ @larutadelpuma2026 ‍♀️ @lorepuqfotografia - Instagram",
+      "url": "https://www.instagram.com/p/DfupZxuIJ01/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/902585797_18637111126057139_1434431002958615880_n.jpg?stp=c266.0.800.799a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=3j_cPocgKXoQ7kNvwGDejgv&amp;_nc_oc=Adpkw41KxPCY92opVW3OsNQoIeG9LLe5DmWixJDZGNlFsJbX_2WjNDL0RdD0IYO9PEo&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=KsdfK0id4wzP_7mk0_KuwA&amp;_nc_ss=7c689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTM7gATrRXLvpdV4RZwl-3fkt7iYOBwSKitG6FCEMvLEQ&amp;oe=6B00DCA3",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "El III Congreso Internacional de Actividad Física y Deporte abordará los retos ... - MiCiudadReal.es",
+      "url": "https://www.miciudadreal.es/2026/11/16/el-iii-congreso-internacional-de-actividad-fisica-y-deporte-abordara-los-retos-profesionales-docentes-y-tecnicos-en-alcazar-de-san-juan-los-dias-23-y-24-de-noviembre/",
+      "typeHint": "travesia",
+      "image": "https://www.miciudadreal.es/wp-content/uploads/2026/11/CARTEL-1.jpeg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Finestrat reúne a 2.500 corredores en Costa Blanca Trails - Marina Baixa Digital",
+      "url": "https://marinabaixadigital.es/art/7571/finestrat-costa-blanca-trails-2026-resultados-2500-corredores/",
+      "typeHint": "travesia",
+      "image": "https://marinabaixadigital.es/upload/images/11_2026/4959_salida-trail-20k-costa-blanca-trails-finestrat.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Dani Luque termina tercero en la Costa Blanca Trails pese a correr con tres costillas fracturadas",
+      "url": "https://priegodigital.es/noticia/17056-dani-luque-termina-tercero-en-la-costa-blanca-trails-pese-a-correr-con-tres-costillas-fracturadas",
+      "typeHint": "travesia",
+      "image": null,
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Me prometi trailear mis primeros 14km en menos de 3 horas y me cumplí. Gracias ... - Instagram",
+      "url": "https://www.instagram.com/reel/DfyUY8RSwwG/",
+      "typeHint": "travesia",
+      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/905739947_1668104844791703_1859559311325578200_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=ciboS3pXXJwQ7kNvwHw25A-&amp;_nc_oc=Ado3AoPae6tqOJKLQR2XmI-gPolDERlVeJ3RU-JpwKjmikQGTUIqHnJPcko1nZQg5nc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=smC2lDeo8RJNQbbAqZr8fg&amp;_nc_ss=7c689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQRgSe_BlCwOxZc4HaJQ7oDA7MtQQyAcW2U5rbWEH0uCpw&amp;oe=6B00F175",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Nike ACG Pegasus GORE-TEX zapatillas de trail running para mujer HO26",
+      "url": "https://www.sportsshoes.com/es-es/product/nik26687/nike-acg-pegasus-gore-tex-zapatillas-de-trail-running-para-mujer-ho26",
+      "typeHint": "travesia",
+      "image": "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/95765/542866/NIK26687_1000_1__54652.1793625214.png",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Polémica en Caballito: Gimnasia y Tiro eliminó a Ferro con un gol con la mano",
+      "url": "https://holasalta.com/post/polemica-en-caballito-gimnasia-y-tiro-elimino-a-ferro-con-un-gol-con-la-mano/",
+      "typeHint": "escalada",
+      "image": "https://holasaltamedia.cc/og/polemica-en-caballito-gimnasia-y-tiro-elimino-a-ferro-con-un-gol-con-la-mano-6a3986.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Los más rápidos de la escalada se miden en Lugones en el muro exterior de 15 metros de altura",
+      "url": "https://www.lne.es/siero/2026/11/16/rapidos-escalada-miden-lugones-muro-136470884.html",
+      "typeHint": "escalada",
+      "image": null,
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Dirigente de Temperley gravemente herido en explosión en Escalada - El Conurbano",
+      "url": "https://elconurbano.com.ar/un-dirigente-de-temperley-quedo-gravemente-herido-en-la-explosion-de-escalada/83614/",
+      "typeHint": "escalada",
+      "image": "https://elconurbano.com.ar/wp-content/uploads/2026/11/temperley.jpg",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Imbabureñas ganan plata y bronce en nacional de escalada U15 en Quito - Facebook",
+      "url": "https://www.facebook.com/100063455233221/posts/escaladadeporriva-imbabure%C3%B1as-ganan-plata-y-bronce-en-el-nacional-de-escalada-en/1790656406392850/",
+      "typeHint": "escalada",
+      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/907338073_1821351679172293_6099092995013804086_n.png?stp=dst-jpg_tt6&amp;cstp=mx960x1280&amp;ctp=p600x600&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=sOtgDLN7TMoQ7kNvwF5vn0H&amp;_nc_oc=Adr0m8ToANUwIae2HRw011eiBk5IGq5AKI1IO38PSRURCZaXL_-LEtHfcPr3EJCNrCc&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=PfkE7fBi_YJw_V1u4katzw&amp;_nc_ss=7c289&amp;oh=00_AQQt859W5iJ1EmCQhqMWt79xG4_sXBfe-8FgDP6TCBVULw&amp;oe=6B00E839",
+      "date": "2026-11-16"
+    },
+    {
       "title": "Festival de Montaña [Mountain Film Festival] - El Sureño.cl",
       "url": "https://elsureno.cl/panorama/festival-de-montana-mountain-film-festival/",
       "typeHint": "carrera",
@@ -523,181 +698,6 @@
       "url": "https://planetatriatlon.com/plews-el-entrenador-de-sodaro-y-gomez-noya-no-hay-una-intencion-real-en-la-fuerza-del-triatleta/",
       "typeHint": "travesia",
       "image": "https://planetatriatlon.com/assets/uploads/2026/11/plews-el-entrenador-de-sodaro-y-javier-gomez-no-hay-1.webp",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "El tiempo para hoy en Madrid: lluvias débiles y temperaturas en ligero descenso - La Razón",
-      "url": "https://www.larazon.es/madrid/tiempo-hoy-madrid-lluvias-debiles-temperaturas-ligero-descenso_202611156af96afeea8d8979978657af.html",
-      "typeHint": "travesia",
-      "image": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/09/72125074-1A9E-411A-9A42-663611FE3F9C/98.jpg?crop=1920,1080,x0,y245&width=1900&height=1069&optimize=low&format=webply",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "‍♂️⛰️ Cuando dices una cosa pero realmente quieres decir otra... Vocabulario Trail Runner",
-      "url": "https://www.instagram.com/p/Dfwt3-CkYay/",
-      "typeHint": "travesia",
-      "image": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/902764553_18654542383022703_2572288629131172899_n.heic?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=e9fZ40HeDO8Q7kNvwFSjeNt&amp;_nc_oc=AdpRbm-15rwr7KIuxltHP1_FRi_mbau6O9wEpYkm79_1u2u_1c8wdizIpUZ6ppnX-Ys&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=yrVPogfEv-lc8I23t2XxVQ&amp;_nc_ss=7c689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRCg0xCfEIJoahu8g57KiYo-XSF2vpQetFdP1aUron8Dw&amp;oe=6AFF7D54",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Manzanares el Real, mejor destino de Europa para trail running - La Razón",
-      "url": "https://www.larazon.es/madrid/manzanares-real-mejor-destino-europa-trail-running_202611156af992504196933d7ede0f0f.html",
-      "typeHint": "travesia",
-      "image": "https://fotografias-2.larazon.es/clipping/cmsimages02/2022/02/26/EEBB1266-69DA-4719-97AF-9E897B86578F/98.jpg?crop=4000,2251,x0,y208&width=1900&height=1069&optimize=low&format=webply",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Bastones de senderismo y trekking hasta 2035: la premiumización y el trail running ... - IndexBox",
-      "url": "https://www.indexbox.io/es/blog/hiking-trekking-poles-market-forecast-to-2035-premiumization-and-trail-running-demand-drive-growth/",
-      "typeHint": "travesia",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2-localized/es/hiking-trekking-poles-market-forecast-to-2035-premiumization-and-trail-running-demand-drive-growth-56bf02b5cfc51ed2.webp",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Toma nota: estas son las cinco zapatillas Adidas por menos de 50 euros que más se van a ...",
-      "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/toma-nota-estas-cinco-zapatillas-adidas-50-euros-que-se-van-a-llevar-este-otono",
-      "typeHint": "travesia",
-      "image": "https://i.blogs.es/ecd401/cajas-adidas/840_560.jpeg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "¿Estás corriendo demasiado rápido en los rodajes suaves? Arnau Lloret, entrenador personal",
-      "url": "https://www.mundodeportivo.com/running/20261115/1004250700/corriendo-demasiado-rapido-rodajes-suaves-arnau-lloret-entrenador-personal-aumentando-carga-fisiologica-fatiga-te-impedir-calidad-sesiones-intensidad-llt.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af74394bd10c.r_d.925-617-6486.jpeg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Pasta Party con el team @Trail Running Club - TRC ‍♀️‍➡️ #runnin... | TikTok",
-      "url": "https://www.tiktok.com/@lavikingaoficial/video/7708201049781275910",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "El Action de Malasia estrena una nueva macrotienda 'low cost' en Madrid - Time Out",
-      "url": "https://www.timeout.es/madrid/es/noticias/el-action-de-malasia-estrena-una-nueva-macrotienda-low-cost-en-madrid-18-000-productos-de-hogar-decoracion-y-juguetes-al-mejor-precio-111526",
-      "typeHint": "travesia",
-      "image": "https://media.timeout.com/images/106467094/image.jpg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "La ruta de montaña perfecta para practicar 'trail running' un domingo de noviembre cerca de ...",
-      "url": "https://www.mundodeportivo.com/running/20261115/1004249583/ruta-montana-perfecta-practicar-trail-running-domingo-noviembre-cerca-barcelona-senderos-rieras-construcciones-tradicionales-rts.html",
-      "typeHint": "travesia",
-      "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/11/04/690a3baaeb07c.jpeg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Every mile matters. - Strider — App de running, trail y AI Coach en español",
-      "url": "https://trailrunninggroups.com/register?next=%2Fnearby",
-      "typeHint": "travesia",
-      "image": "https://trailrunninggroups.com/strider-logo-dark@2x.png",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Itxassou - 2024 - 16 km Itsasuko Itzulia | Trail Running (16.4 km) | OpenRunner",
-      "url": "https://www.openrunner.com/es/route-details/18879288-2024-16-km-itsasuko-itzulia",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Costa Blanca Trails Maratón, desde dentro: \"El Capotico de San Fermín\". - Carrerasdemontana.com",
-      "url": "https://carrerasdemontana.com/2026/11/15/costa-blanca-trails-desde-dentro-mayayo-2/",
-      "typeHint": "travesia",
-      "image": "https://carrerasdemontana.com/wp-content/uploads/2026/11/costa-blanca-trails-2026-maraton-5-1024x768.jpeg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Zapatillas de trail running Fast-Trac NITRO 3 para mujer | black - PUMA Peru",
-      "url": "https://pe.puma.com/pd/zapatillas-de-trail-running-fast-trac-nitro-3-para-mujer/379787.html?_sgm_action=click&_sgm_campaign=scn_cbf5970fd0000&_sgm_source=379787&fbclid=IwYW9zYgPGkQNleHRuA2FlbQEwAGFkaWQBqyupwQH9I3NydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlOle00rh3Tvl-PVInebjyyJtW4K_IULx7jI42mQJetNSiwgYcHNMQ4whkzK_aem_QH36ztmfKWlCkpZvW1RjBg&color=02&size=0140",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Eca_effets d'un protocole d'entraînement de la musculature inspiratoire sur l'apparition des ...",
-      "url": "https://titula.universidadeuropea.com/handle/20.500.12880/16678",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Diseño personalizado - IBHOLA Trail Running",
-      "url": "https://www.ibholahuelva.es/diseno-personalizado/",
-      "typeHint": "travesia",
-      "image": "https://www.ibholahuelva.es/images/corredor-original.jpg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Remedios de Escalada: clubes abrieron sus puertas tras la explosión - El Bonaerense",
-      "url": "https://www.elbonaerense.news/2026/11/14/remedios-de-escalada-clubes-abrieron-sus-puertas-tras-la-explosion",
-      "typeHint": "escalada",
-      "image": "https://www.elbonaerense.news/contenido/noticias/original/1794690215.jpeg",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Explosión en Remedios de Escalada: cortaron la fuga de gas y apagaron el incendio",
-      "url": "https://cambio2000.com.ar/site/explosion-en-remedios-de-escalada-cortaron-la-fuga-de-gas-y-apagaron-el-incendio/",
-      "typeHint": "escalada",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "La Paleotrail Loarre reúne a quinientos corredores en una segunda edición marcada por la lluvia",
-      "url": "https://www.eldiariodehuesca.com/deportes/paleotrail-loarre-reune-quinientos-corredores-en-segunda-edicion-marcada-por-lluvia_49024_102.html",
-      "typeHint": "carrera",
-      "image": "https://www.eldiariodehuesca.com/uploads/s1/47/37/73/9/vencedores-absolutos-de-ambas-pruebas-en-el-podium_23_1200x676.webp",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Lima Training Fest 2026: repasa las mejores imágenes del evento organizado por Adidas",
-      "url": "https://elcomercio.pe/deporte-total/dt-running/lima-training-fest-2026-repasa-las-mejores-imagenes-del-evento-organizado-por-adidas-noticia/",
-      "typeHint": "travesia",
-      "image": "https://elcomercio.pe/resizer/v2/CGPTVGOBJ5AQDOGBQOHYFVJFQ4.jpg?auth=9ad9a8dccf8ad1e7b6bafda619ff996f1a0504d0d1449d654cef4db3a83117fe&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Lima Training Fest 2026: una jornada de movimiento, energía y comunidad organizada por Adidas",
-      "url": "https://elcomercio.pe/deporte-total/dt-running/lima-training-fest-2026-una-jornada-de-movimiento-energia-y-comunidad-organizada-por-adidas-noticia/",
-      "typeHint": "travesia",
-      "image": "https://elcomercio.pe/resizer/v2/IMTDED5CKZCONNJAWD35HTOFT4.jpg?auth=01670e46ad997a87a3240b3aa2f7538b1f362105f53f1dcd3d49436433712c09&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "#GranVueltaValleDelGenal2026 El equipo Los Chilenos llegan a Meta ganando la ... - Facebook",
-      "url": "https://www.facebook.com/TrailAndalucia/posts/granvueltavalledelgenal2026-el-equipo-los-chilenos-llegan-a-meta-ganando-la-comp/1742803477852334/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t15.5256-10/902334015_1630816861250585_5461763673019747142_n.jpg?_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=NWpW-ojJ220Q7kNvwG8walw&amp;_nc_oc=AdrQcVAs9hjs8TrpBefc9nv5hFVDDOJl1iSi8kgetJOmdVNLPjyDMNKd9r7Ja0TBDi8&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-2.xx&amp;_nc_gid=tTYf5LrIoSY6FowrlvCUJA&amp;_nc_ss=7c289&amp;oh=00_AQTC-rNOyP3hVYWy-Pod5J5iGTye0xjSpfsgshJAz95tsA&amp;oe=6AFF3355",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "#GranVueltaValleDelGenal2026 llega cabeza de Carrera por equipos a Farajan km95 ... - Facebook",
-      "url": "https://www.facebook.com/TrailAndalucia/posts/granvueltavalledelgenal2026-llega-cabeza-de-carrera-por-equipos-a-farajan-km95-j/1742647914534557/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/897718815_1808935340399803_1217391660687516405_n.jpg?_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EjmacSHBW5wQ7kNvwE5b9UE&amp;_nc_oc=AdpDb4jF5v3whJuEyFVCCNt2dMie4ie7L3RhWtSTI0zebyBEPA4tkX31one2xQLZ5Cw&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=0hbqkDH7WQKwn6poag2j5w&amp;_nc_ss=7c289&amp;oh=00_AQSyUt51PR99f2e5Db3AqS0fXF4sd-ObqnNrXAJ83gz6hQ&amp;oe=6AFF178C",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Zapatillas - Trail running - Unisex - Ride TR3 - Rojo y dorado - Decathlon",
-      "url": "https://www.decathlon.es/es/p/mp/zapatillas-trail-running-unisex-ride-tr3-rojo-y-dorado/d882f931-b6ed-4cb2-ac17-1097e962b51d/c14c250",
-      "typeHint": "travesia",
-      "image": null,
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Romantizando mi retorno al trail running ahora modo MAMÁ #trailrunning #trail #mamarunner",
-      "url": "https://www.facebook.com/peruanaviajera/posts/romantizando-mi-retorno-al-trail-running-ahora-modo-mam%C3%A1-trailrunning-trail-mama/1664673541732170/",
-      "typeHint": "travesia",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/901982034_1787647348954387_7697445638343316494_n.jpg?_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=uIEudVomSesQ7kNvwFnyTKL&amp;_nc_oc=Adqa9TYaMOjPtJgkV7xvJ9svf86I8q5PbfWZqSoAJs5f0eDbKsqYuz3eW9mZMXQcrbo&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=D6QfBTyVyoiW8YvHvLSe4w&amp;_nc_ss=7c289&amp;oh=00_AQSEQ88-egtDhkkppS0C3eMBZlLiZFJoBjzDDXjfJGr-ng&amp;oe=6AFF2EF1",
-      "date": "2026-11-15"
-    },
-    {
-      "title": "Gran Fondo Siete Lagos: qué tramos de la Ruta Nacional 40 se verán afectados y cuándo ...",
-      "url": "https://www.mejorinformado.com/neuquen/gran-fondo-siete-lagos-tramos-ruta-nacional-40-veran-afectados-cuando-cortaran_1794697671",
-      "typeHint": "travesia",
-      "image": "https://pxcdn.mejorinformado.com/mejorinformado/112025/1763676013504.jpeg?cw=1200&ch=630&x=8&y=258&width=1483&height=834&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&extw=jpeg",
       "date": "2026-11-15"
     }
   ]
