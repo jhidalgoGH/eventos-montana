@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:47:48.955Z",
+  "updatedAt": "2026-11-16T17:35:52.893Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -1577,6 +1577,18 @@
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "TRAIL ALBARRACIN - PINARES DEL RODENO 2027",
+      "type": "carrera",
+      "startDate": "2027-03-06T08:00:00",
+      "endDate": null,
+      "locationName": "Teruel",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/7fcec190-c734-4af3-a781-2cb2fa116955.jpeg",
+      "url": "https://web.rockthesport.com/es/event/trail-albarracin-pinares-del-rodeno-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "IberiKa Trail Mataelpino 2027",
