@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:54:40.154Z",
+  "updatedAt": "2026-11-17T14:39:15.254Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -106,6 +106,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "I Trail Running LLERENATRAIL",
+      "startDate": "2026-11-21T11:00:00+01:00",
+      "endDate": "2026-11-21T13:00:00+01:00",
+      "locationName": "Llerena (Municipio)",
+      "image": "https://cdn.viralagenda.com/images/events/ext/1885101-298dfe20774532bda0caeadb827356bf.jpeg",
+      "url": "https://www.viralagenda.com/es/events/1885101/i-trail-running-llerenatrail",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "III Trail Nocturno Cabeço D'Or, Busot",
       "type": "carrera",
       "startDate": "2026-11-21T17:00:00",
@@ -186,6 +197,17 @@
       "url": "https://web.rockthesport.com/es/event/ii-gtf-geoparque-trail-fonelas",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Campeonato de Extremadura de Marcha en ruta",
+      "startDate": "2026-11-22T11:00:00+01:00",
+      "endDate": "2026-11-22",
+      "locationName": "Llerena (Municipio)",
+      "image": "https://cdn.viralagenda.com/images/events/ext/1885102-b110b93dedcfe042f5683ae5c8942bba.jpg",
+      "url": "https://www.viralagenda.com/es/events/1885102/campeonato-de-extremadura-de-marcha-en-ruta",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -531,6 +553,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/167a85d0-372f-46ac-812e-caad3978aed9.jpeg",
       "url": "https://web.rockthesport.com/es/event/viii-berrea-trail-race-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Final Copa Escalada en Bloque - Adeje (Tenerife)",
+      "type": "escalada",
+      "startDate": "2026-12-12T09:00:00",
+      "endDate": null,
+      "locationName": "Santa Cruz de Tenerife",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13848/library/root/023a4673-42af-4540-a3f1-55e7734b949c.jpg",
+      "url": "https://web.rockthesport.com/es/event/final-copa-escalada-en-bloque-adeje-tenerife",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1501,6 +1535,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "SPRINT TRAIL& ECO MARCHA COLEGIO SANTA ANA SR Sport & Training, 2027",
+      "type": "travesia",
+      "startDate": "2027-02-28T09:30:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/e3b2b00b-3a54-45a8-990a-6639cdd42f1f_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/sprint-trail-eco-marcha-colegio-santa-ana-sr-sport-training-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "2a Prova Copa Marxa Nòrdica FEMECV 2027, Ròtova",
       "type": "carrera",
       "startDate": "2027-02-28T10:00:00",
@@ -1938,6 +1984,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/a7ec1ce5-dc97-4c03-acde-e2b9633c5bf9.jpeg",
       "url": "https://web.rockthesport.com/es/event/i-casti-trail-bailadera-el-baile-de-la-bailadera",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "ALLANDE EXTREMO 2027",
+      "type": "carrera",
+      "startDate": "2027-04-17T10:30:00",
+      "endDate": "2027-04-18T15:00:00",
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/c27ddc64-6c2a-419c-afe4-1990ca3267a7_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/allande-extremo-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2395,6 +2453,17 @@
       "url": "https://web.rockthesport.com/es/event/trail-vielha-molieres-3010-",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Stralivigno: trail running a Livigno",
+      "startDate": "2027-07-18T06:00:00.000+02:00",
+      "endDate": "2027-07-18T23:59:00.000+02:00",
+      "locationName": "Livigno, Lombardia, Italia",
+      "image": "https://tourismmedia.italia.it/is/image/mitur/livigno-foto",
+      "url": "https://www.italia.it/es/lombardia/sondrio/que-hacer/evento-stralivigno-running",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Quito Trail Ecuador by UTMB 2027",
