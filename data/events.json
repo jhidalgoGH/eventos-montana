@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T17:35:47.981Z",
+  "updatedAt": "2026-11-17T23:54:55.466Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -333,6 +333,17 @@
       "image": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_default_dark.jpg",
       "url": "https://sportmaniacs.com/pl/races/29-11-2026-xvi-carrera-por-montantildea-subida-a-campanarios---casas-del-monte-2026",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Ayacucho Trail 2026",
+      "startDate": "2026-11-29T07:00:00-05:00",
+      "endDate": "2026-11-29T07:00:00-05:00",
+      "locationName": "El Rancho de Bruno, Ayacucho, Perú",
+      "image": "https://scontentr4p-d772.kxcdn.com/wp-content/uploads/2026/11/carrera-ayacucho-trail-2026.webp",
+      "url": "https://www.running4peru.com/eventos/carrera-ayacucho-trail/",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -980,6 +991,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Carrera por Montaña de Alicún",
+      "startDate": "2027-01-17",
+      "endDate": "2027-01-17",
+      "locationName": "Alicún, Andalucía, ES",
+      "image": "https://trailruntemple.com/images/races/cxm-alicun-hero.webp",
+      "url": "https://trailruntemple.com/carreras/espana/andalucia/cxm-alicun/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Serralades de Barxeta -  Mabu 2027, LMVS. 26/27",
       "type": "carrera",
       "startDate": "2027-01-17T07:00:00",
@@ -1192,6 +1214,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "1a Prova Copa Marxa Nòrdica FEMECV 2027, Algorfa",
+      "type": "carrera",
+      "startDate": "2027-02-06T10:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/956cc05f-7e2e-4179-a3c7-cae9b0ce603c_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/1a-prova-copa-marxa-nordica-femecv-2027-algorfa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Trail des Calanques",
       "startDate": "2027-02-07",
       "endDate": "2027-02-07",
@@ -1293,6 +1327,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/custom/root/495b8ac6-4e9d-4350-a067-e7d5e9ec4e6f_custom1.png",
       "url": "https://web.rockthesport.com/es/event/hiru-herri-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "2a Prova de Lliga CxM FEMECV 2027,  Banyeres de Mariola",
+      "type": "carrera",
+      "startDate": "2027-02-14T09:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/37956fa0-75a8-4238-8020-40fc3ccd8174_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1535,6 +1581,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "3a Prova de Lliga CxM FEMECV + Carrera de la Dona 2027 , La Vall D'Uixó",
+      "type": "carrera",
+      "startDate": "2027-02-28T09:00:00",
+      "endDate": null,
+      "locationName": "Castellón/Castelló",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/059712d7-10f1-44b1-9d2a-c697d05dd4b7.png",
+      "url": "https://web.rockthesport.com/es/event/3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "SPRINT TRAIL& ECO MARCHA COLEGIO SANTA ANA SR Sport & Training, 2027",
       "type": "travesia",
       "startDate": "2027-02-28T09:30:00",
@@ -1704,6 +1762,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/64138118-5168-4f83-97da-e5ca93af50f2_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/10-onil-trails-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "2a Prova Copa Marxa Nòrdica FEMECV 2027, Ròtova",
+      "type": "carrera",
+      "startDate": "2027-03-14T10:00:00",
+      "endDate": null,
+      "locationName": "Valencia/València",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/62ce5657-4f7d-4eae-9eac-603ea571f49a_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/2a-prova-copa-marxa-nordica-femecv-2027-rotova",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2195,6 +2265,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Campionat Autonòmic de Quilòmetre Vertical, FEMECV 2027 Benissa.",
+      "type": "carrera",
+      "startDate": "2027-05-09T08:00:00",
+      "endDate": null,
+      "locationName": "Alicante/Alacant",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/168b0237-a43f-44d7-acab-fa745024094f_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/campionat-autonomic-de-quilometre-vertical-femecv-2027-benissa",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "VEINTE LEGUAS ALPUJARRA 2027",
