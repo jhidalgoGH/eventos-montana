@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:16:54.486Z",
+  "updatedAt": "2026-11-18T17:36:05.197Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -868,7 +868,7 @@
       "endDate": null,
       "locationName": "Soria",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/c5c7d55b-b945-41b0-b448-45e8e4b9226a.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1576/library/root/ded6202b-b26c-4cd3-b116-2c92bdda74e5.jpeg",
       "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-agreda-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -893,6 +893,17 @@
       "image": "https://inscrik.com/media/banners/WhatsApp_Image_2026-10-05_at_13.53.33_1.jpg",
       "url": "https://www.cruzandolameta.es/pruebas/vi-san-silvestrail-villa-de-fines/",
       "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "BBK Mendifilm",
+      "startDate": "2026-12-4",
+      "endDate": "2026-12-13",
+      "locationName": "Bilbao",
+      "image": "https://verybilbao.b-cdn.net/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-17-a-las-10.31.11.png",
+      "url": "https://verybilbao.com/planes/bbk-mendifilm-2/",
+      "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
