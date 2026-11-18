@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:36:05.197Z",
+  "updatedAt": "2026-11-18T23:27:45.686Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -1773,6 +1773,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/64138118-5168-4f83-97da-e5ca93af50f2_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/10-onil-trails-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "TOXIZA GRAN TRAIL 2027",
+      "type": "carrera",
+      "startDate": "2027-03-14T09:00:00",
+      "endDate": null,
+      "locationName": "Lugo",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/4b063fae-3f24-45ba-95eb-c2884a537485_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/toxiza-gran-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
