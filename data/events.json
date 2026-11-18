@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:54:36.858Z",
+  "updatedAt": "2026-11-18T14:16:54.486Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -2474,6 +2474,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/f12b328d-4d34-4507-a220-7e509bba70ab.jpg",
       "url": "https://web.rockthesport.com/es/event/arcedianu",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Zuia Backyard 2027",
+      "type": "carrera",
+      "startDate": "2027-06-19T09:00:00",
+      "endDate": null,
+      "locationName": "Araba-Álava",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9551/library/root/ecada12b-efad-4f9a-86d5-3838df242290.jpg",
+      "url": "https://web.rockthesport.com/es/event/zuia-backyard-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
