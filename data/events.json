@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:31:40.012Z",
+  "updatedAt": "2026-11-19T17:35:33.666Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -1392,6 +1392,17 @@
       "url": "https://web.rockthesport.com/es/event/x-trail-da-filloa-de-zas-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "II CXM LA CALZADA 2027",
+      "startDate": "2027-02-07T09:30:00+01:00",
+      "endDate": null,
+      "locationName": "Palacio de Deportes de Vícar, Almería, ES",
+      "image": "https://inscrik.com/media/banners/unnamed_1.jpg",
+      "url": "https://www.cruzandolameta.es/pruebas/ii-cxm-la-calzada-2027/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Copa de MN FEMECV 2027",
