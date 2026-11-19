@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T05:54:42.241Z",
+  "updatedAt": "2026-11-19T14:31:40.012Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -598,6 +598,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Encuentro Mujer y Montaña Montaña 2026",
+      "type": "otro",
+      "startDate": "2026-12-11T08:00:00",
+      "endDate": null,
+      "locationName": "Toledo",
+      "country": "España",
+      "image": null,
+      "url": "https://web.rockthesport.com/es/event/encuentro-mujer-y-montana-montana-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "IX Travesía de Resistencia MilSendas Alpujarra",
@@ -1518,7 +1530,7 @@
       "endDate": null,
       "locationName": "Valencia/València",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/b62a6ca4-0aa9-417e-9805-9c125ea37bc2.jpeg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/2b2e8060-ab2d-43b1-a958-46c71d8c88c9_custom1.jpg",
       "url": "https://web.rockthesport.com/es/event/xi-tomaca-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -2171,7 +2183,7 @@
       "name": "I CASTI TRAIL BAILADERA “El Baile de la Bailadera”",
       "type": "carrera",
       "startDate": "2027-04-17T09:00:00",
-      "endDate": "2027-04-17T00:00:00.000Z",
+      "endDate": null,
       "locationName": "Zaragoza",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/a7ec1ce5-dc97-4c03-acde-e2b9633c5bf9.jpeg",
