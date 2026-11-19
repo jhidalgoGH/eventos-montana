@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:27:45.686Z",
+  "updatedAt": "2026-11-19T05:54:42.241Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -11,6 +11,28 @@
       "url": "https://itra.run/Races/RaceDetails/EL.PRIVILEGIO.100.MILLAS.100.MILLAS.EL.PRIVILEGIO/2026/116377",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Backyard Ultra Villa Carlos Paz",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "locationName": "Villa Carlos Paz, Córdoba, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/backyard-ultra-villa-carlos-paz",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "ERA Ulapes Trail Series",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "locationName": "Ulapes, La Rioja, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/era-ulapes-trail-series",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "IV Carrera por Montaña Corre con Nosotras",
@@ -141,6 +163,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Rural Trail Esquina",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "locationName": "Esquina, Corrientes, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/rural-trail-esquina",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Ancón Trail Fest 2026",
       "startDate": "2026-11-22T05:45:00-05:00",
       "endDate": "2026-11-22T05:45:00-05:00",
@@ -231,6 +264,28 @@
       "source": "rockthesport",
       "sourceName": "Rockthesport",
       "image": "https://rtsfiles.blob.core.windows.net/manager/11067/custom/root/c1856ca8-6c60-467d-bb9e-9e775d79a45c_custom2.jpg"
+    },
+    {
+      "name": "Backyard Ultra La Costa",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "locationName": "San Bernardo del Tuyú, Provincia de Buenos Aires, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/backyard-ultra-la-costa",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Chalchani Trail",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "locationName": "Monterrico, Jujuy, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/chalchani-trail",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Caras Nortes Skyrace 2026",
@@ -333,6 +388,17 @@
       "image": "https://s3.eu-west-1.amazonaws.com/sm-fotos.sportmaniacs.com/back/resize/1920x410x0_default_dark.jpg",
       "url": "https://sportmaniacs.com/pl/races/29-11-2026-xvi-carrera-por-montantildea-subida-a-campanarios---casas-del-monte-2026",
       "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Saujil Cross Trail",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "locationName": "Saujil, Catamarca, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/saujil-cross-trail",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -454,6 +520,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Q Trail Esquel",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "locationName": "Esquel, Chubut, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/q-trail-esquel",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "CAMPEONATO TRAIL RUNNING URUGUAY",
       "startDate": "2026-12-06T00:00:00.000Z",
       "endDate": "2026-12-06T00:00:00.000Z",
@@ -530,6 +607,28 @@
       "image": "https://assets.haid.app/external-events/cmsib1kz6miuc01ptka5gqbzc/image.webp",
       "url": "https://haid.app/zh/events/travesia-de-resistencia-milsendas-alpujarra-msib1kuy",
       "type": "festival",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "La Carolina Trail",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "locationName": "La Carolina, San Luis, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/la-carolina-trail",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "IG Urban Trail",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "locationName": "Posadas, Misiones, Argentina",
+      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
+      "url": "https://gotrail.run/en/event/ig-urban-trail",
+      "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -2072,7 +2171,7 @@
       "name": "I CASTI TRAIL BAILADERA “El Baile de la Bailadera”",
       "type": "carrera",
       "startDate": "2027-04-17T09:00:00",
-      "endDate": null,
+      "endDate": "2027-04-17T00:00:00.000Z",
       "locationName": "Zaragoza",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/a7ec1ce5-dc97-4c03-acde-e2b9633c5bf9.jpeg",
@@ -2396,6 +2495,17 @@
       "sourceName": "ITRA"
     },
     {
+      "name": "La Cabanera Skyrace 2027",
+      "startDate": "2027-05-29T00:00:00.000Z",
+      "endDate": "2027-05-29T00:00:00.000Z",
+      "locationName": "Vall Fosca, La Torre de Capdella (Lleida), ES",
+      "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&fit=crop&w=1600&q=80",
+      "url": "https://www.vemaxsport.com/eventos/la-cabanera-skyrace-2027",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "II. ETXTRAIL",
       "type": "carrera",
       "startDate": "2027-05-29T08:00:00",
@@ -2590,6 +2700,17 @@
       "image": null,
       "url": "https://www.carrerasdecalleytrail.com.ar/carrera/quito-trail-ecuador-by-utmb-2027",
       "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Pedraforca Xtrail 2027",
+      "startDate": "2027-09-04T00:00:00.000Z",
+      "endDate": "2027-09-04T00:00:00.000Z",
+      "locationName": "Saldes (Barcelona), ES",
+      "image": "https://images.unsplash.com/photo-1696964904681-7ae16f82ceef?auto=format&fit=crop&w=1600&q=80",
+      "url": "https://www.vemaxsport.com/eventos/pedraforca-xtrail-2027",
+      "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
