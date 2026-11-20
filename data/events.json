@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:54:14.627Z",
+  "updatedAt": "2026-11-20T14:08:49.308Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -1056,7 +1056,7 @@
       "name": "X Trail Monte Ponoig, Polop de la Marina, 9e. Circuit Trail Marina 26/27",
       "type": "carrera",
       "startDate": "2027-01-10T08:30:00",
-      "endDate": "2027-01-10",
+      "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/d59d097c-6998-49ed-8f94-5c28c13f36d7_custom1.png",
@@ -1117,7 +1117,7 @@
       "startDate": "2027-01-17",
       "endDate": "2027-01-17",
       "locationName": "Alicún, Andalucía, ES",
-      "image": "https://trailruntemple.com/images/races/cxm-alicun-hero.webp",
+      "image": "https://trailruntemple.com/_astro/cxm-alicun-hero.C-0kIbSO_2fAgAu.webp",
       "url": "https://trailruntemple.com/carreras/espana/andalucia/cxm-alicun/",
       "type": "carrera",
       "source": "google-alerts",
