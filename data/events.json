@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:35:58.741Z",
+  "updatedAt": "2026-11-20T23:13:14.054Z",
   "events": [
     {
       "name": "EL PRIVILEGIO 100 MILLAS",
@@ -1452,18 +1452,6 @@
       "sourceName": "Rockthesport"
     },
     {
-      "name": "Hiru Herri Trail 2027",
-      "type": "carrera",
-      "startDate": "2027-02-14T09:00:00",
-      "endDate": "2027-02-14T14:00:00",
-      "locationName": "Navarra",
-      "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/custom/root/495b8ac6-4e9d-4350-a067-e7d5e9ec4e6f_custom1.png",
-      "url": "https://web.rockthesport.com/es/event/hiru-herri-trail-2027",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport"
-    },
-    {
       "name": "2a Prova de Lliga CxM FEMECV 2027,  Banyeres de Mariola",
       "type": "carrera",
       "startDate": "2027-02-14T09:00:00",
@@ -1472,6 +1460,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/37956fa0-75a8-4238-8020-40fc3ccd8174_custom1.png",
       "url": "https://web.rockthesport.com/es/event/2a-prova-de-lliga-cxm-femecv-2027-banyeres-de-mariola",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Hiru Herri Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-02-14T09:30:00",
+      "endDate": "2027-02-14T14:00:00",
+      "locationName": "Navarra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/custom/root/495b8ac6-4e9d-4350-a067-e7d5e9ec4e6f_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/hiru-herri-trail-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
