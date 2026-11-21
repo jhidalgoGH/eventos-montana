@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-20T23:13:14.054Z",
+  "updatedAt": "2026-11-21T05:54:45.147Z",
   "events": [
-    {
-      "name": "EL PRIVILEGIO 100 MILLAS",
-      "type": "carrera",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-21",
-      "locationName": "SAN MARTÍN DE MONTALBAN",
-      "country": "España",
-      "url": "https://itra.run/Races/RaceDetails/EL.PRIVILEGIO.100.MILLAS.100.MILLAS.EL.PRIVILEGIO/2026/116377",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
-    {
-      "name": "Backyard Ultra Villa Carlos Paz",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "locationName": "Villa Carlos Paz, Córdoba, Argentina",
-      "image": "https://s3.eu-central-1.amazonaws.com/cdn.running.life/map-image/country_70707794_argentina_meta.webp",
-      "url": "https://gotrail.run/en/event/backyard-ultra-villa-carlos-paz",
-      "type": "travesia",
-      "source": "google-alerts",
-      "sourceName": "Google Alerts"
-    },
     {
       "name": "ERA Ulapes Trail Series",
       "startDate": "2026-11-21",
