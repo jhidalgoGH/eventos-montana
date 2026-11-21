@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:34:27.572Z",
+  "updatedAt": "2026-11-21T17:35:43.520Z",
   "events": [
     {
       "name": "ERA Ulapes Trail Series",
@@ -1343,6 +1343,17 @@
       "locationName": "30440 Moratalla, Murcia, España, Moratalla, MC, ES",
       "image": "https://www.intervals.icu/og_image_event.jpg",
       "url": "https://www.intervals.icu/events/14761/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Valdivia Un Solo Trail",
+      "startDate": "2027-02-07T08:00:00",
+      "endDate": null,
+      "locationName": "Parque Collico, Valdivia, R. de Los Ríos, CL",
+      "image": "https://tusdesafios.com/media/W1siZiIsIjIwMjYvMTEvMjEvM20zaXE1bGpndl9WQUxkaXZpYV91bnNvbG90cmFpbF8yMDI3LmpwZyJdLFsicCIsInRodW1iIiwiMTIwMHg2MzAjIl1d?sha=1ee1bd06ca1b6d0d",
+      "url": "https://tusdesafios.com/events/valdivia-un-solo-trail-2027",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
