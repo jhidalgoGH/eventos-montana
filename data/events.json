@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T05:54:45.147Z",
+  "updatedAt": "2026-11-21T13:34:27.572Z",
   "events": [
     {
       "name": "ERA Ulapes Trail Series",
@@ -2041,6 +2041,17 @@
       "type": "carrera",
       "source": "runnea",
       "sourceName": "Runnea"
+    },
+    {
+      "name": "Piódão Trail Running",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-10",
+      "locationName": "Piódão, Coímbra, PT",
+      "image": "https://trailruntemple.com/_astro/piodao-trail-running-hero.eExe4Rnv_1W0cma.webp",
+      "url": "https://trailruntemple.com/carreras/portugal/coimbra/piodao-trail-running/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "Cantamarca Trail 2027",
