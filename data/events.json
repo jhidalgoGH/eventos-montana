@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:27:23.959Z",
+  "updatedAt": "2026-11-22T17:35:22.771Z",
   "events": [
     {
       "name": "Rural Trail Esquina",
@@ -77,6 +77,17 @@
       "locationName": "Llerena (Municipio)",
       "image": "https://cdn.viralagenda.com/images/events/ext/1885102-b110b93dedcfe042f5683ae5c8942bba.jpg",
       "url": "https://www.viralagenda.com/es/events/1885102/campeonato-de-extremadura-de-marcha-en-ruta",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "SoyChile - valdivia/deportes/2026/11/22/973667/huilo-huilo-trail-nimbus.html",
+      "startDate": "2026-11-22T17:35:14.821Z",
+      "endDate": "2026-11-22T18:35:14.821Z",
+      "locationName": "Chile, CL",
+      "image": "https://www.soychile.cl/favicon.png",
+      "url": "https://www.soychile.cl/valdivia/deportes/2026/11/22/973667/huilo-huilo-trail-nimbus.html",
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
