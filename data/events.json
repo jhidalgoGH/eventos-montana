@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T05:54:46.716Z",
+  "updatedAt": "2026-11-23T16:10:00.145Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -127,6 +127,18 @@
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 23/11 al 28/11",
+      "type": "escalada",
+      "startDate": "2026-11-28T19:30:00",
+      "endDate": "2026-11-28T22:00:00",
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-2311-al-2811",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "TRAILSERIES LES ERMITES - ULLDEMOLINS",
@@ -667,7 +679,7 @@
       "endDate": null,
       "locationName": "Tarragona",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/7c43664c-7feb-451e-a811-8b697692f3bb.jpg",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/8cc9af98-e0a8-430e-ace9-bad5472ac03a.png",
       "url": "https://web.rockthesport.com/es/event/cursa-del-gall-riudecanyes-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
@@ -1091,6 +1103,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/bc647315-46b3-4ad5-8913-9559c704ab75.png",
       "url": "https://web.rockthesport.com/es/event/santkutrail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "ARIZA TRAIL",
+      "type": "carrera",
+      "startDate": "2027-02-06T09:30:00",
+      "endDate": "2027-02-06T20:00:00",
+      "locationName": "Zaragoza",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/16150/library/root/b4529937-856f-4191-9b86-7612b5deaa73.jpg",
+      "url": "https://web.rockthesport.com/es/event/ariza-trail",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
