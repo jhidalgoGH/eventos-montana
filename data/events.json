@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T17:35:22.037Z",
+  "updatedAt": "2026-11-24T03:24:02.326Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -427,6 +427,17 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "I Campeonato Nacional de Trail Running Policía Héroe de Paz",
+      "startDate": "2026-12-12T00:00:00.000Z",
+      "endDate": "2026-12-12T00:00:00.000Z",
+      "locationName": "Baños de Agua Santa, Tungurahua, EC",
+      "image": "https://runningecuador.com/races/campeonato_nacional_trail_running_policia_heroe_de_paz.webp",
+      "url": "https://runningecuador.com/carreras/i_campeonato_nacional_de_trail_running_policia_heroe_de_paz_2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Campeonato de Canarias en Edad Escolar | Escalada",
       "startDate": "2026-12-12T00:00:00+00:00",
       "endDate": "2026-12-12T23:59:59+00:00",
@@ -566,6 +577,17 @@
       "url": "https://web.rockthesport.com/es/event/chimaque-trail-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Huellitas Trail + Challenge Cuarta Edición",
+      "startDate": "2026-12-19T00:00:00.000Z",
+      "endDate": "2026-12-19T00:00:00.000Z",
+      "locationName": "Guambi, Puembo, Puembo, Pichincha, EC",
+      "image": "https://runningecuador.com/races/huellitas_trail_challenge_4ta_edicion.webp",
+      "url": "https://runningecuador.com/carreras/huellitas_trail_challenge_cuarta_edicion_2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XV Trail Muntanya de Vallada",
