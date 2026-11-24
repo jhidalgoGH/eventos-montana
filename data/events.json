@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:59:48.811Z",
+  "updatedAt": "2026-11-24T17:35:38.200Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -1655,6 +1655,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "Cto. de España Individual y SSAA ULTRA IX Trail Orixes",
+      "type": "carrera",
+      "startDate": "2027-03-06T07:00:00",
+      "endDate": null,
+      "locationName": "Pontevedra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/13943/library/root/7b1cc963-8b62-4c72-8e60-a7809cfda048.jpeg",
+      "url": "https://web.rockthesport.com/es/event/cto-de-espana-individual-y-ssaa-ultra-ix-trail-orixes",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "TRAIL ALBARRACIN - PINARES DEL RODENO 2027",
       "type": "carrera",
       "startDate": "2027-03-06T08:00:00",
@@ -1855,6 +1867,18 @@
       "url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "LA BATALLA DE LAS SARDINAS 2027",
+      "type": "carrera",
+      "startDate": "2027-04-04T00:00:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/392b24d5-2559-4135-b956-06b24a9e5823_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/la-batalla-de-las-sardinas-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "IX Trail de Alumbres",
@@ -2450,6 +2474,17 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Carrera por Montaña Fernando Casquero 2027",
+      "startDate": "2027-06-06T00:00",
+      "endDate": "2027-06-06T20:00",
+      "locationName": "San Martin de Castañeda, Zamora, ES",
+      "image": "https://www.buscametas.com/modulos/calendario/img/rrss.jpg",
+      "url": "https://www.buscametas.com/evento/1113054765/carrera-por-montana-fernando-casquero-2027/",
+      "type": "carrera",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
       "name": "Picos de Europa Travesera Integral",
       "type": "carrera",
       "startDate": "2027-06-12",
@@ -2618,7 +2653,7 @@
       "endDate": null,
       "locationName": "Huesca",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/ce53c6fb-f2ac-4292-b4c5-d9e3c847f813.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/1da7996b-5791-4a77-8cd4-e437dc977636.jpg",
       "url": "https://web.rockthesport.com/es/event/canfranc-canfranc-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
