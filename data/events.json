@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:54:42.556Z",
+  "updatedAt": "2026-11-24T15:59:48.811Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -277,6 +277,17 @@
       "url": "https://web.rockthesport.com/es/event/vi-imperial-tarraco-trail-tarragona-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Cross Country Alto Biobío 2026: carrera de trail running con inscripciones gratuitas",
+      "startDate": "2026-12-05T08:30:00-03:00",
+      "endDate": "2026-12-05T09:00:00-03:00",
+      "locationName": "Plaza Museo Municipal de Alto Biobío, Alto Biobío, Biobío, Chile, Biobío, CL",
+      "image": "https://pub-35209e5abe8d49a892be9e6a62220129.r2.dev/eventos/4802.jpg",
+      "url": "https://www.panoramaslosangeles.cl/eventos/cross-country-alto-biobio-2026-carrera-de-trail-running-con-inscripciones-gratui-2026-12-05",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "III Trail Nocturno Cabeço D'Or, Busot",
@@ -972,6 +983,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/a03e4b05-7bb9-4a7c-aaa3-917d45c71e27.jpeg",
       "url": "https://web.rockthesport.com/es/event/trail-terras-de-buron-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "TRAIL ALFORJA 2027",
+      "type": "carrera",
+      "startDate": "2027-01-24T09:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/06e137f3-82df-4c6e-a840-7eaf29659c7d.png",
+      "url": "https://web.rockthesport.com/es/event/trail-alforja-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -2493,6 +2516,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/10635/library/root/90244d22-d998-4135-b40f-9417b860c970.jpg",
       "url": "https://web.rockthesport.com/es/event/riano-trail-run-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "ULTRA TRAIL TORLA ORDESA 2027",
+      "type": "carrera",
+      "startDate": "2027-07-02T17:00:00",
+      "endDate": "2027-07-04T11:00:00",
+      "locationName": "Huesca",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10347/library/root/f8bfa499-b223-4069-9e1c-95f756b951d7.jpeg",
+      "url": "https://web.rockthesport.com/es/event/ultra-trail-torla-ordesa-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
