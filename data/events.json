@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:55:07.423Z",
+  "updatedAt": "2026-11-25T15:46:37.508Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -578,6 +578,30 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Ruta Día Internacional de las Montañas 2026 - Villamanín",
+      "type": "travesia",
+      "startDate": "2026-12-13T09:30:00",
+      "endDate": "2026-12-13T14:00:00",
+      "locationName": "León",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1294/library/root/4fd88420-3ded-4232-a59e-36fca21f740e.jpg",
+      "url": "https://web.rockthesport.com/es/event/ruta-dia-internacional-de-las-montanas-2026-villamanin",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "ESKOLARTEKO 10. ESKALADA TOPAKETA 26",
+      "type": "escalada",
+      "startDate": "2026-12-13T09:30:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/624/custom/root/97b9f327-e3d2-4cbd-9b96-b6d854cf7e32_custom1.jpg",
+      "url": "https://web.rockthesport.com/es/event/eskolarteko-10-eskalada-topaketa-26",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Chimaque Trail 2026",
       "type": "carrera",
       "startDate": "2026-12-13T10:00:00",
@@ -692,6 +716,17 @@
       "url": "https://itra.run/Races/RaceDetails/TRAILSERIES.COLLDEJOU.22K./2026/120317",
       "source": "itra",
       "sourceName": "ITRA"
+    },
+    {
+      "name": "Tungurahua Trail Plus - Ruta de las Cascadas Gran Final",
+      "startDate": "2026-12-20T00:00:00.000Z",
+      "endDate": "2026-12-20T00:00:00.000Z",
+      "locationName": "Baños de Agua Santa, Tungurahua, EC",
+      "image": "https://runningecuador.com/races/tungurahua_trail_plus_ruta_de_las_cascadas_gran_final.webp",
+      "url": "https://runningecuador.com/carreras/tungurahua_trail_plus_ruta_de_las_cascadas_gran_final_2026/",
+      "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
     },
     {
       "name": "XX CARRERA POR MONTAÑA Y MARCHA A PIÉ SERRA DEL COTO",
@@ -832,6 +867,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "VI Circuito BrinkSport",
+      "type": "carrera",
+      "startDate": "2027-01-01T21:00:00",
+      "endDate": null,
+      "locationName": "Albacete",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/14242/library/root/c7e67409-2010-49aa-8eff-b13db8cb45e0.jpeg",
+      "url": "https://web.rockthesport.com/es/event/vi-circuito-brinksport",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Lomas de Jatosisa Trail 2027",
@@ -1678,6 +1725,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "IX TRAIL ORIXES DE MONDARIZ 2027",
+      "type": "carrera",
+      "startDate": "2027-03-06T07:00:00",
+      "endDate": null,
+      "locationName": "Pontevedra",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/88a0e626-4046-4aff-b766-f70621ff56bd_custom1.jpeg",
+      "url": "https://web.rockthesport.com/es/event/ix-trail-orixes-de-mondariz-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "TRAIL ALBARRACIN - PINARES DEL RODENO 2027",
       "type": "carrera",
       "startDate": "2027-03-06T08:00:00",
@@ -2319,6 +2378,18 @@
       "type": "carrera",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "UTBCN 2027",
+      "type": "carrera",
+      "startDate": "2027-05-09T06:00:00",
+      "endDate": null,
+      "locationName": "Barcelona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/9865/library/root/99f87c43-7a67-499b-9331-25fa2e028fd8.jpg",
+      "url": "https://web.rockthesport.com/es/event/utbcn-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Campionat Autonòmic de Quilòmetre Vertical, FEMECV 2027 Benissa.",
