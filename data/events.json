@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:35:38.200Z",
+  "updatedAt": "2026-11-25T05:55:07.423Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -808,6 +808,17 @@
       "image": "https://inscrik.com/media/banners/WhatsApp_Image_2026-10-05_at_13.53.33_1.jpg",
       "url": "https://www.cruzandolameta.es/pruebas/vi-san-silvestrail-villa-de-fines/",
       "type": "travesia",
+      "source": "google-alerts",
+      "sourceName": "Google Alerts"
+    },
+    {
+      "name": "⛰️AÑO NUEVO - MONTSERRAT 360 – Travesía 2 días/1 noche - Trek 2D/1N | senderismo",
+      "startDate": "2026-12-31T14:00:00+01:00",
+      "endDate": "2027-01-01T19:00:00+01:00",
+      "locationName": "Sant Andreu Arenal, Barcelona, CT, ES",
+      "image": "https://evenitto.com/api/listings/ano-nuevo-montserrat-360-travesia-2-dias-1-noche-trek-2d-1n-senderismo-1b4fe511/image.avif?v=dd0da49649958e7c",
+      "url": "https://evenitto.com/es/es/new-years-eve/events/ano-nuevo-montserrat-360-travesia-2-dias-1-noche-trek-2d-1n-senderismo-1b4fe511",
+      "type": "festival",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
     },
@@ -1842,6 +1853,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/059712d7-10f1-44b1-9d2a-c697d05dd4b7.png",
       "url": "https://web.rockthesport.com/es/event/3a-prova-de-lliga-cxm-femecv-carrera-de-la-dona-2027-la-vall-duixo",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "XXII SUBIDA AL PICU PIENZU 2027",
+      "type": "carrera",
+      "startDate": "2027-03-21T09:30:00",
+      "endDate": null,
+      "locationName": "Asturias",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/custom/root/fe270d6a-86c8-4cab-a3af-cbe9ecaa6393_custom1.png",
+      "url": "https://web.rockthesport.com/es/event/xxii-subida-al-picu-pienzu-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
