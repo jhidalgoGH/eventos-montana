@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:54:38.431Z",
+  "updatedAt": "2026-11-26T15:28:02.881Z",
   "events": [
     {
       "name": "ALUT-Algarviana Ultra Trail",
@@ -298,6 +298,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/49d977a7-7e21-4f3f-9343-0c5d1ea7d5fb_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/iii-trail-nocturno-cabeco-dor-busot",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 30/11 al 05/12",
+      "type": "escalada",
+      "startDate": "2026-12-05T19:30:00",
+      "endDate": null,
+      "locationName": "Valladolid",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
+      "url": "https://web.rockthesport.com/es/event/rocodromo-alvaro-paredes-izquierdo-semana-3011-al-0512",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1974,6 +1986,18 @@
       "sourceName": "Google Alerts"
     },
     {
+      "name": "V TRAIL PEÑA CABARGA 2027",
+      "type": "carrera",
+      "startDate": "2027-04-04T07:00:00",
+      "endDate": null,
+      "locationName": "Cantabria",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/e6072935-1ce4-48da-8fbc-2a755923bff9.jpg",
+      "url": "https://web.rockthesport.com/es/event/v-trail-pena-cabarga-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "Volta al Terme, Aielo de Malferit 2027, LLiga de Muntanya València Sud, 26/27",
       "type": "carrera",
       "startDate": "2027-04-04T08:30:00",
@@ -2404,6 +2428,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "Zazpibide Trail 2027",
+      "type": "carrera",
+      "startDate": "2027-05-09T10:00:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/f8f44c34-24ab-4e87-b696-fb6a7e0eaa19.jpeg",
+      "url": "https://web.rockthesport.com/es/event/zazpibide-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "VEINTE LEGUAS ALPUJARRA 2027",
       "type": "carrera",
       "startDate": "2027-05-15T00:00:00",
@@ -2728,6 +2764,18 @@
       "type": "travesia",
       "source": "google-alerts",
       "sourceName": "Google Alerts"
+    },
+    {
+      "name": "MONTLUDE SKYRACE 2027",
+      "type": "carrera",
+      "startDate": "2027-08-07T07:00:00",
+      "endDate": null,
+      "locationName": "Lleida",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2549/library/root/e850ae80-be59-476b-b4e1-b38f8c8ac1bb.png",
+      "url": "https://web.rockthesport.com/es/event/montlude-skyrace-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
     },
     {
       "name": "Pedraforca Xtrail 2027",
