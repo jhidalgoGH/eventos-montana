@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:54:39.415Z",
+  "updatedAt": "2026-11-27T15:17:53.527Z",
   "events": [
     {
       "name": "3 Días Trail Ibiza 2026",
@@ -339,7 +339,7 @@
       "name": "XV Carrera por Montaña Sierra de Chiva.",
       "type": "carrera",
       "startDate": "2026-12-06T07:00:00",
-      "endDate": "2026-12-06",
+      "endDate": null,
       "locationName": "Valencia/València",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/57c79b10-66cb-43cd-af28-0d2ce56d8931_custom1.jpeg",
@@ -833,6 +833,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1203/library/root/80088473-9658-457a-a4fe-1a2d4a842171.jpeg",
       "url": "https://web.rockthesport.com/es/event/san-silvestre-trail-mieres-del-camino-2026",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "SANT SILVESTRE LES BORGES DEL CAMP 2026",
+      "type": "carrera",
+      "startDate": "2026-12-27T12:00:00",
+      "endDate": null,
+      "locationName": "Tarragona",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/10839/library/root/d7564e97-b651-4e6b-b2c3-c5526527221c.png",
+      "url": "https://web.rockthesport.com/es/event/sant-silvestre-les-borges-del-camp-2026",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
@@ -1924,6 +1936,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/cd729a87-558a-433b-acec-264a25234764.jpeg",
       "url": "https://web.rockthesport.com/es/event/gatza-trail-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "UNDA-ARMIKELO MENDI LASTERKETA 2027",
+      "type": "carrera",
+      "startDate": "2027-03-20T10:00:00",
+      "endDate": null,
+      "locationName": "Araba-Álava",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/ab920f64-61f0-4b40-a71c-455707926919.jpeg",
+      "url": "https://web.rockthesport.com/es/event/unda-armikelo-mendi-lasterketa-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
