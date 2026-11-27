@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-26T17:35:31.037Z",
+  "updatedAt": "2026-11-27T01:05:05.099Z",
   "events": [
-    {
-      "name": "ALUT-Algarviana Ultra Trail",
-      "type": "carrera",
-      "startDate": "2026-11-26",
-      "endDate": null,
-      "locationName": "Sagres",
-      "country": "Portugal",
-      "url": "https://itra.run/Races/RaceDetails/ALUT.Algarviana.Ultra.Trail.ALUT.2026/2026/116065",
-      "source": "itra",
-      "sourceName": "ITRA"
-    },
     {
       "name": "3 Días Trail Ibiza 2026",
       "type": "carrera",
@@ -1081,6 +1070,18 @@
       "sourceName": "Rockthesport"
     },
     {
+      "name": "13. GARIN MENDI-LASTERKETA",
+      "type": "carrera",
+      "startDate": "2027-01-24T11:00:00",
+      "endDate": null,
+      "locationName": "Gipuzkoa",
+      "country": "España",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/1367/library/root/6bf2c5b2-a2e2-4e17-a895-53a3085f3806.jpg",
+      "url": "https://web.rockthesport.com/es/event/13-garin-mendi-lasterketa-2027",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
       "name": "11ª VMLL Volta Muntanya de Llaurí LMVS. 26/27",
       "type": "carrera",
       "startDate": "2027-01-30T09:30:00",
@@ -1355,7 +1356,7 @@
       "endDate": null,
       "locationName": "Alicante/Alacant",
       "country": "España",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/library/root/4f41de25-4fdb-475b-9a0b-3ed77e6fd7d0.png",
+      "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/0592a698-09da-46c3-9a51-bd89ad4c5f20_custom1.jpg",
       "url": "https://web.rockthesport.com/es/event/xvii-gegant-de-pedra-ondara-9e-circuit-trail-marina-2627",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
