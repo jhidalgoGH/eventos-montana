@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-27T17:35:56.528Z",
+  "updatedAt": "2026-11-28T00:36:57.097Z",
   "events": [
-    {
-      "name": "3 Días Trail Ibiza 2026",
-      "type": "carrera",
-      "startDate": "2026-11-27T19:00:00",
-      "endDate": "2026-11-29T14:00:00",
-      "locationName": "Balears (Illes)",
-      "country": "España",
-      "url": "https://web.rockthesport.com/es/event/copy-3-dias-trail-ibiza-2026",
-      "source": "rockthesport",
-      "sourceName": "Rockthesport",
-      "image": "https://rtsfiles.blob.core.windows.net/manager/11067/custom/root/c1856ca8-6c60-467d-bb9e-9e775d79a45c_custom2.jpg"
-    },
     {
       "name": "Backyard Ultra La Costa",
       "startDate": "2026-11-28",
@@ -294,7 +282,7 @@
       "name": "Rocódromo Álvaro Paredes Izquierdo-Semana 30/11 al 05/12",
       "type": "escalada",
       "startDate": "2026-12-05T19:30:00",
-      "endDate": null,
+      "endDate": "2026-12-05T22:00:00",
       "locationName": "Valladolid",
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/dc93610f-d7a9-4a5c-b103-af577b51d267/library/root/2d337707-f38c-47f9-a151-71c14a09627e.jpg",
@@ -1489,6 +1477,18 @@
       "country": "España",
       "image": "https://rtsfiles.blob.core.windows.net/manager/2048/custom/root/6586dfbd-60c8-4223-9183-b6b09e15bd12_custom1.jpeg",
       "url": "https://web.rockthesport.com/es/event/xv-trail-de-moixent",
+      "source": "rockthesport",
+      "sourceName": "Rockthesport"
+    },
+    {
+      "name": "JIMERA TRES TRAILS 2027",
+      "type": "carrera",
+      "startDate": "2027-02-20T09:00:00",
+      "endDate": null,
+      "locationName": "Málaga",
+      "country": "España",
+      "image": "https://rockthesportv2.blob.core.windows.net/manager/2549/library/root/f23a7656-abc0-4f3b-9800-220ade4e8424.jpg",
+      "url": "https://web.rockthesport.com/es/event/jimera-tres-trails-2027",
       "source": "rockthesport",
       "sourceName": "Rockthesport"
     },
